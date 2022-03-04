@@ -21,15 +21,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1037"
-       x="-0.020559902"
-       width="1.0411198"
-       y="-0.14456637"
-       height="1.2891327">
+       id="filter1076"
+       x="-0.013706601"
+       width="1.0274132"
+       y="-0.096377581"
+       height="1.1927552">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.2362085"
-         id="feGaussianBlur1039" />
+         stdDeviation="0.82413897"
+         id="feGaussianBlur1078" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -89,60 +89,52 @@
          x="39.823158"
          y="275.09323"
          style="stroke-width:0.26458332"></tspan></text>
+    <rect
+       transform="matrix(0.99999833,0.0018273,0,1,-1.5875019,-1.0583291)"
+       ry="8.5790195"
+       y="272.77417"
+       x="3.9058735"
+       height="20.290356"
+       width="144.30518"
+       id="rect938"
+       style="opacity:0.5;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.00000167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1076)" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.00000167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect815"
+       width="144.30518"
+       height="20.290356"
+       x="1.789201"
+       y="270.66138"
+       ry="8.5790195"
+       transform="matrix(0.99999833,0.0018273,0,1,0,0)" />
     <g
-       id="g1050"
-       transform="translate(-1.0583352,-1.0583291)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.00000167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1037)"
-         id="rect938"
-         width="144.30518"
-         height="20.290356"
-         x="3.9058735"
-         y="272.77417"
-         ry="8.5790195"
-         transform="matrix(0.99999833,0.0018273,0,1,0,0)" />
+       id="g925"
+       transform="translate(-36.477318,198.73336)">
+      <text
+         id="text854"
+         y="86.060791"
+         x="71.079498"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332"
+           y="86.060791"
+           x="71.079498"
+           id="tspan852"
+           sodipodi:role="line">MON ESSAI VISUEL</tspan></text>
       <g
-         transform="translate(-20.299935,184.29467)"
-         id="g936">
-        <rect
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.00000167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect815"
-           width="144.30518"
-           height="20.290356"
-           x="23.147507"
-           y="87.386009"
-           ry="8.5790195"
-           transform="matrix(0.99999833,0.0018273,0,1,0,0)" />
-        <g
-           id="g925"
-           transform="translate(-15.119048,15.497024)">
-          <text
-             id="text854"
-             y="86.060791"
-             x="71.079498"
-             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';stroke-width:0.26458332"
-               y="86.060791"
-               x="71.079498"
-               id="tspan852"
-               sodipodi:role="line">MON ESSAI VISUEL</tspan></text>
-          <g
-             id="g918">
-            <path
-               id="path839"
-               d="m 53.330464,82.417603 c 0,-1.708118 1.38437,-3.092487 3.092488,-3.092487 1.708118,0 3.092487,1.384369 3.092487,3.092487 0,1.708118 -1.384369,3.092487 -3.092487,3.092487 -1.708118,0 -3.092488,-1.384369 -3.092488,-3.092487 z m -1.56026,-3.46455 c 1.137455,-1.05725 2.700615,-1.947303 4.652748,-1.947303 1.952132,0 3.515285,0.890053 4.653226,1.947303 1.130689,1.048541 1.886901,2.283125 2.244468,3.167385 0.07973,0.190864 0.07973,0.403474 0,0.594338 -0.357567,0.862513 -1.113779,2.097089 -2.244468,3.167384 -1.137941,1.058207 -2.701094,1.947296 -4.653226,1.947296 -1.952133,0 -3.515293,-0.889089 -4.652748,-1.947296 -1.130689,-1.070295 -1.886415,-2.304871 -2.245896,-3.167384 -0.07928,-0.190864 -0.07928,-0.403474 0,-0.594338 0.359481,-0.88426 1.115207,-2.118844 2.245896,-3.167385 z m 4.652748,-0.787616 c -1.575241,0 -2.870219,0.715134 -3.863195,1.635635 -0.930167,0.864928 -1.572341,1.869984 -1.900432,2.616531 0.328091,0.724808 0.970265,1.75161 1.900432,2.616538 0.992976,0.920494 2.287954,1.635636 3.863195,1.635636 1.575233,0 2.870211,-0.715142 3.863194,-1.635636 0.93016,-0.864928 1.551073,-1.89173 1.901397,-2.616538 C 61.837219,81.671056 61.216306,80.666 60.286146,79.801072 59.293163,78.880571 57.998185,78.165437 56.422952,78.165437 Z"
-               inkscape:connector-curvature="0"
-               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02416006"
-               sodipodi:nodetypes="ssssscsccccsccccscccscccs" />
-            <circle
-               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-               id="path850"
-               cx="56.968098"
-               cy="80.927544"
-               r="1.0512463" />
-          </g>
-        </g>
+         id="g918">
+        <path
+           id="path839"
+           d="m 53.330464,82.417603 c 0,-1.708118 1.38437,-3.092487 3.092488,-3.092487 1.708118,0 3.092487,1.384369 3.092487,3.092487 0,1.708118 -1.384369,3.092487 -3.092487,3.092487 -1.708118,0 -3.092488,-1.384369 -3.092488,-3.092487 z m -1.56026,-3.46455 c 1.137455,-1.05725 2.700615,-1.947303 4.652748,-1.947303 1.952132,0 3.515285,0.890053 4.653226,1.947303 1.130689,1.048541 1.886901,2.283125 2.244468,3.167385 0.07973,0.190864 0.07973,0.403474 0,0.594338 -0.357567,0.862513 -1.113779,2.097089 -2.244468,3.167384 -1.137941,1.058207 -2.701094,1.947296 -4.653226,1.947296 -1.952133,0 -3.515293,-0.889089 -4.652748,-1.947296 -1.130689,-1.070295 -1.886415,-2.304871 -2.245896,-3.167384 -0.07928,-0.190864 -0.07928,-0.403474 0,-0.594338 0.359481,-0.88426 1.115207,-2.118844 2.245896,-3.167385 z m 4.652748,-0.787616 c -1.575241,0 -2.870219,0.715134 -3.863195,1.635635 -0.930167,0.864928 -1.572341,1.869984 -1.900432,2.616531 0.328091,0.724808 0.970265,1.75161 1.900432,2.616538 0.992976,0.920494 2.287954,1.635636 3.863195,1.635636 1.575233,0 2.870211,-0.715142 3.863194,-1.635636 0.93016,-0.864928 1.551073,-1.89173 1.901397,-2.616538 C 61.837219,81.671056 61.216306,80.666 60.286146,79.801072 59.293163,78.880571 57.998185,78.165437 56.422952,78.165437 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02416006"
+           sodipodi:nodetypes="ssssscsccccsccccscccscccs" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="path850"
+           cx="56.968098"
+           cy="80.927544"
+           r="1.0512463" />
       </g>
     </g>
   </g>
