@@ -39,8 +39,18 @@ Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
-![images](/images/ViennaDioscoridesFolio483vBirds.jpg)
+## Présentation de Juncture
 
+[Juncture](https://juncture-digital.org/) est un projet expérimental de l’organisme à but non lucratif JStor destiné à publier des essais visuels interactifs. L’utilisation de Juncture ne nécessite aucune connaissance informatique mais permet de présenter des essais enrichis avec des ressources visuelles, avec des cartes ou des données.
+
+@todo
+
+## Premiers pas avec Juncture (travail dirigé)
+
+<span>
+Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
+- créer des sections interactives (paragraphes, avec span)
+</span>
 
 
 
