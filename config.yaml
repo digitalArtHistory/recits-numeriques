@@ -2,7 +2,7 @@ title: Récits Numériques
 tagline: The Visual Essay Framework from JSTOR Labs
 description: Juncture - An easy-to-use framework for building interactive visual essays and websites.
 banner: https://picsum.photos/id/857/1000/400
-#favicon: <favicon url>
+favicon: https://raw.githubusercontent.com/ouvroir/ouvroir.github.io/main/public/favicon.ico
 #logo: <logo url>
 
 # When using a custom domain these fields must be updated to match
