@@ -1,7 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
-<a href="https://juncture-digital.org"><button>ytete</button></a>
-
 <param ve-config 
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
