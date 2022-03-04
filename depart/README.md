@@ -25,6 +25,7 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 
 ## Titre de niveau 2
 
+<span>
 ### Titre de niveau 1
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
@@ -39,18 +40,22 @@ Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
+</span>
+
+{paragraphe2}
 ## Présentation de Juncture
 
 [Juncture](https://juncture-digital.org/) est un projet expérimental de l’organisme à but non lucratif JStor destiné à publier des essais visuels interactifs. L’utilisation de Juncture ne nécessite aucune connaissance informatique mais permet de présenter des essais enrichis avec des ressources visuelles, avec des cartes ou des données.
 
 @todo
 
+{paragraphe3}
+
 ## Premiers pas avec Juncture (travail dirigé)
 
-<span>
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes, avec span)
-</span>
+
 
 
 
