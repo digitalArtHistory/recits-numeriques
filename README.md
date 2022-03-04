@@ -1,7 +1,17 @@
-# Welcome to Juncture
+# Bienvenue sur récits numériques
 
- **Juncture** is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive and responsive web page that augments a text narrative with visual elements to provide depth and context.
+Cette page regroupe plusieurs projets réalisés par les étudiants dans le cadre des cours ART2102 et HAR2073 à l’hiver 2022 en collaboration avec l’[Ouvroir d’histoire de l’art et de muséologie numérique](https://ouvroir.umontreal.ca).
 
-With Juncture you can create a single essay or build a full website consisting of multiple visual essays with navigation, site info pages, contact form, logo, and other simple customizations.
+Ces récits visuels ont été rédigés en utilisant le cadre de travail [Juncture](https://juncture-digital.org/). Il s’agit d’un outil expérimental pour la publication d’essais visuels interactifs développé par l’organisme à but non lucratif JStor. L’utilisation de Juncture ne nécessite aucune connaissance informatique, mais permet de présenter des essais enrichis avec des ressources visuelles, avec des cartes ou des données.
 
-More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
+## Liste des projets
+
+<param ve-config title="Récits numériques">
+
+# Featured Plant Narratives {.cards}
+
+## [**Projet de départ**](/depart)
+
+- Rebecca Friedel
+
+![](/images/cacao.jpg)
