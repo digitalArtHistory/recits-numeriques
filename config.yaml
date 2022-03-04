@@ -1,7 +1,7 @@
 title: Récits Numériques
 tagline: Une collection de récits numériques pour l'histoire de l'art numérique
 description: Juncture - An easy-to-use framework for building interactive visual essays and websites.
-banner: https://gallica.bnf.fr/iiif/ark:/12148/btv1b10577987g/f1/full/full/0/native.jpg
+banner: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k877400g/f98/full/full/0/native.jpg
 favicon: https://raw.githubusercontent.com/ouvroir/ouvroir.github.io/main/public/favicon.ico
 #logo: <logo url>
 
@@ -14,16 +14,13 @@ favicon: https://raw.githubusercontent.com/ouvroir/ouvroir.github.io/main/public
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Contact the Juncture team
-  icon: fas fa-envelope
-  action: contact-us
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
 
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
-contactForm:
-  to:
-  - JSTOR Labs <labs@ithaka.org>
-  subject: Juncture
+#contactForm:
+#  to:
+#  - JSTOR Labs <labs@ithaka.org>
+#  subject: Juncture
