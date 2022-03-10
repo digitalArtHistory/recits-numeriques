@@ -51,9 +51,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-Voici du texte
+Voici du texte qui va être associé à une carte centrée sur Montréal
 
-
-
-<param ve-map ve-map center="45.5031824, -73.5698065">
+<param ve-map ve-map center="45.5031824, -73.5698065" zoom="5.5"/>
 
