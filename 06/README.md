@@ -72,11 +72,9 @@ La pratique ci-dessous consistera à mettre en **gras** tous les mots commençan
 
 La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
 
-<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg"
-title="Voici une image.">
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
 
-<param ve-graphic url="https://appedus.com/wp-content/uploads/2021/03/wikimedia-wikipedia-1024x768.jpg"
-       title="Voici une autre photo">
+<param ve-graphic url="https://appedus.com/wp-content/uploads/2021/03/wikimedia-wikipedia-1024x768.jpg">
 
 Je vais écrire un autre texte, du coup que cela marche en avant du texte.
 
