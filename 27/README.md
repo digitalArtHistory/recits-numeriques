@@ -55,5 +55,5 @@ Voici du texte
 
 
 
-
+<param ve-map ve-map center="45.5031824, -73.5698065">
 
