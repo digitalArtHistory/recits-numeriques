@@ -49,7 +49,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-[]
-
-
+[Louise de Kéroualle] (https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual) 
 
