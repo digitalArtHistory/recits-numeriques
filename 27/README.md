@@ -22,7 +22,7 @@ Voici quelques actions à réaliser pour commencer :
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 <param ve-tabulator
-    src="https://raw.githubusercontent.com/HTR-United/htr-united/master/statistics.csv" />
+    url="https://raw.githubusercontent.com/HTR-United/htr-united/master/statistics.csv" />
 
 ```
 # Titre de niveau 1
