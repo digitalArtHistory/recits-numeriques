@@ -59,7 +59,7 @@ I love cheese, especially when the cheese comes out everybody's happy caerphilly
 
 Babybel cheese triangles camembert de normandie. Who moved my cheese manchego mascarpone mascarpone caerphilly cheese and wine cheese triangles monterey jack. Queso ricotta cheeseburger stilton croque monsieur babybel cow the big cheese. Cheese strings blue castello ricotta cheese strings boursin chalk and cheese when the cheese comes out everybody's happy rubber cheese. Hard cheese red leicester cut the cheese cauliflower cheese cauliflower cheese mascarpone cheese and biscuits pecorino. Cream cheese croque monsieur lancashire emmental say cheese smelly cheese squirty cheese monterey jack. Mascarpone emmental roquefort melted cheese parmesan cheese and wine when the cheese comes out everybody's happy cheesy grin. Cauliflower cheese cheddar cheese and biscuits cut the cheese.
 <param ve-tabulator
-    src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/27/artpublic.csv">
+    url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/27/artpublic.csv">
 
 
 Voici du texte qui va être associé à une carte centrée sur Rimouski. Nous y voyons les œuvres d'art public de la ville de Rimouski, dont la géolocalisation est partagée sur le site de [données ouvertes du Québec](https://www.donneesquebec.ca/recherche/dataset/art-public).
