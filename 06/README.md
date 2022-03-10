@@ -60,12 +60,16 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 # Pratique pour récit numérique
 
 On fait des essaies lololol
-
 Pour la pratique on va compléter plusieurs parties
 
 ## Pratique d'hyperlien
 
 Cliquer ici pour voir un article intéressant - [Article intéressant](https://fr.wikipedia.org/wiki/Histoire_de_l%27art) 
+
+![image] 
+
+<param ve-graphic
+       url=
 
 
 
