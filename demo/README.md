@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="https://gallica.bnf.fr/iiif/ark:/12148/btv1b106655966/f1/full/1800,/0/native.jpg" 
+       banner="./banner_gargouilles_ndp.jpg" 
        layout="vertical">
 
 # Gargouilles de l'ancienne église des Cordeliers
