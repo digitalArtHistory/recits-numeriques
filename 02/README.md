@@ -6,7 +6,7 @@
        layout="vertical">
 
 # Fichier de démarrage 
-**Lapis lazuli**
+**Le lapis lazuli à l'époque médiévale**
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
