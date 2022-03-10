@@ -48,12 +48,12 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
+<param ve-graphic
+    url="https://collections.louvre.fr/en/ark:/53355/cl010101248"
+    title="Châsse: assassinat de Thomas Beccket"
+>
 
-**Changement test**
 
-*titre d'une oeuvre*
-
-[Chasse de Saint-Thomas Becket](https://collections.louvre.fr/ark:/53355/cl010101248)
 
 
 
