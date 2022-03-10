@@ -48,11 +48,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-<param ve-graphic
-    url="![Relique martyr et glorification de Thomas Becket](https://user-images.githubusercontent.com/100964181/157751900-c94a39b5-5509-4595-8a29-e45b43585537.jpg)
-"
-    title="Châsse: assassinat de Thomas Beccket"
->
+
 
 
 
