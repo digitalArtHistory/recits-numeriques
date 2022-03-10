@@ -53,9 +53,14 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-Voici du texte qui va être associé à une carte centrée sur Rimouski
-Ici nous pouvons zoomer sur <span data-click-map-flyto="41.893,12.483,11">Rome</span>
-Ensuite on continue
+Tableau de données
+<param ve-iframe 
+    src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/27/artpublic.csv">
+
+
+Voici du texte qui va être associé à une carte centrée sur Rimouski. Nous y voyons les œuvres d'art public de la ville de Rimouski, dont la géolocalisation est partagée sur le site de [données ouvertes du Québec](https://www.donneesquebec.ca/recherche/dataset/art-public).
+Ici nous pouvons zoomer sur <span data-click-map-flyto="45.5031824, -73.5698065,11">Montréal</span>
+Ensuite on continue vers Montréal
 
 <param ve-map ve-map center="48.4501730, -68.5213712" zoom="13.5"/>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/27/artRimouski.geojson" title="Art Public Rimouski" active/> 
