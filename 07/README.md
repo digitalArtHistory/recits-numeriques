@@ -50,6 +50,10 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 # Louise de Keroualle
 
+<param ve-graphic
+    url="https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual#/media/Fichier:Mignard,_Louise_de_K%C3%A9rouaille.jpg" # chemin local vers image ou url vers image en ligne
+    title="" # Louise
+>
 Louise de Kéroualle est l'espionne de Louis XIV et...
 
 
