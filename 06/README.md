@@ -67,9 +67,8 @@ Pour la pratique on va compléter plusieurs parties
 Cliquer ici pour voir un article intéressant - [Article intéressant](https://fr.wikipedia.org/wiki/Histoire_de_l%27art) 
 
 <param ve-graphic
-    url="" # https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png
-    title="" # Photo random
->
+    url="" # https://www.hmb.ch/en/museums/objects-in-the-collection/details/s/golden-figure-of-king-david-from-the-treasury-of-basle-munster/
+    title="" # titre de l'image
 
 
 
