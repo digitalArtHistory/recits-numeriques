@@ -48,9 +48,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
     
-  <param ve-image
-    url="https://www.jstor.org/stable/community.15672455" 
->  
+<param ve-image
+    manifest="https://www.jstor.org/stable/community.15672455"> 
 
 
 
