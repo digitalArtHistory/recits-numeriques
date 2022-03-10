@@ -51,8 +51,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 # Louise de Keroualle
 
 <param ve-graphic
-    url="https://images.app.goo.gl/MHTXb4Mo8PCwKKwJ7" # chemin local vers image ou url vers image en ligne
-    title="" #
+    url="https://images.app.goo.gl/MHTXb4Mo8PCwKKwJ7"="" #
 >
 >
 Louise de Kéroualle est l'espionne de Louis XIV et...
