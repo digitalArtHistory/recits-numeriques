@@ -5,7 +5,7 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage ! test 2
+# Fichier de démarrage Tapisserie
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
