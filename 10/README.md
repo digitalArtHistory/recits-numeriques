@@ -9,8 +9,8 @@
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 <param ve-graphic
-    url="/images/ViennaDioscoridesFolio483vBirds.jpg" 
-    title="">
+    url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/469836/946398/main-image" 
+    title="Saint Margueritte d'Antioche">
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
