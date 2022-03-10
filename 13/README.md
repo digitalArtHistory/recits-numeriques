@@ -53,6 +53,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
+![image](https://user-images.githubusercontent.com/101237991/157738140-e3a51074-a976-417f-9d31-2b7a703c16d2.png)
 
-
-
+<param ve-image
