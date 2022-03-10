@@ -76,7 +76,7 @@ La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* importa
 
 Voici une image.
 
-<param ve-graphic url="https://cdn.futura-sciences.com/buildsv6/images/wide1920/6/5/2/652a7adb1b_98148_01-intro-773.jpg">
+<param ve-graphic url="https://appedus.com/wp-content/uploads/2021/03/wikimedia-wikipedia-1024x768.jpg">
 
 
 
