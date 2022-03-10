@@ -38,6 +38,7 @@ Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souv
 Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
+- Sabrina 1
 
 ## Premiers pas avec Juncture (travail dirigé)
 
