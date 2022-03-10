@@ -78,7 +78,7 @@ Voici une image.
 
 <param ve-graphic url="https://appedus.com/wp-content/uploads/2021/03/wikimedia-wikipedia-1024x768.jpg">
 
-
+Je vais écrire un autre texte, du coup que cela marche en avant du texte.
 
 
 
