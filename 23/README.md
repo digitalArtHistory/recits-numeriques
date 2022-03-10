@@ -5,7 +5,7 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Genèse: Création du monde dans l'art médièvale
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
@@ -20,11 +20,11 @@ Voici quelques actions à réaliser pour commencer :
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
-# Titre de niveau 1
+# Source biblique
 
-## Titre de niveau 2
+## Source iconographique
 
-### Titre de niveau 3
+### Source historique
 ```
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
@@ -49,6 +49,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-
+fggdd
 
 
