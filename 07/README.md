@@ -51,8 +51,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 # Louise de Keroualle
 
 <param ve-graphic
-    url="" # https://images.app.goo.gl/hWnterno1NJ3z8aPA/ 
-    title="" > 
+    url="" # https://www.hmb.ch/en/museums/objects-in-the-collection/details/s/golden-figure-of-king-david-from-the-treasury-of-basle-munster/
+    title="" # titre de l'image
 >
 >
 Louise de Kéroualle est l'espionne de Louis XIV et...
