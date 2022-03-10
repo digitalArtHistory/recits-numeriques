@@ -44,8 +44,8 @@ Voici quelques ressources sur Markdown
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
+<param ve-graphic
+       url="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FLe_Jardin_des_d%25C3%25A9lices&psig=AOvVaw3adscr1JkQ-zJQRlecwG9c&ust=1647026327839000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKC8w6uhvPYCFQAAAAAdAAAAABAD"
 - insérer un lien Wikidata
 - intégrer une vidéo
 
