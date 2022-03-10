@@ -1,0 +1,155 @@
+{"type" : "FeatureCollection",
+	"name" : "ArtPublic",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5305810894, 48.4505363579 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-08",
+				"PARCOURS" : "Parcours en bord de mer",
+				"NOM_DE_L_OEUVRE" : "L’esprit des lieux",
+				"ANNEE" : 2019,
+				"EMPLACEMENT" : "À l’ouest de la Soper, sur la rue des Marins",
+				"PROMOTEUR" : "SOPER",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Treillis métallique, fibre de verre",
+				"TECHNIQUE" : "Fibre de verre sur armature en métal déployé réalisée en exemplaire unique par des techniques de mod",
+				"DIMENSIONS" : "Hauteur 4,00 m - Largeur 1,00 m",
+				"Y_LATITUDE" : 48.45053636,
+				"X_LONGITUDE" : -68.53058109,
+				"NOM_ARTISTE" : "Christian Girard",
+				"COORDONNEE_ARTISTE" : "Non disponible",
+				"SITE_WEB_ARTISTE" : "Non disponible",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5164921882, 48.469980192 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-07",
+				"PARCOURS" : "Parcours en bord de mer",
+				"NOM_DE_L_OEUVRE" : "Cap à l’Est",
+				"ANNEE" : 2017,
+				"EMPLACEMENT" : "Entré de la halte rue St-Germain Est",
+				"PROMOTEUR" : "Rimouski Ville cyclable",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Métal de cuivre, métal argent, acier forgé",
+				"TECHNIQUE" : "",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.46998019,
+				"X_LONGITUDE" : -68.51649219,
+				"NOM_ARTISTE" : "Étienne Guay",
+				"COORDONNEE_ARTISTE" : "atelieretienneguay@hotmail.com",
+				"SITE_WEB_ARTISTE" : "Non disponible",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5282572786, 48.4509039393 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-01",
+				"PARCOURS" : "Parcours de la Cathédrale",
+				"NOM_DE_L_OEUVRE" : "Si tu allais quelque part",
+				"ANNEE" : 2015,
+				"EMPLACEMENT" : "Place du 6 mai 1950",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Texte gravé",
+				"MATERIAUX" : "Granit",
+				"TECHNIQUE" : "",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.45090394,
+				"X_LONGITUDE" : -68.52825728,
+				"NOM_ARTISTE" : "Paul-Chanel Malenfant",
+				"COORDONNEE_ARTISTE" : "atelieretienneguay@hotmail.com",
+				"SITE_WEB_ARTISTE" : "Non disponible",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5444176077, 48.4455884766 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-10",
+				"PARCOURS" : "Parcours en bord de mer",
+				"NOM_DE_L_OEUVRE" : "La fascinée",
+				"ANNEE" : 2019,
+				"EMPLACEMENT" : "Sentier du littoral",
+				"PROMOTEUR" : "Société Rimouskoise du Patrimoine",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Bois d’épinette lamellé et collé",
+				"TECHNIQUE" : "",
+				"DIMENSIONS" : "Largeur 5,70 m - Longueur 12,80 m",
+				"Y_LATITUDE" : 48.44558848,
+				"X_LONGITUDE" : -68.54441761,
+				"NOM_ARTISTE" : "Gilles Caron, Yvon Lavoie, Marquise Lebl",
+				"COORDONNEE_ARTISTE" : "atelieretienneguay@hotmail.com",
+				"SITE_WEB_ARTISTE" : "Non disponible",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.542704297, 48.4456132655 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-09",
+				"PARCOURS" : "Parcours en bord de mer",
+				"NOM_DE_L_OEUVRE" : "La macrée",
+				"ANNEE" : 2016,
+				"EMPLACEMENT" : "Sentier du littoral",
+				"PROMOTEUR" : "Société Rimouskoise du Patrimoine",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Acier corten, bois lamellé-collé cintré",
+				"TECHNIQUE" : "",
+				"DIMENSIONS" : "Hauteur 3,00 m - Largeur 4,80 m - Longueur 7,80 m",
+				"Y_LATITUDE" : 48.44561327,
+				"X_LONGITUDE" : -68.5427043,
+				"NOM_ARTISTE" : "Gilles Caron, Yvon Lavoie, Marquise Lebl",
+				"COORDONNEE_ARTISTE" : "atelieretienneguay@hotmail.com",
+				"SITE_WEB_ARTISTE" : "Non disponible",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		}
+    ]
+}
