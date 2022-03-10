@@ -1,4 +1,5 @@
-{"type" : "FeatureCollection",
+{
+	"type" : "FeatureCollection",
 	"name" : "ArtPublic",
 	"features" : [
 		{
@@ -150,6 +151,2136 @@
 				"ETAT" : " ",
 				"GEOM" : "Point"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5472417023, 48.4450175847 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-11",
+				"PARCOURS" : "Parcours en bord de mer",
+				"NOM_DE_L_OEUVRE" : "Le sentier poétique",
+				"ANNEE" : 2005,
+				"EMPLACEMENT" : "Sentier du littoral",
+				"PROMOTEUR" : "Salon du livre de Rimouski",
+				"PROPRIETE" : "Salon du livre de Rimouski",
+				"CATEGORIE" : "installation",
+				"MATERIAUX" : "Pierre gravée",
+				"TECHNIQUE" : "",
+				"DIMENSIONS" : "variées",
+				"Y_LATITUDE" : 48.44501758,
+				"X_LONGITUDE" : -68.5472417,
+				"NOM_ARTISTE" : "Paul-Chanel Malenfant, Joséphine Bacon, ",
+				"COORDONNEE_ARTISTE" : "Non disponible",
+				"SITE_WEB_ARTISTE" : "Non disponible",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5266737571, 48.4503773897 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-02",
+				"PARCOURS" : "Parcours de la Cathédrale",
+				"NOM_DE_L_OEUVRE" : "Murale 150e",
+				"ANNEE" : 2017,
+				"EMPLACEMENT" : "Rue Sainte-Marie",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Peinture murale",
+				"MATERIAUX" : "Contreplaqué, peinture",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,50 m - Largeur 7,00 m",
+				"Y_LATITUDE" : 48.45037739,
+				"X_LONGITUDE" : -68.52667376,
+				"NOM_ARTISTE" : "Stéphane Dufresne",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5258186662, 48.4498687429 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-03",
+				"PARCOURS" : "Parcours de la Cathédrale",
+				"NOM_DE_L_OEUVRE" : "Oeuvre du Palais de justice",
+				"ANNEE" : 2020,
+				"EMPLACEMENT" : "Palais de justice",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Œuvre d'intégration 1 %",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.44986874,
+				"X_LONGITUDE" : -68.52581867,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5254633507, 48.4499277154 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-04",
+				"PARCOURS" : "Parcours de la Cathédrale",
+				"NOM_DE_L_OEUVRE" : "Observatoire (Dans le regard du peintre)",
+				"ANNEE" : 2014,
+				"EMPLACEMENT" : "Galerie d'art Léonard-Parent",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Peinture murale",
+				"MATERIAUX" : "Peinture",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.44992772,
+				"X_LONGITUDE" : -68.52546335,
+				"NOM_ARTISTE" : "Jean-Philippe Roy",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.527391666, 48.4480415115 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-14",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "La grande hune",
+				"ANNEE" : 2008,
+				"EMPLACEMENT" : "Cégep de Rimouski",
+				"PROMOTEUR" : "Cégep de Rimouski",
+				"PROPRIETE" : "Cégep de Rimouski",
+				"CATEGORIE" : "installation, sculpture",
+				"MATERIAUX" : "Aluminium brossé",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 9,00 m",
+				"Y_LATITUDE" : 48.44804151,
+				"X_LONGITUDE" : -68.52739167,
+				"NOM_ARTISTE" : "Gwenaël Bélanger",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5226434425, 48.4471071422 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-05",
+				"PARCOURS" : "Parcours de la Cathédrale",
+				"NOM_DE_L_OEUVRE" : "Murale Jeu'n'Art",
+				"ANNEE" : 2015,
+				"EMPLACEMENT" : "Piscine St-Germain",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Peinture murale",
+				"MATERIAUX" : "Béton peint",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Longueur 60,00 m",
+				"Y_LATITUDE" : 48.44710714,
+				"X_LONGITUDE" : -68.52264344,
+				"NOM_ARTISTE" : "Yvon Lavoie",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5210741767, 48.446877496 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-06",
+				"PARCOURS" : "Parcours de la Cathédrale",
+				"NOM_DE_L_OEUVRE" : "Le bon élan",
+				"ANNEE" : 2020,
+				"EMPLACEMENT" : "Caserne de pompier",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.4468775,
+				"X_LONGITUDE" : -68.52107418,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4634799218, 48.3649181747 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-48",
+				"PARCOURS" : "Parcours hors-ville",
+				"NOM_DE_L_OEUVRE" : "Jeune famille",
+				"ANNEE" : 1995,
+				"EMPLACEMENT" : "Parc de Saint-Blandine",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Béton armé coloré dans la masse du moyen d’oxyde de fer",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 7,00 m - Largeur 10,30 m - Longueur 10,60 m",
+				"Y_LATITUDE" : 48.36491817,
+				"X_LONGITUDE" : -68.46347992,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4609928939, 48.3601403499 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-52",
+				"PARCOURS" : "Parcours hors-ville",
+				"NOM_DE_L_OEUVRE" : "Sculpture thématique et ses symboles",
+				"ANNEE" : 1996,
+				"EMPLACEMENT" : "Bibliothèque de Sainte-Blandine",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Installation",
+				"MATERIAUX" : "Béton, alluminium, fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.36014035,
+				"X_LONGITUDE" : -68.46099289,
+				"NOM_ARTISTE" : "Jean-Marc Fillion",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4686097224, 48.5171508455 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-38",
+				"PARCOURS" : "Parcours de l'Est",
+				"NOM_DE_L_OEUVRE" : "de profundis",
+				"ANNEE" : 2000,
+				"EMPLACEMENT" : "Site historique maritime",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Site historique maritime",
+				"CATEGORIE" : "Sculpture aménagement",
+				"MATERIAUX" : "Béton, acier corten, peinture, pigment",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 6,00 m - Largeur 0,50 m - Longueur 5,00 m",
+				"Y_LATITUDE" : 48.51715085,
+				"X_LONGITUDE" : -68.46860972,
+				"NOM_ARTISTE" : "Gilles Girard",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4688457791, 48.5172914714 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-39",
+				"PARCOURS" : "Parcours de l'Est",
+				"NOM_DE_L_OEUVRE" : "Empresse-toi contre moi",
+				"ANNEE" : 2014,
+				"EMPLACEMENT" : "Site historique maritime",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Site historique maritime",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Acier, bois",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.51729147,
+				"X_LONGITUDE" : -68.46884578,
+				"NOM_ARTISTE" : "François Maltais",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4685721924, 48.5173373462 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-37",
+				"PARCOURS" : "Parcours de l'Est",
+				"NOM_DE_L_OEUVRE" : "La grande nageuse",
+				"ANNEE" : 2004,
+				"EMPLACEMENT" : "Site historique maritime",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Site historique maritime",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Résine de polyester, fibre de verre, aluminium, acier",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 1,95 m - Largeur 1,20 m - Longueur 6,00 m",
+				"Y_LATITUDE" : 48.51733735,
+				"X_LONGITUDE" : -68.46857219,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.7064672204, 48.3743031444 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-42",
+				"PARCOURS" : "Parcours Bicois",
+				"NOM_DE_L_OEUVRE" : "La Girouette",
+				"ANNEE" : 1988,
+				"EMPLACEMENT" : "Théâtre du Bic",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Styromousse, fibre de verre, feuilles de cuivre soudées et usinées",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 3,00 m - Largeur 0,40 m",
+				"Y_LATITUDE" : 48.37430314,
+				"X_LONGITUDE" : -68.70646722,
+				"NOM_ARTISTE" : "Gilles Girard",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.7077493687, 48.3724652849 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-43",
+				"PARCOURS" : "Parcours Bicois",
+				"NOM_DE_L_OEUVRE" : "Le Bic d'hier à Aujourd'hui",
+				"ANNEE" : 2015,
+				"EMPLACEMENT" : "Épicerie Brillant Marché Richelieu Bic",
+				"PROMOTEUR" : "Maison de la culture du Pic champlain",
+				"PROPRIETE" : "Maison de la culture du Pic champlain",
+				"CATEGORIE" : "Murale peinture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.37246528,
+				"X_LONGITUDE" : -68.70774937,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.6948355221, 48.3772855322 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-41",
+				"PARCOURS" : "Parcours Bicois",
+				"NOM_DE_L_OEUVRE" : "Murales Tunnel cyclable de Bic",
+				"ANNEE" : 2018,
+				"EMPLACEMENT" : "Tunnel piste cyclable Bic",
+				"PROMOTEUR" : "Rimouski Ville cyclable",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Murale peinture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.37728553,
+				"X_LONGITUDE" : -68.69483552,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5374970178, 48.4377210186 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-26",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "Les bâtisseurs",
+				"ANNEE" : 1996,
+				"EMPLACEMENT" : "Devant le grand stationnement du Parc Beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Béton armé coloré dans la masse du moyen d’oxyde de fer",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 7,00 m - Largeur 10,30 m - Longueur 10,60 m",
+				"Y_LATITUDE" : 48.43772102,
+				"X_LONGITUDE" : -68.53749702,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5360118385, 48.4410633548 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-32",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "L'allé des sculptures - Première envolée",
+				"ANNEE" : 2012,
+				"EMPLACEMENT" : "Parc beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Prêt - Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 4,00 m",
+				"Y_LATITUDE" : 48.44106335,
+				"X_LONGITUDE" : -68.53601184,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5359372014, 48.4412370977 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-33",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "L'allé des sculptures - Les trois patine",
+				"ANNEE" : 1995,
+				"EMPLACEMENT" : "Parc beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Prêt - Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 3,00 m",
+				"Y_LATITUDE" : 48.4412371,
+				"X_LONGITUDE" : -68.5359372,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5361009245, 48.4407761937 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-31",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "L'allé des sculptures - Couple enjoué",
+				"ANNEE" : 2012,
+				"EMPLACEMENT" : "Parc beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Prêt - Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 4,00 m",
+				"Y_LATITUDE" : 48.44077619,
+				"X_LONGITUDE" : -68.53610092,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5362866253, 48.4404612849 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-30",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "L'allé des sculptures - La rencontre sou",
+				"ANNEE" : 2012,
+				"EMPLACEMENT" : "Parc beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Prêt - Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 1,80 m - Largeur 1,65 m - Longueur 9,20 m",
+				"Y_LATITUDE" : 48.44046128,
+				"X_LONGITUDE" : -68.53628663,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.536182895, 48.4406295681 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-29",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "L'allé des sculptures - Jeu aquatique",
+				"ANNEE" : 2012,
+				"EMPLACEMENT" : "Parc beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Prêt - Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,55 m - Largeur 1,50 m - Longueur 3,50 m",
+				"Y_LATITUDE" : 48.44062957,
+				"X_LONGITUDE" : -68.5361829,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5363267433, 48.4403286529 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-28",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "L'allé des sculptures - Le tourbillon",
+				"ANNEE" : 2013,
+				"EMPLACEMENT" : "Parc beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Prêt - Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,80 m - Largeur 1,60 m - Longueur 2,30 m",
+				"Y_LATITUDE" : 48.44032865,
+				"X_LONGITUDE" : -68.53632674,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5364369086, 48.4402496209 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-27",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "L'allé des sculptures - Passage à gué",
+				"ANNEE" : 2013,
+				"EMPLACEMENT" : "Parc beauséjour",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Prêt - Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,20 m - Largeur 2,20 m - Longueur 3,50 m",
+				"Y_LATITUDE" : 48.44024962,
+				"X_LONGITUDE" : -68.53643691,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5348004079, 48.4409553084 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-34",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "Le Trimurale",
+				"ANNEE" : 2000,
+				"EMPLACEMENT" : "Sur le terrain entre le boulevard de la Rivière et la rue Tessier",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Béton armé coloré dans la masse du moyen d’oxyde de cadmium",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 4,00 m - Largeur 6,00 m - Longueur 6,00 m",
+				"Y_LATITUDE" : 48.44095531,
+				"X_LONGITUDE" : -68.53480041,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5349353756, 48.4416430091 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-35",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "La famille",
+				"ANNEE" : 2010,
+				"EMPLACEMENT" : "Devant la Maison des Famille",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,30 m - Largeur 1,40 m - Longueur 1,50 m",
+				"Y_LATITUDE" : 48.44164301,
+				"X_LONGITUDE" : -68.53493538,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4561007781, 48.5052599169 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-40",
+				"PARCOURS" : "Parcours de l'Est",
+				"NOM_DE_L_OEUVRE" : "Le petit prince et la terre",
+				"ANNEE" : 1997,
+				"EMPLACEMENT" : "Centre multifonctionnel de Point-au-Père",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Coulé en béton mais réalisé en glaise sur une sculpture rigide",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 0,90 m - Diamètre 1,50 m",
+				"Y_LATITUDE" : 48.50525992,
+				"X_LONGITUDE" : -68.45610078,
+				"NOM_ARTISTE" : "André Gamache",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4617565796, 48.5115647909 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-36",
+				"PARCOURS" : "Parcours de l'Est",
+				"NOM_DE_L_OEUVRE" : "L'arbre du millénaire",
+				"ANNEE" : 1999,
+				"EMPLACEMENT" : "Halte avenue du père Nouvel",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Coulé en béton mais réalisé en glaise sur une sculpture rigide",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,10 m - Diamètre 1,50 m",
+				"Y_LATITUDE" : 48.51156479,
+				"X_LONGITUDE" : -68.46175658,
+				"NOM_ARTISTE" : "André Gamache",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5308566978, 48.4468814566 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-13",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Les yeux du coeur",
+				"ANNEE" : 2002,
+				"EMPLACEMENT" : "Hôpital de Rimouski",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : " ",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Béton autonivelant",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,30 m - Largeur 1,30 m - Longueur 0,90 m",
+				"Y_LATITUDE" : 48.44688146,
+				"X_LONGITUDE" : -68.5308567,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5200559357, 48.4517945553 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-15",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "La lectrice",
+				"ANNEE" : 2006,
+				"EMPLACEMENT" : "Bibliothèque Lisette-Morin",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Résine de polyester, fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Largeur 2,10 m - Longueur 1,30 m",
+				"Y_LATITUDE" : 48.45179456,
+				"X_LONGITUDE" : -68.52005594,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5160596567, 48.4506273294 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-16",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Les générations",
+				"ANNEE" : 2010,
+				"EMPLACEMENT" : "Manoir des générations",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Manoir des générations",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Béton armé coloré dans la masse du moyen d’oxyde de fer",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,10 m - Largeur 4,00 m",
+				"Y_LATITUDE" : 48.45062733,
+				"X_LONGITUDE" : -68.51605966,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5159679391, 48.449482839 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-17",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "l'instant de grâce",
+				"ANNEE" : 1995,
+				"EMPLACEMENT" : "À l'arrière des Sœur du St-Rosaire",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Congrégation des Sœurs de Notre Dame du Saint-Rosaire",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,30 m",
+				"Y_LATITUDE" : 48.44948284,
+				"X_LONGITUDE" : -68.51596794,
+				"NOM_ARTISTE" : "Christian Girard",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5125081465, 48.4487143275 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-18",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Ondulation",
+				"ANNEE" : 2019,
+				"EMPLACEMENT" : "Complexe sportif Desjardins",
+				"PROMOTEUR" : "MCC œuvre intégration…1%",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "installation, sculpture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.44871433,
+				"X_LONGITUDE" : -68.51250815,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5124344361, 48.4527968516 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-19",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Le couple",
+				"ANNEE" : 1995,
+				"EMPLACEMENT" : "Cour intérieure de l'UQAR",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "UQAR",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,00 m - Largeur 1,30 m - Longueur 0,90 m",
+				"Y_LATITUDE" : 48.45279685,
+				"X_LONGITUDE" : -68.51243444,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5156311403, 48.4472848223 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-21",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "La consolante",
+				"ANNEE" : 2010,
+				"EMPLACEMENT" : "À la maison Marie-Élisabeth",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Maison Marie-Élisabeth",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Résine de polyester, fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,40 m - Largeur 1,50 m",
+				"Y_LATITUDE" : 48.44728482,
+				"X_LONGITUDE" : -68.51563114,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5095422589, 48.4528714682 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-20",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "L'enfant disparu",
+				"ANNEE" : 2011,
+				"EMPLACEMENT" : "Mausolée de Rimouski",
+				"PROMOTEUR" : "UQAR",
+				"PROPRIETE" : "UQAR",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Résine de polyester, fibre de verre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,10 m",
+				"Y_LATITUDE" : 48.45287147,
+				"X_LONGITUDE" : -68.50954226,
+				"NOM_ARTISTE" : "Roger Langevin",
+				"COORDONNEE_ARTISTE" : "info@rogerlangevin.com",
+				"SITE_WEB_ARTISTE" : "http://www.rogerlangevin.com",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5207916648, 48.4418717714 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-22",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Le vaisseau admirable",
+				"ANNEE" : 2009,
+				"EMPLACEMENT" : "Colisé de Rimouski",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Ardoise, acier inoxydable, bois laminé, alluminuim anodisé",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 7,90 m - Largeur 2,44 m - Longueur 0,41 m",
+				"Y_LATITUDE" : 48.44187177,
+				"X_LONGITUDE" : -68.52079166,
+				"NOM_ARTISTE" : "François Maltais",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5211023256, 48.4418603557 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-23",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Murale du Colisée",
+				"ANNEE" : 1965,
+				"EMPLACEMENT" : "Colisé de Rimouski",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Collection d’art public de la Ville de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Aluminium anodisé et émaillé",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 4,60 m - Largeur 24,30 m",
+				"Y_LATITUDE" : 48.44186036,
+				"X_LONGITUDE" : -68.52110233,
+				"NOM_ARTISTE" : "Michel Morin",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5129495958, 48.4384848275 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-24",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "L'arbre de la nation",
+				"ANNEE" : 1972,
+				"EMPLACEMENT" : "SNEQ",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "SNEQ",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Acier, bronze, laiton",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.43848483,
+				"X_LONGITUDE" : -68.5129496,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5125161697, 48.4386836007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-25",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Le caveau",
+				"ANNEE" : 1996,
+				"EMPLACEMENT" : "SNEQ",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "SNEQ",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Pierre, béton, lichen",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.4386836,
+				"X_LONGITUDE" : -68.51251617,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4997755588, 48.4640367143 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-44",
+				"PARCOURS" : "Parcours hors-ville",
+				"NOM_DE_L_OEUVRE" : "Espace intermédiaire",
+				"ANNEE" : 1994,
+				"EMPLACEMENT" : "Centre pénitencier de Rimouski",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : " ",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Béton, acier, tôle ondulé",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.46403671,
+				"X_LONGITUDE" : -68.49977556,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5443746791, 48.4405443606 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-45",
+				"PARCOURS" : "Parcours hors-ville",
+				"NOM_DE_L_OEUVRE" : "L'Aigle de béton",
+				"ANNEE" : 1980,
+				"EMPLACEMENT" : "Sûreté du Québec à Rimouski",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : " ",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Béton",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,66 m - Largeur 2,60 m",
+				"Y_LATITUDE" : 48.44054436,
+				"X_LONGITUDE" : -68.54437468,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5297132744, 48.4421952102 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-12",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Intersections",
+				"ANNEE" : 2019,
+				"EMPLACEMENT" : "Coopérative de solidarité Paradis",
+				"PROMOTEUR" : "Centre d'artistes Caravansérail",
+				"PROPRIETE" : "Coopérative de solidarité Paradis",
+				"CATEGORIE" : "Murale peinture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 6,00 m - Largeur 36, 40 m",
+				"Y_LATITUDE" : 48.44219521,
+				"X_LONGITUDE" : -68.52971327,
+				"NOM_ARTISTE" : "Cyndie Belhumeur et Ilana Pichon",
+				"COORDONNEE_ARTISTE" : "https://cyndiebelhumeur.com  https://issuu.com/ilanapichon",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.522601569, 48.4327932027 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-46",
+				"PARCOURS" : "Parcours hors-ville",
+				"NOM_DE_L_OEUVRE" : "Former trois fois un tiers",
+				"ANNEE" : 1996,
+				"EMPLACEMENT" : "Centre de formation Rimouski-Neigette",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Centre de formation Rimouski-Neigette",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,00 m",
+				"Y_LATITUDE" : 48.4327932,
+				"X_LONGITUDE" : -68.52260157,
+				"NOM_ARTISTE" : "Danielle April",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5303891874, 48.4397401286 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-49",
+				"PARCOURS" : "Parcours de la rivière",
+				"NOM_DE_L_OEUVRE" : "Échanges et transformation",
+				"ANNEE" : 1993,
+				"EMPLACEMENT" : "École l’Aquarelle (St-Robert) 247 rue Saint-Laurent Ouest, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Comission scolaire des Phares",
+				"CATEGORIE" : "Installation",
+				"MATERIAUX" : "Fibre de verre, panneaux de contreplaqué saturés de résine epoxy, aluminium anodisé, acier inoxydable brossé",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.43974013,
+				"X_LONGITUDE" : -68.53038919,
+				"NOM_ARTISTE" : "Bruno Santerre",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : "Extérieur",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.459124058, 48.5110676206 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-03",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Quand les bateaux s’en vont",
+				"ANNEE" : 1994,
+				"EMPLACEMENT" : "Bibliothèque de Point-au-Père",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Ville de Rimouski",
+				"CATEGORIE" : "Sculpture murale",
+				"MATERIAUX" : "Bois, laiton, acier, bronze",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Largeur 1,21 m - Longueur 2,63 m",
+				"Y_LATITUDE" : 48.51106762,
+				"X_LONGITUDE" : -68.45912406,
+				"NOM_ARTISTE" : "Lise Lbarie",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5286615884, 48.450711944 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-02",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Odyssée",
+				"ANNEE" : 2005,
+				"EMPLACEMENT" : "Spect'art",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Ville de Rimouski",
+				"CATEGORIE" : "Installation",
+				"MATERIAUX" : "bois, cuivre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.45071194,
+				"X_LONGITUDE" : -68.52866159,
+				"NOM_ARTISTE" : "André R. Du Bois",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5217671572, 48.4550221912 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-01",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Les repères (Voir loin, voir proche)",
+				"ANNEE" : 1988,
+				"EMPLACEMENT" : "CLSC de Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "CLSC",
+				"CATEGORIE" : "Images photographiques montées dans des boîtiers lumineux",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Diamètre 0,60 m & 0,52 m & 0,42 m - Hauteur 0,47 m - Longueur 0,75 m",
+				"Y_LATITUDE" : 48.45502219,
+				"X_LONGITUDE" : -68.52176716,
+				"NOM_ARTISTE" : "Bruno Santerre",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : "Moyen, les murs ont été repeints d’une autre couleur qu’initialement prévu. Plusieurs boîtiers lumineux ne fonctionnent plus et de nombreuses affiches publicitaires sont installés entre les différentes sections de l’œuvre.",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5125823531, 48.4523707617 ]
+			},
+			"properties" : {
+				"OBJECTID" : 53,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-04",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Fable d’étoiles",
+				"ANNEE" : 1995,
+				"EMPLACEMENT" : "Université du Québec à Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "UQAR",
+				"CATEGORIE" : " ",
+				"MATERIAUX" : "Métal, aluminium, plâtre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.45237076,
+				"X_LONGITUDE" : -68.51258235,
+				"NOM_ARTISTE" : "Danielle Sauvé",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.572162042, 48.435202774 ]
+			},
+			"properties" : {
+				"OBJECTID" : 54,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-05",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Un jardin en mémoire",
+				"ANNEE" : 2000,
+				"EMPLACEMENT" : " 645, boulevard Saint-Germain Ouest, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Centre d’hébergement et de soins de longue durée de Rimouski",
+				"CATEGORIE" : "Installation, peinture et bas-relief, œuvre en 9 parties",
+				"MATERIAUX" : "Peinture, métal",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 0,55 m - Longueur 1,85 m",
+				"Y_LATITUDE" : 48.43520277,
+				"X_LONGITUDE" : -68.57216204,
+				"NOM_ARTISTE" : " ",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5236495265, 48.4318355245 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-06",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Les Gouffres de l’esprit no 10",
+				"ANNEE" : 2001,
+				"EMPLACEMENT" : "424 av. Ross, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Centre de formation professionnel Rimouski-Neigette",
+				"CATEGORIE" : " ",
+				"MATERIAUX" : "Peinture",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 1,22 m - Longueur 1,62 m",
+				"Y_LATITUDE" : 48.43183552,
+				"X_LONGITUDE" : -68.52364953,
+				"NOM_ARTISTE" : "Sylvie Pomerleau",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5721516783, 48.4352070294 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-07",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Une berceuse pour Jonas",
+				"ANNEE" : 2002,
+				"EMPLACEMENT" : "645, boul. Saint-Germain Ouest, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Centre d’hébergement et de soins de longue durée de Rimouski",
+				"CATEGORIE" : " ",
+				"MATERIAUX" : "Bas-relief, peinture",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 6,20 m - Largeur 0,10 m - Longueur 3,00 m",
+				"Y_LATITUDE" : 48.43520703,
+				"X_LONGITUDE" : -68.57215168,
+				"NOM_ARTISTE" : "Lise Labrie",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.7546870378, 48.354929827 ]
+			},
+			"properties" : {
+				"OBJECTID" : 57,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-08",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Les paysages, stratification et dissolut",
+				"ANNEE" : 1991,
+				"EMPLACEMENT" : "Parc du Bic (Pavillon d’accueil) Route 132 Est, (secteur Le Bic), Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Parc du Bic",
+				"CATEGORIE" : "Installation murale",
+				"MATERIAUX" : "Masonite, acrylique, bois, métal en feuille gypse",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.35492983,
+				"X_LONGITUDE" : -68.75468704,
+				"NOM_ARTISTE" : "Bruno Santerre",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5293592996, 48.450357085 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-09",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Qui fait l’ange fait la bête",
+				"ANNEE" : 1993,
+				"EMPLACEMENT" : "Musée régional de Rimouski 35 Saint-Germain Ouest, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Musée Régional de Rimouski",
+				"CATEGORIE" : "Installation",
+				"MATERIAUX" : "",
+				"TECHNIQUE" : "Techniques mixtes",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.45035708,
+				"X_LONGITUDE" : -68.5293593,
+				"NOM_ARTISTE" : "Lise Labrie",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5277875844, 48.4499685615 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-10",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Chute lente d’instrument, Musique-fleuve",
+				"ANNEE" : 1996,
+				"EMPLACEMENT" : "École de Musique du Bas-Saint-Laurent, 22 rue Sainte-Marie, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "École de musique du BSL",
+				"CATEGORIE" : " ",
+				"MATERIAUX" : "Techniques mixtes",
+				"TECHNIQUE" : "",
+				"DIMENSIONS" : "Hauteur 2,08 m - Longueur 0,85 m",
+				"Y_LATITUDE" : 48.44996856,
+				"X_LONGITUDE" : -68.52778758,
+				"NOM_ARTISTE" : "Paul-Émile Saulnier",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5236341906, 48.4318315399 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-11",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Non titrée",
+				"ANNEE" : 0,
+				"EMPLACEMENT" : "Centre de formation Rimouski-Neigette, 424 rue Ross, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Centre de formation professionnel Rimouski-Neigette",
+				"CATEGORIE" : "Murale",
+				"MATERIAUX" : "Sérigraphie sur verre, aluminium ajouré",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 1,05 m - Longueur 1,05 m chaque élément",
+				"Y_LATITUDE" : 48.43183154,
+				"X_LONGITUDE" : -68.52363419,
+				"NOM_ARTISTE" : "Bruno Santerre",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4609222716, 48.5074118893 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-12",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Refuge de l’esprit",
+				"ANNEE" : 1998,
+				"EMPLACEMENT" : "École La Rose des vents, 355, Avenue de la Jeunesse (pointe-au-Père)",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "École la Rose des vents",
+				"CATEGORIE" : "Peinture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.50741189,
+				"X_LONGITUDE" : -68.46092227,
+				"NOM_ARTISTE" : "Sylvie Pomerleau",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5260388548, 48.4389037797 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-14",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Envols Satori",
+				"ANNEE" : 1991,
+				"EMPLACEMENT" : "École Saint-Jean245, 2e rue Ouest, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "École Saint-Jean",
+				"CATEGORIE" : "Peinture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.43890378,
+				"X_LONGITUDE" : -68.52603885,
+				"NOM_ARTISTE" : "Gilles Gladu",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5446218545, 48.4308246576 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-13",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Non titrée",
+				"ANNEE" : 1990,
+				"EMPLACEMENT" : "École Beaux-Séjours, Sainte-Odile, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "École Beaux-Séjours, Sainte-Odile, Rimouski",
+				"CATEGORIE" : "Peinture",
+				"MATERIAUX" : "Peinture, crayon, contreplaqué, plexiglass",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.43082466,
+				"X_LONGITUDE" : -68.54462185,
+				"NOM_ARTISTE" : "Bruno Santerre",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5108106598, 48.4525468211 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-15",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Ton bateau blanc",
+				"ANNEE" : 1993,
+				"EMPLACEMENT" : "ISMER, UQAR, 300 allée des Ursulines, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "UQAR",
+				"CATEGORIE" : "Installation",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 2,60 m - Largeur 0,71 m - Longueur 1,2 m & Hauteur 2,60 m - Largeur 4,16 m - Longueur 7,71 m",
+				"Y_LATITUDE" : 48.45254682,
+				"X_LONGITUDE" : -68.51081066,
+				"NOM_ARTISTE" : "Marie-Christine Landry",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5482290921, 48.443417306 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-16",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Cette histoire est vraie parce que je l’",
+				"ANNEE" : 2003,
+				"EMPLACEMENT" : "École de l’Estran, 399 rue Lasalle, Nazareth, Rimouski",
+				"PROMOTEUR" : "intégration de l’art à l’architecture",
+				"PROPRIETE" : " ",
+				"CATEGORIE" : "Peinture",
+				"MATERIAUX" : "Peinture, acrylique sur masonite",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 0,91 m - Longueur 4,42 m",
+				"Y_LATITUDE" : 48.44341731,
+				"X_LONGITUDE" : -68.54822909,
+				"NOM_ARTISTE" : "Gilles Pitre",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : "État : bon, quelques égratignures  dans le coin inférieur droit",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5277756457, 48.4499762959 ]
+			},
+			"properties" : {
+				"OBJECTID" : 66,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-17",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "La musique du regard",
+				"ANNEE" : 2008,
+				"EMPLACEMENT" : "École de musique du Bas-Saint-Laurent, 22 rue Sainte-Marie, Rimouski",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "École de musique du BSL",
+				"CATEGORIE" : "Peinture",
+				"MATERIAUX" : "Peinture Acrylique sur bois, fibre de pin, bois",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.4499763,
+				"X_LONGITUDE" : -68.52777565,
+				"NOM_ARTISTE" : "Michel Lagacé",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : "État : bon, quelques éraflures dans le bas de l’œuvre",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4601465422, 48.3613328426 ]
+			},
+			"properties" : {
+				"OBJECTID" : 67,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-18",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Le puits et la balançoire",
+				"ANNEE" : 1989,
+				"EMPLACEMENT" : "École des Merisiers, 658, route des pionniers, (Sainte-Blandine), Rimouski",
+				"PROMOTEUR" : "intégration de l’art à l’architecture",
+				"PROPRIETE" : "École des Merisiers",
+				"CATEGORIE" : "Installation",
+				"MATERIAUX" : "Bois, plexiglass, corde, tronc et branche d’arbre",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.36133284,
+				"X_LONGITUDE" : -68.46014654,
+				"NOM_ARTISTE" : "Marie-Chrystine Landry",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : "État : Excellent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5310005613, 48.4469397878 ]
+			},
+			"properties" : {
+				"OBJECTID" : 68,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-20",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Huit temps",
+				"ANNEE" : 2010,
+				"EMPLACEMENT" : "Centre hospitalier régional de Rimouski, 150 rue Rouleau, Rimouski",
+				"PROMOTEUR" : "Intégration des arts à l’architecture",
+				"PROPRIETE" : "Centre hospitalier régional de Rimouski",
+				"CATEGORIE" : "Photographies modifiées et boîtes lumineuses",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.44693979,
+				"X_LONGITUDE" : -68.53100056,
+				"NOM_ARTISTE" : "Yvan Binet",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5310085986, 48.4469330575 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-19",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "L’envolée des oies, Bic",
+				"ANNEE" : 0,
+				"EMPLACEMENT" : "Salle d’attente du service de radiologie",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Centre hospitalier régional de Rimouski",
+				"CATEGORIE" : "Photographies couleurs",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Hauteur 64,50 m - Largeur 0,04 m - Longueur 70,50 m",
+				"Y_LATITUDE" : 48.44693306,
+				"X_LONGITUDE" : -68.5310086,
+				"NOM_ARTISTE" : "Jean Albert",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.530991742, 48.4469460294 ]
+			},
+			"properties" : {
+				"OBJECTID" : 70,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-21",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Un après-midi sous un arbre",
+				"ANNEE" : 1995,
+				"EMPLACEMENT" : "Plafond du hall de la radiothérapie",
+				"PROMOTEUR" : "Intégration des arts à l’architecture",
+				"PROPRIETE" : "Centre hospitalier régional de Rimouski",
+				"CATEGORIE" : "Photographies, boîtes lumineuses",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.44694603,
+				"X_LONGITUDE" : -68.53099174,
+				"NOM_ARTISTE" : "Roberto Pellegrinuzzi",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5311191757, 48.4469277523 ]
+			},
+			"properties" : {
+				"OBJECTID" : 71,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "EXT-51",
+				"PARCOURS" : "Parcours du centre-ville",
+				"NOM_DE_L_OEUVRE" : "Eau vive",
+				"ANNEE" : 1994,
+				"EMPLACEMENT" : "Centre hospitalier régional de Rimouski, 150 rue Rouleau",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Centre hospitalier régional de Rimouski",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : "Aluminium soudé et brossé",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.44692775,
+				"X_LONGITUDE" : -68.53111918,
+				"NOM_ARTISTE" : "Hélène Rochette",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5204185396, 48.4518262326 ]
+			},
+			"properties" : {
+				"OBJECTID" : 72,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-22",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Transit-Fusion",
+				"ANNEE" : 2008,
+				"EMPLACEMENT" : "Bibliothèque Lisette-Morin",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Ville de Rimouski",
+				"CATEGORIE" : "Polyptyque, acrylique sur plexiglas",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "Largeur 0,61 m - Longueur 0,76 m",
+				"Y_LATITUDE" : 48.45182623,
+				"X_LONGITUDE" : -68.52041854,
+				"NOM_ARTISTE" : "Marie-Claude Hamel",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5443194776, 48.4404708043 ]
+			},
+			"properties" : {
+				"OBJECTID" : 73,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-23",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Non titrée",
+				"ANNEE" : 1980,
+				"EMPLACEMENT" : "Sureté du Québec, poste de Rimouski, 393 Vanier, Rimouski",
+				"PROMOTEUR" : " ",
+				"PROPRIETE" : "Sureté du Québec",
+				"CATEGORIE" : "Peinture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.4404708,
+				"X_LONGITUDE" : -68.54431948,
+				"NOM_ARTISTE" : "Bruno Santerre",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : "État : excellent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5442928992, 48.4404705131 ]
+			},
+			"properties" : {
+				"OBJECTID" : 74,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-24",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Non titrée",
+				"ANNEE" : 1980,
+				"EMPLACEMENT" : "Sureté du Québec, poste de Rimouski, 393 Vanier, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Sureté du Québec",
+				"CATEGORIE" : "Peinture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.44047051,
+				"X_LONGITUDE" : -68.5442929,
+				"NOM_ARTISTE" : "Marius Jomphe",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5165571427, 48.4364003105 ]
+			},
+			"properties" : {
+				"OBJECTID" : 75,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-25",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Triangles de lumière",
+				"ANNEE" : 1987,
+				"EMPLACEMENT" : "Centre administratif de la commission scolaire des Phares, 435, avenue Rouleau, Rimouski",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "Commission scolaire des Phares",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.43640031,
+				"X_LONGITUDE" : -68.51655714,
+				"NOM_ARTISTE" : "Michel Lagacé",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4686176494, 48.5145363445 ]
+			},
+			"properties" : {
+				"OBJECTID" : 76,
+				"MUNICIPALITE" : "10043",
+				"NUMERO_DE_FICHE" : "INT-26",
+				"PARCOURS" : " ",
+				"NOM_DE_L_OEUVRE" : "Non titrée",
+				"ANNEE" : 1990,
+				"EMPLACEMENT" : "ISMER, Station aquicole, 981 rue Marconi, Rimouski (Secteur Pointe-au-Père)",
+				"PROMOTEUR" : "Intégration…1%",
+				"PROPRIETE" : "UQAR",
+				"CATEGORIE" : "Sculpture",
+				"MATERIAUX" : " ",
+				"TECHNIQUE" : " ",
+				"DIMENSIONS" : "",
+				"Y_LATITUDE" : 48.51453634,
+				"X_LONGITUDE" : -68.46861765,
+				"NOM_ARTISTE" : "André R. Du Bois",
+				"COORDONNEE_ARTISTE" : " ",
+				"SITE_WEB_ARTISTE" : " ",
+				"INDICATION" : " ",
+				"ETAT" : " ",
+				"GEOM" : "Point"
+			}
 		}
-    ]
+	]
 }
