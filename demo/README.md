@@ -7,6 +7,7 @@
 
 # Gargouilles de l'ancienne église des Cordeliers
 
+<!-- banner source : https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b106655966 -->
 <!-- source : https://fr.wikipedia.org/wiki/Gargouilles_de_l%27ancienne_%C3%A9glise_des_Cordeliers -->
 
 **Cet ensemble de quinze [gargouilles](https://fr.wikipedia.org/wiki/Gargouilles)** est conservé au [musée des Augustins de Toulouse](https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Augustins_de_Toulouse) où il est exposé dans le cloître. Elles constituent un ensemble figuratif de style [gothique](https://fr.wikipedia.org/wiki/Art_gothique), provenant de l'[église des Cordeliers de Toulouse](https://fr.wikipedia.org/wiki/%C3%89glise_des_Cordeliers_de_Toulouse), détruite en 1873. Ces sculptures sont datées de la période de construction de l'édifice, entre le XIIIe et le XIVe siècle. 
