@@ -72,6 +72,8 @@ La pratique ci-dessous consistera à mettre en **gras** tous les mots commençan
 
 La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
 
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
+
 
 
 
