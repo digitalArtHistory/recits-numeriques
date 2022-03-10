@@ -61,6 +61,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 On fait des essaies lololol
 Pour la pratique on va compléter plusieurs parties
 
+Un [raccourci](https://github.com/digitalArtHistory/recits-numeriques/wiki/Compilation-de-la-doc-des-composants-Juncture) vers la page de ressource.
+
 ## Pratique d'hyperlien
 Cliquer ici pour voir un article intéressant - [Article intéressant](https://fr.wikipedia.org/wiki/Histoire_de_l%27art) 
 
@@ -68,9 +70,9 @@ Cliquer ici pour voir un article intéressant - [Article intéressant](https://f
 ### Pratique en caractère **gras** et *italique*
 La pratique ci-dessous consistera à mettre en **gras** tous les mots commençant un A et mettre tout en *italique* les mots commençant par E.
 
-```
 La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
-```
+
+
 
 
 
