@@ -74,9 +74,9 @@ La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* importa
 
 <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
 
-Voici une image de bébé yoda.
+Voici une image.
 
-<param ve-graphic url="https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg">
+<param ve-graphic url="https://cdn.futura-sciences.com/buildsv6/images/wide1920/6/5/2/652a7adb1b_98148_01-intro-773.jpg">
 
 
 
