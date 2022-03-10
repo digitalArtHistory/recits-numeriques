@@ -8,6 +8,9 @@
 # Fichier de démarrage
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+<param ve-graphic
+    url="https://github.com/digitalArtHistory/recits-numeriques/raw/main/images/ViennaDioscoridesFolio483vBirds.jpg"
+    title="">
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
