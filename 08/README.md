@@ -11,7 +11,7 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
 
 <param ve-graphic
     url="https://iiif.bodleian.ox.ac.uk/iiif/image/9f267396-1e58-45c3-b7fe-20a7570cb60a/full/1000,1566/0/default.jpg"
-       title="*Cat*"
+       title="Cat"
 >
 
 Voici quelques actions à réaliser pour commencer :
