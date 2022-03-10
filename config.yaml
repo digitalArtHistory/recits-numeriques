@@ -3,7 +3,7 @@ tagline: Une collection de récits numériques pour l'histoire de l'art numériq
 description: Juncture - An easy-to-use framework for building interactive visual essays and websites.
 banner: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k877400g/f98/full/full/0/native.jpg
 favicon: https://raw.githubusercontent.com/ouvroir/ouvroir.github.io/main/public/favicon.ico
-#logo: <logo url>
+logo: https://raw.githubusercontent.com/ouvroir/ouvroir.github.io/main/public/style/img/ouvroir.png
 
 # When using a custom domain these fields must be updated to match
 # the Github account and repository name
