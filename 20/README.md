@@ -49,6 +49,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-
+[essai lien pour perle biconique](https://agakhanmuseum.org/collection/artifact/biconical-bead-akm618)
 
 
