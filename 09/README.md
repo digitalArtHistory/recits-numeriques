@@ -5,15 +5,16 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Figures africaines dans l'art du Moyen Âge
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+Axe de présentation : confronter l'idée préconçue que le Moyen Âge occidental était perméable au reste du monde et ainsi décentrer la narrative
 
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
+
+# Mansa Moussa roi du Mali
+
+[lien](https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg)
+
+
 
 # Explorer Markdown
 
