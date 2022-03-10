@@ -8,6 +8,9 @@
 # Fichier de démarrage
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+<param ve-graphic
+    url="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+    title="">
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
