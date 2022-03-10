@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
 <param ve-config 
-       title="depart" 
+       title="Essaie" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
