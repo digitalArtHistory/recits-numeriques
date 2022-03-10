@@ -58,17 +58,18 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 
 # Pratique pour récit numérique
-
 On fait des essaies lololol
 Pour la pratique on va compléter plusieurs parties
 
 ## Pratique d'hyperlien
-
 Cliquer ici pour voir un article intéressant - [Article intéressant](https://fr.wikipedia.org/wiki/Histoire_de_l%27art) 
 
-<param ve-graphic
-    url="" # https://www.hmb.ch/en/museums/objects-in-the-collection/details/s/golden-figure-of-king-david-from-the-treasury-of-basle-munster/
-    title="" # titre de l'image
+## Pratique de la police
+### Pratique en caractère **gras** et *italique*
+La pratique ci-dessous consistera à mettre en **gras** tous les mots commençant un A et mettre tout en *italique* les mots commençant par E.
+
+La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
+
 
 
 
