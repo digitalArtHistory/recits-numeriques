@@ -73,6 +73,9 @@ La pratique ci-dessous consistera à mettre en **gras** tous les mots commençan
 La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
 
 <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
+
+Voici une image de bébé yoda.
+
 <param ve-graphic url="https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg">
 
 
