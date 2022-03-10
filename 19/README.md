@@ -20,7 +20,7 @@ Voici quelques actions à réaliser pour commencer :
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
-# Titre de niveau 1
+# Iconographies *freaks* : Un medieval queer ? 
 
 ## Titre de niveau 2
 
@@ -48,7 +48,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-
+*freaks* ttt
 
 
 
