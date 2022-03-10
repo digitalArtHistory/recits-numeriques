@@ -15,6 +15,7 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 - [facebook](http//www.facebook.com)
+- ![](https://mr-expert.com/wp-content/uploads/2019/08/estimation-et-expertise-de-reliquaire-religieux-600x450.jpg)
 
 # Explorer Markdown
 
@@ -44,7 +45,7 @@ Voici quelques ressources sur Markdown
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)
-- insérer une image
+- insérer une image: ![](url de l'image)
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
