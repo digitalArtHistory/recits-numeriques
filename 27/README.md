@@ -54,7 +54,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 Voici du texte qui va être associé à une carte centrée sur Rimouski
-Ici nous pouvons zoomer sur <span data-click-map-flyto="41.893,12.483,11">Rome</span>
+Ici nous pouvons zoomer sur <span data-click-map-flyto="45.5031824, -73.5698065,11">Montréal</span>
 Ensuite on continue
 
 <param ve-map ve-map center="48.4501730, -68.5213712" zoom="13.5"/>
