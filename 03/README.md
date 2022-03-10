@@ -47,12 +47,10 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
-
-<param ve-graphic
+    
+  <param ve-image
     url="https://www.jstor.org/stable/community.15672455" 
-    title="Thomas Becket">
-    
-    
+>  
 
 
 
