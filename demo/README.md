@@ -18,6 +18,7 @@ L’[église des Cordeliers](https://fr.wikipedia.org/wiki/%C3%89glise_des_Corde
 On pouvait initialement compter environ vingt-cinq gargouilles dans l'ornementation de l’église. Cependant, conséquence de destructions ou de récupérations pour des collections privées, seules quinze gargouilles ont pu être collectées pour constituer l'ensemble qui est aujourd'hui exposé dans le cloître du musée des Augustins. 
 
 ## Description
+<span>
 
 ### Muséographie
 
@@ -32,6 +33,7 @@ Un chéneau est creusé sur la face normalement tournée vers le ciel de manièr
 ### Figuration
 
 Cet ensemble constitue un bestiaire fantastique mêlant un sanglier, cinq fauves (qui peuvent appartenir au registre du [merveilleux](https://fr.wikipedia.org/wiki/Merveilleux)), deux dragons (l'un représenté avec des ailes membraneuses, l'autre ailé de plumes), un démon, un quadrupède à tête humaine et enfin cinq quadrupèdes à long cou, relativement identiques. Ce sont des animaux chimériques féroces, affublés de griffes et de dents. 
+</span>
 
 ## Adéquation avec le contexte artistique de l'époque
 
