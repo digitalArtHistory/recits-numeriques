@@ -49,7 +49,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 <param ve-graphic
-    url="https://collections.louvre.fr/ark:/53355/cl010101248" 
+    url="https://fr.wikipedia.org/wiki/Ch%C3%A2sses_de_saint_Thomas_Becket" 
     title="Châsse Thomas Becket">
     
 
