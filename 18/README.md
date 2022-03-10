@@ -7,6 +7,10 @@
 
 # Fichier de démarrage
 
+<param ve-image
+    manifest="" # https://artsandculture.google.com/asset/initial-q-two-soldiers-leading-two-moors-before-a-king-unknown-michael-lupi-de-%C3%87andiu/LwGkNW2njJSwUA.json
+>
+
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
 Voici quelques actions à réaliser pour commencer :
