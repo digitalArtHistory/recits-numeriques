@@ -48,7 +48,10 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-
+<param ve-graphic
+    url="https://collections.louvre.fr/ark:/53355/cl010101248" 
+    title="Châsse Thomas Becket">
+    
 
 
 
