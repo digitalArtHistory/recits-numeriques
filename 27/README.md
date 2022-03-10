@@ -56,7 +56,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 Voici du texte qui va être associé à une carte centrée sur Rimouski. Nous y voyons les œuvres d'art public de la ville de Rimouski, dont la géolocalisation est partagée sur le site de [données ouvertes du Québec](https://www.donneesquebec.ca/recherche/dataset/art-public).
 
 <param ve-iframe 
-    src="https://www.donneesquebec.ca/recherche/dataset/1601c350-6b7f-41fe-80ad-5b9bca4973ed/resource/c7a6ec14-d315-4f4c-8697-6559bbc52feb/download/artpublic.csv">
+    src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/27/artpublic.csv">
 
 Ici nous pouvons zoomer sur <span data-click-map-flyto="45.5031824, -73.5698065,11">Montréal</span>
 Ensuite on continue vers Montréal
