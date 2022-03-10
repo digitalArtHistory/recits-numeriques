@@ -16,6 +16,8 @@ Voici quelques actions à réaliser pour commencer :
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 - [facebook](http//www.facebook.com)
 - ![](https://mr-expert.com/wp-content/uploads/2019/08/estimation-et-expertise-de-reliquaire-religieux-600x450.jpg)
+- ![](https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg)
+- 
 
 # Explorer Markdown
 
