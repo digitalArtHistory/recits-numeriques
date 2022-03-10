@@ -48,6 +48,9 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
+#Louise de Keroualle
+
+Voici un article qui présente Loulou
 
 [Louise de Kéroualle](https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual) 
 
