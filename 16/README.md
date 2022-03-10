@@ -52,3 +52,9 @@ essaie
 yaminabernard
 atelier du 10 mars
 
+ceci est un [lien](https://github.com/digitalArtHistory/recits-numeriques/edit/main/16/README.md)
+
+
+**gras**
+
+*italique*
