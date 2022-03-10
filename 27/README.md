@@ -54,7 +54,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 Tableau de données
-<param ve-iframe 
+<param ve-tabulator
     src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/27/artpublic.csv">
 
 
