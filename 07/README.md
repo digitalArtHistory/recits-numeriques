@@ -51,7 +51,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 # Louise de Keroualle
 
 <param ve-graphic
-    url="https://upload.wikimedia.org/wikipedia/commons/3/37/Mignard%2C_Louise_de_K%C3%A9rouaille.jpg" # chemin local vers image ou url vers image en ligne
+    url="![image](https://user-images.githubusercontent.com/100982262/157739292-9f430624-75c9-4508-8a27-b36c85fc2520.png)" # chemin local vers image ou url vers image en ligne
     title="" # Louise
 >
 Louise de Kéroualle est l'espionne de Louis XIV et...
