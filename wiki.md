@@ -103,6 +103,7 @@ Un seul attribut pour ce composant : `src` qui sert à indiquer la source de l�
 ```
 
 **Copiez ce bloc-ci**
+
 ```html
 <param ve-iframe src="" />
 ```
@@ -117,7 +118,7 @@ Ici le plus gros consiste à construire la frise avec Knightlab en suivant les i
 
 Knightlab fournit une URL au format suivant (la liste des paramètres peut varier) :  
 
-``` 
+```html 
 https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?
     source={id de la source}&
     lang={langue, 'en' par défaut}&
@@ -145,6 +146,10 @@ Notons qu’on obtient le même résultat avec `ve-iframe` et l’URL fournie pa
 ---
 
 ### Visualiseur IIIF (`ve-image`)
+
+L’International Image Interoperability Framework (IIIF) est un cadre de travail pour interagir avec des images de haute qualité.
+
+Le composant IIIF de Juncture permet de proposer un hyperzoom, de présenter des galeries d’images, ou encore des images annotées et commentées.
 
 ➡️ voir [Options pour le visualiseur IIIF](https://github.com/jstor-labs/juncture/wiki/Visual-Essay-Image-Tag#options)
 ➡️ voir [Options avancées](https://github.com/jstor-labs/juncture/wiki/Visual-Essay-Image-Tag#interactions)
