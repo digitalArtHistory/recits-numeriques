@@ -11,7 +11,7 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
 Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
 Frida Kahlo’s father, Wilhelm , was a German photographer who had immigrated to Mexico where he met and married her mother Matilde. She had two older sisters, Matilde and Adriana, and her younger sister, Cristina, was born a year after her .
 
-<param ve-graphic url="https://www.forbes.com/sites/carlieporterfield/2021/09/22/this-frida-kahlo-self-portrait-could-fetch-30-million---the-most-ever-for-a-latin-american-artist/?sh=42c62d406981" title="Frida Kahlo" />
+<param ve-graphic url="https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo_2.jpg" title="Frida Kahlo" />
 
 # Biographie
 
