@@ -19,6 +19,10 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
        title="Lion"
 >
 
+Bestiaire
+<param ve-image manifest="https://digital.bodleian.ox.ac.uk/objects/e6ad6426-6ff5-4c33-a078-ca518b36ca49/"
+       seq="49"/>
+
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
 - modifier l’image de l’en-tête de votre essai visuel
