@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://en.chateauversailles.fr/sites/default/files/styles/reseaux_sociaux/public/visuels_principaux/personnages/74-000480.jpg?itok=6Cn6i0Sq" 
        layout="vertical">
        
 # Charles LeBrun
