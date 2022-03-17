@@ -47,12 +47,15 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
-```
+
+
 # Les récits recelés dans la matière du « moyen âge » : géographies multiples, mouvance et agentivité
+
 ## Perle biconique
-```
+
 [essai lien pour perle biconique](https://agakhanmuseum.org/collection/artifact/biconical-bead-akm618)
-```
+
 ## Perle biconique
-```
+
+
 
