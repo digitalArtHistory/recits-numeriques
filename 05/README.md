@@ -31,9 +31,9 @@ voici une image de gargouille
   url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
   title="Gargouilles" />
   
-voici une image de dragon
+voici une image de dragon qui provient d'un ouvrage de bestiaire. Cet ouvrage se base comme un encyclopédie pour expliquer le monde qui entoure la communauté humaine au Moyen Âge. Il suffit d'une peur des reptiles pour y voir une légende de dragon pour les artistes de l'époque et ainsi faire fructifier l'imaginaire bla blaa vla bla vla bvld aldmsf
 <param ve-graphic 
-  url="http://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg" 
+  url="https://github.com/digitalArtHistory/recits-numeriques/blob/ea804d25781d507fb922961cf24ebdde3e983edc/05/dragon.jpeg" 
   title="dragon" />
   
   
