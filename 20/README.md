@@ -62,6 +62,11 @@ Le premier objet présenté pose la question de l’or, ses chemins de commerce 
 
 [essai lien pour perle biconique](https://agakhanmuseum.org/collection/artifact/biconical-bead-akm618)
 
+## The Catalan Atlas
+
+<param ve-image 
+    url="https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b55002481n/f1" />
+
 ## Crosseron en ivoire
 
   Zone de texte pour Crosseron en ivoire de morse Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire et Perle de verre verte, 11,9 x 4,6 x 2,7 cm. musée de Cluny, Paris.besion d'un paragraph plus long pour que l'image s'affice...... (texte cluny filler: Cette partie supérieure d'un bâton pastoral est sculptée dans deux ivoires différents : le morse pour la volute du crosseron et l'hippopotame pour le nœud, sans doute une adjonction moderne. La volute terminée par une tête de dragon, bien peu menaçant, est ornée d'un enroulement de rinceaux habités par un lion sur une face, un aigle sur l'autre. De petites perles de verre coloré rehaussent la préciosité de l'ivoire, soulignent les motifs décoratifs et animent les yeux des animaux.)
@@ -69,14 +74,11 @@ Le premier objet présenté pose la question de l’or, ses chemins de commerce 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron-en-ivoire-de-morse/s,900-ae3a8e.jpg" 
   title="Crosseron en ivoire de morse" />
 
-### test
 
 Zone de texte pour Crosseron en ivoire de morse Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire et Perle de verre verte, 11,9 x 4,6 x 2,7 cm. musée de Cluny, Paris.besion d'un paragraph plus long pour que l'image s'affice...... (texte cluny filler: Cette partie supérieure d'un bâton pastoral est sculptée dans deux ivoires différents : le morse pour la volute du crosseron et l'hippopotame pour le nœud, sans doute une adjonction moderne. La volute terminée par une tête de dragon, bien peu menaçant, est ornée d'un enroulement de rinceaux habités par un lion sur une face, un aigle sur l'autre. De petites perles de verre coloré rehaussent la préciosité de l'ivoire, soulignent les motifs décoratifs et animent les yeux des animaux.)
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron%20en%20ivoire%20de%20morse%205/s,900-0987d7.jpg" 
   title="Crosseron en ivoire de morse" />
-
-### test
 
 Zone de texte pour Crosseron en ivoire de morse Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire et Perle de verre verte, 11,9 x 4,6 x 2,7 cm. musée de Cluny, Paris.besion d'un paragraph plus long pour que l'image s'affice...... (texte cluny filler: Cette partie supérieure d'un bâton pastoral est sculptée dans deux ivoires différents : le morse pour la volute du crosseron et l'hippopotame pour le nœud, sans doute une adjonction moderne. La volute terminée par une tête de dragon, bien peu menaçant, est ornée d'un enroulement de rinceaux habités par un lion sur une face, un aigle sur l'autre. De petites perles de verre coloré rehaussent la préciosité de l'ivoire, soulignent les motifs décoratifs et animent les yeux des animaux.)
 <param ve-graphic 
@@ -97,3 +99,8 @@ Zone de texte pour Crosseron en ivoire de morse Crosseron en ivoire de morse, pr
 Zone de texte pour Crosseron en ivoire de morse Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire et Perle de verre verte, 11,9 x 4,6 x 2,7 cm. musée de Cluny, Paris.besion d'un paragraph plus long pour que l'image s'affice...... (texte cluny filler: Cette partie supérieure d'un bâton pastoral est sculptée dans deux ivoires différents : le morse pour la volute du crosseron et l'hippopotame pour le nœud, sans doute une adjonction moderne. La volute terminée par une tête de dragon, bien peu menaçant, est ornée d'un enroulement de rinceaux habités par un lion sur une face, un aigle sur l'autre. De petites perles de verre coloré rehaussent la préciosité de l'ivoire, soulignent les motifs décoratifs et animent les yeux des animaux.)
 
 Zone de texte pour Crosseron en ivoire de morse Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire et Perle de verre verte, 11,9 x 4,6 x 2,7 cm. musée de Cluny, Paris.besion d'un paragraph plus long pour que l'image s'affice...... (texte cluny filler: Cette partie supérieure d'un bâton pastoral est sculptée dans deux ivoires différents : le morse pour la volute du crosseron et l'hippopotame pour le nœud, sans doute une adjonction moderne. La volute terminée par une tête de dragon, bien peu menaçant, est ornée d'un enroulement de rinceaux habités par un lion sur une face, un aigle sur l'autre. De petites perles de verre coloré rehaussent la préciosité de l'ivoire, soulignent les motifs décoratifs et animent les yeux des animaux.)
+
+
+    
+    
+
