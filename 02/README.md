@@ -1,6 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
-
 # Le lapis lazuli à l'époque médiévale
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
