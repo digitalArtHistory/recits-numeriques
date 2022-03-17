@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Représentations coloniales dans l'art médiéval" 
-       banner="https://collections.louvre.fr/media/cache/small/0000000021/0000318774/0000660923_OG.JPG" 
+       banner="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.panoramadelart.com%2Fbassin-baptistere-saint-louis&psig=AOvVaw0rqQcMlDqiDVZ-ww7gO3Jz&ust=1647626381814000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMCgjOPczfYCFQAAAAAdAAAAABAX" 
        layout="vertical">
 
 # Fichier de démarrage
