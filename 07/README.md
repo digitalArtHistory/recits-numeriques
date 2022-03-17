@@ -65,7 +65,7 @@ Louise de Kéroualle est l'espionne de Louis XIV et...
 ## Voici un article qui présente Loulou
 
 [Louise de Kéroualle](https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual) 
-
+Louise
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
 
 Ils auraient pu travailler de chez eux, mais le contact humain restait une priorité. Voir les collègues, prendre un café ensemble à midi et ce dire ‘À demain’. Telle était la vie de l’homme "moderne".
