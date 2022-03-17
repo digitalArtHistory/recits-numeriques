@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://www.historymuseum.ca/wp-content/uploads/2016/03/aska-pendant-fid-107873-1.jpg" 
        layout="vertical">
 
 # Fichier de démarrage
@@ -53,5 +53,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-
+/images/ViennaDioscoridesFolio483vBirds.jpg
 
