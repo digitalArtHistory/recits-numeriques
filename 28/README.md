@@ -21,15 +21,4 @@ En principe, il travaille avec un **matériau brut et froid tel que le béton**,
 À l’intérieur, des espaces vastes, favorisant un parcours au concept similaire à un labyrinthe. À tout moment, il crée des effets transitoires et des successions de scène du paysage. La complexité de ces che- mins est visible dans le plan, ces parcours créent des effets de sur- prise et d’espace inattendus. On peut joindre cette idée avec le prin- cipe des déambulations dans certains milieux urbains au Japon. En revanche, la seule différence est que le parcours n’est pas nécessai- rement contrôlé, mais bien le regard. Ainsi cela crée une profondeur et donne la sensation aux habitants d’être dans un espace maîtrisé. Nous ne pouvons cesser de mentionner que dans la conception de Tadao Ando, la lumière est un élément primordial et marque l’iden- tité de ses projets. Il est en mesure de créer des motifs aux sols, dé- placer et refléter la lumière dans l’espace plutôt que simplement laisser la lumière tomber au sol. Il crée des expériences et des effets dramatiques grâce aux scènes qui se transforment selon le temps, la journée, le climat et les saisons tout au courant de l’année. En effet, la lumière est un facteur de contrôle important dans son travail ; de plus, cela des effets de contraste.
 
 
-## LISTE DES PROJETS
-* Logement Rokko 1978
-Ensemble de logements situés au pied du mont Rokkô à Kôbe, sur une pente naturelle de 60 degrés. Sur un terrain en pente, le loge- ment est constitué de quatre projets aux volumes différents et dis- tincts, d’une apparence unique qui n’a cessé de développer pendant 30 ans. Ces quatre phases sont en fait trois projets pour différents clients sur différents sites réalisés dans des délais différents capacité, mais tous doté d’un paysage urbain harmonieux.  
-* Église de la lumière d"Ibaraki 1987-89 -
- 
 
-> When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando
-
-
-
-
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
