@@ -32,6 +32,6 @@ Un élément débute par une séquence de caractères <, le nom de l’élément
 
 Le prince Djem. aussi connu sous le nom de Zizim a été prisonnier en Europe pour la majeure partie sa vie : à partir de sa défaite contre son frère, le sultan Bayazid, jusqu'à sa mort
 <param ve-image
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535160j/manifest.json seq="357">
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535160j/manifest.json seq="356">
 
 
