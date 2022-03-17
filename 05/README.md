@@ -28,7 +28,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 jsldfhsfuvhnisulgvvslouvhbns;ovnlkuùnvùk;vnsd;vlajvnsdonvn;dlvvuovlzvxzmhvuovlmxvbxjvozvolxmnbj » cvj»nvlzkvxjbùkvcjùl vkhùhvbùlkvhbvkbzuvba, vxùlkùxjucbn,
 <param ve-image 
-    manifest="https://gallica.bnf.fr/ark:/12148/btv1b8447085f/f1.highres" />
+    manifest="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/dragon%20IIIF.png" />
   
 # Explorer Markdown
 
