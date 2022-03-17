@@ -17,7 +17,7 @@ Voici quelques actions à réaliser pour commencer :
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 <param ve-image
     url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
-    The legend of Saint Margaret, the Early Christian martyr also known as Marina, details the many painful ordeals she endured before her eventual death during the reign of Emperor Diocletian (r. 284–305). Having been swallowed by the devil in the guise of a dragon, the saint burst unharmed from its body after making the sign of the cross.
+The legend of Saint Margaret, the Early Christian martyr also known as Marina, details the many painful ordeals she endured before her eventual death during the reign of Emperor Diocletian (r. 284–305). Having been swallowed by the devil in the guise of a dragon, the saint burst unharmed from its body after making the sign of the cross.
 
 # Explorer Markdown
 
