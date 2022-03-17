@@ -16,7 +16,7 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 <param ve-image
-    url="hhttps://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
+    url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
 
 # Explorer Markdown
 
