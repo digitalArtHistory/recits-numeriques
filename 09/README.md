@@ -19,8 +19,7 @@ Un élément débute par une séquence de caractères <, le nom de l’élément
 # Saint Maurice     
 Saint Patron Magdebourg
 Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
-
-<param ve-graphic url="https://external-preview.redd.it/Zw81swkzfVrs8KL915rD1F_g2XK37SyMhy-twa9B4mI.jpg?auto=webp&s=14be5d029a169913b8a7a570ac9de54109a34a67" title="Saint Maurice" />
+<param ve-graphic url="https://external-preview.redd.it/Zw81swkzfVrs8KL915rD1F_g2XK37SyMhy-twa9B4mI.jpg?auto=webp&s=14be5d029a169913b8a7a570ac9de54109a34a67" title="Saint Maurice" /> 
 
 
 # L'Adoration des Mages
@@ -35,5 +34,7 @@ Un élément débute par une séquence de caractères <, le nom de l’élément
 Le prince Djem. aussi connu sous le nom de Zizim a été prisonnier en Europe pour la majeure partie sa vie : à partir de sa défaite contre son frère, le sultan Bayazid, jusqu'à sa mort
 <param ve-image
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535160j/manifest.json" seq="356">
-
-
+    
+    
+    
+    THE END
