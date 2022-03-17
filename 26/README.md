@@ -16,6 +16,9 @@ Ce camée de lapis-lazuli est sculpté d'un côté d'une Vierge orante debout, d
 <param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550097566/manifest.json" />
 
 # Diptyque de Wilton
+diptyque portatif, composé de deux panneaux de chêne dans des cadres de bois reliés par des charnières et réalisé pour l'usage privé de Richard II, roi d'Angleterre. Il combine des images religieuses et laïques pour incarner sa conception personnelle de la royauté et ses préoccupations concernant la famille et le statut. 
+Sur la face principale du diptyque, panneau de gauche, le jeune roi, somptueusement vêtu, est agenouillé et présenté à la Vierge et l’Enfant Jésus par son saint patron personnel, Jean-Baptiste, et par Edmond le Martyr et Édouard le Confesseur, saints patrons et anciens rois d’Angleterre. La disposition des trois rois devant la Vierge à l'Enfant rappelle l'Adoration des Rois. Richard II tend les mains pour donner ou recevoir l'étendard à croix rouge et blanche, aux armes de saint Georges.  L’arrière-plan et autres détails sont réalisés à la feuille d’or, et l'œuvre a été travaillé en dessous des dorures en certains endroits pour en améliorer la qualité artistique.
+Sur le panneau de droite, l’Enfant Jésus, porté par la Vierge, les deux entourés d’anges, est revêtu d’un tissu d’or. Les couleurs intenses, très nettes, jaillissent sur un fond doré à la feuille. Le lapis-lazuli, pigment très dispendieux à l’époque, orne les robes de tous les anges et de la Vierge et en fait une œuvre très précieuse.  
 
 
 # Icône portative:  la Transfiguration du Christ
