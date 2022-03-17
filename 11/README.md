@@ -5,7 +5,7 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
        
-blablba
+Chapiteau catalan
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/chapiteau-catalan-histoire-dabraham/chapiteau-catalan-cl-23900-1/s,900-2dc782.jpg" 
        title="Histoire de Noé" />
