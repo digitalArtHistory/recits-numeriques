@@ -50,5 +50,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 *test*
 
-
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
 
