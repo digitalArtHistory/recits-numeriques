@@ -15,9 +15,8 @@ Voici quelques actions à réaliser pour commencer :
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
-<param ve-graphic
-    url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/BK-NM-11363-A.jpg?raw=true" 
-    title="Saint Joris met de draak"/>
+<param ve-image
+    url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10539087h/f18/full/1500/0/native.jpg"/>
 
 # Explorer Markdown
 
