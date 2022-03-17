@@ -71,13 +71,13 @@ Louise
 Ils auraient pu travailler de chez eux, mais le contact humain restait une priorité. Voir les collègues, prendre un café ensemble à midi et ce dire ‘À demain’. Telle était la vie de l’homme "moderne".
 [Louise de Kéroualle](https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual) 
 Le militaire regagna sa voiture et la barrière s’ouvrit. David regardait autour de lui, la base militaire où il avait passé dix mois de sa vie. Il n’y avait pas beaucoup de changement. L’herbe toujours aussi bien tondue, les allées toujours aussi propres. Les mêmes bâtiments. Juste les décors avaient changés. Il s’agissait de chars. C’étaient les chars que David avait eu l’occasion de voir fonctionner et qui, maintenant, avaient remplacé les vieux chars qui servaient de décors. Cela fit sourire David.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
 Un long silence se fit dans la voiture. Le chauffeur regardait droit devant. David jeta un œil sur le compteur qui affichait 210km/h. L’autoroute était déserte. Depuis la construction de la Ligne Grande Vitesse, les gens préféraient prendre les transports en communs, plus rapides et moins chers. La LGV traversait la France d'un bout à l'autre avec un arrêt à Paris.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
 Tu vas le prendre avec toi. Tu brancheras ton téléphone mobile dessus afin que je puisse rester en contact avec toi. Il te faudra aussi un câble de liaison pour brancher ton ordinateur sur le réseau militaire.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
 De tout temps, l'homme a tenté de comprendre puis de reproduire l'extraordinaire machine qu'est l'être humain. Les premiers automates nous font sourire aujourd'hui. Les premiers ordinateurs également, mais un peu moins. Et lorsqu'un certain McCullogn, aidé de Pitts, invente en 1943 le premier neurone formel, on ne rigole plus. L'ordinateur est devenu capable de reproduire des neurones artificiels. Le "complexe de Frankenstein" va alors freiner les recherches. On commence à entendre parler du concept d'Intelligence Artificielle, plus connu sous les termes d'IA. Cela fait peur.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
 De tout temps, l'homme a tenté de comprendre puis de reproduire l'extraordinaire machine qu'est l'être humain. Les premiers automates nous font sourire aujourd'hui. Les premiers ordinateurs également, mais un peu moins. Et lorsqu'un certain McCullogn, aidé de Pitts, invente en 1943 le premier neurone formel, on ne rigole plus. L'ordinateur est devenu capable de reproduire des neurones artificiels. Le "complexe de Frankenstein" va alors freiner les recherc
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
 
