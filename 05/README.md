@@ -48,10 +48,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-
-<param ve-config 
-       title="depart" 
-       banner=:"//github.com/digitalArtHistory/recits-numeriques/blob/main/images/ViennaDioscoridesFolio483vBirds.jpg "
-       layout="vertical"/>
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
        
 ttt
