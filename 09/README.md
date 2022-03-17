@@ -18,7 +18,7 @@ Un élément débute par une séquence de caractères <, le nom de l’élément
 # Saint Maurice 
 Saint Patron Magdebourg
 Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
-<param ve-graphic url="https://www.johnblanke.com/uploads/6/3/7/4/6374920/9547175_orig.jpg" title="Saint Maurice" />
+<param ve-graphic url="hhttps://gallica.bnf.fr/ark:/12148/btv1b84466411/f1.highres" title="Saint Maurice" />
 
 # test
 
