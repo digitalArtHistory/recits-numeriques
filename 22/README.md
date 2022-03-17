@@ -4,9 +4,9 @@
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
-       
-       
-   # Les reliquaires: objets de dévotion
+
+
+# Les reliquaires: objets de dévotion
 
 
 Buste-reliquaire de Sainte Mabille
@@ -16,9 +16,7 @@ Le style, en particulier le traitement du visage avec son nez droit, ses arcades
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/60-buste-reliquaire-de-sainte-mabille/buste-reliquaire-de-sainte-mabille/s,900-4d2b0f.jpg" 
   title="Buste reliquaire de Sainte Mabille" /> 
-
-
- 
+  
 
 Reliquaire des Saints Luciens, Maxien et Julien
 
@@ -28,8 +26,6 @@ Trois ouvertures sur la face du reliquaire permettent de voir les reliques qu’
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/41-reliquaire-des-saints-lucien-maxien-et-julien/reliquaire%20des%20saints%20lucien,%20maxien%20et%20julien%20-1/s,900-6dca78.jpg" 
   title="Reliquaire des Saints Lucien, Maxien et Julien" />
 
-
-  
 
 Chef reliquaire de Saint Candide
 
@@ -41,14 +37,14 @@ Le chef reliquaire fait parti du trésor de l'Abbaye de..
   title="Chef reliquaire de Saint Candide" />
   
   
-  Pied reliquaire de Saint Jacques le Majeur
-  <param ve-graphic 
+Pied reliquaire de Saint Jacques le Majeur
+<param ve-graphic 
   url="https://wp.fr.aleteia.org/wp-content/uploads/sites/6/2021/08/3-Pied-reliquaire-de-saint-Jacques-le-Majeur.-Namur-Photo-TreM.a-Muse%CC%81e-des-Arts-anciens-du-Namurois-Tre%CC%81sor-dOignies.jpg?w=1280&crop=1" 
   title="Pied reliquaire de Saint Jacques le Majeur" />
   
   
-  Reliquaire de la Sainte Épine 
-  <param ve-graphic 
+Reliquaire de la Sainte Épine 
+<param ve-graphic 
   url="https://www.narthex.fr/blogs/orfevrerie/images-g-denniel/vignette-reliquaire-de-la-sainte-epine-c-tresor-de.jpg/image_preview" 
   title="Reliquaire de la Sainte Épine" />
     
