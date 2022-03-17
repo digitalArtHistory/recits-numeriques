@@ -15,8 +15,8 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
-  title="Gargouilles" />
+  url="https://www.perseus-web.fr/nar6/uploads/tapisserie-de-bayeux-ok.jpg" 
+  title="bayeux" />
 
 # Explorer Markdown
 
