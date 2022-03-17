@@ -15,9 +15,7 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
-<param ve-graphic 
-  url="https://historyofinformation.com/images/Codex_Aureus_Sankt_Emmeram.jpg" 
-  title="Codex Aureus couverture du manuscrit" />
+<param ve-image url="https://historyofinformation.com/images/Codex_Aureus_Sankt_Emmeram.jpg" />
 
 
 # Explorer Markdown
