@@ -4,6 +4,10 @@
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
+       
+<param ve-graphic 
+       url="https://www.musee-moyenage.fr/cache/media/oeuvres/chapiteau-catalan-histoire-dabraham/chapiteau-catalan-cl-23900-1/s,900-2dc782.jpg" 
+       title="Histoire de Noé" />
 
 # **chapiteaux religieux**
 
@@ -54,7 +58,4 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 [Musée de Cluny](https://www.musee-moyenage.fr/collection/oeuvre/chapiteau-catalan-abraham.html)
 
-<param ve-graphic 
-       url="https://www.musee-moyenage.fr/collection/oeuvre/chapiteau-catalan-histoire-noe.html" 
-       title="Histoire de Noé" />
 
