@@ -4,16 +4,23 @@
        title="TADAO ANDO" 
        banner="https://static.dezeen.com/uploads/2017/10/endeavors-by-tadao-ando-_dezeen_2364_hero1.jpg" 
        layout="vertical">
-       
+
+<!-- Entities discussed throughout the essay are typically defined before the essay text and
+     are thus available in all text.  Entity identifiers (QIDs) can be found in either
+     Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <!--<param ve-entity title="Tadao Ando" eid="Q208220" aliases="Tadao Ando" />-->
 <param ve-entity title="architecture" eid="Q12271" aliases="architecte" />
 <param ve-entity eid="Q9128" aliases="lumière" />
+<parem ve-entity eid="Q152036" />
+
+
 
 # TADAO ANDO
 
 ## Bibliographie
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. *[Tadao Ando](https://http://www.tadao-ando.com/)* lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. 
-<param ve-iframe src="https://www.vitra.com/en-ca/about-vitra/designer/details/tadao-ando" />
+<!-- [Tadao Ando](https://http://www.tadao-ando.com/)* -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Tadao Ando lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. 
+<!--<param ve-iframe src="https://www.vitra.com/en-ca/about-vitra/designer/details/tadao-ando" />-->
 
 ## Regard et pensée
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
