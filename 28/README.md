@@ -18,7 +18,7 @@ En principe, il travaille avec un **matériau brut et froid tel que le béton**,
 
 
 ## PROJETS
-Église de la lumière d"Ibaraki 1987-89
+Église de la lumière d"Ibaraki 1987-89. 
 Logement Rokko 1978
 
 > When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando
