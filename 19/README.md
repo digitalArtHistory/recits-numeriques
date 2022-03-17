@@ -60,7 +60,7 @@ Eve Sedgewick’s
 
   
   QUEER CONTEMPORARY
-« […] that intersectionality promises new insights not only into the role that visual culture plays in
+« […] intersectionality promises new insights not only into the role that visual culture plays in
 constructing contemporary identities, but also in the historical formations on which our identities depend.
 […] Beth Fischer offers an instance in which the female body is endowed with symbolic power by being
 pre- sented as both inferior and monstrous; paradoxically, it could both destabilize the viewer’s gender
