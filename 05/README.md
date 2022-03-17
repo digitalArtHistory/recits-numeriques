@@ -30,7 +30,7 @@ jsldfhsfuvhnisulgvvslouvhbns;ovnlkuùnvùk;vnsd;vlajvnsdonvn;dlvvuovlzvxzmhvuovl
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json" />
 <param ve-image 
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508970d/manifest.json20r" /> 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508970d/manifest.json" seq="44" /> 
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
