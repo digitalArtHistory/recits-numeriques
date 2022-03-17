@@ -43,6 +43,11 @@ Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
+<param ve-graphic
+    url="blob:null/c1bda40f-2fbc-452b-a41c-6e0644950f2c" 
+    title="Saint Joris met de draak"/>
+
+
 ## Premiers pas avec Juncture (travail dirigé)
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
