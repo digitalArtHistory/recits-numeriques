@@ -15,7 +15,7 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
-<param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/f1/full/full/0/native.jpg" />
+
 
 
 
