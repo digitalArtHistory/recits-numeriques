@@ -78,5 +78,6 @@ This narrative, including the eleven miniatures (images) containing narrative co
 Sodomy, and characters representing sodomy, does not match with our modern cis-heteronomative presumptions. This means that the “sodomitical” characters represented in Romance de Silence don’t conform to these presumptions either.
 
 There are three characters (Silence, Eupheme, and the Nun) who do not conform to their assigned gender roles, and one of these characters has been called by contemporary scholars a “lesbian” figure.
+
 <param ve-graphic url="https://www.queerarthistory.com/wp-content/uploads/2020/07/WLC-LM-6_folio-222v-1406x2048.jpg" title="" />
 
