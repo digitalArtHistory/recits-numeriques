@@ -72,7 +72,7 @@ identity and reinforce gendered social inequalities. »
   title= "contemporary">
   
 <param ve-image 
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k877400g/manifest.json"/>
+    manifest="https://d3vjn2zm46gms2.cloudfront.net/blogs/2016/10/27003939/NCOD17manifest.json"/>
 
 
 
