@@ -15,9 +15,6 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
-<param ve-graphic 
-  url="https://user-images.githubusercontent.com/101298300/158862115-63971a23-eb68-4424-b952-671f6526ef9f.png" 
-  title="Olifan"/>
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
@@ -54,7 +51,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 
 # manifest de la BnF avec une seule image
-<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b6953414k/f1/full/2166,/0/native.jpg" 
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b6953414k/manifest.json" 
     license="CC BY-SA"/> 
     
 
