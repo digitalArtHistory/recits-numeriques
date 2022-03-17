@@ -41,6 +41,7 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
   url="https://historiska.se/wp-content/uploads/2015/04/klintastaven_artikel_541355.jpg" 
   title="Pendentif d'Aska" />
   
+  
 Baton Klinta
 
 <param ve-graphic 
