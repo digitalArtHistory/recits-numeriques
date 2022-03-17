@@ -42,6 +42,7 @@ Voici quelques ressources sur Markdown
 ## Premiers pas avec Juncture (travail dirigé)
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
+<param ve-image url="https://gallica.bnf.fr/ark:/12148/btv1b53064889t/f1.thumbnail" />
 - créer des sections interactives (paragraphes)
 - insérer une image
 - insérer une image avec IIIF
