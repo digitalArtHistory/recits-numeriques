@@ -8,10 +8,10 @@
 # Fichier de démarrage Tapisserie
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-<param ve-graphic
-    url="https://www.bayeux.fr/sites/default/files/media/tapisserie_de_bayeux_ok.jpg" 
-    title="tapisserie bayeux" />
-
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
+  
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
 - modifier l’image de l’en-tête de votre essai visuel
