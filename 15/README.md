@@ -27,9 +27,22 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 ### Titre de niveau 3
 ```
 
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
+Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
+Frida Kahlo’s father, Wilhelm , was a German photographer who had immigrated to Mexico where he met and married her mother Matilde. She had two older sisters, Matilde and Adriana, and her younger sister, Cristina, was born a year after her .
+Around the age of six, frida had  contracted polio, which caused her to be bedridden for nine months. While she recovered from the illness, she limped when she walked because the disease had damaged her right leg and foot. Her father encouraged her to play soccer, go swimming, and even wrestle — highly unusual moves for a girl at the time.
+In 1922, frida joined the renowned National Preparatory School. She was one of the few female students to attend the school, and she became known for her jovial spirit and her love of traditional and colorful clothes and jewelry.
+While at school, frida hung out with a group of politically and intellectually like-minded students. Becoming more politically active, Kahlo joined the Young Communist League and the Mexican Communist Party. 
+On September 17, 1925, Kahlo and Alejandro Gómez Arias, a school friend with whom she was romantically involved, were traveling together on a bus when the vehicle collided with a streetcar. As a result of the collision, Kahlo was impaled by a steel handrail, which went into her hip and came out the other side. She suffered several serious injuries as a result, including fractures in her spine and pelvis.
+After staying at the Red Cross Hospital in Mexico City for several weeks, Kahlo returned home to recuperate further. She began painting during her recovery and finished her first self-portrait the following year
+In 1929, Frida Kahlo and famed Mexican muralist Diego Rivera married. frida and diego first met in 1922 when he went to work on a project at her high school. She often watched as rivera created a mural called The Creation in the school’s lecture hall. According to some reports, she told a friend that she would someday have Rivera’s baby.
+She  reconnected with him in 1928. He encouraged her artwork, and the two began a relationship.
+As the years passed She was saddened by his many infidelities, including an affair with her sister Cristina. In response to this familial betrayal, Kahlo cut off most of her trademark long dark hair. Desperately wanting to have a child, she again experienced heartbreak when she miscarried in 1934.
+Kahlo divorced Rivera in 1939. They did not stay divorced for long, remarrying in 1940. The couple continued to lead largely separate lives, both becoming involved with other people over the years.
 
-Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
+
+Frida  received a commission from the Mexican government for five portraits of important Mexican women in 1941, but she was unable to finish the project. She lost her beloved father that year and continued to suffer from chronic health problems. Despite her personal challenges, her work continued to grow in popularity and was included in numerous group shows around this time.
+In 1953, frida received her first solo exhibition in Mexico. While bedridden at the time, frida did not miss out on the exhibition’s opening. Arriving by ambulance, she spent the evening talking and celebrating with the event’s attendees from the comfort of a four-poster bed set up in the gallery just for her.
+
 
 > Ceci est du texte cité.
 
