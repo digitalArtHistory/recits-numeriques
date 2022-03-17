@@ -23,8 +23,9 @@ Buste-reliquaire de Sainte Mabille
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/60-buste-reliquaire-de-sainte-mabille/buste-reliquaire-de-sainte-mabille/s,900-4d2b0f.jpg" 
   title="Buste reliquaire de Sainte Mabille" /> 
-  blablablablabalbalbaba
-  baba;ab;aba;ba
+Sainte Mabille, identifiée par une inscription sur la poitrine, est l'une des onze mille vierges martyres ayant suivi sainte Ursule. Elle est représentée ici en buste, coupé sous les épaules et reposant sur des arcatures trilobées alternées de pierreries. Au sommet du crâne se trouve la logette de la relique, visible au moyen d'un opercule mobile. Revêtue d'un vêtement doré orné d'un orfroi, sainte Mabille a les traits d'une jeune femme à l’expression grave. Son visage est souligné par des tresses encadrant son front haut. Elle tourne légèrement la tête vers la gauche en levant le regard.
+
+Le style, en particulier le traitement du visage avec son nez droit, ses arcades sourcilières rectilignes et ses cheveux dessinant un ovale net, correspond aux œuvres siennoises du milieu du 14e siècle.
  
 
 Reliquaire des Saints Luciens, Maxien et Julien
@@ -32,6 +33,11 @@ Reliquaire des Saints Luciens, Maxien et Julien
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/41-reliquaire-des-saints-lucien-maxien-et-julien/reliquaire%20des%20saints%20lucien,%20maxien%20et%20julien%20-1/s,900-6dca78.jpg" 
   title="Reliquaire des Saints Lucien, Maxien et Julien" />
+  Cette châsse est un rare et précieux exemple de l'orfèvrerie parisienne du 13e siècle. C'est le seul reliquaire du trésor de la Sainte-Chapelle qui date de l'époque de sa construction.
+
+Sur cette pièce en argent doré sont gravés trois saints vénérés à Beauvais : Lucien, Maxien et Julien, tenant leurs têtes décapitées comme le raconte la légende ; leurs reliques avaient été offertes à Louis IX, le futur saint Louis.
+
+Trois ouvertures sur la face du reliquaire permettent de voir les reliques qu’il contenait.
   
 
 Chef reliquaire de Saint Candide
