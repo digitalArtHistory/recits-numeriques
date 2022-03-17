@@ -11,7 +11,7 @@ Introduction .AEzaelamùelaz
 
 ## Titre de niveau 2
 
-ableazae
+ableazae[^1]
 
 # Fichier de démarrage
 
@@ -69,3 +69,6 @@ Nullam porttitor sagittis dolor. <span data-click-image-zoomto="2829,250,1631,11
 Duis sagittis dignissim scelerisque. Proin placerat diam sapien, id varius quam finibus vel. Suspendisse molestie nisi eget lectus gravida, sed elementum purus sodales. Nullam hendrerit, lorem vel venenatis accumsan, mauris tortor venenatis ex, et semper ante massa sit amet nibh. Nam facilisis mollis aliquam. Etiam ac ex finibus, porta dui in, eleifend ex. Duis viverra consequat justo, eget tincidunt nisi vulputate vitae. Morbi non dapibus odio, eget feugiat purus. Quisque libero felis, pharetra a ex sed, pretium bibendum nunc. Morbi interdum, ex vel pulvinar eleifend, lacus enim auctor sapien, vitae molestie nisl nisi ut nulla. Aliquam tincidunt elit non risus pretium eleifend sit amet et sem. Curabitur accumsan mattis ipsum sed fringilla. Aliquam vestibulum gravida libero non rhoncus. Praesent eu felis sed metus posuere vehicula nec sit amet felis. Donec odio turpis, varius eget luctus eget, accumsan sit amet libero. Nam a nunc id nulla pellentesque lobortis.
 
 Aenean gravida eros ac nisi condimentum, quis maximus est laoreet. Aenean eu sapien suscipit, accumsan neque ut, sodales justo. Mauris eget odio eros. Pellentesque ac enim quis lacus fringilla pharetra. Cras luctus malesuada elit ac aliquam. Etiam sed sollicitudin turpis, in dignissim enim. Etiam sagittis volutpat ante, et elementum felis pellentesque eget. Suspendisse potenti. Aenean quis semper ante. Nunc arcu enim, aliquam sed sapien eu, dapibus fringilla risus. Maecenas vitae eros venenatis, sagittis arcu sit amet, vehicula sapien. Quisque rhoncus urna nibh, a fermentum eros dictum vitae. Aliquam semper lectus quis sem luctus vehicula. Phasellus non lobortis nunc.
+
+---
+[^1]: Du texte de note [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
