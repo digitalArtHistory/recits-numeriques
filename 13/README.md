@@ -81,3 +81,5 @@ There are three characters (Silence, Eupheme, and the Nun) who do not conform to
 
 <param ve-graphic url="https://www.queerarthistory.com/wp-content/uploads/2020/07/WLC-LM-6_folio-222v-1406x2048.jpg" title="" />
 
+ Silence standing nude before Kind Evan, WLC.LM.6, Roman de Silence, f. 222v. Used with permission from University of Nottingham Manuscripts and Special Collections.
+
