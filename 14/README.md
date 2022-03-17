@@ -19,7 +19,7 @@ Voici quelques actions à réaliser pour commencer :
 
 <param ve-graphic 
   url="![image](https://user-images.githubusercontent.com/101298300/158861510-141d5228-4800-4bf9-8740-0580c9d7ba45.png)" 
-  title="Olifan">
+  title="Olifan"/>
 
 # Explorer Markdown
 
