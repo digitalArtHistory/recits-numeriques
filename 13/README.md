@@ -75,6 +75,14 @@ Les deux sources principales sur l'histoire de Jeanne d'Arc sont le procès de l
 />
 
 
+Les procès sont des actes juridiques. Les deux procès ont la particularité d'avoir subi une influence politique évidente, et la méthode inquisitoire suppose bien souvent que l'accusée et les témoins ne répondent qu'aux questions posées. De plus le procès de 1431 fut retranscrit en latin (vraisemblablement à l'insu de Jeanne), alors que les interrogatoires étaient en français.
+
+Philippe Contamine, au cours de ses recherches, a constaté une abondance d'écrits dès 1429, et le « formidable retentissement au niveau international » dont cette abondance témoigne. Il remarque également que Jeanne d'Arc fut d'emblée mise en controverse et suscita le débat parmi ses contemporains. Enfin, dès le début « des légendes coururent à son sujet, concernant son enfance, ses prophéties, sa mission, les miracles ou les prodiges dont elle était l'auteur. Au commencement était le mythe. »
+
+Il apparaît donc qu'aucun document contemporain de l'époque — hormis les minutes des procès — n'est à l'abri de déformations issues de l'imaginaire collectif. Au cours du procès de réhabilitation, les témoins racontent d'après des souvenirs vieux de 26 ans.
+<param ve-graphic 
+  url="https://gallica.bnf.fr/ark:/12148/btv1b525033083" 
+  title="Gargouilles" />
 
 <param ve-graphic 
   url="https://gallica.bnf.fr/ark:/12148/btv1b525033083/f208#"
