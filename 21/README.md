@@ -14,8 +14,7 @@ Voici quelques actions à réaliser pour commencer :
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
-
-<param ve-image url="https://historyofinformation.com/images/Codex_Aureus_Sankt_Emmeram.jpg" />
+<param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/f1/full/full/0/native.jpg" />
 
 
 # Explorer Markdown
