@@ -17,8 +17,6 @@ La préface présente la façon dont Le Brun commençait ces dessins et comment 
 <param ve-image
  manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b531282192/manifest.json" />
  
-Le Brun réalise également plusieurs tableaux de chevalet, plus modestes, pour orner les demeures des amateurs parisiens. C'est le cas de la commande passée par Pierre Poncet, conseiller de la cour des aides, seigneur de Parousel et petit cousin éloigné du chancelier Séguier139, pour son oratoire de la rue d'Anjou (bâti par son père à partir de 1635)140. Le Brun réalise pour lui un Repos pendant la fuite en Égypte ou Le Christ enfant expliquant l'écriture sainte141. Le tableau, perdu, a été gravé par Rousselet (Paris, Bibliothèque Nationale de France) et a fait l'objet de plusieurs répliques141 (une version est au musée de Minneapolis, une autre a été découverte dans une collection particulière par Alessandro Agresti en 2010142)
+Le tome II de ce même catalogue, offre des dessins plus axés sur le visage tout en abordant la théorie de l’expression des passions de Le Brun. Le catalogue montre une séries d’images de visage fait à la plume, à la pierre noir et à l’encre brune ayant des expressions faciales très distinctes les unes des autres: montrant ainsi sa théorie sur papier. Il y a aussi des visages dessinés à partir d’animaux, des dessins de textures de draps et de vêtements  ou encore des bâtiments. 
+<param ve-video id="ikXPblRgwG5Y" title ="Charles Le Brun (1619-1690) , First Painter to the King Louis XIV" start="03" />
 
-**gras**
-
-*italique*
