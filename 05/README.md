@@ -31,8 +31,8 @@ voici une image de gargouille
   url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
   title="Gargouilles" />
   
-  voici une image de dragon
-  <param ve-graphic 
+voici une image de dragon
+<param ve-graphic 
   url="http://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg" 
   title="dragon" />
   
