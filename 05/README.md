@@ -72,7 +72,7 @@ Son nid haut eslevé sur un aspre rocher :
 Dont il deffend, hardi, contre plusieurs armees
 Les mines par sa griffe une fois entamees ».  
 <param ve-graphic 
-  url="://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg" />
+  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/griffon.jpeg" />
   
   
 # Explorer Markdown
