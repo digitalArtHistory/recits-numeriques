@@ -11,13 +11,12 @@ Axe de présentation : confronter l'idée préconçue que le Moyen Âge occident
 
 
 # Mansa Moussa roi du Mali
-
-[lien](https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg)
+Le roi du Mali
 <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg" title= "Atlas Catalan : détail Mansa Moussa" />
 
 
 # Les Mages
-
+Les rois mages représentent les différentes parties du monde
 <param ve-graphic
     url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Hans_Multscher_-_Au%C3%9Fenfl%C3%BCgel_des_Wurzacher_Altars_-_Google_Art_Project.jpg" 
     title="L"Adoration des Mages Hans Multscher" 
