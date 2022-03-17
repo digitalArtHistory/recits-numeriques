@@ -9,6 +9,7 @@
 ## À PROPOS
 ### Bibliographie
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
+[TADAO ANDO](https://http://www.tadao-ando.com/)
 
 ### Regard et pensée
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.# La matérialité
