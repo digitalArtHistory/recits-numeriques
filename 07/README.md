@@ -56,6 +56,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 # Louise de Keroualle
+
+Louise
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" 
   title="Lady Kéroualle" />
