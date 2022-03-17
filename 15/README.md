@@ -51,5 +51,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 <param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
 
-
-<param ve-graphic url="https://www.newyorker.com/magazine/2019/02/11/frida-kahlos-style-and-substance" title="Frida Kahlo, 1939," />
+<param ve-image 
+    url="" />
