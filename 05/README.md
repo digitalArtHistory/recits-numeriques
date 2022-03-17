@@ -37,6 +37,19 @@ voici une image de dragon qui provient d'un ouvrage de bestiaire. Cet ouvrage se
   title="dragon" />
   
   
+  « […] l'Indois Griffon aux yeus estincelans,
+A la bouche aquiline, aux ailes blanchissantes,
+Au sein rouge, au dos noir, aux griffes ravissantes,
+Dont il va guerroyant et par monts et par vaux
+Les lyons, les sangliers, les ours, et les chevaux :
+Dont il fouille pillard le feconde poictrine
+De nostre bisayeule, et là dedans butine
+Maint riche lingot d'or, pour apres en plancher,
+Son nid haut eslevé sur un aspre rocher :
+Dont il deffend, hardi, contre plusieurs armees
+Les mines par sa griffe une fois entamees ».  <param ve-image 
+    manifest="https://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg" />
+  
   
 # Explorer Markdown
 
