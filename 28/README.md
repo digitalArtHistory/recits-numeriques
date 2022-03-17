@@ -2,11 +2,9 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://static.vitra.com/media-resized/AzSPHfiyf1E0SY8_aaWEyO0g3DImYJlNpyHNxzoUDR8/fill/1440/959/ce/0/aHR0cHM6Ly9zdGF0aWMudml0cmEuY29tL21lZGlhL2Fzc2V0LzE3Mzg0NDIvc3RvcmFnZS92X2Z1bGxibGVlZF8xNDQweC8yMjYyODg5NC5qcGc.jpg" 
        layout="vertical">
-<a href="https://www.vitra.com/fr-ca/home"> 
-       
-<img src="https://www.vitra.com/fr-ca/magazine/details/the-hill-of-the-buddha" style="height:40px"></a>
+
 
 # TADAO ANDO
 
