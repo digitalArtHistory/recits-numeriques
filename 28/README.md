@@ -5,15 +5,15 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Titre
+# TADAO ANDO
 
-## Bibliographie
+### BIBLIOGRAPHIE
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
 
-# Philosohpie
+## Philosohpie
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.# La matérialité
 
-# La matérialité
+## La matérialité
 En principe, il travaille avec un **matériau brut et froid tel que le béton**, mais pour balancer le tout, il laisse la lumière entrer qui réchauffe l’espace. L’une des caractéristiques de sa conception outre que des matériaux uniques est **la dimension et les ouvertures**. Des plafonds hauts et des ouvertures laissent la lumière et des éléments de la nature entrer comme des voûtes. Ici, le béton et la lumière vont équilibrer l’un et l’autre. L’avez-vous peut-être déjà remarqué, aux finitions lisses, les trous régulièrement espacés dans le béton, qui sont devenus presque une marque de signature d'Ando, sont le résultat de boulons qui maintiennent le coffrage ensemble. Ces boulons ne seront jamais camouflés. Le béton crée une esthétique pure, parfois peint en blanc, il permet autant la lumière naturelle que la lumière artificielle de refléter à travers l’espace. Les murs marquent un périmètre, un espace clos aux matériaux robustes permet en quelque sorte à l’individu de refléter sur soi, des pièces en partie monochromes avec des reflets de lumière qui passent à travers l’espace créent une sensation, afin d’aider et de favoriser l’homme à prendre conscience de lui-même ; connecter avec sa spiritualité. Bref, l’utilisation des **matériaux industriels**, des jeux de volume et de lumières est des caractéristiques qui nous permettent de distinguer les projets de l’architecte.
 
 ![image](https://user-images.githubusercontent.com/101825987/158869577-ebde7ec2-bdd8-40ba-ab3b-97db67a6db1b.png)
