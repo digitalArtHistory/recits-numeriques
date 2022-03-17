@@ -29,6 +29,8 @@ Fondue pepper jack queso. Gouda pecorino cheddar caerphilly edam chalk and chees
     hash-bookmark="true"
     initial-zoom="1"
     height="900"/>
+<param ve-map ve-map center="48.4501730, -68.5213712" zoom="13.5"/>
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/27/artRimouski.geojson" title="Art Public Rimouski" active/> 
     
 *When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando*
 
