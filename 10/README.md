@@ -5,7 +5,7 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Le thème
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
@@ -18,7 +18,7 @@ Voici quelques actions à réaliser pour commencer :
 <param ve-image
     url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
 
-# Explorer Markdown
+## Saint George
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
@@ -43,7 +43,7 @@ Voici quelques ressources sur Markdown
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
 
-## Premiers pas avec Juncture (travail dirigé)
+## Saint Michel
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)
@@ -52,7 +52,16 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-voici un texte.
+## Saint Théodore
 
+paragraphe à ajouté
+
+## Saint Margueritte d'Antioche
+
+texte 1
+
+## Cadmos
+
+text2
 
 
