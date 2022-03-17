@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="TADAO ANDO" 
-       banner="https://static.vitra.com/media-resized/02XmmAEX8tjnZWqA5ky2NsJ173yvsWouwW34KSQCQ6M/fill/1440/960/ce/0/aHR0cHM6Ly9zdGF0aWMudml0cmEuY29tL21lZGlhL2Fzc2V0LzE3Mzg0Mzkvc3RvcmFnZS92X2Z1bGxibGVlZF8xNDQweC8yMjYyODg2Ny5qcGc.jpg" 
+       banner="https://static.dezeen.com/uploads/2017/10/endeavors-by-tadao-ando-_dezeen_2364_hero1.jpg" 
        layout="vertical">
 
 
