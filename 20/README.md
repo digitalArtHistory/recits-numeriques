@@ -64,3 +64,17 @@ Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron-en-ivoire-de-morse/s,900-ae3a8e.jpg" 
   title="Crosseron en ivoire de morse" />
 
+<param ve-graphic 
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron%20en%20ivoire%20de%20morse%205/s,900-0987d7.jpg" 
+  title="Crosseron en ivoire de morse" />
+  
+<param ve-graphic 
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron%20en%20ivoire%20de%20morse%203/s,900-bada3a.jpg" 
+  title="Crosseron en ivoire de morse" />
+  
+   
+<param ve-graphic 
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron%20en%20ivoire%20de%20morse%202/s,900-391d45.jpg" 
+  title="Crosseron en ivoire de morse" />
+  
+  
