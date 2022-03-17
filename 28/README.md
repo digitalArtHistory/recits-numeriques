@@ -4,7 +4,11 @@
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
-<a href="https://www.vitra.com/fr-ca/home"> <img src="https://www.vitra.com/fr-ca/magazine/details/the-hill-of-the-buddha       style="height:40px"></a># TADAO ANDO
+<a href="https://www.vitra.com/fr-ca/home"> 
+       
+<img src="https://www.vitra.com/fr-ca/magazine/details/the-hill-of-the-buddha" style="height:40px"></a>
+
+# TADAO ANDO
 
 ### Bibliographie
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.[*Tadao Ando*](https://http://www.tadao-ando.com/) lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
