@@ -72,9 +72,9 @@ La pratique ci-dessous consistera à mettre en **gras** tous les mots commençan
 
 La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
 
-Voici une image de gargouille. Je vais essayer de voir si ce n'est pas la grandeur du texte qui influence le bug qui vient de se dérouler.
+Voici une image de aquamanile. Je vais essayer de voir si ce n'est pas la grandeur du texte qui influence le bug qui vient de se dérouler.
 <param ve-graphic 
-  url="https://www.lookandlearn.com/history-images/previe…67/YM0467468_Aquamanile-in-the-Form-of-a-Lion.jpg" 
+  url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
   title="Aquamanile" />
   
 
