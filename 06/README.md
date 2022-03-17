@@ -69,11 +69,14 @@ Cliquer ici pour voir un article intéressant - [Article intéressant](https://f
 ## Pratique de la police
 ### Pratique en caractère **gras** et *italique*
 La pratique ci-dessous consistera à mettre en **gras** tous les mots commençant un A et mettre tout en *italique* les mots commençant par E. La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
+
+## sujet 1
+Aquamanile est un récipient d’eau dont la fonction est de laver les mains, dans les pratiques liturgiques, dans les rituels d’ablution et/ou quotidiennes ou comme objet de luxe. Ses grandes dimensions, son visage expressif ainsi que sa queue de dragon en flamme qui sert de manche sont caractéristiques d’un style de aquamanile développé dans les alentours de 1400 à Nuremberg.  Le lion s’inscrit dans cette longue tradition de pratique d’alliage de cuivre. Le style héraldique des aquamaniles de Nuremberg se retrouve surtout dans l’espace domestique comme produit de décoration. Le motif animalier sert notamment à témoigner de l’expertise des artisans. 
 <param ve-graphic 
   url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
   title="Aquamanile" />
 
-### Sujet 2
+## Sujet 2
 Encore une pratique pour les *italique* et les caractère **gras**. Cette fois-ci *je vais essayer de juste faire un long texte* pour **compléter del'espasce pour ce projet mhhhhh**. Voici une nouvelle image a testé ! il faut voir si cela marche lolololololol. La licorne est une créature fantastique ayant supposément des propriétés magiques. Dans le cas du Saint Bernard, dont la corne réside dans l’église à son nom, il l’aurait utilisé comme canne pour support. 
 <param ve-graphic 
   url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/1598px-Ba%CC%82ton_pastoral_de_St-Bertrand%2C_l'alicorne.jpeg" 
@@ -81,9 +84,9 @@ Encore une pratique pour les *italique* et les caractère **gras**. Cette fois-c
 
 ## Sujet 3
 La fibule est un accessoire qui a souvent été porté au cou à travers le trou au pied de l’aigle représenté. Il ne serait pas incongru de croire que l’objet provient de la période de migration des wisigothes, compte tenu de sa petite taille, parfaite pour le voyage et son style romain dont cet empire s’est inspiré. L’image de l’aigle, ou la forme aquiliforme, représente l'armée romaine. Ce motif particulier de l’oiseau stylisé dont le bec pointe vers le haut avec les ailes aux deux côtés de son flanc est un motif de l’empire romain. 
-<param ve-graphic 
-  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/1598px-Ba%CC%82ton_pastoral_de_St-Bertrand%2C_l'alicorne.jpeg" 
-  title="Corne de licorne" />
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/1598px-Ba%CC%82ton_pastoral_de_St-Bertrand%2C_l'alicorne.jpeg" />
+
+## Sujet 4
 
 
 
