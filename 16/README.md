@@ -17,7 +17,7 @@ La préface présente la façon dont Le Brun commençait ces dessins et comment 
 <param ve-graphic
  manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b531282192/manifest.json" />
  
-
+Le Brun réalise également plusieurs tableaux de chevalet, plus modestes, pour orner les demeures des amateurs parisiens. C'est le cas de la commande passée par Pierre Poncet, conseiller de la cour des aides, seigneur de Parousel et petit cousin éloigné du chancelier Séguier139, pour son oratoire de la rue d'Anjou (bâti par son père à partir de 1635)140. Le Brun réalise pour lui un Repos pendant la fuite en Égypte ou Le Christ enfant expliquant l'écriture sainte141. Le tableau, perdu, a été gravé par Rousselet (Paris, Bibliothèque Nationale de France) et a fait l'objet de plusieurs répliques141 (une version est au musée de Minneapolis, une autre a été découverte dans une collection particulière par Alessandro Agresti en 2010142)
 
 **gras**
 
