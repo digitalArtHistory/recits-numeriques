@@ -71,12 +71,12 @@ Cliquer ici pour voir un article intéressant - [Article intéressant](https://f
 La pratique ci-dessous consistera à mettre en **gras** tous les mots commençant un A et mettre tout en *italique* les mots commençant par E.
 
 La pratique *est* drôle. **Avoir** un vrai sens de compréhension *est* important pour cet exercice. S'il-vous-plaît, **aidez**-moi!
-
-Voici une image de aquamanile. Je vais essayer de voir si ce n'est pas la grandeur du texte qui influence le bug qui vient de se dérouler.
 <param ve-graphic 
   url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
   title="Aquamanile" />
-  
+
+Encore une pratique pour les *italique* et les caractère **gras**. Cette fois-ci *je vais essayer de juste faire un long texte* pour **compléter del'espasce pour ce projet mhhhhh**.
+
 Voici une nouvelle image a testé ! il faut voir si cela marche lolololololol.
   <param ve-graphic 
   url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
