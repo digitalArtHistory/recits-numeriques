@@ -77,6 +77,10 @@ Voici une image de aquamanile. Je vais essayer de voir si ce n'est pas la grande
   url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
   title="Aquamanile" />
   
+Voici une nouvelle image a testé ! il faut voir si cela marche lolololololol.
+  <param ve-graphic 
+  url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
+  title="Aquamanile" />
 
 
-  
+ 
