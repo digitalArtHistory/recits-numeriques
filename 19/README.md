@@ -65,6 +65,7 @@ constructing contemporary identities, but also in the historical formations on w
 pre- sented as both inferior and monstrous; paradoxically, it could both destabilize the viewer’s gender
 identity and reinforce gendered social inequalities. »
  Sherry C.M. Lindquist
+ 
 <param ve-graphic 
   url="https://d3vjn2zm46gms2.cloudfront.net/blogs/2016/10/27003939/NCOD17.jpg" 
   title= "contemporary">
