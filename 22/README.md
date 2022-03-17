@@ -37,6 +37,12 @@ Chef reliquaire de Saint Candide
 <param ve-graphic 
   url="https://omci.inha.fr/files/large/300/St_Maurice_Agaune_gen.jpg" 
   title="Chef reliquaire de Saint Candide" />
+  
+  
+  Pied reliquaire de Saint Jacques le Majeur
+  <param ve-graphic 
+  url="https://wp.fr.aleteia.org/wp-content/uploads/sites/6/2021/08/3-Pied-reliquaire-de-saint-Jacques-le-Majeur.-Namur-Photo-TreM.a-Muse%CC%81e-des-Arts-anciens-du-Namurois-Tre%CC%81sor-dOignies.jpg?w=1280&crop=1" 
+  title="Pied reliquaire de Saint Jacques le Majeur" />
     
 
 # Explorer Markdown
