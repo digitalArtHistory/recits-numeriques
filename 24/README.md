@@ -34,6 +34,9 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 <param ve-image 
   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/24/Manniskor_med_kontakterweb_artikel.jpg?raw=true" 
   title="Pendentif d'Aska" />
+
+2e pendentif d'Aska
+
 <param ve-graphic 
   url="https://historiska.se/wp-content/uploads/2015/09/hedniska_gudar_3_artikel_IMG0024web_artikel.jpg" 
   title="Pendentif d'Aska" />
