@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="https://www.historymuseum.ca/wp-content/uploads/2016/03/aska-pendant-fid-107873-1.jpg" 
+       banner="https://historiska.se/wp-content/uploads/2015/09/hedniska_gudar_3_artikel_IMG0024web_artikel.jpg" 
        layout="vertical">
 
 # Fichier de démarrage
