@@ -29,7 +29,7 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 <param ve-video id="jXYgI7jG7Bw" title="The Oldest Playable Organ in the World, basilique de Valère à Sion" start="2" />
 
 <param ve-image 
-    manifest="![image](https://user-images.githubusercontent.com/100982262/158883762-89ce561e-201c-464e-bb37-237f14cd19bb.png)" />
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b6904204f/manifest.json" />
 
 > Ceci est du texte cité.
 
