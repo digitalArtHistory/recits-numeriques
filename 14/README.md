@@ -52,10 +52,10 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 *test*
 
+
 # manifest de la BnF avec une seule image
-<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53125897q/manifest.json" 
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b6953414k/f1/full/2166,/0/native.jpg" 
     license="CC BY-SA"/> 
-    
     
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare, tellus egestas sollicitudin interdum, lacus orci accumsan mi, sed fringilla risus arcu in neque. Vivamus gravida lobortis tellus sed eleifend. Pellentesque in ligula ligula. Nunc volutpat lorem eget lacus posuere mollis. Maecenas mauris odio, consectetur eu iaculis at, aliquet ac nisl. Etiam semper nulla suscipit urna suscipit, sed rhoncus tortor eleifend. Phasellus facilisis mi augue, quis sodales urna maximus sed. Nunc sodales nulla at mauris facilisis dapibus.
