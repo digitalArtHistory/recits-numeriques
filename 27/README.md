@@ -5,7 +5,7 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
        
-<param ve-entity eid="Q208220" aliases="liste">
+<param ve-entity eid="Q208220" aliases="démarrage">
 
 # Fichier de démarrage
 
