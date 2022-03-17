@@ -54,10 +54,12 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
 
 
 ![image](https://user-images.githubusercontent.com/101237991/157738140-e3a51074-a976-417f-9d31-2b7a703c16d2.png)
 
 <param ve-image
-       url="" # https://user-images.githubusercontent.com/101237991/157738979-d5e75d74-081e-4013-908e-824f82df8640.png
+   url="" # https://user-images.githubusercontent.com/101237991/157738979-d5e75d74-081e-4013-908e-824f82df8640.png
