@@ -8,10 +8,12 @@
 # Exposition
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+
 *Cat*
 <param ve-image url="https://iiif.bodleian.ox.ac.uk/iiif/image/9f267396-1e58-45c3-b7fe-20a7570cb60a/full/1000,1566/0/default.jpg" />
        title="Cat"
 >
+
 *Lion*
 <param ve-image url="https://iiif.bodleian.ox.ac.uk/iiif/image/5fd6efe8-e1bc-4477-8684-200bc11cbd6b/full/1000,1517/0/default.jpg" />
        title="Lion"
