@@ -36,8 +36,9 @@ Le chef reliquaire fait parti du trésor de l'Abbaye de..
   url="https://omci.inha.fr/files/large/300/St_Maurice_Agaune_gen.jpg" 
   title="Chef reliquaire de Saint Candide" />
   
-  
 Pied reliquaire de Saint Jacques le Majeur
+
+Des précisions manquant, on ne peut affirmer avec certitude que ce reliquaire renferme bel et bien un ossement du pied de saint Jacques le Majeur. De forme corporelle, alors très en vogue, l’œuvre est postérieure à la production de frère Hugo et la relique en elle-même a dû faire l’objet d’un legs de la part de Jacques de Vitry. Notons la représentation du saint en basse-taille sur la plaque supérieure ovale en cuivre doré.
 <param ve-graphic 
   url="https://wp.fr.aleteia.org/wp-content/uploads/sites/6/2021/08/3-Pied-reliquaire-de-saint-Jacques-le-Majeur.-Namur-Photo-TreM.a-Muse%CC%81e-des-Arts-anciens-du-Namurois-Tre%CC%81sor-dOignies.jpg?w=1280&crop=1" 
   title="Pied reliquaire de Saint Jacques le Majeur" />
