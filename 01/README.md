@@ -15,7 +15,6 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
   url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
   title="Gargouilles" />
 
-
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
