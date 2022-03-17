@@ -57,6 +57,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 ## Perle biconique
 
+aaa
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron-en-ivoire-de-morse/s,900-ae3a8e.jpg" 
   title="Gargouilles" />
