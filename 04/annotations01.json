@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Premi&egrave;re annotation",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Premi&egrave;re annotation</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/818621",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-17T21:26:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1647552387338",
+    "dcterms:modified" : "2022-03-17T21:26:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505437z/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2829,250,1631,1193"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2829.05283,249.54717h815.46981v0h815.46981v596.3283v596.3283h-815.46981h-815.46981v-596.3283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_068c81c9-e884-4c49-aa27-2c28765ae046\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505437z/canvas/f5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Renard devant le Roi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Renard devant le Roi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/818621",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-17T21:26:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1647552400509",
+    "dcterms:modified" : "2022-03-17T21:26:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505437z/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=515,870,1637,1293"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M514.81887,870.03019h818.5283v0h818.5283v646.63774v646.63774h-818.5283h-818.5283v-646.63774z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0a95b737-627e-449b-925e-1802eff63b33\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505437z/canvas/f5"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/818621/2014b2bb230894cbeefd69c2f314befb.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
