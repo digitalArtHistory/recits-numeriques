@@ -1,6 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
-
 # Fichier de démarrage
 ## titre
 
@@ -11,7 +10,9 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
-
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
 
 # Explorer Markdown
 
@@ -21,7 +22,6 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
   title="Gargouilles" />
   
 ```
-
 # Titre de niveau 1
 
 ## Titre de niveau 2
@@ -30,8 +30,6 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 ```
 
 Ceci est un paragraphe. Celui-ci contient du texte *en gras* mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
-
- 
 
 > Ceci est du texte cité.
 
@@ -49,8 +47,4 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
-
-
-
-
 
