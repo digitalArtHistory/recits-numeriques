@@ -48,7 +48,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-#Chapitaux catalan Abraham
+#**Chapitaux catalan Abraham**
 ![image](https://user-images.githubusercontent.com/101141208/157736781-9f2ff1a5-40b3-475d-ac09-b76953230121.png)
 [
 
