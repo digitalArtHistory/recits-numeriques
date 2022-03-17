@@ -29,7 +29,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 jsldfhsfuvhnisulgvvslouvhbns;ovnlkuùnvùk;vnsd;vlajvnsdonvn;dlvvuovlzvxzmhvuovlmxvbxjvozvolxmnbj » cvj»nvlzkvxjbùkvcjùl vkhùhvbùlkvhbvkbzuvba, vxùlkùxjucbn,
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json" />
-  
+<param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508970d/manifest.json" /> 
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
