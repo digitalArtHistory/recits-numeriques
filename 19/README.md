@@ -48,14 +48,16 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-*freaks* CREATURES 
+*freaks* CREATURES
+<param ve-graphic 
+  url="https://www.hmb.ch/fileadmin/a/hmb/import/collection/220605_1882-80-a_shmpop_C4180.jpg" 
+  title="freaks">
+  
 « that queer refers to “the open mesh of possibilities, gaps, overlapses,
 dissonances and resonances, lapses and excesses of meaning when the constituent elements of anyone’s
 gender of anyone” s sexuality aren’t made (or can’t be made) to signify monothically) »
 Eve Sedgewick’s
-<param ve-graphic 
-  url="https://www.hmb.ch/fileadmin/a/hmb/import/collection/220605_1882-80-a_shmpop_C4180.jpg" 
-  title="freaks">
+
   
   QUEER CONTEMPORARY
 « […] that intersectionality promises new insights not only into the role that visual culture plays in
@@ -69,7 +71,7 @@ identity and reinforce gendered social inequalities. »
   url="https://d3vjn2zm46gms2.cloudfront.net/blogs/2016/10/27003939/NCOD17.jpg" 
   title= "contemporary">
   
-  <param ve-image 
+<param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k877400g/manifest.json" />
 
 
