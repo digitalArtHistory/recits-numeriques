@@ -60,11 +60,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-
-fggdd
-
 <param ve-graphic 
-  url="https://www.metmuseum.org/art/collection/search/472322?showOnly=openAccess&amp;ft=medieval+genesis&amp;offset=0&amp;rpp=40&amp;pos=13" 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
   title="Gargouilles" />
-
+  
 
