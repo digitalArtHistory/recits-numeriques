@@ -14,7 +14,9 @@ Voici quelques actions à réaliser pour commencer :
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
-
+- <param ve-graphic 
+  url="https://fr.wikipedia.org/wiki/Claude_Monet#/media/Fichier:Claude_Monet_-_Camille_Monet_sur_son_lit_de_mort.JPG"title="C" />
+  
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
