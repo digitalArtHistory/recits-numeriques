@@ -32,6 +32,7 @@ Sur un astragale formé par un tore épais, une corbeille, circulaire à la base
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl_10754_chapiteau_2/s,900-a56dc4.jpg" 
        title="Histoire d'Adam et Ève" />
+<param ve-video id="PI0meIFA69M" title="Chapelle Sixtine : Plafond - Michel-Ange 1 de 2 | Visite virtuelle 3D & documentaire" start="0" /> 
 
 
 Chapiteau de la délivrance de Saint Pierre de prison
