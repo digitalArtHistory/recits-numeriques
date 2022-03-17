@@ -33,7 +33,7 @@ Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du tex
 
 Orgue Valere
 <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" 
   title="Orgue Valere" />
 
 Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
