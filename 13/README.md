@@ -59,7 +59,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 Les deux sources principales sur l'histoire de Jeanne d'Arc sont le procès de la condamnation de 1431, et le procès en nullité de la condamnation de 1455-1456. Le procès-verbal, l’instrumentum publicum192, est rédigé quelques années plus tard sous le contrôle du principal greffier Guillaume Manchon par Thomas de Courcelles193. Étant des actes juridiques, elles ont l'immense avantage d'être les retranscriptions les plus fidèles des dépositions. Mais elles ne sont pas les seules : des notices, des chroniques ont également été rédigées de son vivant, telle que la Geste des nobles François, la Chronique de la Pucelle, la Chronique de Perceval de Cagny, la Chronique de Monstrelet ou encore le Journal du siège d'Orléans et du voyage de Reims, le Ditié de Jeanne d'Arc de Christine de Pizan, le traité de Jean de Gerson. Il faut ajouter également les rapports des diplomates et autres informateurs (écrits de Jacques Gélu à Charles VII, registres du greffier du Parlement de Paris Clément de Fauquembergue).
 
 <param ve-image
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b525033083/manifest.json" seq="208"
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b525033083/manifest.json" seq="101"
 />
 
 
