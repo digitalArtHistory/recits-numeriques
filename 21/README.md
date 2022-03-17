@@ -50,5 +50,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 Nouveau document test Camille R.S
 
+<param ve-graphic url="https://www.historyofinformation.com/image.php?id=3172" 
+title="" />
+
 
 
