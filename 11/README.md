@@ -7,10 +7,8 @@
  
 # chapiteaux religieux
 
-Chapiteau catalan: Histoire d'Abraham
 
-Lorem ipsum gibberish sunt ipso facto. Lorem ipsum gibberish sunt ipso facto. Lorem ipsum gibberish sunt ipso facto. Lorem ipsum gibberish sunt ipso facto. Lorem ipsum gibberish sunt ipso facto. This is my favorite capital
-<param ve-graphic 
+Chapiteau catalan: Histoire d'Abraham<param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/chapiteau-catalan-histoire-dabraham/chapiteau-catalan-abraham-1/s,900-516c83.jpg" 
        title="Histoire d'Abraham" />
 
