@@ -8,10 +8,8 @@
 # chapiteaux religieux
 
 
-Chapiteau catalan: Histoire d'Abraham
-<param ve-graphic 
-       url="https://www.musee-moyenage.fr/cache/media/oeuvres/chapiteau-catalan-histoire-dabraham/chapiteau-catalan-abraham-1/s,900-516c83.jpg" 
-       title="Histoire d'Abraham" />
+## Chapiteau catalan: Histoire d'Abraham
+
 Le musée de Cluny possède un ensemble exceptionnel de huit chapiteaux à décor narratif ou animalier en provenance provenant du cloître du monastère catalan de Sant Pere de Rodes. L'histoire du patriarche Abraham se déploie ici sur la corbeille. On reconnaît notamment la scène de la rencontre au chêne de Mambré (Dieu, sous l'aspect de trois anges, apparaît à Abraham) et l'épisode du sacrifice d'Isaac.
 Les détails tirés de la vie quotidienne comme l'âne qui patiente auprès d'un serviteur derrière la scène de sacrifice inscrivent la scène biblique dans un environnement familier. Ces scènes font écho au décor des sujet des autres chapiteaux, qui illustrent l'histoire de Noé ou le récit de la création d'Adam et Eve, dans la Genèse.
 Acquis en 1881.
@@ -19,7 +17,7 @@ Acquis en 1881.
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/chapiteau-catalan-histoire-dabraham/chapiteau-catalan-abraham-1/s,900-516c83.jpg" 
        title="Histoire d'Abraham" />
 
-Chapiteau catalan: Histoire de Noé
+## Chapiteau catalan: Histoire de Noé
 
 Les chapiteaux des cloîtres romans étaient souvent ornés de scènes bibliques offerts à la contemplation des moines. Certains, comme Bernard de Clairvaux, reprochèrent d'ailleurs à ces images de distraire les moines de leur prière.
 L'histoire de Noé se déploie ici autour de la corbeille : construction de l'arche, invention de la vigne et l'épisode célèbre où Noé, rendu ivre par le vin, est retrouvé par ses fils, nu et endormi. C'est un long voyage qui a amené ce chapiteau jusqu'à Paris. Acquis d'une collection allemande, il viendrait du cloître de l'abbaye Sant Pere De Rodes en Catalogne, comme le chapiteau racontant l'histoire d'Abraham, auquel il est aujourd'hui associé.  
@@ -28,7 +26,7 @@ Acquis en 2014.
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/chapiteau-catalan-histoire-dabraham/chapiteau-catalan-cl-23900-1/s,900-2dc782.jpg" 
        title="Histoire de Noé" />
 
-Chapiteau catalan: Histoire d"Adam et Ève
+## Chapiteau catalan: Histoire d"Adam et Ève
 
 Sur un astragale formé par un tore épais, une corbeille, circulaire à la base, s'évase pour former un carré supportant l'abaque, nu et fortement échancré, avec un dé saillant au milieu de chaque face. Chacune des faces illustre l'un des moments de l'histoire d'Adam et Ève : "la création de la femme" (Gen. 2, 21-22), "la chute" (Gen., 3, 6-7), "Adam et Ève devant le Créateur" (Gen. 3, 10-13) et "Adam et Ève au travail" (Gen. 3, 23).
 <param ve-graphic 
@@ -36,7 +34,7 @@ Sur un astragale formé par un tore épais, une corbeille, circulaire à la base
        title="Histoire d'Adam et Ève" />
 
 
-Chapiteau de la délivrance de Saint Pierre de prison
+## Chapiteau de la délivrance de Saint Pierre de prison
 
 Bien qu’émoussé par l’érosion, ce chapiteau laisse entrevoir une sculpture de grande qualité. Il pourrait appartenir à un cycle dédié à saint Pierre, un thème peu fréquent mais qui pourrait rattacher cette œuvre à un ensemble clunisien.
 La composition de ce chapiteau est très proche de celle d’une autre sculpture, le Don des clefs à saint Pierre, entré en même temps dans les collections du musée.
@@ -49,7 +47,7 @@ La scène de la Délivrance présente peut-être un lien avec la relique des cle
        title="Chapiteau de la délivrance de Saint Pierre de prison" />
 
 
-Chapiteau du don des clés à Saint Pierre
+## Chapiteau du don des clés à Saint Pierre
 
 Ce chapiteau, acquis en 2020 par le musée, est sculpté sur deux de ses quatre faces. Le Christ, à gauche, remet à saint Pierre, à droite, les clefs de l’Ecclesia, l’Eglise.
 Chaque personnage est représenté sur une des faces sculptées. Le Christ est reconnaissable au nimbe crucifère. Il tient le Livre de la main gauche et tend de la droite un trousseau de deux clefs à saint Pierre. Debout, l'apôtre nimbé et aux pieds nus tient fermement de la main gauche le lien auquel les clefs sont attachées. De la main droite, il soutient la maquette d'un édifice percé de trois hautes baies (une allusion à la Trinité). Cet édifice, surmonté d'un étage en forme de clocher est une représentation de l'Ecclesia.
@@ -63,6 +61,15 @@ Ce chapiteau est entré dans les collections du musée en même temps qu’un de
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl-23938/s,315-2259f4.jpg" 
        title="Chapiteau du don des clés à Saint Pierre" />
        
+NDWJSBDFAKSJBDKFKJBBSDKNdnjsdng;ajdng;osdnfg;kdfnngèadkfgnèafinn
+fjabbvalkjdf vkajdfnv;aejrnv ;ad v;adkfjnvad ;dfnv
+
+
+kjakblvlhfbviaudbbfg;ivanrn;thhèwIRNG;ANVLUDFBGI;RGUH;ENKJV
+
+
+
+AV;NUAEBIYTEV IUAEBTGUHGHent;bn
 
 
 
@@ -89,8 +96,4 @@ Ce chapiteau est entré dans les collections du musée en même temps qu’un de
 
 
 
-
-
-
-bla
 
