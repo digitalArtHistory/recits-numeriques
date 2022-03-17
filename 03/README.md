@@ -14,7 +14,7 @@ Voici quelques actions à réaliser pour commencer :
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
-<param ve-graphic url="https://fr.wikipedia.org/wiki/Apolline_d%27Alexandrie#/media/Fichier:Sainte_Apolline.jpg" title="Manuscrit sainte Apolline" /> 
+<param ve-graphic url="https://commons.wikimedia.org/wiki/File:Sainte_Apolline.jpg#/media/File:Sainte_Apolline.jpg" title="Manuscrit sainte Apolline" /> 
 
 
 # Explorer Markdown
