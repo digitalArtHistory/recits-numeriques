@@ -13,7 +13,7 @@ Axe de présentation : confronter l'idée préconçue que le Moyen Âge occident
 # Mansa Moussa roi du Mali
 Le roi du Mali
 Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflun élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
-<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg" title="Atlas Catalan : détail Mansa Moussa" />
+<param ve-graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json title="Atlas Catalan : détail Mansa Moussa" />
 
 # Saint Maurice 
 Saint Patron Magdebourg
