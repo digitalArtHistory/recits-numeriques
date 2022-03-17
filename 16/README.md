@@ -22,6 +22,10 @@ Autre œuvre probablement commandée par un riche amateur dont le nom reste inco
 <param ve-graphic
  url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/442761/1323327/main-image"
 
+Le travail que lui avait confier louis XIV consistait à garder sa grande collection, qui donnaient au roi un grand prestige et qui servaient aussi d’ornementer le palais de Versailles. Le Brun reçut une généreuse récompense monétaire pour ce rôle, en plus des milliers de francs de plus verser en tant que premier peintre.
+La préface présente la façon dont Le Brun commençait ces dessins et comment il prenait soin d’analyser chaque personnage qu’il dessinait avec une grande munition. Quant à l’introduction; elle présente sa technique, son style, ce qu’il utilisait pour dessiner (comme avec l’utilisation de la pierre noir, de la sanguine,etc. ). Cette grande collection d’exquis est principalement focalisée sur le corps humain et celui animal, sans oublier les quelques dessins de bâtiments et de décor rappelant ainsi sont rôle de décorateur. 
+<param ve-graphic
+ manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b531282192/manifest.json" />
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
