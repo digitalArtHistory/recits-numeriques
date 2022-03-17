@@ -1,11 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
 <param ve-config 
-       title="depart" 
+       title="les tapisseries" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage Tapisserie
+# Tapisserie de bayeux
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
   
