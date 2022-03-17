@@ -45,6 +45,9 @@ Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souv
 
 nouveau paragrahe bonjour. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla.
 
+<param ve-image
+       manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52503220z/manifest.json" >
+       
 <param ve-graphic
     url="https://alchetron.com/cdn/gniezno-doors-e03bf87a-cacc-4c4b-86ab-181708ef758-resize-750.jpeg"
        title="Gniezno doors" />
