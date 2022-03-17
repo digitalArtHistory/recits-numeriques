@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
 <param ve-config 
-       title="depart" 
+       title="Frida Kahlo" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
@@ -49,4 +49,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 <param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
-[PDF FRIDA.pdf](https://github.com/digitalArtHistory/recits-numeriques/files/8288713/PDF.FRIDA.pdf)
+
+<param ve-graphic url="https://commons.wikimedia.org/wiki/File:Frida_Kahlo_(1).jpg" title="Frida Kahlo" />
