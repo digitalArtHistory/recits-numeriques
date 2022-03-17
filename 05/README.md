@@ -48,8 +48,8 @@ Maint riche lingot d'or, pour apres en plancher,
 Son nid haut eslevé sur un aspre rocher :
 Dont il deffend, hardi, contre plusieurs armees
 Les mines par sa griffe une fois entamees ».  
-<param ve-image 
-    manifest="https://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg" />
+<param ve-graphic 
+  url="://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg" />
   
   
 # Explorer Markdown
