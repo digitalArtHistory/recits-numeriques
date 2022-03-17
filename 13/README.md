@@ -20,7 +20,6 @@ Philippe Contamine, au cours de ses recherches, a constaté une abondance d'écr
 
 Il apparaît donc qu'aucun document contemporain de l'époque — hormis les minutes des procès — n'est à l'abri de déformations issues de l'imaginaire collectif. Au cours du procès de réhabilitation, les témoins racontent d'après des souvenirs vieux de 26 ans.
 
-
 The French narrative Le Roman de Silence was written by Heldris de Cornuälle in the 13th century. This is the only known surviving copy, also from the early 13th century, which exists between the vellum folios 188r-223r of WLC/LM/6 at the University of Nottingham.
 
 This narrative, including the eleven miniatures (images) containing narrative content, is based on another medieval text: De Planctu Naturae (The Complaint of Nature) by Alain de Lille (c.1128-1212). Alain de Lille focusses especially on “sodomy,” and so does Heldris de Cornuälle.Sodomy, and characters representing sodomy, does not match with our modern cis-heteronomative presumptions. This means that the “sodomitical” characters represented in Romance de Silence don’t conform to these presumptions either.There are three characters (Silence, Eupheme, and the Nun) who do not conform to their assigned gender roles, and one of these characters has been called by contemporary scholars a “lesbian” figure.
