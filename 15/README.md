@@ -51,5 +51,4 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 <param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
 
-<param ve-image 
-    url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/15/190211_r33705.webp" />
+<param ve-graphic url="https://www.fridakahlo.org/self-portrait-as-a-tehuana.jsp" title="Tehuana" />
