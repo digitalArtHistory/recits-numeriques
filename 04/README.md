@@ -53,6 +53,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id sollicitudin sapi
 
 Curabitur rhoncus nunc fermentum, rutrum diam eu, convallis tortor. Quisque cursus tortor tincidunt, ultricies nibh nec, ornare est. Donec leo felis, vehicula quis sapien ac, ullamcorper fermentum eros. Pellentesque vel metus arcu. Aenean quis egestas ipsum. Suspendisse ornare erat in ligula aliquam, ut mattis leo semper. In hac habitasse platea dictumst. Nunc vestibulum urna non ullamcorper blandit. Aliquam at arcu blandit, egestas elit et, auctor augue. Vivamus ipsum libero, consectetur nec consectetur a, bibendum quis dui.
 
+Ceci utilise une entité pour identifier <span ve-entity title="Paris" eid="Q90">Paris</span>.
+
 Nullam porttitor sagittis dolor. <span data-click-image-zoomto="2829,250,1631,1193">Morbi tristique</span> lorem id diam interdum, tempor elementum eros pellentesque. Etiam quis libero elementum dui tristique pharetra. Ut fermentum erat id ligula ullamcorper sollicitudin. Proin gravida est a ex faucibus imperdiet. Maecenas tincidunt tempor ligula ac accumsan. Vestibulum in tempor lacus, sed iaculis quam. <span data-click-image-zoomto="515,870,1637,1293">Nullam feugiat</span> sapien quam, vel scelerisque nulla tempor sit amet. Vestibulum volutpat nisl id massa pellentesque rutrum. Curabitur ut tortor bibendum, dignissim nunc quis, rhoncus nunc. Sed commodo elit sed purus sollicitudin, sit amet dignissim turpis malesuad
 <param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505437z/manifest.json" seq="4"/>
 
