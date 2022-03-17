@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
 <param ve-config 
-       title="Représentation de Ktisis dans la mosaïque byzantine médiévale" 
+       title="depart" 
        banner="https://worcester.emuseum.com/internal/media/dispatcher/24300/resize%3Aformat%3Dfull" 
        layout="vertical">
 
