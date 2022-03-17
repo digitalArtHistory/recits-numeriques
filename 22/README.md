@@ -23,6 +23,8 @@ Buste-reliquaire de Sainte Mabille
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/60-buste-reliquaire-de-sainte-mabille/buste-reliquaire-de-sainte-mabille/s,900-4d2b0f.jpg" 
   title="Buste reliquaire de Sainte Mabille" /> 
+  blablablablabalbalbaba
+  baba;ab;aba;ba
  
 
 Reliquaire des Saints Luciens, Maxien et Julien
