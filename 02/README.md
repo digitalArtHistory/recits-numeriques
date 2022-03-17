@@ -2,8 +2,11 @@
 
 # Le lapis lazuli à l'époque médiévale
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-
+lapis lazuli
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
+  
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
 - modifier l’image de l’en-tête de votre essai visuel
