@@ -6,10 +6,9 @@
        layout="vertical">
 
 # TADAO ANDO
-## À PROPOS
 ### Bibliographie
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
-[TADAO ANDO](https://http://www.tadao-ando.com/)
+- [TADAO ANDO](https://http://www.tadao-ando.com/)
 
 ### Regard et pensée
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.# La matérialité
@@ -18,8 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 En principe, il travaille avec un **matériau brut et froid tel que le béton**, mais pour balancer le tout, il laisse la lumière entrer qui réchauffe l’espace. L’une des caractéristiques de sa conception outre que des matériaux uniques est **la dimension et les ouvertures**. Des plafonds hauts et des ouvertures laissent la lumière et des éléments de la nature entrer comme des voûtes. Ici, le béton et la lumière vont équilibrer l’un et l’autre. L’avez-vous peut-être déjà remarqué, aux finitions lisses, les trous régulièrement espacés dans le béton, qui sont devenus presque une marque de signature d'Ando, sont le résultat de boulons qui maintiennent le coffrage ensemble. Ces boulons ne seront jamais camouflés. Le béton crée une esthétique pure, parfois peint en blanc, il permet autant la lumière naturelle que la lumière artificielle de refléter à travers l’espace. Les murs marquent un périmètre, un espace clos aux matériaux robustes permet en quelque sorte à l’individu de refléter sur soi, des pièces en partie monochromes avec des reflets de lumière qui passent à travers l’espace créent une sensation, afin d’aider et de favoriser l’homme à prendre conscience de lui-même ; connecter avec sa spiritualité. Bref, l’utilisation des **matériaux industriels**, des jeux de volume et de lumières est des caractéristiques qui nous permettent de distinguer les projets de l’architecte.
 
 
-## PROJETS
-* Église de la lumière d"Ibaraki 1987-89 
+## LISTE DES PROJETS
+* Église de la lumière d"Ibaraki 1987-89 -
 * Logement Rokko 1978
 
 > When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando
