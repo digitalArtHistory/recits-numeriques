@@ -47,7 +47,8 @@ De nostre bisayeule, et là dedans butine
 Maint riche lingot d'or, pour apres en plancher,
 Son nid haut eslevé sur un aspre rocher :
 Dont il deffend, hardi, contre plusieurs armees
-Les mines par sa griffe une fois entamees ».  <param ve-image 
+Les mines par sa griffe une fois entamees ».  
+<param ve-image 
     manifest="https://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg" />
   
   
