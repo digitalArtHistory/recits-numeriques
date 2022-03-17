@@ -55,7 +55,8 @@ identity and reinforce gendered social inequalities. »
 <param ve-graphic 
   url="https://d3vjn2zm46gms2.cloudfront.net/blogs/2016/10/27003939/NCOD17.jpg" 
   title= "contemporary">
-  <param ve-image 
+  
+<param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k204156s/manifest.json">
     
     
