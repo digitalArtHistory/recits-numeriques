@@ -22,14 +22,14 @@ Lorem ipsum gibberish sunt ipso facto. Lorem ipsum gibberish sunt ipso facto. Lo
        
        
        
-Chapiteau catalan: Histoire d"Adam et Ève
+## Chapiteau catalan: Histoire d"Adam et Ève
 
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl_10754_chapiteau_2/s,900-a56dc4.jpg" 
        title="Histoire d'Adam et Ève" />
 
 
-Chapiteau de la délivrance de Saint Pierre de prison
+## Chapiteau de la délivrance de Saint Pierre de prison
 
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl-23939-1/s,900-3e34b0.jpg" 
@@ -37,7 +37,7 @@ Chapiteau de la délivrance de Saint Pierre de prison
        
        
        
-Chapiteau du don des clés à Saint Pierre
+## Chapiteau du don des clés à Saint Pierre
 
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl-23938/s,315-2259f4.jpg" 
