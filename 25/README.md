@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://worcester.emuseum.com/internal/media/dispatcher/24300/resize%3Aformat%3Dfull" 
        layout="vertical">
 
 # Représentation de Ktisis dans la mosaïque byzantine médiévale
