@@ -38,7 +38,9 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 
 > Ceci est du texte cité.
 
-<param ve-graphic url="https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg" title="Coffret Moûtiers" />
+<param ve-graphic 
+url="https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg" 
+title="Coffret Moûtiers" />
 
 Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
 
