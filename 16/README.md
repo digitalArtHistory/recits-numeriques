@@ -4,8 +4,8 @@
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
-
-**Charles LeBrun**
+       
+# Charles LeBrun
 
 voici un lien vers la page Wikipédia de l'artiste: [lien](https://fr.wikipedia.org/wiki/Charles_Le_Brun)
 
