@@ -43,6 +43,12 @@ Chef reliquaire de Saint Candide
   <param ve-graphic 
   url="https://wp.fr.aleteia.org/wp-content/uploads/sites/6/2021/08/3-Pied-reliquaire-de-saint-Jacques-le-Majeur.-Namur-Photo-TreM.a-Muse%CC%81e-des-Arts-anciens-du-Namurois-Tre%CC%81sor-dOignies.jpg?w=1280&crop=1" 
   title="Pied reliquaire de Saint Jacques le Majeur" />
+  
+  
+  Reliquaire de la Sainte Épine 
+  <param ve-graphic 
+  url="https://www.narthex.fr/blogs/orfevrerie/images-g-denniel/vignette-reliquaire-de-la-sainte-epine-c-tresor-de.jpg/image_preview" 
+  title="Reliquaire de la Sainte Épine" />
     
 
 # Explorer Markdown
