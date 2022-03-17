@@ -18,9 +18,7 @@
 # TADAO ANDO
 
 ## Bibliographie
-<!-- [Tadao Ando](https://http://www.tadao-ando.com/)* -->
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Tadao Ando lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. 
-<!--<param ve-iframe src="https://www.vitra.com/en-ca/about-vitra/designer/details/tadao-ando" />-->
 
 ## Regard et pensée
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
