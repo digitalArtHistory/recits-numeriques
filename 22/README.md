@@ -15,22 +15,23 @@ Voici quelques actions à réaliser pour commencer :
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
-- [facebook](http//www.facebook.com)
-- ![](https://mr-expert.com/wp-content/uploads/2019/08/estimation-et-expertise-de-reliquaire-religieux-600x450.jpg)
-- ![](https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg)
+
+
 
 Buste-reliquaire de Sainte Mabille
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/60-buste-reliquaire-de-sainte-mabille/buste-reliquaire-de-sainte-mabille/s,900-4d2b0f.jpg" 
   title="Buste reliquaire de Sainte Mabille" /> 
  
- Reliquaire des Saints Luciens, Maxien et Julien
+
+Reliquaire des Saints Luciens, Maxien et Julien
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/41-reliquaire-des-saints-lucien-maxien-et-julien/reliquaire%20des%20saints%20lucien,%20maxien%20et%20julien%20-1/s,900-6dca78.jpg" 
   title="Reliquaire des Saints Lucien, Maxien et Julien" />
   
-  Chef reliquaire de Saint Candide
-  <param ve-graphic 
+
+Chef reliquaire de Saint Candide
+<param ve-graphic 
   url="https://omci.inha.fr/files/large/300/St_Maurice_Agaune_gen.jpg" 
   title="Chef reliquaire de Saint Candide" />
     
