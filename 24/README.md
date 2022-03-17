@@ -67,6 +67,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-
-/images/ViennaDioscoridesFolio483vBirds.jpg
+https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/a-seeress-from-fyrkat/ 
 
