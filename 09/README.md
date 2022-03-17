@@ -17,9 +17,7 @@ Le roi du Mali
 
 # Les Mages
 Les rois mages représentent les différentes parties du monde
-<param ve-graphic
-    url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Hans_Multscher_-_Au%C3%9Fenfl%C3%BCgel_des_Wurzacher_Altars_-_Google_Art_Project.jpg" 
-    title="L"Adoration des Mages Hans Multscher" 
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Hans_Multscher_-_Au%C3%9Fenfl%C3%BCgel_des_Wurzacher_Altars_-_Google_Art_Project.jpg" title="L"Adoration des Mages Hans Multscher" 
 
                                                 
 # Explorer Markdown
