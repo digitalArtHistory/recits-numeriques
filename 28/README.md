@@ -8,7 +8,7 @@
 # TADAO ANDO
 
 ### Bibliographie
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.*[Tadao Ando]*(https://http://www.tadao-ando.com/) lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.[*Tadao Ando*](https://http://www.tadao-ando.com/) lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
 
 
 ### Regard et pensée
