@@ -47,7 +47,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-*test*
+## test
 
 Quisque tempus lectus et leo faucibus, eget dictum mi tempor. Proin gravida ligula id dolor convallis, at elementum tellus malesuada. Duis nec urna vel nulla cursus mollis eu eu odio. Cras lacinia velit et libero dapibus, vel lobortis lacus dictum. Donec ut suscipit quam. Vestibulum eget nisi sed leo gravida pharetra ut quis ligula. Ut augue eros, malesuada vel commodo id, tempus cursus ante. Integer facilisis magna et sagittis pretium.
 <param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b6953414k/manifest.json" 
