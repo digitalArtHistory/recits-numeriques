@@ -8,17 +8,9 @@
        
    # Les reliquaires: objets de dévotion
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
-
-
 
 Buste-reliquaire de Sainte Mabille
+
 Sainte Mabille, identifiée par une inscription sur la poitrine, est l'une des onze mille vierges martyres ayant suivi sainte Ursule. Elle est représentée ici en buste, coupé sous les épaules et reposant sur des arcatures trilobées alternées de pierreries. Au sommet du crâne se trouve la logette de la relique, visible au moyen d'un opercule mobile. Revêtue d'un vêtement doré orné d'un orfroi, sainte Mabille a les traits d'une jeune femme à l’expression grave. Son visage est souligné par des tresses encadrant son front haut. Elle tourne légèrement la tête vers la gauche en levant le regard.
 Le style, en particulier le traitement du visage avec son nez droit, ses arcades sourcilières rectilignes et ses cheveux dessinant un ovale net, correspond aux œuvres siennoises du milieu du 14e siècle.
 <param ve-graphic 
@@ -30,14 +22,13 @@ Le style, en particulier le traitement du visage avec son nez droit, ses arcades
 
 Reliquaire des Saints Luciens, Maxien et Julien
 
+Sur cette pièce en argent doré sont gravés trois saints vénérés à Beauvais : Lucien, Maxien et Julien, tenant leurs têtes décapitées comme le raconte la légende ; leurs reliques avaient été offertes à Louis IX, le futur saint Louis.
+Trois ouvertures sur la face du reliquaire permettent de voir les reliques qu’il contenait.  Cette châsse est un rare et précieux exemple de l'orfèvrerie parisienne du 13e siècle. C'est le seul reliquaire du trésor de la Sainte-Chapelle qui date de l'époque de sa construction.
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/41-reliquaire-des-saints-lucien-maxien-et-julien/reliquaire%20des%20saints%20lucien,%20maxien%20et%20julien%20-1/s,900-6dca78.jpg" 
   title="Reliquaire des Saints Lucien, Maxien et Julien" />
-  Cette châsse est un rare et précieux exemple de l'orfèvrerie parisienne du 13e siècle. C'est le seul reliquaire du trésor de la Sainte-Chapelle qui date de l'époque de sa construction.
 
-Sur cette pièce en argent doré sont gravés trois saints vénérés à Beauvais : Lucien, Maxien et Julien, tenant leurs têtes décapitées comme le raconte la légende ; leurs reliques avaient été offertes à Louis IX, le futur saint Louis.
 
-Trois ouvertures sur la face du reliquaire permettent de voir les reliques qu’il contenait.
   
 
 Chef reliquaire de Saint Candide
