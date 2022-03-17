@@ -64,4 +64,9 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
   url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
   title="Gargouilles" />
   
+  <param ve-image manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BibleMoralisee.jpg/640px-BibleMoralisee.jpg">
+<param ve-image manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Malnazar_-_The_Creation_of_the_World_-_Google_Art_Project.jpg/640px-Malnazar_-_The_Creation_of_the_World_-_Google_Art_Project.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Initial_I-_Scenes_of_the_Creation_of_the_World_and_the_Crucifixion_-_Google_Art_Project.jpg/640px-Initial_I-_Scenes_of_the_Creation_of_the_World_and_the_Crucifixion_-_Google_Art_Project.jpg"/>
+
+
 
