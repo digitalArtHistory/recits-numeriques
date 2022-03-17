@@ -35,11 +35,9 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/24/Manniskor_med_kontakterweb_artikel.jpg?raw=true" 
   title="Pendentif d'Aska" />
 
-2e pendentif d'Aska
-
-<param ve-graphic 
-  url="https://historiska.se/wp-content/uploads/2015/04/klintastaven_artikel_541355.jpg" 
-  title="Pendentif d'Aska" />
+2e pendentif d'Aska. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+<param ve-image 
+  manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4103792m/manifest.json">
   
   
 Baton Klinta
