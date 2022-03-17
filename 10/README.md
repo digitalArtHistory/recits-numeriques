@@ -16,7 +16,7 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 <param ve-image
-    url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
+    manifest="https://iiif.juncture-digital.org/manifest/c22bf0eb3598c0d5503f1fff991bfddcf84c171b31fd13dfcc37177ed3f42813"/>
 
 # Explorer Markdown
 
