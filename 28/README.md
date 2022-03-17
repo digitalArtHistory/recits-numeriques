@@ -10,7 +10,7 @@
 
 ## Bibliographie
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. *[Tadao Ando](https://http://www.tadao-ando.com/)* lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. 
-<param ve-iframe src="https://fr.wikipedia.org/wiki/Tadao_And%C5%8D" />
+<param ve-iframe src="http://www.tadao-ando.com/projects/" />
 
 ## Regard et pensée
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
