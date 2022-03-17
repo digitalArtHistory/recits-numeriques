@@ -16,9 +16,6 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 <param ve-graphic
-    url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/469836/946398/main-image" 
-    title="Saint Margueritte d'Antioche"/>
-<param ve-graphic
     url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/BK-NM-11363-A.jpg?raw=true" 
     title="Saint Joris met de draak"/>
 
