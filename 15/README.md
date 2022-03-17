@@ -1,4 +1,4 @@
-<a href="https://commons.wikimedia.org/wiki/Category:Frida_Kahlo#/media/File:Frida_Kahlo,_by_Guillermo_Kahlo_(cropped).jpg" style="height:40px"></a>
+<a href="" style="height:40px"></a>
 
 <param ve-config 
        title="Frida Kahlo" 
