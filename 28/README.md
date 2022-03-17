@@ -25,5 +25,7 @@ Ensemble de logements situés au pied du mont Rokkô à Kôbe, sur une pente nat
 * Église de la lumière d"Ibaraki 1987-89 : 
 
 <param ve-iframe 
-    src="https://www.youtube.com/embed/5fJDslITV34" />> When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando
+    src="http://www.tadao-ando.com/projects/" />
+       
+When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando
 
