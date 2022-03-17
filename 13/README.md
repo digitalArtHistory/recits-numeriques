@@ -68,3 +68,15 @@ Les procès sont des actes juridiques. Les deux procès ont la particularité d'
 Philippe Contamine, au cours de ses recherches, a constaté une abondance d'écrits dès 1429, et le « formidable retentissement au niveau international » dont cette abondance témoigne. Il remarque également que Jeanne d'Arc fut d'emblée mise en controverse et suscita le débat parmi ses contemporains. Enfin, dès le début « des légendes coururent à son sujet, concernant son enfance, ses prophéties, sa mission, les miracles ou les prodiges dont elle était l'auteur. Au commencement était le mythe. »
 
 Il apparaît donc qu'aucun document contemporain de l'époque — hormis les minutes des procès — n'est à l'abri de déformations issues de l'imaginaire collectif. Au cours du procès de réhabilitation, les témoins racontent d'après des souvenirs vieux de 26 ans.
+
+
+
+The French narrative Le Roman de Silence was written by Heldris de Cornuälle in the 13th century. This is the only known surviving copy, also from the early 13th century, which exists between the vellum folios 188r-223r of WLC/LM/6 at the University of Nottingham.
+
+This narrative, including the eleven miniatures (images) containing narrative content, is based on another medieval text: De Planctu Naturae (The Complaint of Nature) by Alain de Lille (c.1128-1212). Alain de Lille focusses especially on “sodomy,” and so does Heldris de Cornuälle.
+
+Sodomy, and characters representing sodomy, does not match with our modern cis-heteronomative presumptions. This means that the “sodomitical” characters represented in Romance de Silence don’t conform to these presumptions either.
+
+There are three characters (Silence, Eupheme, and the Nun) who do not conform to their assigned gender roles, and one of these characters has been called by contemporary scholars a “lesbian” figure.
+<param ve-graphic url="https://www.queerarthistory.com/wp-content/uploads/2020/07/WLC-LM-6_folio-222v-1406x2048.jpg" title="" />
+
