@@ -35,13 +35,14 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
   title="Pendentif d'Aska" />
 
 2e pendentif d'Aska. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-<param ve-image 
-  manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4103792m/manifest.json">
+<param ve-graphic 
+  url="https://historiska.se/wp-content/uploads/2015/09/hedniska_gudar_3_artikel_IMG0024web_artikel.jpg"
+       title="2e Pendentif d'Aska" />
   
 Baton Klinta
 <param ve-graphic 
-  url="https://historiska.se/wp-content/uploads/2015/09/hedniska_gudar_3_artikel_IMG0024web_artikel.jpg" 
-  title="Pendentif d'Aska" />
+  url="https://historiska.se/wp-content/uploads/2015/04/klintastaven_artikel_541355.jpg" 
+  title="Baton Klinta" />
 
 
 > Ceci est du texte cité.
