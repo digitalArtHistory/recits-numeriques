@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
+<a href="hhttps://commons.wikimedia.org/wiki/Category:Frida_Kahlo#/media/File:Frida_Kahlo,_by_Guillermo_Kahlo_(cropped).jpg" style="height:40px"></a>
 
 <param ve-config 
        title="Frida Kahlo" 
@@ -20,11 +20,11 @@ Voici quelques actions à réaliser pour commencer :
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
-Biographie
+#
 
-Ses oeuvres
+##
 
-Auto portrait
+### 
 ```
 
 Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
