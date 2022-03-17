@@ -49,7 +49,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 *freaks*
-
 <param ve-graphic 
   url="https://www.hmb.ch/fileadmin/a/hmb/import/collection/220605_1882-80-a_shmpop_C4180.jpg" 
   title="freaks">
