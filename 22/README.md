@@ -23,8 +23,8 @@ Buste-reliquaire de Sainte Mabille
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/60-buste-reliquaire-de-sainte-mabille/buste-reliquaire-de-sainte-mabille/s,900-4d2b0f.jpg" 
   title="Buste reliquaire de Sainte Mabille" /> 
-Sainte Mabille, identifiée par une inscription sur la poitrine, est l'une des onze mille vierges martyres ayant suivi sainte Ursule. Elle est représentée ici en buste, coupé sous les épaules et reposant sur des arcatures trilobées alternées de pierreries. Au sommet du crâne se trouve la logette de la relique, visible au moyen d'un opercule mobile. Revêtue d'un vêtement doré orné d'un orfroi, sainte Mabille a les traits d'une jeune femme à l’expression grave. Son visage est souligné par des tresses encadrant son front haut. Elle tourne légèrement la tête vers la gauche en levant le regard.
 
+Sainte Mabille, identifiée par une inscription sur la poitrine, est l'une des onze mille vierges martyres ayant suivi sainte Ursule. Elle est représentée ici en buste, coupé sous les épaules et reposant sur des arcatures trilobées alternées de pierreries. Au sommet du crâne se trouve la logette de la relique, visible au moyen d'un opercule mobile. Revêtue d'un vêtement doré orné d'un orfroi, sainte Mabille a les traits d'une jeune femme à l’expression grave. Son visage est souligné par des tresses encadrant son front haut. Elle tourne légèrement la tête vers la gauche en levant le regard.
 Le style, en particulier le traitement du visage avec son nez droit, ses arcades sourcilières rectilignes et ses cheveux dessinant un ovale net, correspond aux œuvres siennoises du milieu du 14e siècle.
  
 
