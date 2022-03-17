@@ -54,6 +54,9 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
   
   voici une image de dragon
   
- <param ve-graphic 
-  url="http://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg"
+<param ve-graphic 
+  url="http://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg ![image](https://user-images.githubusercontent.com/101223514/158864070-78d6cda1-7bcd-4c6f-a560-35317acec1b7.png)" 
   title="dragon" />
+  
+  
+  
