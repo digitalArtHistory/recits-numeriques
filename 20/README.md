@@ -65,9 +65,27 @@ Le premier objet présenté pose la question de l’or, ses chemins de commerce 
 ## The Catalan Atlas
 
 aaaaaaaaa
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="0"/>
 
-<param ve-image 
-    url="https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b55002481n/f1" />
+bbbbbbbbbbb
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="1"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="2"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="3"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="4"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="5"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="6"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="7"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="8"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="9"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="10"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="11"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="12"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="13"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="14"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="15"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="16"/>
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b55002481n/manifest.json" seq="17"/>
+
 
 ## Crosseron en ivoire
 
