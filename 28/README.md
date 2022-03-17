@@ -5,11 +5,6 @@
        banner="https://static.dezeen.com/uploads/2017/10/endeavors-by-tadao-ando-_dezeen_2364_hero1.jpg" 
        layout="vertical">
 
-<param ve-entity title="Tadao Ando" eid="Q208220" />
-<param ve-entity title="architecture" eid="Q12271" aliases="architecte" />
-<param ve-entity eid="Q9128" />
-<parem ve-entity eid="Q152036" />
-
 
 # TADAO ANDO
 
