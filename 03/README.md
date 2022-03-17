@@ -5,51 +5,23 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Saint Thomas Becket
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+[Châsse reliquaire de saint Thomas Becket](https://collections.louvre.fr/en/ark:/53355/cl010101248)
 
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
-<param ve-image 
+<param ve-graphic url="" title="" />
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus et sem nec suscipit. Vivamus sed metus ut arcu pharetra luctus. Phasellus mattis justo sapien, id auctor lacus pharetra ut. Aliquam erat volutpat. Cras scelerisque eleifend eros in gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam lacus metus, ornare vel quam quis, mattis posuere nisl. Pellentesque finibus, erat elementum pretium faucibus, lectus enim scelerisque ipsum, non varius massa purus sit amet elit. Integer ac nulla ut libero mollis venenatis ut quis neque. Suspendisse rutrum id massa sit amet tempus. Curabitur aliquam mattis fringilla. Donec consequat ante eu est scelerisque luctus. Integer at volutpat augue. Morbi sagittis ante urna, in tristique purus ultrices finibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et vulputate ligula. Etiam venenatis viverra aliquam. Nunc tortor libero, luctus non pretium non, volutpat eu enim. Curabitur viverra at arcu non luctus. Cras id tellus auctor, ullamcorper enim id, consequat metus. Vestibulum ut elit eros. Suspendisse non dignissim est. Vestibulum luctus, augue sed vulputate imperdiet, purus nisl pretium sem, ut ultrices nunc ex in lacus. Curabitur ultricies libero eu leo efficitur aliquet. Nulla posuere tortor congue, posuere ipsum ac, cursus quam. Donec bibendum risus ut quam tristique, quis gravida velit scelerisque. Vestibulum eget tristique eros. Praesent eget ornare ex. Pellentesque ut neque dapibus, tempus arcu eget, finibus massa. Suspendisse laoreet elit magna, in porttitor odio sagittis eget. Phasellus vitae nunc eget elit fringilla maximus quis at ex. Nulla nec quam tristique turpis auctor volutpat pharetra nec elit. Maecenas sagittis tortor id rutrum mattis. Vivamus felis nisi, fringilla ornare porttitor sit amet, tincidunt et ex. Cras ut dui varius, iaculis felis consequat, laoreet augue. Donec consequat leo quis fringilla pharetra. Pellentesque eu lacinia justo. Suspendisse potenti. 
 
 
-# Explorer Markdown
+# Sainte Catherine d'Alexanddrie
 
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus et sem nec suscipit. Vivamus sed metus ut arcu pharetra luctus. Phasellus mattis justo sapien, id auctor lacus pharetra ut. Aliquam erat volutpat. Cras scelerisque eleifend eros in gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam lacus metus, ornare vel quam quis, mattis posuere nisl. Pellentesque finibus, erat elementum pretium faucibus, lectus enim scelerisque ipsum, non varius massa purus sit amet elit. Integer ac nulla ut libero mollis venenatis ut quis neque. Suspendisse rutrum id massa sit amet tempus. Curabitur aliquam mattis fringilla. Donec consequat ante eu est scelerisque luctus. Integer at volutpat augue. Morbi sagittis ante urna, in tristique purus ultrices finibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et vulputate ligula. Etiam venenatis viverra aliquam. Nunc tortor libero, luctus non pretium non, volutpat eu enim. Curabitur viverra at arcu non luctus. Cras id tellus auctor, ullamcorper enim id, consequat metus. Vestibulum ut elit eros. Suspendisse non dignissim est. Vestibulum luctus, augue sed vulputate imperdiet, purus nisl pretium sem, ut ultrices nunc ex in lacus. Curabitur ultricies libero eu leo efficitur aliquet. Nulla posuere tortor congue, posuere ipsum ac, cursus quam. Donec bibendum risus ut quam tristique, quis gravida velit scelerisque. Vestibulum eget tristique eros. Praesent eget ornare ex. Pellentesque ut neque dapibus, tempus arcu eget, finibus massa. Suspendisse laoreet elit magna, in porttitor odio sagittis eget. Phasellus vitae nunc eget elit fringilla maximus quis at ex. Nulla nec quam tristique turpis auctor volutpat pharetra nec elit. Maecenas sagittis tortor id rutrum mattis. Vivamus felis nisi, fringilla ornare porttitor sit amet, tincidunt et ex. Cras ut dui varius, iaculis felis consequat, laoreet augue. Donec consequat leo quis fringilla pharetra. Pellentesque eu lacinia justo. Suspendisse potenti. Donec ac pharetra ante. Ut justo odio, pretium ac aliquam non, faucibus eu enim. Maecenas varius fermentum laoreet. Maecenas commodo accumsan arcu, maximus consequat quam interdum ac. Etiam vestibulum diam vel eros efficitur dictum. Aenean cursus tristique enim vitae tincidunt. Nullam interdum diam lacus, a pharetra sapien efficitur nec. Vestibulum euismod malesuada ultrices. Integer dignissim urna nec lectus pharetra maximus. Sed lacinia tellus et purus volutpat, tincidunt tempus tellus porttitor. Vestibulum sed tempor enim. Donec sodales vulputate dictum. In auctor ante in dolor pharetra cursus. Nullam nec lacus dui. Morbi arcu elit, iaculis ut nunc vel, gravida dignissim ex. Ut ac sollicitudin lectus. Suspendisse in elementum metus. Aenean volutpat ornare justo et porttitor.
 
-```
-# Titre de niveau 1
 
-## Titre de niveau 2
+# Saint Laurent 
 
-### Titre de niveau 3
-```
-
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
-
-Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
-
-> Ceci est du texte cité.
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata 
-- intégrer une vidéo
-  <param ve-graphic url="https://collections.louvre.fr/media/cache/original/0000000021/0000101248/0000318531_OG.JPG" title="Châsse reliquaire saint Thomas Becket" />
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus et sem nec suscipit. Vivamus sed metus ut arcu pharetra luctus. Phasellus mattis justo sapien, id auctor lacus pharetra ut. Aliquam erat volutpat. Cras scelerisque eleifend eros in gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam lacus metus, ornare vel quam quis, mattis posuere nisl. Pellentesque finibus, erat elementum pretium faucibus, lectus enim scelerisque ipsum, non varius massa purus sit amet elit. Integer ac nulla ut libero mollis venenatis ut quis neque. Suspendisse rutrum id massa sit amet tempus. Curabitur aliquam mattis fringilla. Donec consequat ante eu est scelerisque luctus. Integer at volutpat augue. Morbi sagittis ante urna, in tristique purus ultrices finibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et vulputate ligula. Etiam venenatis viverra aliquam. Nunc tortor libero, luctus non pretium non, volutpat eu enim. Curabitur viverra at arcu non luctus. Cras id tellus auctor, ullamcorper enim id, consequat metus. Vestibulum ut elit eros. Suspendisse non dignissim est. Vestibulum luctus, augue sed vulputate imperdiet, purus nisl pretium sem, ut ultrices nunc ex in lacus. Curabitur ultricies libero eu leo efficitur aliquet. Nulla posuere tortor congue, posuere ipsum ac, cursus quam. Donec bibendum risus ut quam tristique, quis gravida velit scelerisque. Vestibulum eget tristique eros. Praesent eget ornare ex. Pellentesque ut neque dapibus, tempus arcu eget, finibus massa. Suspendisse laoreet elit magna, in porttitor odio sagittis eget. Phasellus vitae nunc eget elit fringilla maximus quis at ex. Nulla nec quam tristique turpis auctor volutpat pharetra nec elit. Maecenas sagittis tortor id rutrum mattis. Vivamus felis nisi, fringilla ornare porttitor sit amet, tincidunt et ex. Cras ut dui varius, iaculis felis consequat, laoreet augue. Donec consequat leo quis fringilla pharetra. Pellentesque eu lacinia justo. Suspendisse potenti. Donec ac pharetra ante. Ut justo odio, pretium ac aliquam non, faucibus eu enim. Maecenas varius fermentum laoreet. Maecenas commodo accumsan arcu, maximus consequat quam interdum ac. Etiam vestibulum diam vel eros efficitur dictum. Aenean cursus tristique enim vitae tincidunt. Nullam interdum diam lacus, a pharetra sapien efficitur nec. Vestibulum euismod malesuada ultrices. Integer dignissim urna nec lectus pharetra maximus. Sed lacinia tellus et purus volutpat, tincidunt tempus tellus porttitor. Vestibulum sed tempor enim. Donec sodales vulputate dictum. In auctor ante in dolor pharetra cursus. Nullam nec lacus dui. Morbi arcu elit, iaculis ut nunc vel, gravida dignissim ex. Ut ac sollicitudin lectus. Suspendisse in elementum metus. Aenean volutpat ornare justo et porttitor.
   
 
 
