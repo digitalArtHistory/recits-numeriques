@@ -49,6 +49,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-
-
-
+<param ve-config 
+       title="depart" 
+       banner="://github.com/digitalArtHistory/recits-numeriques/blob/main/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       layout="vertical">
