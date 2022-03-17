@@ -20,7 +20,4 @@ Saint Patron Magdebourg
 Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
 <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Maurice_Magdeburg.jpg" title="Saint Maurice" />
 
-# Les rois mages
-Ils représentent le monde entier
-Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
-<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Hans_Multscher_-_Au%C3%9Fenfl%C3%BCgel_des_Wurzacher_Altars_-_Google_Art_Project.jpg" title="Les rois mages" />
+
