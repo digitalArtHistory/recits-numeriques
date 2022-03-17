@@ -9,7 +9,7 @@
 # Les reliquaires: objets de dévotion
 
 
-## Buste-reliquaire de Sainte Mabille
+ Buste-reliquaire de Sainte Mabille
 
 Sainte Mabille, identifiée par une inscription sur la poitrine, est l'une des onze mille vierges martyres ayant suivi sainte Ursule. Elle est représentée ici en buste, coupé sous les épaules et reposant sur des arcatures trilobées alternées de pierreries. Au sommet du crâne se trouve la logette de la relique, visible au moyen d'un opercule mobile. Revêtue d'un vêtement doré orné d'un orfroi, sainte Mabille a les traits d'une jeune femme à l’expression grave. Son visage est souligné par des tresses encadrant son front haut. Elle tourne légèrement la tête vers la gauche en levant le regard.
 Le style, en particulier le traitement du visage avec son nez droit, ses arcades sourcilières rectilignes et ses cheveux dessinant un ovale net, correspond aux œuvres siennoises du milieu du 14e siècle.
@@ -18,7 +18,7 @@ Le style, en particulier le traitement du visage avec son nez droit, ses arcades
   title="Buste reliquaire de Sainte Mabille" /> 
   
 
-## Reliquaire des Saints Luciens, Maxien et Julien
+ Reliquaire des Saints Luciens, Maxien et Julien
 
 Sur cette pièce en argent doré sont gravés trois saints vénérés à Beauvais : Lucien, Maxien et Julien, tenant leurs têtes décapitées comme le raconte la légende ; leurs reliques avaient été offertes à Louis IX, le futur saint Louis.
 Trois ouvertures sur la face du reliquaire permettent de voir les reliques qu’il contenait.  Cette châsse est un rare et précieux exemple de l'orfèvrerie parisienne du 13e siècle. C'est le seul reliquaire du trésor de la Sainte-Chapelle qui date de l'époque de sa construction.
@@ -27,7 +27,7 @@ Trois ouvertures sur la face du reliquaire permettent de voir les reliques qu’
   title="Reliquaire des Saints Lucien, Maxien et Julien" />
 
 
-## Chef reliquaire de Saint Candide
+Chef reliquaire de Saint Candide
 
 Saint Candide était le compagnon d'armes de Saint Maurice. 
 Un chef reliquaire fait référence à un reliquaire prenant la forme d'une tête. 
@@ -36,7 +36,7 @@ Le chef reliquaire fait parti du trésor de l'Abbaye de..
   url="https://omci.inha.fr/files/large/300/St_Maurice_Agaune_gen.jpg" 
   title="Chef reliquaire de Saint Candide" />
   
-## Pied reliquaire de Saint Jacques le Majeur
+Pied reliquaire de Saint Jacques le Majeur
 
 Des précisions manquant, on ne peut affirmer avec certitude que ce reliquaire renferme bel et bien un ossement du pied de saint Jacques le Majeur. De forme corporelle, alors très en vogue, l’œuvre est postérieure à la production de frère Hugo et la relique en elle-même a dû faire l’objet d’un legs de la part de Jacques de Vitry. Notons la représentation du saint en basse-taille sur la plaque supérieure ovale en cuivre doré.
 <param ve-graphic 
@@ -44,7 +44,7 @@ Des précisions manquant, on ne peut affirmer avec certitude que ce reliquaire r
   title="Pied reliquaire de Saint Jacques le Majeur" />
   
   
-## Reliquaire de la Sainte Épine 
+Reliquaire de la Sainte Épine 
 
 Une amande cerclée d’émeraudes, de rubis et de perles, semble posée en équilibre sur un pied, une lumière particulière et étrange s'en échappe. Le centre du reliquaire est un bloc de cristal de roche d’une qualité exceptionnelle, sans aucune givrure ni défaut, taillé en amande et évidé depuis la pointe haute afin de recevoir une épine de la couronne du Christ que saint Louis offrit à l’abbaye de Saint-Maurice d’Agaune en remerciement des reliques des martyrs thébains apportées par l’abbé d’Agaune en 1262 au saint roi.
 Saint Louis avait d’ailleurs fait construire entre 1242 et 1248 la Sainte-Chapelle à Paris, gigantesque reliquaire de pierre et de verre afin de recevoir les reliques de la Passion achetées dès 1239 au roi de Constantinople Baudoin II.
