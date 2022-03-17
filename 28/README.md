@@ -5,9 +5,9 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-## Titre
+# Titre
 
-# Bibliographie
+## Bibliographie
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
