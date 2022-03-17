@@ -23,10 +23,8 @@ En principe, il travaille avec un **matériau brut et froid tel que le béton**,
 
 
 ## LISTE DES PROJETS
+texte 
 
-- Logement Rokko 1978 
-- Église de la lumière d"Ibaraki 1987-89  
-  
 <param ve-knightlab-timeline
     source="1Ng4U4BTx89DP-janGvPN2g_7SNGvVD-NZZKMSrO2ROM"
     hash-bookmark="true"
