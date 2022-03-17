@@ -7,17 +7,10 @@
 
 # Fichier de démarrage
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
+ICONOGRAPHIES FREAKS: un medieval queer ?
 
 # Explorer Markdown
 
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
 # Iconographies *freaks* : Un medieval queer ? 
@@ -30,12 +23,6 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 
 
 > Ceci est du texte cité.
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
 ## Premiers pas avec Juncture (travail dirigé)
   
@@ -68,9 +55,8 @@ identity and reinforce gendered social inequalities. »
 <param ve-graphic 
   url="https://d3vjn2zm46gms2.cloudfront.net/blogs/2016/10/27003939/NCOD17.jpg" 
   title= "contemporary">
-  
-<param ve-image 
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k204156s/manifest.json"/>
+  <param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k204156s/manifest.json">
     
     
 
