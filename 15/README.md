@@ -48,6 +48,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-<param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
 
-<param ve-graphic url="hhttps://commons.wikimedia.org/wiki/Category:Frida_Kahlo#/media/File:Frida_Kahlo_signature_firma.svg" title="Frida Kahlo" />
+<param ve-graphic url="https://commons.wikimedia.org/wiki/Category:Frida_Kahlo#/media/File:Frida_Kahlo,_by_Guillermo_Kahlo_(cropped).jpg" title="Frida Kahlo" />
