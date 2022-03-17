@@ -49,7 +49,7 @@ La scène de la Délivrance présente peut-être un lien avec la relique des cle
 
 Chapiteau du don des clés à Saint Pierre
 
-Ce chapiteau, acquis en 2020 par le musée, est sculpté sur deux de ses quatre faces. Le Christ, à gauche, remet à saint Pierre, à droite, les clefs de l’Ecclesia, l’Eglise.
+Ce chapiteau, acquis en 2020 par le musée, est sculpté sur deux de ses quatre faces. Le [Christ](https://fr.wikipedia.org/wiki/J%C3%A9sus-Christ), à gauche, remet à [Saint Pierre](https://fr.wikipedia.org/wiki/Pierre_(ap%C3%B4tre)), à droite, les clefs de l’Ecclesia, l’Eglise.
 Chaque personnage est représenté sur une des faces sculptées. Le Christ est reconnaissable au nimbe crucifère. Il tient le Livre de la main gauche et tend de la droite un trousseau de deux clefs à saint Pierre. Debout, l'apôtre nimbé et aux pieds nus tient fermement de la main gauche le lien auquel les clefs sont attachées. De la main droite, il soutient la maquette d'un édifice percé de trois hautes baies (une allusion à la Trinité). Cet édifice, surmonté d'un étage en forme de clocher est une représentation de l'Ecclesia.
 Significativement, l'objet du don est placé au centre de la composition, sous la volute qui sépare les deux faces historiées, et souligne avec une force visuelle calculée le lien qui unit le Christ à son Église.
 Cette mise en page épouse la structure corinthisante du chapiteau, signe d’une connaissance manifeste de la tradition antique.
@@ -66,13 +66,6 @@ Ce chapiteau est entré dans les collections du musée en même temps qu’un de
 Définition de chapitaux
 Élément architectural placé entre une colonne (ou un pilastre) et un linteau ou la retombée d'un ou plusieurs arcs. La partie inférieure du chapiteau (astragale) est souvent de section circulaire, tandis que la partie supérieure (abaque) est de plan quadrangulaire. La partie du chapiteau située entre ces deux plans s'appelle la corbeille.
 Un chapiteau historié est décoré de scènes à plusieurs personnages qui narre une histoire.
-
-
-chapiteau corinthien
-<param ve-image 
-    manifest="http://www.shared-canvas.org/ns/context.json"/>
-      
-
 
 
 
