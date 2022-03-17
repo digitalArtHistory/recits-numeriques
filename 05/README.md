@@ -37,6 +37,29 @@ voici une image de dragon qui provient d'un ouvrage de bestiaire. Cet ouvrage se
   title="dragon" />
   
   
+  Présentation
+
+Le griffon est un animal légendaire représenté le plus souvent avec le corps arrière d'un lion (corps, pattes arrières et queue) et un avant d'aigle (pattes avant, poitrail et tête). Le plus souvent, les griffons sont affublés d’oreilles longues et pointues comme celles des chevaux, de chats ou de certains chiens, en fonction des époques et des ethnies. De même, parfois on peut le voir représenté avec quatre pattes de lion. Dans ce dernier cas, on l'appelle un opinicus.
+
+Dans énormément de cultures, le lion est le roi des animaux terrestres et l'aigle celui des animaux célestes. Né de cette union entre ces deux rois, le griffon est donc souvent considéré comme le roi de tous les animaux.
+
+Au travers des cultures différentes qu'il a traversées, le griffon a reçu les rôles de gardien de trésors, de tombes ou de temples, mais également de monture divine.
+Son rôle de gardien est, probablement le plus courant puisque, au Moyen-Âge, il était souvent utilisé comme gargouilles pour protéger les cathédrales des esprits malins.
+
+On pourra également souligner que dans l'iconographie chrétienne, le griffon est, au départ, une créature maléfique. Cependant, sa valeur a évolué au fil du temps : cet animal légendaire a fini par représenter la double nature du Christ. Ainsi, le lion, animal terrestre rappelait la condition humaine de Jésus, tandis que l'aigle, animal du ciel représentait sa dimension divine.
+
+Il a également eu, à certaines périodes de l'histoire le rôle de gardien (encore) et de guide des morts. Il était chargé de l'importante mission de mener les âmes des morts dans l'Autre Monde.
+
+Le griffon est également un meuble important en héraldique. Il représente la force et le courage du lion mêlés à la vigilance et à la ruse de l'aigle, mais également la justice et la protection, valeurs dont il est considéré comme le gardien... toujours !
+
+Les textes anciens lui accordaient un habitat bien particulier : une montagne ou un désert où l'on trouve de l'or dont les griffons se serviraient pour faire leurs nids.
+On leur prête également la force de cent aigles ou de huit lions et leurs griffes noirciraient au contact du poison.
+
+Origines
+
+Les plus anciennes représentations de griffons connues à l'heure actuelle datent du IVè siècle avant notre ère en Élam (un ancien pays occupant la partie sud-ouest du plateau Iranien, voisin de la Mésopotamie) ainsi qu'en Égypte datant de -3000.
+Par la suite, les légendes grecques et romaines reprirent cet animal mythique au travers de légendes diverses telles que les griffons gardiens des trésors d’Apollon dans l'Altaï. Dans cette légendes, il est question d'un peuple, les Arimaspes, qui guerroyaient sans cesse contre les griffons afin de leur voler l'or d'Apollon.
+Adrienne Mayor, spécialiste des folklores classiques, pense que ces légendes sont dues à la présence de fossiles de protocératops trouvés près des mines d'or de l'Altaï, chaîne montagneuse qui s'étend du Kazakhstan jusqu'en Mongolie.  
   « […] l'Indois Griffon aux yeus estincelans,
 A la bouche aquiline, aux ailes blanchissantes,
 Au sein rouge, au dos noir, aux griffes ravissantes,
