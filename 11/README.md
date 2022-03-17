@@ -70,7 +70,7 @@ Un chapiteau historié est décoré de scènes à plusieurs personnages qui narr
 
 chapiteau corinthien
 <param ve-image 
-    manifest="http://www.shared-canvas.org/ns/context.json" />
+    manifest="http://www.shared-canvas.org/ns/context.json"/>
       
 
 
