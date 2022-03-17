@@ -20,11 +20,11 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
 >
 
 Bestiaire
-<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json"       seq="49"/>
-<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json"       seq="50"/>
-<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json"       seq="51"/>
-<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json"       seq="52"/>
-<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json"       seq="53"/>
+<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json" seq="49"/>
+<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json" seq="50"/>
+<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json" seq="51"/>
+<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json" seq="52"/>
+<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e6ad6426-6ff5-4c33-a078-ca518b36ca49.json" seq="53"/>
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
