@@ -202,7 +202,12 @@ Ms. Ludwig I 8, v1, fol. 10v (Manuscript Number)
 <param ve-graphic 
   url="https://media.getty.edu/museum/images/web/download/00305401.jpg" 
        
- -------------https://en.wikipedia.org/wiki/Monreale_Cathedral_mosaics
+ -------------https://en.wikipedia.org/wiki/Monreale_Cathedral_mosaics  
+       
+<param ve-graphic 
+  url="<param ve-graphic 
+  url="https://media.getty.edu/museum/images/web/download/00305401.jpg" " 
+       
        
 ---------allez su akgimage ou https://books.openedition.org/pup/7037?lang=fr
 Tapisserie / La Création / Gérone v. 1100
