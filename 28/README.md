@@ -5,9 +5,9 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Titre 
+## Titre
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+# Bibliographie
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
