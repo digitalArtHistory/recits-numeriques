@@ -59,6 +59,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
+<param ve-iframe src="http://www.tadao-ando.com/" />
 
 Tableau de données
 
