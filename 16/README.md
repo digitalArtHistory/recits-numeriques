@@ -18,7 +18,7 @@ Voici quelques actions à réaliser pour commencer :
   url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
   title="Gargouilles" />
 
-https://collectionapi.metmuseum.org/api/collection/v1/iiif/626692/1467614/main-image 
+  url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/626692/1467614/main-image" />
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
