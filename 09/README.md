@@ -15,7 +15,10 @@ Le roi du Mali
 Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflun élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
 <param ve-image
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json"
-# Saint Maurice 
+       
+      
+# Saint Maurice
+     
 Saint Patron Magdebourg
 Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
 <param ve-graphic url="hhttps://gallica.bnf.fr/ark:/12148/btv1b84466411/f1.highres" title="Saint Maurice" />
