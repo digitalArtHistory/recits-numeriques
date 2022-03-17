@@ -60,7 +60,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 
 <param ve-graphic 
-  url="https://user-images.githubusercontent.com/101237991/157738979-d5e75d74-081e-4013-908e-824f82df8640.png" 
+  url="https://user-images.githubusercontent.com/101237991/157738140-e3a51074-a976-417f-9d31-2b7a703c16d2.png" 
   title="Gargouilles" />
 
 ![image](https://user-images.githubusercontent.com/101237991/157738140-e3a51074-a976-417f-9d31-2b7a703c16d2.png)
