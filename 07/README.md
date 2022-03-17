@@ -15,10 +15,6 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
-<param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" 
-  title="Lady Kéroualle" />
-
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
@@ -60,6 +56,10 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 # Louise de Keroualle
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" 
+  title="Lady Kéroualle" />
+
 
 >
 Louise de Kéroualle est l'espionne de Louis XIV et...
@@ -68,4 +68,24 @@ Louise de Kéroualle est l'espionne de Louis XIV et...
 ## Voici un article qui présente Loulou
 
 [Louise de Kéroualle](https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
