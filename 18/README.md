@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
 <param ve-config 
-       title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       title="Représentations coloniales dans l'art médiéval" 
+       banner="https://collections.louvre.fr/media/cache/small/0000000021/0000318774/0000660923_OG.JPG" 
        layout="vertical">
 
 # Fichier de démarrage
@@ -33,11 +33,7 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 
 <param ve-graphic
     url="https://medievalslavery.org/wp-content/uploads/2020/06/Vidal-Mayor-fol.-244r-cropped-version.jpeg"
-       title="Deux soldats guidant deux moors" />
-       
-<param ve-graphic
-    url="https://collections.louvre.fr/media/cache/small/0000000021/0000318774/0000660923_OG.JPG"
-       title="Baptistère de Saint-Louis" />      
+       title="Deux soldats guidant deux moors" /> 
                    
 Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
 
