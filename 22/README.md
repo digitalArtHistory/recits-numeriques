@@ -52,11 +52,9 @@ Ce petit reliquaire (environ 20cm de haut), n’est pas l’objet le plus tapage
 <param ve-graphic 
   url="https://www.narthex.fr/blogs/orfevrerie/images-g-denniel/vignette-reliquaire-de-la-sainte-epine-c-tresor-de.jpg/image_preview" 
   title="Reliquaire de la Sainte Épine" />
-  
 <param ve-video id="xLrPnmH-yLo" title="Reliquaire de la Sainte Épine" start="1" />
   
-  
-  hsshsfhru
+ hsshsfhru
   <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b102274285/manifest.json" />
     
