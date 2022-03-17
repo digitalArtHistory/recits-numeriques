@@ -57,8 +57,10 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 ## Perle biconique
 
-aaa
+Zone de texte pour Crosseron en ivoire de morse
+Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire et Perle de verre verte, 11,9 x 4,6 x 2,7 cm. musée de Cluny, Paris.
+
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron-en-ivoire-de-morse/s,900-ae3a8e.jpg" 
-  title="Gargouilles" />
+  title="Crosseron en ivoire de morse" />
 
