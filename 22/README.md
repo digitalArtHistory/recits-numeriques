@@ -5,7 +5,7 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Yalanne
+# Les reliquaires: objets de dévotion
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
