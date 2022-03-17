@@ -17,6 +17,10 @@ Voici quelques actions à réaliser pour commencer :
 
 # Explorer Markdown
 
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
+
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
@@ -48,9 +52,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
   
-<param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
-  title="Gargouilles" />
 
 
 
