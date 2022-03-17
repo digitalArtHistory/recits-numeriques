@@ -11,7 +11,7 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
 Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
 Frida Kahlo’s father, Wilhelm , was a German photographer who had immigrated to Mexico where he met and married her mother Matilde. She had two older sisters, Matilde and Adriana, and her younger sister, Cristina, was born a year after her .
 
-<param ve-graphic url="https://en.wikipedia.org/wiki/Frida_Kahlo#/media/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg" title="Frida Kahlo" />
+<param ve-graphic url="https://www.anothermag.com/art-photography/3663/the-fashion-codes-of-frida-kahlo" title="Frida Kahlo" />
 
 # Biographie
 
@@ -30,7 +30,7 @@ About a week after her 47th birthday,frida died on July 13, 1954, in her beloved
 After  frida Kahlo’s death, the feminist movement of the 1970s led to renewed interest in her life and work, as Kahlo was viewed by many as an icon of female creativity.
 
 <param ve-image 
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k96910447/manifest.json" seq="57" />
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k96910447/manifest.json" seq="58" />
 
 ## Oeuvres
 
