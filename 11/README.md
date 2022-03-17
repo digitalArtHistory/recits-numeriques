@@ -17,6 +17,7 @@ Lorem ipsum gibberish sunt ipso facto. Lorem ipsum gibberish sunt ipso facto. Lo
        
        
 Chapiteau catalan: Histoire de Noé
+
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/chapiteau-catalan-histoire-dabraham/chapiteau-catalan-cl-23900-1/s,900-2dc782.jpg" 
        title="Histoire de Noé" />
@@ -24,12 +25,14 @@ Chapiteau catalan: Histoire de Noé
        
        
 Chapiteau catalan: Histoire d"Adam et Ève
+
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl_10754_chapiteau_2/s,900-a56dc4.jpg" 
        title="Histoire d'Adam et Ève" />
 
 
 Chapiteau de la délivrance de Saint Pierre de prison
+
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl-23939-1/s,900-3e34b0.jpg" 
        title="Chapiteau de la délivrance de Saint Pierre de prison" />
@@ -37,6 +40,7 @@ Chapiteau de la délivrance de Saint Pierre de prison
        
        
 Chapiteau du don des clés à Saint Pierre
+
 <param ve-graphic 
        url="https://www.musee-moyenage.fr/cache/media/oeuvres/cl-23938/s,315-2259f4.jpg" 
        title="Chapiteau du don des clés à Saint Pierre" />
@@ -82,11 +86,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
-
-#**Chapitaux catalan Abraham**
-![image](https://user-images.githubusercontent.com/101141208/157736781-9f2ff1a5-40b3-475d-ac09-b76953230121.png)
-[
-
-[Musée de Cluny](https://www.musee-moyenage.fr/collection/oeuvre/chapiteau-catalan-abraham.html)
 
 
