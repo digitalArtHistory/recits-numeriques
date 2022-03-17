@@ -6,7 +6,7 @@
        layout="vertical">
 
 **Charles LeBrun**
-voici un liien vers la page Wikipédia de l'artiste: [lien](https://fr.wikipedia.org/wiki/Charles_Le_Brun)
+voici un lien vers la page Wikipédia de l'artiste: [lien](https://fr.wikipedia.org/wiki/Charles_Le_Brun)
 
 Autre œuvre probablement commandée par un riche amateur dont le nom reste inconnu, Le Sacrifice de Polyxène (1647, New-York, The Metropolitan Museum of Art)145 illustre les connaissances historiques du peintre, qui intègre au fond de la scène une représentation du tombeau d'Achille, sous la forme d'un imposant sarcophage romain à strigiles et masques corniers.
 <param ve-graphic
@@ -17,12 +17,6 @@ La préface présente la façon dont Le Brun commençait ces dessins et comment 
 <param ve-graphic
  manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b531282192/manifest.json" />
  
-
-
-
-
-
-ceci est un [lien](https://github.com/digitalArtHistory/recits-numeriques/edit/main/16/README.md)
 
 
 **gras**
