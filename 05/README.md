@@ -47,8 +47,9 @@ Au travers des cultures différentes qu'il a traversées, le griffon a reçu les
 Son rôle de gardien est, probablement le plus courant puisque, au Moyen-Âge, il était souvent utilisé comme gargouilles pour protéger les cathédrales des esprits malins.
 
 On pourra également souligner que dans l'iconographie chrétienne, le griffon est, au départ, une créature maléfique. Cependant, sa valeur a évolué au fil du temps : cet animal légendaire a fini par représenter la double nature du Christ. Ainsi, le lion, animal terrestre rappelait la condition humaine de Jésus, tandis que l'aigle, animal du ciel représentait sa dimension divine.
-
-Il a également eu, à certaines périodes de l'histoire le rôle de gardien (encore) et de guide des morts. Il était chargé de l'importante mission de mener les âmes des morts dans l'Autre Monde.
+<param ve-image 
+    manifest=:"//baobab.biblissima.fr/sites/interne.biblissima-condorcet.fr.boiteaoutils/files/green2.jpg" />
+    Il a également eu, à certaines périodes de l'histoire le rôle de gardien (encore) et de guide des morts. Il était chargé de l'importante mission de mener les âmes des morts dans l'Autre Monde.
 
 Le griffon est également un meuble important en héraldique. Il représente la force et le courage du lion mêlés à la vigilance et à la ruse de l'aigle, mais également la justice et la protection, valeurs dont il est considéré comme le gardien... toujours !
 
