@@ -5,8 +5,13 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Le lapis lazuli à l'époque médiévale
 
+lapis lazuli
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
+  
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
 Voici quelques actions à réaliser pour commencer :
