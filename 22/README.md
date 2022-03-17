@@ -33,6 +33,9 @@ Trois ouvertures sur la face du reliquaire permettent de voir les reliques qu’
 
 Chef reliquaire de Saint Candide
 
+Saint Candide était le compagnon d'armes de Saint Maurice. 
+Un chef reliquaire fait référence à un reliquaire prenant la forme d'une tête. 
+Le chef reliquaire fait parti du trésor de l'Abbaye de.. 
 <param ve-graphic 
   url="https://omci.inha.fr/files/large/300/St_Maurice_Agaune_gen.jpg" 
   title="Chef reliquaire de Saint Candide" />
