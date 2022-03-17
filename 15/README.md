@@ -5,30 +5,14 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
-
+# Famille
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
-
-# Explorer Markdown
-
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
-
-```
-#
-
-##
-
-### 
-```
 
 Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
 Frida Kahlo’s father, Wilhelm , was a German photographer who had immigrated to Mexico where he met and married her mother Matilde. She had two older sisters, Matilde and Adriana, and her younger sister, Cristina, was born a year after her .
+
+# Biographie
+
 Around the age of six, frida had  contracted polio, which caused her to be bedridden for nine months. While she recovered from the illness, she limped when she walked because the disease had damaged her right leg and foot. Her father encouraged her to play soccer, go swimming, and even wrestle — highly unusual moves for a girl at the time.
 In 1922, frida joined the renowned National Preparatory School. She was one of the few female students to attend the school, and she became known for her jovial spirit and her love of traditional and colorful clothes and jewelry.
 While at school, frida hung out with a group of politically and intellectually like-minded students. Becoming more politically active, Kahlo joined the Young Communist League and the Mexican Communist Party. 
@@ -43,7 +27,10 @@ Deeply depressed, she was hospitalized again in April 1954 because of poor healt
 About a week after her 47th birthday,frida died on July 13, 1954, in her beloved Blue House. There has been some speculation regarding the nature of her death. It was reported to be caused by a pulmonary embolism, but there have also been stories about a possible suicide
 After  frida Kahlo’s death, the feminist movement of the 1970s led to renewed interest in her life and work, as Kahlo was viewed by many as an icon of female creativity.
 
+<param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k96910447/manifest.json" seq="57" />
 
+## Oeuvres
 
 Frida  received a commission from the Mexican government for five portraits of important Mexican women in 1941, but she was unable to finish the project. She lost her beloved father that year and continued to suffer from chronic health problems. Despite her personal challenges, her work continued to grow in popularity and was included in numerous group shows around this time.
 In 1953, frida received her first solo exhibition in Mexico. While bedridden at the time, frida did not miss out on the exhibition’s opening. Arriving by ambulance, she spent the evening talking and celebrating with the event’s attendees from the comfort of a four-poster bed set up in the gallery just for her. Many of Frida Kahlo’s works were self-portraits. A few of her most notable paintings include:
@@ -57,27 +44,6 @@ Kahlo was asked to paint a portrait of Luce and Kahlo's mutual friend, actress D
 One Kahlo’s most famous works, the paintings shows two versions of the artist sitting side by side, with both of their hearts exposed. One Frida is dressed nearly all in white and has a damaged heart and spots of blood on her clothing. The other wears bold-colored clothing and has an intact heart. These figures are believed to represent “unloved” and “loved” versions of Kahlo.
 'The Broken Column' (1944)
 Kahlo shared her physical challenges through her art again with this painting, which depicted a nearly nude Frida split down the middle, revealing her spine as a shattered decorative column. She also wears a surgical brace and her skin is studded with tacks or nails. Around this time, Kahlo had several surgeries and wore special corsets to try to fix her back. She would continue to seek a variety of treatments for her chronic physical pain with little success.
-
-
-
-
-
-> Ceci est du texte cité.
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata
-- intégrer une vidéo
 
 <param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
 
