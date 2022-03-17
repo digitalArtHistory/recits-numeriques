@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="les tapisseries" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://rmblf.files.wordpress.com/2019/10/tapisseriessl_produitevenement.png" 
        layout="vertical">
 
 # Tapisserie de bayeux
