@@ -57,7 +57,8 @@ Les textes anciens lui accordaient un habitat bien particulier : une montagne ou
 On leur prête également la force de cent aigles ou de huit lions et leurs griffes noirciraient au contact du poison.
 
 Origines
-
+<param ve-image 
+    manifest="://gallica.bnf.fr/blog/sites/default/files/a_la_une_fieres_de_lettres.jpg" />
 Les plus anciennes représentations de griffons connues à l'heure actuelle datent du IVè siècle avant notre ère en Élam (un ancien pays occupant la partie sud-ouest du plateau Iranien, voisin de la Mésopotamie) ainsi qu'en Égypte datant de -3000.
 Par la suite, les légendes grecques et romaines reprirent cet animal mythique au travers de légendes diverses telles que les griffons gardiens des trésors d’Apollon dans l'Altaï. Dans cette légendes, il est question d'un peuple, les Arimaspes, qui guerroyaient sans cesse contre les griffons afin de leur voler l'or d'Apollon.
 Adrienne Mayor, spécialiste des folklores classiques, pense que ces légendes sont dues à la présence de fossiles de protocératops trouvés près des mines d'or de l'Altaï, chaîne montagneuse qui s'étend du Kazakhstan jusqu'en Mongolie.  
