@@ -46,7 +46,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - créer des sections interactives (paragraphes)
 - insérer une image
 - insérer une image avec IIIF
-- insérer un lien Wikidata
+- insérer un lien Wikidata 
 - intégrer une vidéo
   <param ve-graphic url="https://collections.louvre.fr/ark:/53355/cl010101248" title="Châsse reliquaire saint Thomas Becket" />
 
