@@ -11,6 +11,8 @@ Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre pro
 Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
 Frida Kahlo’s father, Wilhelm , was a German photographer who had immigrated to Mexico where he met and married her mother Matilde. She had two older sisters, Matilde and Adriana, and her younger sister, Cristina, was born a year after her .
 
+<param ve-graphic url="https://en.wikipedia.org/wiki/Frida_Kahlo#/media/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg" title="Frida Kahlo" />
+
 # Biographie
 
 Around the age of six, frida had  contracted polio, which caused her to be bedridden for nine months. While she recovered from the illness, she limped when she walked because the disease had damaged her right leg and foot. Her father encouraged her to play soccer, go swimming, and even wrestle — highly unusual moves for a girl at the time.
