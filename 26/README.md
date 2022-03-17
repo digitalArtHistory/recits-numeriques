@@ -24,6 +24,9 @@ Sur le panneau de droite, l’Enfant Jésus, porté par la Vierge, les deux ento
 # Icône portative:  la Transfiguration du Christ
 le Christ rayonnant, dans une mandorle de lumière éblouissante, est debout entre les prophètes Moïse et Elie. En dessous les apôtres Pierre, Jacques et Jean, effrayés et terrassés, assistent à l’événement.  Les inscriptions en grec, "la Transfiguration" et "Jésus-Christ", figurent de part et d’autre au-dessus du nimbe du Christ. 
 # Les Très riches Heures du Duc de Berry / Calendrier / mois de Février
+Cette miniature est surmontée d'un demi-disque contenant diverses informations astronomiques inscrits dans sept demi-cercles (jour, mois, premières lunes, croissants de lune, signes du zodiaque, etc.).  Au centre du demi-cercle est représenté le dieu Apollon sur son char. 
+La scène représente la rudesse de la vie des paysans en hiver. On y voit une ferme ceinte d’un enclos, comprenant une bergerie, des ruches et un pigeonnier.  Dans la maison, une femme et deux jeunes hommes se chauffent devant le feu. À l'extérieur, un homme abat un arbre à la hache, un autre se dirige vers la maison. Sur la route, un troisième conduit un âne chargé de bois, en direction du village voisin.
+Selon Erwin Panofsky, il s'agirait du « premier paysage de neige de l'histoire de la peinture ».
 
 # Chapelle des Scrovegni (ou chapelle Santa Maria dell'Arena)
 
