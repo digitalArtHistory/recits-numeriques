@@ -48,6 +48,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-
-
-<param ve-graphic url="https://www.fridakahlo.org/self-portrait-as-a-tehuana.jsp" title="Tehuana" />
+<param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
+[PDF FRIDA.pdf](https://github.com/digitalArtHistory/recits-numeriques/files/8288713/PDF.FRIDA.pdf)
