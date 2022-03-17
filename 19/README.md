@@ -53,6 +53,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 <param ve-graphic 
   url="https://www.hmb.ch/fileadmin/a/hmb/import/collection/220605_1882-80-a_shmpop_C4180.jpg" 
   title="freaks">
+  url=" https://d3vjn2zm46gms2.cloudfront.net/blogs/2016/10/27003939/NCOD17.jpg" 
+  title= "contemporary" 
 
 
 
