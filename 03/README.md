@@ -15,7 +15,7 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 <param ve-image 
-    url="https://commons.wikimedia.org/wiki/File:Sainte_Apolline.jpg#/media/File:Sainte_Apolline.jpg" />
+
 
 # Explorer Markdown
 
@@ -50,6 +50,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata 
 - intégrer une vidéo
   <param ve-graphic url="https://collections.louvre.fr/media/cache/original/0000000021/0000101248/0000318531_OG.JPG" title="Châsse reliquaire saint Thomas Becket" />
+  
 
 
 
