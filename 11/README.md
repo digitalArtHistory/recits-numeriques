@@ -9,7 +9,6 @@
 
 
 Chapiteau catalan: Histoire d'Abraham
-
 Le musée de Cluny possède un ensemble exceptionnel de huit chapiteaux à décor narratif ou animalier en provenance provenant du cloître du monastère catalan de Sant Pere de Rodes. L'histoire du patriarche Abraham se déploie ici sur la corbeille. On reconnaît notamment la scène de la rencontre au chêne de Mambré (Dieu, sous l'aspect de trois anges, apparaît à Abraham) et l'épisode du sacrifice d'Isaac.
 Les détails tirés de la vie quotidienne comme l'âne qui patiente auprès d'un serviteur derrière la scène de sacrifice inscrivent la scène biblique dans un environnement familier. Ces scènes font écho au décor des sujet des autres chapiteaux, qui illustrent l'histoire de Noé ou le récit de la création d'Adam et Eve, dans la Genèse.
 Acquis en 1881.
