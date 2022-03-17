@@ -52,4 +52,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 *test*
 
-
+# manifest de la BnF avec une seule image
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53125897q/manifest.json" 
+    license="CC BY-SA"/> 
+    
