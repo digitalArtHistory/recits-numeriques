@@ -60,7 +60,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 
 <param ve-graphic 
-  url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/Jeanne_Judith.png" 
+  url="https://github.com/digitalArtHistory/recits-numeriques/blob/d13828dc45c455903e18e29ca2f94da1c363c0b2/Jeanne_Judith.png" 
   title="Gargouilles" />
 
 
