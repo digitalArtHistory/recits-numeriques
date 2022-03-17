@@ -35,16 +35,20 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
     url="https://medievalslavery.org/wp-content/uploads/2020/06/Vidal-Mayor-fol.-244r-cropped-version.jpeg"
        title="Deux soldats guidant deux moors" /> 
 
-
 nouveau paragrahe bonjour. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
-
 
 <param ve-graphic
     url="https://medievalslavery.org/wp-content/uploads/2022/01/image-2.jpg"
        title="Baptistère de Saint-Louis" /> 
        
        Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
+       
+nouveau paragrahe bonjour. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla.
 
+<param ve-graphic
+    url="https://alchetron.com/cdn/gniezno-doors-e03bf87a-cacc-4c4b-86ab-181708ef758-resize-750.jpeg"
+       title="Gniezno doors" />
+       
 Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
