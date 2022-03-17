@@ -17,8 +17,9 @@ Ce camée de lapis-lazuli est sculpté d'un côté d'une Vierge orante debout, d
 
 # Diptyque de Wilton
 
-# Icône portative:  la Transfiguration du Christ
 
+# Icône portative:  la Transfiguration du Christ
+le Christ rayonnant, dans une mandorle de lumière éblouissante, est debout entre les prophètes Moïse et Elie. En dessous les apôtres Pierre, Jacques et Jean, effrayés et terrassés, assistent à l’événement.  Les inscriptions en grec, "la Transfiguration" et "Jésus-Christ", figurent de part et d’autre au-dessus du nimbe du Christ. 
 # Les Très riches Heures du Duc de Berry / Calendrier / mois de Février
 
 # Chapelle des Scrovegni (ou chapelle Santa Maria dell'Arena)
