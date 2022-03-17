@@ -49,6 +49,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-<param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
 
 <param ve-graphic url="https://www.fridakahlo.org/self-portrait-as-a-tehuana.jsp" title="Tehuana" />
