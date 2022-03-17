@@ -40,10 +40,6 @@ Voici quelques ressources sur Markdown
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
 ## Premiers pas avec Juncture (travail dirigé)
-
-<param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
-  title="freaks">
   
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)
@@ -54,6 +50,9 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 *freaks* ttt
 
+<param ve-graphic 
+  url="https://www.hmb.ch/fileadmin/a/hmb/import/collection/220605_1882-80-a_shmpop_C4180.jpg" 
+  title="freaks">
 
 
 
