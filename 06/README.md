@@ -73,7 +73,7 @@ La pratique ci-dessous consistera à mettre en **gras** tous les mots commençan
   url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
   title="Aquamanile" />
 <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/B%C3%A2ton_pastoral_de_St-Bertrand%2C_l%27alicorne.jpg/1598px-B%C3%A2ton_pastoral_de_St-Bertrand%2C_l%27alicorne.jpg?20190909011259" 
+  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/1598px-Ba%CC%82ton_pastoral_de_St-Bertrand%2C_l'alicorne.jpeg" 
   title="Corne de licorne" />
 
 Encore une pratique pour les *italique* et les caractère **gras**. Cette fois-ci *je vais essayer de juste faire un long texte* pour **compléter del'espasce pour ce projet mhhhhh**.
