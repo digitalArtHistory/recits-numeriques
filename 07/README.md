@@ -25,6 +25,11 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 ## Titre de niveau 2
 
 ### Titre de niveau 3
+
+Gargouille
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" /> 
 ```
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
@@ -49,10 +54,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 # Louise de Keroualle
-Gargouille
-<param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
-  title="Gargouilles" /> 
+
 >
 >
 Louise de Kéroualle est l'espionne de Louis XIV et...
