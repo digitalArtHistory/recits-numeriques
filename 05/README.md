@@ -28,7 +28,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 jsldfhsfuvhnisulgvvslouvhbns;ovnlkuùnvùk;vnsd;vlajvnsdonvn;dlvvuovlzvxzmhvuovlmxvbxjvozvolxmnbj » cvj»nvlzkvxjbùkvcjùl vkhùhvbùlkvhbvkbzuvba, vxùlkùxjucbn,
 <param ve-image 
-    manifest="https://gallica.bnf.fr/ark:/12148/btv1b532136134/f1.highres" />
+    manifest="https://gallica.bnf.fr/ark:/12148/btv1b532136134/f1.highres"/>
   
 # Explorer Markdown
 
