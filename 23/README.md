@@ -64,15 +64,18 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
   url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BibleMoralisee.jpg/640px-BibleMoralisee.jpg" 
   title="BibleMoralisee" />
   
-  <param ve-graphic 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper elit vel arcu interdum aliquam. Etiam molestie sem ut augue semper tristique. Aenean non enim suscipit, efficitur urna ac, cursus dolor. In pharetra est a ligula dictum gravida. Duis vitae aliquam mi. Vestibulum tincidunt sed turpis ac laoreet. Nam consectetur mollis nulla, id semper augue rutrum ut. Maecenas consectetur rutrum enim vitae feugiat. Integer ultricies auctor justo, blandit lobortis ex suscipit at. Donec at iaculis augue. Sed ullamcorper justo eu orci scelerisque, rhoncus tempor mauris pellentesque. Nullam non urna tortor. Nulla mollis finibus pulvinar. Integer sit amet venenatis enim. Pellentesque ultricies pulvinar neque, sed venenatis urna congue vel. 
+<param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Malnazar_-_The_Creation_of_the_World_-_Google_Art_Project.jpg/640px-Malnazar_-_The_Creation_of_the_World_-_Google_Art_Project.jpg" 
   title="Malnazar" />
-  
-  <param ve-graphic 
+ 
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper elit vel arcu interdum aliquam. Etiam molestie sem ut augue semper tristique. Aenean non enim suscipit, efficitur urna ac, cursus dolor. In pharetra est a ligula dictum gravida. Duis vitae aliquam mi. Vestibulum tincidunt sed turpis ac laoreet. Nam consectetur mollis nulla, id semper augue rutrum ut. Maecenas consectetur rutrum enim vitae feugiat. Integer ultricies auctor justo, blandit lobortis ex suscipit at. Donec at iaculis augue. Sed ullamcorper justo eu orci scelerisque, rhoncus tempor mauris pellentesque. Nullam non urna tortor. Nulla mollis finibus pulvinar. Integer sit amet venenatis enim. Pellentesque ultricies pulvinar neque, sed venenatis urna congue vel. 
+<param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Initial_I-_Scenes_of_the_Creation_of_the_World_and_the_Crucifixion_-_Google_Art_Project.jpg/640px-Initial_I-_Scenes_of_the_Creation_of_the_World_and_the_Crucifixion_-_Google_Art_Project.jpg" 
   title="initial" />
   
-  
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper elit vel arcu interdum aliquam. Etiam molestie sem ut augue semper tristique. Aenean non enim suscipit, efficitur urna ac, cursus dolor. In pharetra est a ligula dictum gravida. Duis vitae aliquam mi. Vestibulum tincidunt sed turpis ac laoreet. Nam consectetur mollis nulla, id semper augue rutrum ut. Maecenas consectetur rutrum enim vitae feugiat. Integer ultricies auctor justo, blandit lobortis ex suscipit at. Donec at iaculis augue. Sed ullamcorper justo eu orci scelerisque, rhoncus tempor mauris pellentesque. Nullam non urna tortor. Nulla mollis finibus pulvinar. Integer sit amet venenatis enim. Pellentesque ultricies pulvinar neque, sed venenatis urna congue vel. 
+<param ve-image
+  manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json" />
 
 
