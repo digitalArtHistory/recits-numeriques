@@ -7,7 +7,7 @@
        
 <param ve-entity title="Tadao Ando" eid="Q208220" aliases="Tadao Ando" />
 <param ve-entity title="architecture" eid="Q12271" aliases="architecte" />
-<param ve-entity title="lumière" eid="Q9128" aliases="lumières" />
+<param ve-entity title="lumière" eid="Q9128" aliases="lumières, lumière" />
 
 # TADAO ANDO
 
