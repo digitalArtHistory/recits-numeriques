@@ -53,7 +53,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 dissonances and resonances, lapses and excesses of meaning when the constituent elements of anyone’s
 gender of anyone” s sexuality aren’t made (or can’t be made) to signify monothically) »
 Eve Sedgewick’s
-
 <param ve-graphic 
   url="https://www.hmb.ch/fileadmin/a/hmb/import/collection/220605_1882-80-a_shmpop_C4180.jpg" 
   title="freaks">
