@@ -49,7 +49,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-
-<param ve-video id="a3ta5Q3ITUc" title="Walter, the cat" start="26" />
+<param ve-video id="HCXxsd-BKLY" title="Frida Kahlo: A collection of 100 paintings (HD)" start="1" />
 
 
