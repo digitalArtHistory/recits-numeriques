@@ -4,8 +4,9 @@
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
-
-# Les reliquaires: objets de dévotion
+       
+       
+   # Les reliquaires: objets de dévotion
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
@@ -27,6 +28,11 @@ Buste-reliquaire de Sainte Mabille
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/41-reliquaire-des-saints-lucien-maxien-et-julien/reliquaire%20des%20saints%20lucien,%20maxien%20et%20julien%20-1/s,900-6dca78.jpg" 
   title="Reliquaire des Saints Lucien, Maxien et Julien" />
+  
+  Chef reliquaire de Saint Candide
+  <param ve-graphic 
+  url="https://omci.inha.fr/files/large/300/St_Maurice_Agaune_gen.jpg" 
+  title="Chef reliquaire de Saint Candide" />
     
 
 # Explorer Markdown
