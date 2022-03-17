@@ -63,6 +63,10 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
   url="https://library.artstor.org/#/asset/ARTSTOR_103_41822001107695" 
   title="Gargouilles" />
 
+<param ve-image
+    url="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc436735"
+/>
+
 
 
 <param ve-graphic 
