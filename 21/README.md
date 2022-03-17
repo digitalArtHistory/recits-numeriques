@@ -18,6 +18,7 @@ Voici quelques actions à réaliser pour commencer :
 <param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/f1/full/full/0/native.jpg" />
 
 
+
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
@@ -29,6 +30,8 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 
 ### Titre de niveau 3
 ```
+<param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b104551726/manifest.json" />
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
 
