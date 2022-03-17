@@ -34,6 +34,10 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 <param ve-graphic
     url="https://medievalslavery.org/wp-content/uploads/2020/06/Vidal-Mayor-fol.-244r-cropped-version.jpeg"
        title="Deux soldats guidant deux moors" />
+       
+<param ve-graphic
+    url="https://collections.louvre.fr/media/cache/small/0000000021/0000318774/0000660923_OG.JPG"
+       title="Baptistère de Saint-Louis" />      
                    
 Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
 
