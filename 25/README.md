@@ -47,8 +47,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
- <param ve-graphic url="https://worcester.emuseum.com/internal/media/dispatcher/10424/resize%3Aformat%3Dfull" title="Mosaïque de sol de Ktisis" /> 
-
+ 
 
 
 
