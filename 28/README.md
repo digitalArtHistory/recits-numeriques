@@ -23,7 +23,7 @@ En principe, il travaille avec un **matériau brut et froid tel que le béton**,
 * Logement Rokko 1978 : 
 Ensemble de logements situés au pied du mont Rokkô à Kôbe, sur une pente naturelle de 60 degrés. Sur un terrain en pente, le loge- ment est constitué de quatre projets aux volumes différents et dis- tincts, d’une apparence unique qui n’a cessé de développer pendant 30 ans. Ces quatre phases sont en fait trois projets pour différents clients sur différents sites réalisés dans des délais différents capacité, mais tous doté d’un paysage urbain harmonieux.  
 * Église de la lumière d"Ibaraki 1987-89 : 
- 
 
-> When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando
+<param ve-iframe 
+    src="https://www.youtube.com/embed/5fJDslITV34" />> When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando
 
