@@ -7,7 +7,8 @@
 
 # Le lapis lazuli à l'époque médiévale
 
-lapis lazuli
+On oublie très souvent que les couleurs en peinture sont d'origine végétale, minérale et même animale. C'est une partie de cette histoire que je veux ici présenter et illustrer brièvement: celle d'une pierre précieuse, le lapis lazuli, venue d'Afghanistan, et utilisée à partir du 12è siècle en Europe.  Plus précieux que l'or à cette époque, son utilisation dans les oeuvres d'art donnait une valeur incroyable à ces objets et augmentait d'autant le prestige et le pouvoir de ceux qui les possédaient ou en faisaient usage.  
+
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
   title="Gargouilles" />
