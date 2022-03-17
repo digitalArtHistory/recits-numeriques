@@ -11,9 +11,13 @@ Axe de présentation : confronter l'idée préconçue que le Moyen Âge occident
 
 
 # Mansa Moussa roi du Mali
-Le roi du Mali
+Le roi du Mal
 <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg" title= "Atlas Catalan : détail Mansa Moussa" />
 
 # Saint Maurice 
 Saint Patron Magdebourg
 <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Maurice_Magdeburg.jpg" title= "Saint Maurice" />
+
+# Les rois mages
+Ils représentent le monde entier
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Hans_Multscher_-_Au%C3%9Fenfl%C3%BCgel_des_Wurzacher_Altars_-_Google_Art_Project.jpg" title= "Les rois mages" />
