@@ -19,6 +19,7 @@ Voici quelques actions à réaliser pour commencer :
   title="Gargouilles" />
 
   url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/626692/1467614/main-image"
+  title="626692" />
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
