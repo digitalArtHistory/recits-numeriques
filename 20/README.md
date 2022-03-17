@@ -58,3 +58,5 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 ## Perle biconique
 
 <param ve-video id="a3ta5Q3ITUc" title="Walter, the cat" start="26" />
+
+
