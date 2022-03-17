@@ -72,9 +72,7 @@ La pratique ci-dessous consistera à mettre en **gras** tous les mots commençan
 
 ## sujet 1
 Aquamanile est un récipient d’eau dont la fonction est de laver les mains, dans les pratiques liturgiques, dans les rituels d’ablution et/ou quotidiennes ou comme objet de luxe. Ses grandes dimensions, son visage expressif ainsi que sa queue de dragon en flamme qui sert de manche sont caractéristiques d’un style de aquamanile développé dans les alentours de 1400 à Nuremberg.  Le lion s’inscrit dans cette longue tradition de pratique d’alliage de cuivre. Le style héraldique des aquamaniles de Nuremberg se retrouve surtout dans l’espace domestique comme produit de décoration. Le motif animalier sert notamment à témoigner de l’expertise des artisans. 
-<param ve-graphic 
-  url="https://www.lempertz.com/lempertz_api/images/1057-1844-North-German-13th-century-A-13th-century-.jpg" 
-  title="Aquamanile" />
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/Aquamanile_in_the_Form_of_a_Lion_MET_DP117252_(cropped).jpeg" />
 
 ## Sujet 2
 Encore une pratique pour les *italique* et les caractère **gras**. Cette fois-ci *je vais essayer de juste faire un long texte* pour **compléter del'espasce pour ce projet mhhhhh**. Voici une nouvelle image a testé ! il faut voir si cela marche lolololololol. La licorne est une créature fantastique ayant supposément des propriétés magiques. Dans le cas du Saint Bernard, dont la corne réside dans l’église à son nom, il l’aurait utilisé comme canne pour support. 
