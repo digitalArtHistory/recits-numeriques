@@ -28,6 +28,8 @@ Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du tex
 Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
 <param ve-video id="jXYgI7jG7Bw" title="The Oldest Playable Organ in the World, basilique de Valère à Sion" start="2" />
 
+<param ve-image 
+    manifest="![image](https://user-images.githubusercontent.com/100982262/158883762-89ce561e-201c-464e-bb37-237f14cd19bb.png)" />
 
 > Ceci est du texte cité.
 
