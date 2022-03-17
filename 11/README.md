@@ -63,6 +63,11 @@ Ce chapiteau est entré dans les collections du musée en même temps qu’un de
 
 
 
+Définition de chapitaux
+Élément architectural placé entre une colonne (ou un pilastre) et un linteau ou la retombée d'un ou plusieurs arcs. La partie inférieure du chapiteau (astragale) est souvent de section circulaire, tandis que la partie supérieure (abaque) est de plan quadrangulaire. La partie du chapiteau située entre ces deux plans s'appelle la corbeille.
+Un chapiteau historié est décoré de scènes à plusieurs personnages qui narre une histoire.
+
+
 
 
 
