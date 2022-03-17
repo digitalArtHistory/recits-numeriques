@@ -82,7 +82,7 @@ Encore une pratique pour les *italique* et les caractère **gras**. Cette fois-c
 
 ## Sujet 3
 La fibule est un accessoire qui a souvent été porté au cou à travers le trou au pied de l’aigle représenté. Il ne serait pas incongru de croire que l’objet provient de la période de migration des wisigothes, compte tenu de sa petite taille, parfaite pour le voyage et son style romain dont cet empire s’est inspiré. L’image de l’aigle, ou la forme aquiliforme, représente l'armée romaine. Ce motif particulier de l’oiseau stylisé dont le bec pointe vers le haut avec les ailes aux deux côtés de son flanc est un motif de l’empire romain. 
-<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/1598px-Ba%CC%82ton_pastoral_de_St-Bertrand%2C_l'alicorne.jpeg" />
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/l_ps1_54422_fnt_dd_t07-14.jpeg" />
 
 ## Sujet 4
 
