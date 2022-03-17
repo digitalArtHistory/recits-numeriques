@@ -15,15 +15,9 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
-
-
-
 <param ve-graphic 
-  url="![image](https://user-images.githubusercontent.com/101298300/158861510-141d5228-4800-4bf9-8740-0580c9d7ba45.png)" 
+  url="https://user-images.githubusercontent.com/101298300/158862115-63971a23-eb68-4424-b952-671f6526ef9f.png" 
   title="Olifan"/>
-  
-
-# Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
