@@ -10,7 +10,11 @@
 On oublie très souvent que les couleurs en peinture sont d'origine végétale, minérale et même animale. C'est une partie de cette histoire que je veux ici présenter et illustrer brièvement: celle d'une pierre précieuse, le lapis lazuli, venue d'Afghanistan, et utilisée à partir du 12è siècle en Europe.  Plus précieux que l'or à cette époque, son utilisation dans les oeuvres d'art donnait une valeur incroyable à ces objets et augmentait d'autant le prestige et le pouvoir de ceux qui les possédaient ou en faisaient usage.  
 <param ve-graphic 
   url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/26/0000809545_OG-1.JPG">
-  
+
+# Icône:  Christ bénissant / Vierge orante
+Ce camée de lapis-lazuli est sculpté d'un côté d'une Vierge orante debout, de face, et, de l'autre, d'un Christ également debout et de face, tenant le Livre et bénissant. Des rainures dans le lapis lazuli, incrustées d'or, dessinent les nimbes, les lettres des inscriptions et les arbustes qui, sur chaque face, entourent le Christ et la Vierge. Un cadre d’argent doré enserrant le camée laisse voir les vestiges de filigrane où se trouvaient perles et turquoises. À l’apex du camée figure un anneau se glissant dans trois autres plus petits fixés sur la tranche du cadre.  
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550097566/manifest.json" />
+
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
 Voici quelques actions à réaliser pour commencer :
@@ -24,9 +28,7 @@ Voici quelques actions à réaliser pour commencer :
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
-# Icône:  Christ bénissant / Vierge orante
-Ce camée de lapis-lazuli est sculpté d'un côté d'une Vierge orante debout, de face, et, de l'autre, d'un Christ également debout et de face, tenant le Livre et bénissant. Des rainures dans le lapis lazuli, incrustées d'or, dessinent les nimbes, les lettres des inscriptions et les arbustes qui, sur chaque face, entourent le Christ et la Vierge. Un cadre d’argent doré enserrant le camée laisse voir les vestiges de filigrane où se trouvaient perles et turquoises. À l’apex du camée figure un anneau se glissant dans trois autres plus petits fixés sur la tranche du cadre.  
-<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550097566/manifest.json" />
+
 
 ## Titre de niveau 2
 
