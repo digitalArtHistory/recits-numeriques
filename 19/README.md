@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/19/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2015.26.08.png" 
        layout="vertical">
 
 # Fichier de démarrage
