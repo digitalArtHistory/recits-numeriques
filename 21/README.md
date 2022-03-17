@@ -16,8 +16,8 @@ Voici quelques actions à réaliser pour commencer :
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
 <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
-  title="Gargouilles" />
+  url="https://historyofinformation.com/images/Codex_Aureus_Sankt_Emmeram.jpg" 
+  title="Codex Aureus couverture du manuscrit" />
 
 # Explorer Markdown
 
