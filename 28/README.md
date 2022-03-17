@@ -29,7 +29,7 @@ Fondue pepper jack queso. Gouda pecorino cheddar caerphilly edam chalk and chees
     source="1Ng4U4BTx89DP-janGvPN2g_7SNGvVD-NZZKMSrO2ROM"
     hash-bookmark="true"
     initial-zoom="1"
-    height="100%"/>
+    height="900"/>
     
 *When I design buildings, I think of the overall composition, much as the parts of a body would fit to- gether. On top of that, I think about how people will approach the buil- ding and experience that space. Tadao Ando*
 
