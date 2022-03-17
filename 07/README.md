@@ -70,19 +70,7 @@ Louise de Kéroualle est l'espionne de Louis XIV et...
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
 
-« Oui, mais rien d’exceptionnel. » David essaie de se rappeler si dans la lancée de sa jeunesse fougueuse, il n’aurait pas installé une bombe logique sur les ordinateurs de l’armée, mais il ne se rappelait pas avoir fait une telle bêtise. Planter tout le système informatique de la base aurait été trop grave de conséquences.
-
-Florence avait l’esprit un peu mélangé entre ce Prélude qui ne lui apportait que des questions sans réponse et « son » David. Prélude avait réveillé brusquement un sentiment que Florence avait au plus profond d’elle. Désormais, elle voulait savoir. Connaître la vérité. Et seulement alors, cette boule de nerf coincée dans l’estomac pourrait s’en aller.
-
-Le militaire regagna sa voiture et la barrière s’ouvrit. David regardait autour de lui, la base militaire où il avait passé dix mois de sa vie. Il n’y avait pas beaucoup de changement. L’herbe toujours aussi bien tondue, les allées toujours aussi propres. Les mêmes bâtiments. Juste les décors avaient changés. Il s’agissait de chars. C’étaient les chars que David avait eu l’occasion de voir fonctionner et qui, maintenant, avaient remplacé les vieux chars qui servaient de décors. Cela fit sourire David.
-
-Aujourd’hui, c’est son anniversaire. Il a vingt-six ans, mais il ne s’en souvient plus. Il ne prête pas attention à ce genre de détails. David est un homme distrait, timide, mais sûr de lui. Il est grand et mince. De grandes mains prolongent ses longs bras. Il lui serait possible de tenir deux bouteilles de Champagne dans chacune de ses mains, mais il ne boit jamais. L'alcool le rend malade et malheureux, voir dépressif.
-
-Le général sorti un badge et se dirigea vers l’une des portes entourées de peinture jaune. Il glissa le badge dans la fente située à droite. La porte s’ouvrit. Une dizaine de militaires armées jusqu’aux dents étaient postés derrière.
-
-Désormais, tous les ordinateurs lui étaient accessibles. Les centrales nucléaires, les services informatiques des grandes compagnies, de l’eau, du téléphone, la télévision, l’électricité, la défense, la bourse...
-
-Mais ils étaient beaucoup plus rapides et plus grands. Le peu de voitures qui circulaient encore étaient ultra sécurisées. C'est pourquoi la vitesse maximum autorisée avait été portée à 230km/h. Les gens pouvaient commencer à travailler à l’aide de leur ordinateur portables relié au réseau par leur téléphone mobile. Ils auraient pu travailler de chez eux, mais le contact humain restait une priorité. Voir les collègues, prendre un café ensemble à midi et ce dire ‘À demain’. Telle était la vie de l’homme "moderne".
+Ils auraient pu travailler de chez eux, mais le contact humain restait une priorité. Voir les collègues, prendre un café ensemble à midi et ce dire ‘À demain’. Telle était la vie de l’homme "moderne".
 
 Le militaire regagna sa voiture et la barrière s’ouvrit. David regardait autour de lui, la base militaire où il avait passé dix mois de sa vie. Il n’y avait pas beaucoup de changement. L’herbe toujours aussi bien tondue, les allées toujours aussi propres. Les mêmes bâtiments. Juste les décors avaient changés. Il s’agissait de chars. C’étaient les chars que David avait eu l’occasion de voir fonctionner et qui, maintenant, avaient remplacé les vieux chars qui servaient de décors. Cela fit sourire David.
 
@@ -92,8 +80,7 @@ Tu vas le prendre avec toi. Tu brancheras ton téléphone mobile dessus afin que
 
 De tout temps, l'homme a tenté de comprendre puis de reproduire l'extraordinaire machine qu'est l'être humain. Les premiers automates nous font sourire aujourd'hui. Les premiers ordinateurs également, mais un peu moins. Et lorsqu'un certain McCullogn, aidé de Pitts, invente en 1943 le premier neurone formel, on ne rigole plus. L'ordinateur est devenu capable de reproduire des neurones artificiels. Le "complexe de Frankenstein" va alors freiner les recherches. On commence à entendre parler du concept d'Intelligence Artificielle, plus connu sous les termes d'IA. Cela fait peur.
 
-De tout temps, l'homme a tenté de comprendre puis de reproduire l'extraordinaire machine qu'est l'être humain. Les premiers automates nous font sourire aujourd'hui. Les premiers ordinateurs également, mais un peu moins. Et lorsqu'un certain McCullogn, aidé de Pitts, invente en 1943 le premier neurone formel, on ne rigole plus. L'ordinateur est devenu capable de reproduire des neurones artificiels. Le "complexe de Frankenstein" va alors freiner les recherches. On commence à entendre parler du concept d'Intelligence Artificielle, plus connu sous les termes d'IA. Cela fait peur.
-
+De tout temps, l'homme a tenté de comprendre puis de reproduire l'extraordinaire machine qu'est l'être humain. Les premiers automates nous font sourire aujourd'hui. Les premiers ordinateurs également, mais un peu moins. Et lorsqu'un certain McCullogn, aidé de Pitts, invente en 1943 le premier neurone formel, on ne rigole plus. L'ordinateur est devenu capable de reproduire des neurones artificiels. Le "complexe de Frankenstein" va alors freiner les recherc
 
 
 
