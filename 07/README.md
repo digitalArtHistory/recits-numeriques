@@ -16,7 +16,7 @@ Voici quelques actions à réaliser pour commencer :
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
 <param ve-graphic 
-  url="https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual#/media/Fichier:Mignard,_Louise_de_K%C3%A9rouaille.jpg" 
+  url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" 
   title="Lady Kéroualle" />
 
 # Explorer Markdown
