@@ -43,7 +43,7 @@ Voici quelques ressources sur Markdown
 
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
-  title="freaks" />
+  title="freaks">
   
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)
