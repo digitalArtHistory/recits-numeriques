@@ -19,18 +19,21 @@ Voici quelques actions à réaliser pour commencer :
 
 
 Buste-reliquaire de Sainte Mabille
+
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/60-buste-reliquaire-de-sainte-mabille/buste-reliquaire-de-sainte-mabille/s,900-4d2b0f.jpg" 
   title="Buste reliquaire de Sainte Mabille" /> 
  
 
 Reliquaire des Saints Luciens, Maxien et Julien
+
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/41-reliquaire-des-saints-lucien-maxien-et-julien/reliquaire%20des%20saints%20lucien,%20maxien%20et%20julien%20-1/s,900-6dca78.jpg" 
   title="Reliquaire des Saints Lucien, Maxien et Julien" />
   
 
 Chef reliquaire de Saint Candide
+
 <param ve-graphic 
   url="https://omci.inha.fr/files/large/300/St_Maurice_Agaune_gen.jpg" 
   title="Chef reliquaire de Saint Candide" />
