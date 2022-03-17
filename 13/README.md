@@ -80,14 +80,3 @@ Les procès sont des actes juridiques. Les deux procès ont la particularité d'
 Philippe Contamine, au cours de ses recherches, a constaté une abondance d'écrits dès 1429, et le « formidable retentissement au niveau international » dont cette abondance témoigne. Il remarque également que Jeanne d'Arc fut d'emblée mise en controverse et suscita le débat parmi ses contemporains. Enfin, dès le début « des légendes coururent à son sujet, concernant son enfance, ses prophéties, sa mission, les miracles ou les prodiges dont elle était l'auteur. Au commencement était le mythe. »
 
 Il apparaît donc qu'aucun document contemporain de l'époque — hormis les minutes des procès — n'est à l'abri de déformations issues de l'imaginaire collectif. Au cours du procès de réhabilitation, les témoins racontent d'après des souvenirs vieux de 26 ans.
-<param ve-image
-    manifest="https://gallica.bnf.fr/ark:/12148/btv1b525033083"
-/>
-
-<param ve-graphic 
-  url="https://gallica.bnf.fr/ark:/12148/btv1b525033083/f208#"
-
-![image](https://user-images.githubusercontent.com/101237991/157738140-e3a51074-a976-417f-9d31-2b7a703c16d2.png)
-
-<param ve-image
-   url="" # https://user-images.githubusercontent.com/101237991/157738979-d5e75d74-081e-4013-908e-824f82df8640.png
