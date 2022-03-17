@@ -4,7 +4,7 @@
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
-
+       
 # Fichier de démarrage
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
@@ -44,6 +44,7 @@ Voici quelques ressources sur Markdown
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)
+
 <param ve-graphic
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/2880px-The_Garden_of_earthly_delights.jpg">
        
