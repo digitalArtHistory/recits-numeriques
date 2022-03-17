@@ -4,6 +4,8 @@
        title="Frida Kahlo" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
+<param ve-graphic url="https://commons.wikimedia.org/wiki/Category:Frida_Kahlo#/media/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg" title="Frida Kahlo" />
+
 
 # Famille
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
