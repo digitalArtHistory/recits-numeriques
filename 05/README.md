@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://gallica.bnf.fr/ark:/12148/btv1b8447085f/f1.highres" 
        layout="vertical">
 
 # Fichier de démarrage
