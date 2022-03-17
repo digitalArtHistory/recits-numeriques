@@ -9,7 +9,7 @@
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 <param ve-graphic
-    url="https://github.com/digitalArtHistory/recits-numeriques/raw/main/images/ViennaDioscoridesFolio483vBirds.jpg"
+    url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/27/astafieva2.PNG"
     title="">
 
 Voici quelques actions à réaliser pour commencer :
