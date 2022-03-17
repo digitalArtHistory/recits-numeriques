@@ -8,15 +8,16 @@
 # Fichier de démarrage
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-<param ve-graphic
-    url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/469836/946398/main-image" 
-    title="Saint Margueritte d'Antioche">
+
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
+<param ve-graphic
+    url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/469836/946398/main-image" 
+    title="Saint Margueritte d'Antioche"/>
 
 # Explorer Markdown
 
