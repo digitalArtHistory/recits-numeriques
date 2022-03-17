@@ -58,7 +58,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 Nouveau document test Camille R.S
 
-
+# Technique de la granulation en video
+<param ve-video id="a3ta5Q3ITUc" title="Walter, the cat" start="26" />
   
   
 
