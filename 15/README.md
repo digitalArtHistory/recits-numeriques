@@ -20,11 +20,11 @@ Voici quelques actions à réaliser pour commencer :
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
-# Titre de niveau 1
+Biographie
 
-## Titre de niveau 2
+Ses oeuvres
 
-### Titre de niveau 3
+Auto portrait
 ```
 
 Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
@@ -37,11 +37,29 @@ After staying at the Red Cross Hospital in Mexico City for several weeks, Kahlo 
 In 1929, Frida Kahlo and famed Mexican muralist Diego Rivera married. frida and diego first met in 1922 when he went to work on a project at her high school. She often watched as rivera created a mural called The Creation in the school’s lecture hall. According to some reports, she told a friend that she would someday have Rivera’s baby.
 She  reconnected with him in 1928. He encouraged her artwork, and the two began a relationship.
 As the years passed She was saddened by his many infidelities, including an affair with her sister Cristina. In response to this familial betrayal, Kahlo cut off most of her trademark long dark hair. Desperately wanting to have a child, she again experienced heartbreak when she miscarried in 1934.
-Kahlo divorced Rivera in 1939. They did not stay divorced for long, remarrying in 1940. The couple continued to lead largely separate lives, both becoming involved with other people over the years.
+Kahlo divorced Rivera in 1939. They did not stay divorced for long, remarrying in 1940. The couple continued to lead largely separate lives, both becoming involved with other people over the years. health issues became nearly all-consuming in 1950. After being diagnosed with gangrene in her right foot, she spent nine months in the hospital and had several operations during this time. She continued to paint and support political causes despite having limited mobility. In 1953, part of frida’s right leg was amputated to stop the spread of gangrene.
+
+Deeply depressed, she was hospitalized again in April 1954 because of poor health, or, as some reports indicated, a suicide attempt. She returned to the hospital two months later with bronchial pneumonia. No matter her physical condition, frida did not let that stand in the way of her political activist.
+About a week after her 47th birthday,frida died on July 13, 1954, in her beloved Blue House. There has been some speculation regarding the nature of her death. It was reported to be caused by a pulmonary embolism, but there have also been stories about a possible suicide
+After  frida Kahlo’s death, the feminist movement of the 1970s led to renewed interest in her life and work, as Kahlo was viewed by many as an icon of female creativity.
+
 
 
 Frida  received a commission from the Mexican government for five portraits of important Mexican women in 1941, but she was unable to finish the project. She lost her beloved father that year and continued to suffer from chronic health problems. Despite her personal challenges, her work continued to grow in popularity and was included in numerous group shows around this time.
-In 1953, frida received her first solo exhibition in Mexico. While bedridden at the time, frida did not miss out on the exhibition’s opening. Arriving by ambulance, she spent the evening talking and celebrating with the event’s attendees from the comfort of a four-poster bed set up in the gallery just for her.
+In 1953, frida received her first solo exhibition in Mexico. While bedridden at the time, frida did not miss out on the exhibition’s opening. Arriving by ambulance, she spent the evening talking and celebrating with the event’s attendees from the comfort of a four-poster bed set up in the gallery just for her. Many of Frida Kahlo’s works were self-portraits. A few of her most notable paintings include:
+'Frieda and Diego Rivera' (1931)
+Kahlo showed this painting at the Sixth Annual Exhibition of the San Francisco Society of Women Artists, the city where she was living with Rivera at the time. In the work, painted two years after the couple married, Kahlo lightly holds Rivera’s hand as he grasps a palette and paintbrushes with the other — a stiffly formal pose hinting at the couple’s future tumultuous relationship. The work now lives at the San Francisco Museum of Modern Art.
+Henry Ford Hospital' (1932)
+In 1932, Kahlo incorporated graphic and surrealistic elements in her work. In this painting, a naked Kahlo appears on a hospital bed with several items — a fetus, a snail, a flower, a pelvis and others — floating around her and connected to her by red, veinlike strings. As with her earlier self-portraits, the work was deeply personal, telling the story of her second miscarriage.
+'The Suicide of Dorothy Hale' (1939)
+Kahlo was asked to paint a portrait of Luce and Kahlo's mutual friend, actress Dorothy Hale, who had committed suicide earlier that year by jumping from a high-rise building. The painting was intended as a gift for Hale's grieving mother. Rather than a traditional portrait, however, Kahlo painted the story of Hale's tragic leap. While the work has been heralded by critics, its patron was horrified at the finished painting.
+'The Two Fridas' (1939)
+One Kahlo’s most famous works, the paintings shows two versions of the artist sitting side by side, with both of their hearts exposed. One Frida is dressed nearly all in white and has a damaged heart and spots of blood on her clothing. The other wears bold-colored clothing and has an intact heart. These figures are believed to represent “unloved” and “loved” versions of Kahlo.
+'The Broken Column' (1944)
+Kahlo shared her physical challenges through her art again with this painting, which depicted a nearly nude Frida split down the middle, revealing her spine as a shattered decorative column. She also wears a surgical brace and her skin is studded with tacks or nails. Around this time, Kahlo had several surgeries and wore special corsets to try to fix her back. She would continue to seek a variety of treatments for her chronic physical pain with little success.
+
+
+
 
 
 > Ceci est du texte cité.
