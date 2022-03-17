@@ -60,7 +60,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 
 <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Jeanne_d%27Arc_-_Martin_le_Franc_-_le_champion_des_dames.jpg"
+  url="https://gallica.bnf.fr/ark:/12148/btv1b525033083/f208#"
 
 ![image](https://user-images.githubusercontent.com/101237991/157738140-e3a51074-a976-417f-9d31-2b7a703c16d2.png)
 
