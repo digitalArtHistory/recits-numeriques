@@ -47,6 +47,11 @@ Reliquaire de la Sainte Épine
 <param ve-graphic 
   url="https://www.narthex.fr/blogs/orfevrerie/images-g-denniel/vignette-reliquaire-de-la-sainte-epine-c-tresor-de.jpg/image_preview" 
   title="Reliquaire de la Sainte Épine" />
+  
+  
+  hsshsfhru
+  <param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b102274285/manifest.json" />
     
 
 # Explorer Markdown
