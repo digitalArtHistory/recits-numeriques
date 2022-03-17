@@ -15,6 +15,29 @@ Voici quelques actions à réaliser pour commencer :
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
 
+
+
+## Premiers pas avec Juncture (travail dirigé)
+
+Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
+- créer des sections interactives (paragraphes)
+- insérer une image
+- insérer une image avec IIIF
+- insérer un lien Wikidata
+- intégrer une vidéo
+
+voici une image de gargouille
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
+  title="Gargouilles" />
+  
+  voici une image de dragon
+  <param ve-graphic 
+  url="http://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg ![image](https://user-images.githubusercontent.com/101223514/158864070-78d6cda1-7bcd-4c6f-a560-35317acec1b7.png)" 
+  title="dragon" />
+  
+  
+  
 # Explorer Markdown
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
@@ -38,24 +61,3 @@ Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souv
 Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata
-- intégrer une vidéo
-
-<param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gargouilles_%28RA_549%29_3.jpg" 
-  title="Gargouilles" />
-  
-  voici une image de dragon
-  <param ve-graphic 
-  url="http://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg ![image](https://user-images.githubusercontent.com/101223514/158864070-78d6cda1-7bcd-4c6f-a560-35317acec1b7.png)" 
-  title="dragon" />
-  
-  
-  
