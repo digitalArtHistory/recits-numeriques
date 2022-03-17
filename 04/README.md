@@ -48,8 +48,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
-- <param ve-graphic 
-  url="https://fr.wikipedia.org/wiki/Claude_Monet#/media/Fichier:Claude_Monet_-_Camille_Monet_sur_son_lit_de_mort.JPG"title="C" />
 
 
 
