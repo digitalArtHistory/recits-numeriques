@@ -4,6 +4,8 @@
        title="depart" 
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
+       
+<param ve-entity eid="Q208220" aliases="liste">
 
 # Fichier de démarrage
 
