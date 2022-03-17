@@ -70,5 +70,6 @@ Duis sagittis dignissim scelerisque. Proin placerat diam sapien, id varius quam 
 
 Aenean gravida eros ac nisi condimentum, quis maximus est laoreet. Aenean eu sapien suscipit, accumsan neque ut, sodales justo. Mauris eget odio eros. Pellentesque ac enim quis lacus fringilla pharetra. Cras luctus malesuada elit ac aliquam. Etiam sed sollicitudin turpis, in dignissim enim. Etiam sagittis volutpat ante, et elementum felis pellentesque eget. Suspendisse potenti. Aenean quis semper ante. Nunc arcu enim, aliquam sed sapien eu, dapibus fringilla risus. Maecenas vitae eros venenatis, sagittis arcu sit amet, vehicula sapien. Quisque rhoncus urna nibh, a fermentum eros dictum vitae. Aliquam semper lectus quis sem luctus vehicula. Phasellus non lobortis nunc.
 
----
+## Références
+
 [^1]: Du texte de note [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
