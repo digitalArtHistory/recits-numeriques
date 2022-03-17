@@ -33,7 +33,7 @@ voici une image de gargouille
   
 voici une image de dragon qui provient d'un ouvrage de bestiaire. Cet ouvrage se base comme un encyclopédie pour expliquer le monde qui entoure la communauté humaine au Moyen Âge. Il suffit d'une peur des reptiles pour y voir une légende de dragon pour les artistes de l'époque et ainsi faire fructifier l'imaginaire bla blaa vla bla vla bvld aldmsf
 <param ve-graphic 
-  url="https://github.com/digitalArtHistory/recits-numeriques/blob/ea804d25781d507fb922961cf24ebdde3e983edc/05/dragon.jpeg" 
+  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/dragon.jpeg" 
   title="dragon" />
   
   
