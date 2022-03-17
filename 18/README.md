@@ -34,8 +34,14 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 <param ve-graphic
     url="https://medievalslavery.org/wp-content/uploads/2020/06/Vidal-Mayor-fol.-244r-cropped-version.jpeg"
        title="Deux soldats guidant deux moors" /> 
-                   
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
+             
+nouveau paragrahe bonjour  
+
+<param ve-graphic
+    url="https://medievalslavery.org/wp-content/uploads/2022/01/image-2.jpg"
+       title="Baptistère de Saint-Louis" /> 
+       
+       Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
 
 Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -50,7 +56,6 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-test de modification
 
 
 
