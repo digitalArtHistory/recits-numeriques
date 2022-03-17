@@ -24,7 +24,9 @@ Voici quelques actions à réaliser pour commencer :
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
-# Icône:  Christ bénissant
+# Icône:  Christ bénissant / Vierge orante
+Ce camée de lapis-lazuli est sculpté d'un côté d'une Vierge orante debout, de face, et, de l'autre, d'un Christ également debout et de face, tenant le Livre et bénissant. Des rainures dans le lapis lazuli, incrustées d'or, dessinent les nimbes, les lettres des inscriptions et les arbustes qui, sur chaque face, entourent le Christ et la Vierge. Un cadre d’argent doré enserrant le camée laisse voir les vestiges de filigrane où se trouvaient perles et turquoises. À l’apex du camée figure un anneau se glissant dans trois autres plus petits fixés sur la tranche du cadre.  
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550097566/manifest.json" />
 
 ## Titre de niveau 2
 
