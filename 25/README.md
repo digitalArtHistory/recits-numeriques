@@ -30,7 +30,6 @@ Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du tex
 <param ve-graphic url="https://images.metmuseum.org/CRDImages/md/original/DT112.jpg" title="Fragment d"une mosaïque de sol avec une personnification de Ktisis" />
 
 Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
-<param ve-graphic url="https://worcester.emuseum.com/internal/media/dispatcher/10424/resize%3Aformat%3Dfull" title="Mosaïque de sol de Ktisis" />
 
 > Ceci est du texte cité.
 
@@ -48,6 +47,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
+ <param ve-graphic url="https://worcester.emuseum.com/internal/media/dispatcher/10424/resize%3Aformat%3Dfull" title="Mosaïque de sol de Ktisis" /> 
 
 
 
