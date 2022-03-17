@@ -31,10 +31,8 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
 
-Orgue Valere
-<param ve-graphic 
-  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" 
-  title="Orgue Valere" />
+
+  <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
   
 
 Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
