@@ -18,9 +18,7 @@ Voici quelques actions à réaliser pour commencer :
 <param ve-graphic 
   url="https://historyofinformation.com/images/Codex_Aureus_Sankt_Emmeram.jpg" 
   title="Codex Aureus couverture du manuscrit" />
-<param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg" 
-  title="Coffret Moûtiers" />
+
 
 # Explorer Markdown
 
