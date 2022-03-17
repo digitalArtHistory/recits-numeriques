@@ -43,10 +43,6 @@ Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
-<param ve-graphic
-    url="blob:null/c1bda40f-2fbc-452b-a41c-6e0644950f2c" 
-    title="Saint Joris met de draak"/>
-
 
 ## Premiers pas avec Juncture (travail dirigé)
 
