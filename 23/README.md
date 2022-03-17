@@ -201,6 +201,38 @@ Alternate Numbers:
 Ms. Ludwig I 8, v1, fol. 10v (Manuscript Number)
 <param ve-graphic 
   url="https://media.getty.edu/museum/images/web/download/00305401.jpg" 
+       
+ -------------https://en.wikipedia.org/wiki/Monreale_Cathedral_mosaics
+       
+---------allez su akgimage ou https://books.openedition.org/pup/7037?lang=fr
+Tapisserie / La Création / Gérone v. 1100
+Tapisserie, Catalogne ou Italie du Nord,
+vers 1100.
+– “Tapisserie de la création” (Tapis de la Creació ; au centre le Christ pentocrator, entouré de huit scènes de la Création ; sous l’image du Christ, la création des oiseaux et des poissons).
+Laine et lin, H. 4,15 ; L. 3,65.
+Gerona, Museo Capitular de la Catedral.
+REFERENCE
+AKG349506
+Museum
+Gerona, Museo Capitular de la Catedral
+Source
+Erich Lessing
+Crédit Photo
+akg-images / Erich Lessing
+Event date
+1100
+Date oeuvre
+1100
+Période
+11E SIECLE
+12E SIECLE
+2E MILLENAIRE
+MOYEN AGE
+
+
+3364px × 2647px (25 MB)
+
+28.4 cm × 22.4 cm @ 300 dpi
 
 
 
