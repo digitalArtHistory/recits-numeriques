@@ -8,8 +8,7 @@
 # Fichier de démarrage
 
 <param ve-image
-    url= "https://artsandculture.google.com/asset/initial-q-two-soldiers-leading-two-moors-before-a-king-unknown-michael-lupi-de-%C3%87andiu/LwGkNW2njJSwUA.json"
->
+    url= "https://blog.library.villanova.edu/wp-content/uploads/2020/01/Relmin_captives-300x216.jpg" />
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
