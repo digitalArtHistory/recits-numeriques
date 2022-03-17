@@ -101,7 +101,9 @@ View at The British Library
 Manifest IIIF:
 https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json
 <param ve-image
-  manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json" /
+  manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json" 
+       seq="8" /
+
 
 -----------Libellé:
 BnF. Département des Manuscrits. Latin 16943
