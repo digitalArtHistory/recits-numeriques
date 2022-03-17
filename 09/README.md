@@ -27,6 +27,11 @@ Les mages représentent le monde entier comme témoin de la Nativité, la naissa
 Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
 <param ve-image
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10505681s/manifest.json">
+    
+# Prince Djem
 
+Le prince Djem. aussi connu sous le nom de Zizim a été prisonnier en Europe pour la majeure partie sa vie : à partir de sa défaite contre son frère, le sultan Bayazid, jusqu'à sa mort
+<param ve-image
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535160j/manifest.json">
 
 
