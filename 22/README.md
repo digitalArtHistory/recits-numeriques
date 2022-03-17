@@ -43,7 +43,7 @@ Des précisions manquant, on ne peut affirmer avec certitude que ce reliquaire r
   url="https://wp.fr.aleteia.org/wp-content/uploads/sites/6/2021/08/3-Pied-reliquaire-de-saint-Jacques-le-Majeur.-Namur-Photo-TreM.a-Muse%CC%81e-des-Arts-anciens-du-Namurois-Tre%CC%81sor-dOignies.jpg?w=1280&crop=1" 
   title="Pied reliquaire de Saint Jacques le Majeur" />
   
-  
+## Reliquaire de la sainte épine  
 Reliquaire de la Sainte Épine 
 
 Une amande cerclée d’émeraudes, de rubis et de perles, semble posée en équilibre sur un pied, une lumière particulière et étrange s'en échappe. Le centre du reliquaire est un bloc de cristal de roche d’une qualité exceptionnelle, sans aucune givrure ni défaut, taillé en amande et évidé depuis la pointe haute afin de recevoir une épine de la couronne du Christ que saint Louis offrit à l’abbaye de Saint-Maurice d’Agaune en remerciement des reliques des martyrs thébains apportées par l’abbé d’Agaune en 1262 au saint roi.
