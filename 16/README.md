@@ -19,5 +19,5 @@ La préface présente la façon dont Le Brun commençait ces dessins et comment 
  manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b531282192/manifest.json" />
  
 Le tome II de ce même catalogue, offre des dessins plus axés sur le visage tout en abordant la théorie de l’expression des passions de Le Brun. Le catalogue montre une séries d’images de visage fait à la plume, à la pierre noir et à l’encre brune ayant des expressions faciales très distinctes les unes des autres: montrant ainsi sa théorie sur papier. Il y a aussi des visages dessinés à partir d’animaux, des dessins de textures de draps et de vêtements  ou encore des bâtiments. 
-<param ve-video id="kXPblRgwG5Y" title="Charles Le Brun (1619-1690) , First Painter to the King Louis XIV" start="3"/>
+<param ve-video id="kXPblRgwG5Y" title="Charles Le Brun (1619-1690) , First Painter to the King Louis XIV" start="53"/>
 
