@@ -6,8 +6,7 @@
        layout="vertical">
 
 # L'Orfèvrerie à l'époque médiévale
-
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+Cette exposition virtuelle servira de support pour montrer l'étendue du travail d'orfèvrerie qui se faisait dans quelques régions durant la Moyen-Âge.
 
 Voici quelques actions à réaliser pour commencer :
 - modifier le titre de votre essai visuel
