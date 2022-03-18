@@ -17,9 +17,7 @@ title="Coffret de Moûtiers-en-Tarentaise" />
   
   ## Le Codex de Saint-Emmeram
   - objet fabriqué sous le régime impérial carolingien
- <param ve-graphic 
-  url="https://historyofinformation.com/images/Codex_Aureus_Sankt_Emmeram.jpg" 
-  title="Codex de Saint-Emmeram" />
+<param ve-image url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00096095/manifest" />
   
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
