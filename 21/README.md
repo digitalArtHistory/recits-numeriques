@@ -8,12 +8,12 @@
 # L'Orfèvrerie à l'époque médiévale
 Cette exposition virtuelle servira de support pour montrer l'étendue du travail d'orfèvrerie qui se faisait dans quelques régions durant la Moyen-Âge.
 
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
-
+## Coffret de Moûtiers-en-tarentaise
+- Plaques de crystal de roche; taillé en Égypte durant la période fatimide, 10è siècle.
+- Montre le travail réaliser entre l'Orient et l'Occident.
+<param ve-graphic 
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg" 
+  title="Coffret de Moûtiers-en-Tarentaise" />
 
 
 
