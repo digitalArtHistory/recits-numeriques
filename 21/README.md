@@ -12,9 +12,8 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 ## Coffret de Moûtiers-en-tarentaise
 - Plaques de crystal de roche; taillé en Égypte durant la période fatimide, 10è siècle.
 - Montre le travail réaliser entre l'Orient et l'Occident.
-<param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg" 
-  title="Coffret de Moûtiers-en-Tarentaise" />
+<param ve-graphic url="https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg" 
+title="Coffret de Moûtiers-en-Tarentaise" />
   
   ## Le Codex de Saint-Emmeram
   - objet fabriqué sous le régime impérial carolingien
