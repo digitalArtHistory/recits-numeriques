@@ -7,6 +7,7 @@
 
 # L'Orfèvrerie à l'époque médiévale
 Cette exposition virtuelle servira de support pour montrer l'étendue du travail d'orfèvrerie qui se faisait dans quelques régions durant la Moyen-Âge.
+Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla.
 
 ## Coffret de Moûtiers-en-tarentaise
 - Plaques de crystal de roche; taillé en Égypte durant la période fatimide, 10è siècle.
@@ -14,6 +15,9 @@ Cette exposition virtuelle servira de support pour montrer l'étendue du travail
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/50-coffret-de-moutiers-en-tarentaise/coffret%20de%20mo%C3%BBtiers-en-tarentaise-7/s,900-c810d3.jpg" 
   title="Coffret de Moûtiers-en-Tarentaise" />
+  
+  ## Le Codex de Saint-Emmeram
+  - objet fabriqué sous le régime impérial carolingien
 
 
 
