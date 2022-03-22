@@ -1,11 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
 <param ve-config 
-       title="les tapisseries" 
+       title="LES TAPISSERIES - LES PETITES MAINS DU MOYEN  GE : LA MODE DES TAPISSERIES ET BRODERIE " 
        banner="https://rmblf.files.wordpress.com/2019/10/tapisseriessl_produitevenement.png" 
        layout="vertical">
 
-# Tapisserie de bayeux
+# INTRODUCTION
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
   
