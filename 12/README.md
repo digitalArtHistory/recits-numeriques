@@ -56,7 +56,7 @@ Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulée
 
 Elles font partie d’une catégorie de tapisserie dite, millefleur, qui se caractérise par un fond fait d'une multitude de petites plantes et fleurs. Il s'agit d'un motif extrêmement populaire dans l'art et l'artisanat du Moyen Âge en Europe. On le retrouve par exemple dans les bordures enluminées des manuscrits ou dans les tapisseries .
 <param ve-graphic 
-  url="https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne#/media/Fichier:Cluny-Dame_%C3%A0_la_licorne-Detail_16.JPG" 
+  url="https://upload.wikimedia.org/wikipedia/commons/d/db/Cluny-Dame_%C3%A0_la_licorne-Detail_16.JPG" 
   title="mille fleur - détail à mon seul désir "/>
 
 Par ailleurs, le peintre, Jean d’Ypres (inconnue - 1508), qui a dessiné à grande échelle les modèles de femmes et les animaux des tapisseries, était connu comme enlumineur au service de la reine Anne de Bretagne, ou encore pour des gravures illustrant des livres imprimés. Le tissage est très soigné, créé de manière horizontale, mais le lieu de production des tapisseries n’est pas connu.
