@@ -19,17 +19,31 @@ Les tapisseries sont généralement conçues comme des panneaux individuels ou d
 La tapisserie a traditionnellement été un art collectif combinant les talents du peintre, ou du dessinateur, et ceux du tisserand. Les premières tapisseries européennes, celles qui ont été tissées au Moyen  ge, ont été réalisées par des tisserands qui ont fait preuve d'une grande ingéniosité en suivant le dessin ou le croquis produit par un autre artiste. En outre, on pourra constater que la tapisserie n’a rien à envier aux autres arts, au contraire, elle contribue, elle aussi, à l’évolution dynamique des autres modes d’expression .
 
 ## La Tapisserie de Bayeux
-
 La Tapisserie de Bayeux est un artéfact retraçant la conquête de l'Angleterre par Guillaume le Conquérant (1027 - 1087), duc de Normandie, lors de la bataille d'Hastings en 1066. Cette tapisserie est considérée comme une broderie, en dépit de son nom, elle relève d’une technique aux points d’aiguille qui est directement cousue sur la toile alors qu’une tapisserie est tissée sur un métier manuel ou mécanique. On peut relever ce point, à l’aide des neuf panneaux de lin reliés les un aux autres et des quatre points de broderie pour les couleurs.
 <param ve-graphic 
   url="https://www.perseus-web.fr/nar6/uploads/tapisserie-de-bayeux-ok.jpg" 
   title="bayeux" />
+  
   <param ve-iframe 
     src="https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/explorer-la-tapisserie-de-bayeux-en-ligne/" />
    
 Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux et demi-frère de Guillaume le Conquérant, aurait commandé cette broderie pour orner la nef de la nouvelle cathédrale Notre-Dame de Bayeux, dédicacée le 14 juillet 1077. Les tentures de ce type étaient occasionnellement visibles aux fidèles, non seulement pour décorer les églises, mais aussi dans un but éducatif pour permettre aux analphabètes de s’instruire. La conquête victorieuse est ici une œuvre de propagande à la gloire de Guillaume le Conquérant .
 <param ve-image 
   manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7740786m/manifest.json" />
+
+## La Dame à la licorne
+
+Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulées le Toucher, le Gout, l’Odorat, l’Ouïe, la Vue et une dernière œuvre avec une tente bleu et l’inscription “mon seul désir”. 
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/0/07/%28Toulouse%29_Le_toucher_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
+  title="dame a la licorne" />
+
+Elles font partie d’une catégorie de tapisserie dite, millefleur, qui se caractérise par un fond fait d'une multitude de petites plantes et fleurs. Il s'agit d'un motif extrêmement populaire dans l'art et l'artisanat du Moyen Âge en Europe. On le retrouve par exemple dans les bordures enluminées des manuscrits ou dans les tapisseries .
+
+Par ailleurs, le peintre, Jean d’Ypres (inconnue - 1508), qui a dessiné à grande échelle les modèles de femmes et les animaux des tapisseries, était connu comme enlumineur au service de la reine Anne de Bretagne, ou encore pour des gravures illustrant des livres imprimés. Le tissage est très soigné, créé de manière horizontale, mais le lieu de production des tapisseries n’est pas connu.
+
+Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces : les Le Viste . 
+
 
 # Explorer Markdown
 
