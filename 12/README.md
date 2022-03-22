@@ -63,7 +63,7 @@ Par ailleurs, le peintre, Jean d’Ypres (inconnue - 1508), qui a dessiné à gr
 
 Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces : les Le Viste . 
 <param ve-graphic 
-  url="https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne#/media/Fichier:(Toulouse)_L'Ou%C3%AFe_(La_Dame_%C3%A0_la_licorne)_-_Mus%C3%A9e_de_Cluny_Paris_-_Blason_d'Antoine_Le_Viste.jpg" 
+  url="https://upload.wikimedia.org/wikipedia/commons/9/96/%28Toulouse%29_L%27Ou%C3%AFe_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris_-_Blason_d%27Antoine_Le_Viste.jpg" 
   title="armoire représentative des Le Viste"/>
 
 
