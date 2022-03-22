@@ -18,14 +18,16 @@ Les tapisseries sont généralement conçues comme des panneaux individuels ou d
 
 La tapisserie a traditionnellement été un art collectif combinant les talents du peintre, ou du dessinateur, et ceux du tisserand. Les premières tapisseries européennes, celles qui ont été tissées au Moyen  ge, ont été réalisées par des tisserands qui ont fait preuve d'une grande ingéniosité en suivant le dessin ou le croquis produit par un autre artiste. En outre, on pourra constater que la tapisserie n’a rien à envier aux autres arts, au contraire, elle contribue, elle aussi, à l’évolution dynamique des autres modes d’expression .
 
+# La Tapisserie de Bayeux
+
 <param ve-graphic 
   url="https://www.perseus-web.fr/nar6/uploads/tapisserie-de-bayeux-ok.jpg" 
   title="bayeux" />
   <param ve-iframe 
     src="https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/explorer-la-tapisserie-de-bayeux-en-ligne/" />
-    
-  Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-  <param ve-image 
+La Tapisserie de Bayeux est un artéfact retraçant la conquête de l'Angleterre par Guillaume le Conquérant (1027 - 1087), duc de Normandie, lors de la bataille d'Hastings en 1066. Cette tapisserie est considérée comme une broderie, en dépit de son nom, elle relève d’une technique aux points d’aiguille qui est directement cousue sur la toile alors qu’une tapisserie est tissée sur un métier manuel ou mécanique. On peut relever ce point, à l’aide des neuf panneaux de lin reliés les un aux autres et des quatre points de broderie pour les couleurs.
+
+Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux et demi-frère de Guillaume le Conquérant, aurait commandé cette broderie pour orner la nef de la nouvelle cathédrale Notre-Dame de Bayeux, dédicacée le 14 juillet 1077. Les tentures de ce type étaient occasionnellement visibles aux fidèles, non seulement pour décorer les églises, mais aussi dans un but éducatif pour permettre aux analphabètes de s’instruire. La conquête victorieuse est ici une œuvre de propagande à la gloire de Guillaume le Conquérant .
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7740786m/manifest.json" />
 
 # Explorer Markdown
