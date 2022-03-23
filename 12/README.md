@@ -23,7 +23,11 @@ La tapisserie a traditionnellement été un art collectif combinant les talents 
 La Tapisserie de Bayeux est un artéfact retraçant la conquête de l'Angleterre par Guillaume le Conquérant (1027 - 1087), duc de Normandie, lors de la bataille d'Hastings en 1066. Cette tapisserie est considérée comme une broderie, en dépit de son nom, elle relève d’une technique aux points d’aiguille qui est directement cousue sur la toile alors qu’une tapisserie est tissée sur un métier manuel ou mécanique. On peut relever ce point, à l’aide des neuf panneaux de lin reliés les un aux autres et des quatre points de broderie pour les couleurs.
 <param ve-graphic 
   url="https://www.perseus-web.fr/nar6/uploads/tapisserie-de-bayeux-ok.jpg" 
-  title="bayeux" />
+  title=" Tapisserie de Bayeux" />
+  
+  <param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Bayeux_Tapestry_scene1_Edward.jpg" 
+  title=" détails de la broderie" />
   
   <param ve-iframe 
     src="https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/explorer-la-tapisserie-de-bayeux-en-ligne/" />
