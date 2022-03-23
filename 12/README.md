@@ -27,7 +27,7 @@ La Tapisserie de Bayeux est un artéfact retraçant la conquête de l'Angleterre
   <param ve-iframe 
     src="https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/explorer-la-tapisserie-de-bayeux-en-ligne/" />
    
-Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux et demi-frère de Guillaume le Conquérant, aurait commandé cette broderie pour orner la nef de la nouvelle cathédrale Notre-Dame de Bayeux, dédicacée le 14 juillet 1077. Les tentures de ce type étaient occasionnellement visibles aux fidèles, non seulement pour décorer les églises, mais aussi dans un but éducatif pour permettre aux analphabètes de s’instruire. La conquête victorieuse est ici une œuvre de propagande à la gloire de Guillaume le Conquérant .
+Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux et demi-frère de Guillaume le Conquérant, aurait commandé cette broderie pour orner la nef de la nouvelle cathédrale Notre-Dame de Bayeux, dédicacée le 14 juillet 1077. Les tentures de ce type étaient occasionnellement visibles aux fidèles, non seulement pour décorer les églises, mais aussi dans un but éducatif pour permettre aux analphabètes de s’instruire. La conquête victorieuse est ici une œuvre de propagande à la gloire de Guillaume le Conquérant.
 <param ve-image 
   manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7740786m/manifest.json" />
 
@@ -54,29 +54,31 @@ Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulée
   title="à mon seul désir " />
  
 
-Elles font partie d’une catégorie de tapisserie dite, millefleur, qui se caractérise par un fond fait d'une multitude de petites plantes et fleurs. Il s'agit d'un motif extrêmement populaire dans l'art et l'artisanat du Moyen Âge en Europe. On le retrouve par exemple dans les bordures enluminées des manuscrits ou dans les tapisseries .
+Elles font partie d’une catégorie de tapisserie dite, millefleur, qui se caractérise par un fond fait d'une multitude de petites plantes et fleurs. Il s'agit d'un motif extrêmement populaire dans l'art et l'artisanat du Moyen Âge en Europe. On le retrouve par exemple dans les bordures enluminées des manuscrits ou dans les tapisseries.
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/d/db/Cluny-Dame_%C3%A0_la_licorne-Detail_16.JPG" 
   title="mille fleur - détail à mon seul désir "/>
 
 Par ailleurs, le peintre, Jean d’Ypres (inconnue - 1508), qui a dessiné à grande échelle les modèles de femmes et les animaux des tapisseries, était connu comme enlumineur au service de la reine Anne de Bretagne, ou encore pour des gravures illustrant des livres imprimés. Le tissage est très soigné, créé de manière horizontale, mais le lieu de production des tapisseries n’est pas connu.
 
-Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces : les Le Viste . 
+Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces : les Le Viste. 
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/9/96/%28Toulouse%29_L%27Ou%C3%AFe_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris_-_Blason_d%27Antoine_Le_Viste.jpg" 
   title="armoire représentative des Le Viste"/>
 
 ## Tapisserie Kesi représentant des fleurs de prunier et des pies en hiver (Kesi Tapestry of Plum Blossoms and Magpies in Winter)
 
-Le kesi ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement . 
+Le kesi ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
 
-Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable . Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale .
+Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable . Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale.
  <param ve-iframe 
     src="https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html" />
 
 ## Fragments de bandes de tapisseries provenant d'Egypte
        
-Cette pièce est constituée de cinq bandes à décor de médaillons au milieu desquels se trouvent des animaux. Une inscription est indiquée en arabe “ Nasr min Allâh” qui symbolise “la victoire vient de Dieu”
+Cette pièce est constituée de cinq bandes à décor de médaillons au milieu desquels se trouvent des animaux. Une inscription est indiquée en arabe “ Nasr min Allâh” qui symbolise “la victoire vient de Dieu” sur le bas du tissu. Pour mieux visualisé voici un exemple de l'inscription sur un plumier.
+ <param ve-iframe 
+    src="https://www.britishmuseum.org/collection/object/W_G-7" />
        
 Cette sourate loue Allah pour avoir convertit de nombreuses personnes à l'islam. Cette sourate est également connue sous le nom de "La victoire", comme dans la victoire de l'islam, car elle fait référence à la conquête de la Mecque, où les musulmans ont victorieusement combattu les ennemis de l'islam. Ce qui suggère que ce fragment de tapisserie avait une fonction liée à la prière ou à la célébration de l’Islam. On estime ce fragment vers le 12e siècle, dû fait de l’incorporation de la soie avec le matériau plus traditionnel qu’est le lin.
        
@@ -99,7 +101,6 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
 
-Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
 
 > Ceci est du texte cité.
 
