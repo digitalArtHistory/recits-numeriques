@@ -86,48 +86,34 @@ De plus, sous les Fatimides (969 - 1171), se manifeste un renouveau du naturalis
 
 ## Tapisserie de rituel provenant du Pérou
 
-Il s'agit d'un fragment de textile qui présente un aspect général en damier. Des carrés de couleur unie sont placés en alternance avec carrés dessinés qui représentent des formes animales et humanoïdes . On estime que cet artéfact aurait pu faire partie d’une plus grande pièce de textile, selon le fait que ces côtés gauche et droit n'ont pas de bords finis ou de lisières.
+Il s'agit d'un fragment de textile qui présente un aspect général en damier. Des carrés de couleur unie sont placés en alternance avec carrés dessinés qui représentent des formes animales et humanoïdes. On estime que cet artéfact aurait pu faire partie d’une plus grande pièce de textile, selon le fait que ces côtés gauche et droit n'ont pas de bords finis ou de lisières.
 <param ve-iframe 
     src="https://onlinecollections.syr.edu/objects/21790/textile-fragment--ritual-tapestry?ctx=b3191cd3bdc7bbf06a7af9e0d18b42d2740e2ba6&idx=3" />
 
  Les techniques de tissage entre croisées et l'imagerie iconographique utilisées dans ce textile indiquent qu'il a été fabriqué pendant l'empire Huari (600 - 1100 AD). L’iconographie renvoie à une culture aujourd'hui connue sous le nom de *Chavin* (900 - 200 BCE) qui est née dans les hautes terres du nord du Pérou. Parmi les icônes religieuses des *Chavin*, on trouve une divinité portant un bâton et une figure féline, cette divinité décoraient principalement les textiles cérémoniels spécifiques. 
+ <param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/a/af/Raimondi_Stela_%28Chavin_de_Huantar%29.svg" 
+  title="divinité Chavin"/>
  
 Ce qui suggère que ce fragment ne soit pas une partie manquante d’un vêtement et devait donc être destiné à un usage rituel. Il est également suggéré, quant à l’absence de l’écriture, les textiles religieux pouvaient avoir un but narratif, le tisserand ayant été le "verbalisateur" de l'histoire.
 
+### Bibliographie
+
+•	De La Rochefoucauld, G.-C. (1966). “L’Égypte des tissus”. Vie des arts, (43), 60–67, URL : https://www.erudit.org/fr/revues/va/1966-n43-va1201520/58380ac/ .
+•	Kares, Jean Louise. (2010), “Playing Host to Cultural Prestige : Imperial Agency in Two Manchu Kesi.” Thèses et mémoires électroniques (ETD) 2008. T, University of British Columbia. doi:http://dx.doi.org/10.14288/1.0070977 . 
+•	Madeleine Jarry, (8 mars 2019), "Tapestry". Encyclopedia Britannica, URL : https://www.britannica.com/art/tapestry .
+•	Thomas, Mary Jean (1983), "La reconstruction et l'analyse d'un fragment de tapisserie péruvienne de l'horizon moyen," Syracuse Scholar (1979-1991) : Vol. 4 : Iss. 2, Article 4, URL : https://surface.syr.edu/suscholar/vol4/iss2/4  .
 
 
-# Explorer Markdown
 
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
+### Webographie 
 
-```
-# Titre de niveau 1
-
-## Titre de niveau 2
-
-### Titre de niveau 3
-```
-
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
-
-
-> Ceci est du texte cité.
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata
-- intégrer une vidéo
-
+•	Informations tirées du site internet du musée du Palais à Pékin où est entreposé l’œuvre, URL : https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html . Consulté le 14 mars 2022.
+•	 Informations tirées du site internet du musée de Bayeux où est entreposé l’œuvre, URL : https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/ . Consulté le 14 mars 2022.
+•	Informations tirées du site internet du musée de Cluny où sont entreposées les œuvres, URL : https://www.musee-moyenage.fr/collection/oeuvre/la-dame-a-la-licorne.html . Consulté le 14 mars 2022.
+•	Informations sur le style millefleur tirée du site internet du musée de Cluny où sont entreposées les œuvres, URL : https://www.musee-moyenage.fr/collection/oeuvre/millefleurs-fleurs-animaux.html . Consulté le 14 mars 2022.
+•	Informations tirées du site internet du musée du Palais à Pékin où est entreposé l’œuvre, URL : https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html . Consulté le 14 mars 2022.
+•	Informations tirées de la description du fragment fourni par le musée de l’université de Syracuse où est entreposé le fragment, URL : https://onlinecollections.syr.edu/objects/details.detail.detailactions.detailviewreportscontroller:generatereport/2/Objects/798960?sid=dSx4OZw9cGRa7heB&t:ac=21790 . Consulté le 14 mars 2022.
 
 
 
