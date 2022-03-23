@@ -68,15 +68,15 @@ Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois 
 
 ## Tapisserie Kesi représentant des fleurs de prunier et des pies en hiver (Kesi Tapestry of Plum Blossoms and Magpies in Winter)
 
-Le kesi ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
+Le *kesi* ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
 
-Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable . Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale.
+Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable. Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale.
  <param ve-iframe 
     src="https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html" />
 
 ## Fragments de bandes de tapisseries provenant d'Egypte
        
-Cette pièce est constituée de cinq bandes à décor de médaillons au milieu desquels se trouvent des animaux. Une inscription est indiquée en arabe “ Nasr min Allâh” qui symbolise “la victoire vient de Dieu” sur le bas du tissu. Pour mieux visualisé voici un exemple de l'inscription sur un plumier.
+Cette pièce est constituée de cinq bandes à décor de médaillons au milieu desquels se trouvent des animaux. Une inscription est indiquée en arabe *“Nasr min Allâh”* qui symbolise *“la victoire vient de Dieu”* sur le bas du tissu. Pour mieux visualisé voici un exemple de l'inscription sur un plumier.
  <param ve-iframe 
     src="https://www.britishmuseum.org/collection/object/W_G-7" />
        
@@ -84,8 +84,17 @@ Cette sourate loue Allah pour avoir convertit de nombreuses personnes à l'islam
        
 De plus, sous les Fatimides (969 - 1171), se manifeste un renouveau du naturalisme dans des dessins d'une grande finesse, tels que des petits oiseaux, des palmettes, ou encore vignes entrelacées sont les motifs charmants de cette époque. Ce qui correspond aux motifs tissés ou peints sur cette pièce. 
 
-       
-       
+## Tapisserie de rituel provenant du Pérou
+
+Il s'agit d'un fragment de textile qui présente un aspect général en damier. Des carrés de couleur unie sont placés en alternance avec carrés dessinés qui représentent des formes animales et humanoïdes . On estime que cet artéfact aurait pu faire partie d’une plus grande pièce de textile, selon le fait que ces côtés gauche et droit n'ont pas de bords finis ou de lisières.
+<param ve-iframe 
+    src="https://onlinecollections.syr.edu/objects/21790/textile-fragment--ritual-tapestry?ctx=b3191cd3bdc7bbf06a7af9e0d18b42d2740e2ba6&idx=3" />
+
+ Les techniques de tissage entre croisées et l'imagerie iconographique utilisées dans ce textile indiquent qu'il a été fabriqué pendant l'empire Huari (600 - 1100 AD). L’iconographie renvoie à une culture aujourd'hui connue sous le nom de *Chavin* (900 - 200 BCE) qui est née dans les hautes terres du nord du Pérou. Parmi les icônes religieuses des *Chavin*, on trouve une divinité portant un bâton et une figure féline, cette divinité décoraient principalement les textiles cérémoniels spécifiques. 
+ 
+Ce qui suggère que ce fragment ne soit pas une partie manquante d’un vêtement et devait donc être destiné à un usage rituel. Il est également suggéré, quant à l’absence de l’écriture, les textiles religieux pouvaient avoir un but narratif, le tisserand ayant été le "verbalisateur" de l'histoire.
+
+
 
 # Explorer Markdown
 
