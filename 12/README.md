@@ -32,7 +32,7 @@ Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux e
 <param ve-image 
   manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7740786m/manifest.json" />
 
-## La Dame à la licorne
+## La Dame à la licorne en France
 
 Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulées le Toucher, le Gout, l’Odorat, l’Ouïe, la Vue et une dernière œuvre avec une tente bleu et l’inscription “mon seul désir”.
 <param ve-graphic 
@@ -67,7 +67,7 @@ Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois 
   url="https://upload.wikimedia.org/wikipedia/commons/9/96/%28Toulouse%29_L%27Ou%C3%AFe_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris_-_Blason_d%27Antoine_Le_Viste.jpg" 
   title="armoire représentative des Le Viste"/>
 
-## Tapisserie Kesi représentant des fleurs de prunier et des pies en hiver (Kesi Tapestry of Plum Blossoms and Magpies in Winter)
+## Tapisserie Kesi chinoise représentant des fleurs de prunier et des pies en hiver 
 
 Le *kesi* ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
 
