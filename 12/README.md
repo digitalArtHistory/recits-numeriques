@@ -66,6 +66,9 @@ Elles font partie d’une catégorie de tapisserie dite, millefleur, qui se cara
   title="mille fleur - détail à mon seul désir "/>
 
 Par ailleurs, le peintre, Jean d’Ypres (inconnue - 1508), qui a dessiné à grande échelle les modèles de femmes et les animaux des tapisseries, était connu comme enlumineur au service de la reine Anne de Bretagne, ou encore pour des gravures illustrant des livres imprimés. Le tissage est très soigné, créé de manière horizontale, mais le lieu de production des tapisseries n’est pas connu.
+<param ve-image 
+  manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
+
 
 Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces : les Le Viste. 
 <param ve-graphic 
