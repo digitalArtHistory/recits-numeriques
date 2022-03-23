@@ -113,7 +113,7 @@ Ce qui suggère que ce fragment ne soit pas une partie manquante d’un vêtemen
 ### Webographie 
 
 •	Informations tirées du site internet du musée du Palais à Pékin où est entreposé l’œuvre, URL : https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html . Consulté le 14 mars 2022.
-<param ve-tabulator src="https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html" />
+
 
 •	 Informations tirées du site internet du musée de Bayeux où est entreposé l’œuvre, URL : https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/ . Consulté le 14 mars 2022.
 
