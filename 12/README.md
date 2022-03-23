@@ -19,6 +19,7 @@ Les tapisseries sont généralement conçues comme des panneaux individuels ou d
 La tapisserie a traditionnellement été un art collectif combinant les talents du peintre, ou du dessinateur, et ceux du tisserand. Les premières tapisseries européennes, celles qui ont été tissées au Moyen  ge, ont été réalisées par des tisserands qui ont fait preuve d'une grande ingéniosité en suivant le dessin ou le croquis produit par un autre artiste. En outre, on pourra constater que la tapisserie n’a rien à envier aux autres arts, au contraire, elle contribue, elle aussi, à l’évolution dynamique des autres modes d’expression .
 
 ## La Tapisserie de Bayeux
+
 La Tapisserie de Bayeux est un artéfact retraçant la conquête de l'Angleterre par Guillaume le Conquérant (1027 - 1087), duc de Normandie, lors de la bataille d'Hastings en 1066. Cette tapisserie est considérée comme une broderie, en dépit de son nom, elle relève d’une technique aux points d’aiguille qui est directement cousue sur la toile alors qu’une tapisserie est tissée sur un métier manuel ou mécanique. On peut relever ce point, à l’aide des neuf panneaux de lin reliés les un aux autres et des quatre points de broderie pour les couleurs.
 <param ve-graphic 
   url="https://www.perseus-web.fr/nar6/uploads/tapisserie-de-bayeux-ok.jpg" 
@@ -100,8 +101,11 @@ Ce qui suggère que ce fragment ne soit pas une partie manquante d’un vêtemen
 ### Bibliographie
 
 •	De La Rochefoucauld, G.-C. (1966). “L’Égypte des tissus”. Vie des arts, (43), 60–67, URL : https://www.erudit.org/fr/revues/va/1966-n43-va1201520/58380ac/ .
-•	Kares, Jean Louise. (2010), “Playing Host to Cultural Prestige : Imperial Agency in Two Manchu Kesi.” Thèses et mémoires électroniques (ETD) 2008. T, University of British Columbia. doi:http://dx.doi.org/10.14288/1.0070977 . 
+
+•	Kares, Jean Louise. (2010), “Playing Host to Cultural Prestige : Imperial Agency in Two Manchu Kesi.” Thèses et mémoires électroniques (ETD) 2008. T, University of British Columbia. doi:http://dx.doi.org/10.14288/1.0070977 .
+
 •	Madeleine Jarry, (8 mars 2019), "Tapestry". Encyclopedia Britannica, URL : https://www.britannica.com/art/tapestry .
+
 •	Thomas, Mary Jean (1983), "La reconstruction et l'analyse d'un fragment de tapisserie péruvienne de l'horizon moyen," Syracuse Scholar (1979-1991) : Vol. 4 : Iss. 2, Article 4, URL : https://surface.syr.edu/suscholar/vol4/iss2/4  .
 
 
@@ -109,10 +113,16 @@ Ce qui suggère que ce fragment ne soit pas une partie manquante d’un vêtemen
 ### Webographie 
 
 •	Informations tirées du site internet du musée du Palais à Pékin où est entreposé l’œuvre, URL : https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html . Consulté le 14 mars 2022.
+<param ve-tabulator src="https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html" />
+
 •	 Informations tirées du site internet du musée de Bayeux où est entreposé l’œuvre, URL : https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/ . Consulté le 14 mars 2022.
+
 •	Informations tirées du site internet du musée de Cluny où sont entreposées les œuvres, URL : https://www.musee-moyenage.fr/collection/oeuvre/la-dame-a-la-licorne.html . Consulté le 14 mars 2022.
+
 •	Informations sur le style millefleur tirée du site internet du musée de Cluny où sont entreposées les œuvres, URL : https://www.musee-moyenage.fr/collection/oeuvre/millefleurs-fleurs-animaux.html . Consulté le 14 mars 2022.
+
 •	Informations tirées du site internet du musée du Palais à Pékin où est entreposé l’œuvre, URL : https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html . Consulté le 14 mars 2022.
+
 •	Informations tirées de la description du fragment fourni par le musée de l’université de Syracuse où est entreposé le fragment, URL : https://onlinecollections.syr.edu/objects/details.detail.detailactions.detailviewreportscontroller:generatereport/2/Objects/798960?sid=dSx4OZw9cGRa7heB&t:ac=21790 . Consulté le 14 mars 2022.
 
 
