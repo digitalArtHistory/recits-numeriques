@@ -72,8 +72,18 @@ Le kesi ou en chinois traditionnel 緙絲, est une technique de tapisserie enti�
 
 Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable . Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale .
  <param ve-iframe 
-    src="https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html>
+    src="https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html />
 
+## Fragments de bandes de tapisseries provenant d'Egypte
+       
+Cette pièce est constituée de cinq bandes à décor de médaillons au milieu desquels se trouvent des animaux. Une inscription est indiquée en arabe “ Nasr min Allâh” qui symbolise “la victoire vient de Dieu”
+       
+Cette sourate loue Allah pour avoir convertit de nombreuses personnes à l'islam. Cette sourate est également connue sous le nom de "La victoire", comme dans la victoire de l'islam, car elle fait référence à la conquête de la Mecque, où les musulmans ont victorieusement combattu les ennemis de l'islam. Ce qui suggère que ce fragment de tapisserie avait une fonction liée à la prière ou à la célébration de l’Islam. On estime ce fragment vers le 12e siècle, dû fait de l’incorporation de la soie avec le matériau plus traditionnel qu’est le lin.
+       
+De plus, sous les Fatimides (969 - 1171), se manifeste un renouveau du naturalisme dans des dessins d'une grande finesse, tels que des petits oiseaux, des palmettes, ou encore vignes entrelacées sont les motifs charmants de cette époque. Ce qui correspond aux motifs tissés ou peints sur cette pièce. 
+
+       
+       
 
 # Explorer Markdown
 
