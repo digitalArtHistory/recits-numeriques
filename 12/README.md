@@ -43,7 +43,7 @@ Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulée
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/0/07/%28Toulouse%29_Le_toucher_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
   title="Le toucher "
-  layers="all"/>
+  license="CC BY-SA"/>
   <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%28Toulouse%29_Le_Go%C3%BBt_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
   title="Le goût " />
