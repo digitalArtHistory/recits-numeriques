@@ -141,6 +141,12 @@ Portes fermées --> A CHANGER MARCHE PAS!!!!
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159943641-e1482b38-80af-437d-9950-a8bbf712a536.png" />
 
 
+ESSAIE IMAGE IIIF
+
+Tenture dame licorne
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
+
+
 
 
 
