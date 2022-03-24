@@ -112,18 +112,28 @@ blablabla
 
 # Présentation Orgues essaie
 
-## Orgue de Sion
-Orgue de Sion
-<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
-
-Portes fermées
-<param ve-image url="https://user-images.githubusercontent.com/100982262/159943641-e1482b38-80af-437d-9950-a8bbf712a536.png" />
-
-
 ## Polyptique de Santa Chiara
 Polyptique
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
 
+## Tenture de la Dame à la Licorne, L'Ouie
+L'Ouie
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159944759-099949ad-c449-437a-b7e3-5ba723138ceb.png" />
+
+
 ## Agneau Mystique
 Agneau Mystique
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
+
+
+## Orgue de Sion
+Orgue de Sion
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
+
+Portes fermées --> A CHANGER MARCHE PAS!!!!
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159943641-e1482b38-80af-437d-9950-a8bbf712a536.png" />
+
+
+
+
+
