@@ -67,7 +67,6 @@ Je crois qu'elle doit avoir un paragraphe pour avoir un texte associé.
 texte 1
 
 ## Saint George
-
-
-
-ajout de texte en lien avec Goerge
+Tentative de convertir image wiki en iif
+<param ve-image
+    url="https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/5f62903f1e3dca724c97317dec1648e9.tif/info.json"/>
