@@ -19,9 +19,7 @@ Voici quelques actions à réaliser pour commencer :
 
 ## Cadmos
 
-<param ve-graphic
- url= "https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/ANSA_I_1045_a_01.jpg?raw=true"
- titre="La ataille de Cadmos et le dragon"/>
+<
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
@@ -45,7 +43,9 @@ Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souv
 Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
+param ve-graphic
+ url= "https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/ANSA_I_1045_a_01.jpg?raw=true"
+ titre="La ataille de Cadmos et le dragon"/>
 
 
 ## Saint Théodore
@@ -63,14 +63,14 @@ paragraphe à ajouté
 
 ## Saint Margueritte d'Antioche
 Je crois qu'elle doit avoir un paragraphe pour avoir un texte associé.
-
+<param ve-image
+    url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
 texte 1
 creer une distanciation
 
 
 ## Saint George
 Tentative de convertir image wiki en iif
-<param ve-image
-    url="https://tools.wmflabs.org/zoomviewer/proxy.php?iiif=Stockholm_Storkyrkan_-_January_2018_-_2.jpg/info.json"/>
+
 
 ajouter le texte expliquant son contenu
