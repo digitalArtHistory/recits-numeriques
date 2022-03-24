@@ -129,6 +129,9 @@ Agneau Mystique
 Orgue positive
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159949021-bc44e039-51c4-4cd4-a69d-5065a236de06.png" />
 
+Close Up
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159949571-4685a04e-d7ab-430a-aa68-494ce2b7dfec.png" />
+
 
 ## Orgue de Sion
 Orgue de Sion
