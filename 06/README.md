@@ -89,6 +89,8 @@ Une petite vidéo bien relax pour casser toute la concentration de tout cela. Il
 <param ve-video id="1JOS0GHFmBk" title="Vine" start="45" />
 
 This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
+<param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k327545t/manifest.json" />
 
 
 
