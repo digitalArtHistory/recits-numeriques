@@ -65,8 +65,12 @@ Je crois qu'elle doit avoir un paragraphe pour avoir un texte associé.
 <param ve-image
     url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
 texte 1
+creer une distanciation
+
 
 ## Saint George
 Tentative de convertir image wiki en iif
 <param ve-image
-    manifest="https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=Stockholm_Storkyrkan_-_January_2018_-_2.jpg/info.json"/>
+    url="https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=Stockholm_Storkyrkan_-_January_2018_-_2.jpg/info.json"/>
+
+ajouter le texte expliquant son contenu
