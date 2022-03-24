@@ -125,6 +125,10 @@ L'Ouie
 Agneau Mystique
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
 
+## Vitrail Orgue positive
+Orgue positive
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159949021-bc44e039-51c4-4cd4-a69d-5065a236de06.png" />
+
 
 ## Orgue de Sion
 Orgue de Sion
