@@ -19,6 +19,9 @@ Voici quelques actions à réaliser pour commencer :
 
 ## Cadmos
 
+<param ve-graphic
+ url= "https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/ANSA_I_1045_a_01.jpg?raw=true"
+ titre="La ataille de Cadmos et le dragon"/>
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
@@ -43,9 +46,7 @@ Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
-<param ve-graphic
- url= "https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/ANSA_I_1045_a_01.jpg?raw=true"
- titre="La ataille de Cadmos et le dragon"/>
+
 
 ## Saint Théodore
 
