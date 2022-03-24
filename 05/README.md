@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="https://gallica.bnf.fr/ark:/12148/btv1b8447085f/f1.highres" 
+       banner="https://i.pinimg.com/564x/d0/49/a4/d049a4e1e2484fa095af1413c7644733.jpg"
        layout="vertical">
 
 # Les animaux fantastiques dans les bestiaires
@@ -12,11 +12,13 @@
 
 
 ## 1.	Devisement du monde (Livre des Merveilles)
+
 <param ve-image 
        label="Devisement du monde (LIvre des Merveilles" 
        description="Enlluminure par Marco Polo" 
        license="public domain" 
        url="://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg">
+       
 Faune : dragon du Yunnan
 Marco Polo
 Vers 1410-1412
