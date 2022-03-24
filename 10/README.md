@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Le dragon des légendes" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/Sans%20titre.png?raw=true" 
        layout="vertical">
 
 # Le thème
