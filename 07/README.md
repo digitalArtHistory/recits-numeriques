@@ -116,6 +116,10 @@ blablabla
 Orgue de Sion
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
 
+Portes fermées
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159943235-3f64d25d-4b2f-438d-b224-34e90df2cea5.png" />
+
+
 ## Polyptique de Santa Chiara
 Polyptique
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
