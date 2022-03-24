@@ -5,108 +5,14 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Représentations iconographique diverses des orgues dans le christianisme médiéval
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
-
-# Explorer Markdown
-
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
-
-
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
-
-
-Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
-<param ve-video id="jXYgI7jG7Bw" title="The Oldest Playable Organ in the World, basilique de Valère à Sion" start="2" />
-
-<param ve-image 
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b6904204f/manifest.json" />
-
-> Ceci est du texte cité.
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata
-- intégrer une vidéo
-
-# Louise de Keroualle
-
- 
-
-Louise de Kéroualle est l'espionne de Louis XIV et...
-
-
-## Voici un article qui présente Loulou
-
-[Louise de Kéroualle](https://fr.wikipedia.org/wiki/Louise_Ren%C3%A9e_de_Penanco%C3%ABt_de_Keroual) 
-Louise
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
-
-Ils auraient pu travailler de chez eux, mais le contact humain restait une priorité. Voir les collègues, prendre un café ensemble à midi et ce dire ‘À demain’. Telle était la vie de l’homme "moderne".
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
-
-Le militaire regagna sa voiture et la barrière s’ouvrit. David regardait autour de lui, la base militaire où il avait passé dix mois de sa vie. Il n’y avait pas beaucoup de changement. L’herbe toujours aussi bien tondue, les allées toujours aussi propres. Les mêmes bâtiments. Juste les décors avaient changés. Il s’agissait de chars. C’étaient les chars que David avait eu l’occasion de voir fonctionner et qui, maintenant, avaient remplacé les vieux chars qui servaient de décors. Cela fit sourire David.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
-
-Un long silence se fit dans la voiture. Le chauffeur regardait droit devant. David jeta un œil sur le compteur qui affichait 210km/h. L’autoroute était déserte. Depuis la construction de la Ligne Grande Vitesse, les gens préféraient prendre les transports en communs, plus rapides et moins chers. La LGV traversait la France d'un bout à l'autre avec un arrêt à Paris.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
-
-Tu vas le prendre avec toi. Tu brancheras ton téléphone mobile dessus afin que je puisse rester en contact avec toi. Il te faudra aussi un câble de liaison pour brancher ton ordinateur sur le réseau militaire.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
-
-De tout temps, l'homme a tenté de comprendre puis de reproduire l'extraordinaire machine qu'est l'être humain. Les premiers automates nous font sourire aujourd'hui. Les premiers ordinateurs également, mais un peu moins. Et lorsqu'un certain McCullogn, aidé de Pitts, invente en 1943 le premier neurone formel, on ne rigole plus. L'ordinateur est devenu capable de reproduire des neurones artificiels. Le "complexe de Frankenstein" va alors freiner les recherches. On commence à entendre parler du concept d'Intelligence Artificielle, plus connu sous les termes d'IA. Cela fait peur.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
-
-De tout temps, l'homme a tenté de comprendre puis de reproduire l'extraordinaire machine qu'est l'être humain. Les premiers automates nous font sourire aujourd'hui. Les premiers ordinateurs également, mais un peu moins. Et lorsqu'un certain McCullogn, aidé de Pitts, invente en 1943 le premier neurone formel, on ne rigole plus. L'ordinateur est devenu capable de reproduire des neurones artificiels. Le "complexe de Frankenstein" va alors freiner les rechere
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/08/Louise_de_K%C3%A9roualle_by_Pierre_Mignard.png" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-blablabla
-
-blablabla
-
-blabalbla
-blablabla
-
-
-
-
-
-
-
-
-
-
+## Introduction
+L’orgue est un instrument à vent souvent reconnu pour ses aspects grandioses et imposants. Instrument souvent associé aux églises, il n’apparait qu’entre le IXe et XIe siècle dans ces dernières, malgré son invention vers le IIIe siècle. Son association aux églises est cependant tardive, comme l’instrument n’était d’abord pas destiné à être joué dans celles-ci. De plus, lors de son entrée dans les églises, on ne se servait pas encore de l’instrument comme accompagnement musical, ce n’est qu’après la réforme de Martin Luther au début du XVIe siècle que l’instrument prend vraiment une place importante afin de guider les chœurs. Il est possible de constater une installation permanente des orgues entre le XIII et XIVe siècle, mais plutôt pour amuser les gens avec les gargouilles qu’on y mettait comme décoration, que pour prendre sa place importante dans la musique religieuse. Bien entendu, on ne parle pas encore ici d’orgues dites « classiques » ou « romantiques », ces orgues au buffet majestueux et aux compositions de tuyaux multiples. Il faudrait plutôt revenir avant cela avec des orgues « portatifs » et « positifs », ainsi que les orgues de tribunes. 
+D’un point de vue religieux, les orgues portatifs sont surtout utilisés dans l’iconographie des chœurs d’anges à l’époque médiévale. Autre que cela, c’est lors de célébrations et de fêtes que l’on voit l’instrument apparaitre. L’orgue portatif était un petit instrument, facile à transporter, qui était joué par une seule personne. D’une main experte, l’organiste enclenchait le soufflet d’un bord afin d’y faire passer l’air et d’une autre main, jouait du clavier, il fallait donc le poser sur ses genoux pour pouvoir jouer correctement de l’instrument. Comme sa composition ne possédait pas encore plusieurs tuyaux aux dimensions impressionnantes, le son n’était pas encore particulièrement grave, donnant un côté plus festif que sérieux à l’instrument.
+On peut dire que l’orgue positif est en quelque sorte une première évolution de l’orgue portatif. On commençait à poser l’orgue positif, plutôt que de le porter, car l’ajout de tuyau rendait l’instrument trop lourd à jouer sur les genoux. Cependant, ce changement permettait de jouer à deux mains de l’instrument, nécessitant, par conséquent, une deuxième personne qui s’occupait du soufflet. Ce changement vers l’orgue positif évolue donc vers un orgue positif de chœur, avec lequel s’ajoutent encore plus de tuyaux, s’ajoute des touches noires au clavier et est définitivement posé sur un support, généralement un chariot permettant tout de même de déplacer l’objet. 
+Enfin l’orgue de tribune. Pas exactement une évolution chronologique de l’orgue comme on signale sa présence dès le Xe siècle, mais l’orgue qui ouvre définitivement le bal vers une association directe de cet instrument aux églises. Sa composition est plus complexe, beaucoup plus grande également, permettant un son plus grave, plus impressionnant et poignant, facilement interprétable comme la voix de Dieu. 
+C’est particulièrement grâce à l’iconographie de cet instrument qu’il sera possible d’y voir un rattachement indéniable à la religion chrétienne et non par son utilisation plus ou moins religieuse pendant l’époque médiévale. 
 
 
 
