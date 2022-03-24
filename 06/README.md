@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="/images/Sutton.Hoo.PurseLid.RobRoy.jpg" 
        layout="vertical">
 
 # Pratique pour récit numérique
