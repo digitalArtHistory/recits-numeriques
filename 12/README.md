@@ -42,28 +42,22 @@ Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux e
 Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulées le Toucher, le Gout, l’Odorat, l’Ouïe, la Vue et une dernière œuvre avec une tente bleu et l’inscription “mon seul désir”.
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/0/07/%28Toulouse%29_Le_toucher_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="Le toucher "
-  license="CC BY-SA" />
+  title="Le toucher " />
   <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%28Toulouse%29_Le_Go%C3%BBt_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="Le goût " 
-         license="CC BY-SA"/>
+  title="Le goût " />
  <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/6/62/%28Toulouse%29_L%27Odorat_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="L'odorat "
-        license="CC BY-SA"/>
+  title="L'odorat "/>
  <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/f/f0/%28Toulouse%29_L%27Ou%C3%AFe_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="L'ouïe "
-        license="CC BY-SA"/>
+  title="L'ouïe "/>
   <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/a/a7/%28Toulouse%29_Le_Vue_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="La vue " 
-         license="CC BY-SA"/>
+  title="La vue " />
  <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/9/9e/%28Toulouse%29_Mon_seul_d%C3%A9sir_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="à mon seul désir " 
-        license="CC BY-SA"/>
+  title="à mon seul désir " />
  
 
 Elles font partie d’une catégorie de tapisserie dite, millefleur, qui se caractérise par un fond fait d'une multitude de petites plantes et fleurs. Il s'agit d'un motif extrêmement populaire dans l'art et l'artisanat du Moyen Âge en Europe. On le retrouve par exemple dans les bordures enluminées des manuscrits ou dans les tapisseries.
