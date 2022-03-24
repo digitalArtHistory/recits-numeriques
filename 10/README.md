@@ -73,5 +73,4 @@ creer une distanciation
 Tentative de convertir image wiki en iif
 <param ve-image
     manifest="https://wd-image-positions.toolforge.org/iiif/Q10661353/P18/manifest.json/>
-
 ajouter le texte expliquant son contenu
