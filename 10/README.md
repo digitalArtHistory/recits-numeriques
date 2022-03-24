@@ -15,10 +15,9 @@ Voici quelques actions à réaliser pour commencer :
 - modifier l’image de l’en-tête de votre essai visuel
 - enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
 - visualiser votre page en cliquant sur le bouton « mon essai visuel »
-<param ve-image
-    url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
 
-## Saint George
+
+## Cadmos
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
@@ -29,6 +28,10 @@ Markdown est une syntaxe très simple destinée à créer des contenus pour le w
 
 ### Titre de niveau 3
 ```
+
+<param ve-graphic
+ url= "https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/ANSA_I_1045_a_01.jpg?raw=true"
+ titre="La ataille de Cadmos et le dragon"/>
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
 
@@ -43,7 +46,7 @@ Voici quelques ressources sur Markdown
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
 
 
-## Saint Michel
+## Saint Théodore
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)
@@ -52,18 +55,18 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer un lien Wikidata
 - intégrer une vidéo
 
-## Saint Théodore
+## Saint Michel
 
 paragraphe à ajouté
 
 ## Saint Margueritte d'Antioche
 
+<param ve-image
+    url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
 texte 1
 
-## Cadmos
+## Saint George
 
-<param ve-graphic
- url= "https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/ANSA_I_1045_a_01.jpg?raw=true"
- titre="La ataille de Cadmos et le dragon"/>
 
-ajout de texte en lien avec cadmos
+
+ajout de texte en lien avec Goerge
