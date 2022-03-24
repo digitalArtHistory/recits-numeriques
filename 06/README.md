@@ -5,9 +5,8 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Pratique pour récit numérique
-On fait des essaies lololol
-Pour la pratique on va compléter plusieurs parties
+# Les animaux médiévaux dans la matérialité
+La fascination de l'époque médiéval pour les animaux est évidente dans ses multiples représentations. 
 
 Un [raccourci](https://github.com/digitalArtHistory/recits-numeriques/wiki/Compilation-de-la-doc-des-composants-Juncture) vers la page de ressource.
 
