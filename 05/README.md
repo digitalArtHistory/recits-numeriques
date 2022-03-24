@@ -16,7 +16,7 @@
 
 
 
-## 1.	Devisement du monde (Livre des Merveilles)
+### 1.	Devisement du monde (Livre des Merveilles)
 <param ve-image 
        label="Devisement du monde (LIvre des Merveilles" 
        description="Enlluminure par Marco Polo" 
