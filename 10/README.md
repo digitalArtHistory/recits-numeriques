@@ -62,8 +62,7 @@ paragraphe à ajouté
 
 ## Saint Margueritte d'Antioche
 Je crois qu'elle doit avoir un paragraphe pour avoir un texte associé.
-<param ve-image
-    url="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg"/>
+
 texte 1
 creer une distanciation
 
