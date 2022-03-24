@@ -9,6 +9,7 @@
 
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json">
+
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508970d/manifest.json" seq="44"> 
     
@@ -22,7 +23,7 @@
        label="Devisement du monde (LIvre des Merveilles" 
        description="Enlluminure par Marco Polo" 
        license="public domain" 
-url="https://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg">
+       url="https://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg">
 
 Faune : dragon du Yunnan
 Marco Polo
