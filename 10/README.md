@@ -71,6 +71,6 @@ creer une distanciation
 ## Saint George
 Tentative de convertir image wiki en iif
 <param ve-image
-    url="https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=Stockholm_Storkyrkan_-_January_2018_-_2.jpg/info.json"/>
+    url="https://tools.wmflabs.org/zoomviewer/proxy.php?iiif=Stockholm_Storkyrkan_-_January_2018_-_2.jpg/info.json"/>
 
 ajouter le texte expliquant son contenu
