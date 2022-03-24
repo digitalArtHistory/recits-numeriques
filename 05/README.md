@@ -12,7 +12,11 @@
 
 
 ## 1.	Devisement du monde (Livre des Merveilles)
-
+<param ve-image 
+       label="Devisement du monde (LIvre des Merveilles" 
+       description="Enlluminure par Marco Polo" 
+       license="public domain" 
+       url="://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg">
 Faune : dragon du Yunnan
 Marco Polo
 Vers 1410-1412
@@ -22,8 +26,9 @@ Paris, France
 Paris, BnF, département des Manuscrits, Français 2810, fol. 55v.
 Bibliothèque nationale de France
 Géolocalisation : 48.833293803557936, 2.3787615386037393 
-http://expositions.bnf.fr/bestiaire/images/3/drag_15.jpg"
 
+       
+       
 jsldfhsfuvhnisulgvvslouvhbns;ovnlkuùnvùk;vnsd;vlajvnsdonvn;dlvvuovlzvxzmhvuovlmxvbxjvozvolxmnbj » cvj»nvlzkvxjbùkvcjùl vkhùhvbùlkvhbvkbzuvba, vxùlkùxjucbn,
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json" />
