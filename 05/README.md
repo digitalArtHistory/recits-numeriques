@@ -7,12 +7,13 @@
 
 # Les animaux fantastiques dans les bestiaires
 
-<param ve-image 
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json">
     
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508970d/manifest.json"seq=  "44"> 
     
+    
+<param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json">    
 À l’époque médiévale, les animaux occupaient une place centrale dans la société, puisqu’ils réalisaient la plupart des tâches auxiliaires comme la moisson, le transport, etc.  Ce faisant, la société utilisa ces animaux pour comprendre le monde naturel qui les entoure. Ainsi les légendes d’animaux aidaient les lecteurs du Moyen Âge à donner un sens au monde vivant. Ces écrits furent nommés des bestiaires. Il s’agit de manuscrits basés sur le texte grec de Physiologus du IIe siècle. Ces bestiaires étant composés pendant les premiers siècles de l’ère chrétienne, ils sont des recueils descriptif, moralisateur et pseudo-scientifique très populaire dans la tradition manuscrite enluminée. Ces ouvrages regroupent des fables moralisatrices qui aident à enseigner la Bible. Ils se basait sur l’Ancien et le Nouveau Testament tout comme la culture païenne orientale, gréco-romaine et celtique pour décrire l’imaginaire des frontières connues délimitées par l’Orient. En s’inspirant de Pline l’Ancien pour y ajouter une catégorie d’animaux fantastiques, le bestiaire devint rapidement populaire au Moyen Âge. Les animaux représentés dans les bestiaires devenaient tellement emblématiques que les artisans les utilisèrent pour leurs œuvres. Ainsi des peintures de dragons, de licornes et autres se retrouvaient dans les représentations de la culture populaire. Les monstres avaient alors deux fonctions possibles dans leurs personnifications des forces cosmiques, sociales et spirituelles qui étaient encore incomprises à l’époque. La première négative était la puissance destructrice souvent représentée comme un animal hybride (tentation démonique, mystère et obscurité). La deuxième était plus positive. Elle représentait le monstre gardien d’un trésor (présence sacrée/divine). Ce qui m’intéresse dans ce sujet est le fonctionnement de l’imaginaire collectif de la période médiévale. Comment les images étaient utilisées pour véhiculer les légendes ainsi que la provenance de ces légendes. J’ai toujours aimé les histoires fantastiques sur des mondes imaginaires et des animaux. Quel enfant n’a jamais imaginé combattre un dragon ou chevaucher une licorne? Qu’il s’agisse d’œuvres monumentales, d’armoiries, de légendes, de tapisseries ou même de décors architecturaux les animaux fantastiques ou exotiques ont été utilisés dans toute la culture médiévale et ceux-ci permettent de mieux comprendre cette période de l’histoire qu’on étudie ce semestre. Je considère alors important de comprendre la fonction de ces animaux au-delà de l’imaginaire fantastique et magique en s’attardant plus à la représentation des animaux réels et imaginaires que les livres bestiaires. 
 
 
