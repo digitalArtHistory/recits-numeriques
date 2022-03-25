@@ -9,6 +9,7 @@
 
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json">
+    
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508970d/manifest.json"seq=  "44"> 
     
@@ -22,7 +23,8 @@
        label="Devisement du monde (Livre des Merveilles" 
        description="Enlluminure par Marco Polo" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/dragon.jpeg" >
+       url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/dragon.jpeg">
+       
 Faune : dragon du Yunnan
 Marco Polo
 Vers 1410-1412
@@ -40,7 +42,8 @@ Géolocalisation : 48.833293803557936, 2.3787615386037393
        label="Griffon (détail) du livre des fleurs (texte en latin)" 
        description="Enlluminure par artiste inconnu" 
        license="public domain" 
-       url=":https://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg" >     
+       url=":https://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg">     
+       
 Illustration de griffon
 Artiste inconnu, auteur Lambert, chanoin de Saint Omer
 1460
