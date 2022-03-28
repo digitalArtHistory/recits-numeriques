@@ -38,6 +38,8 @@ Paris, BnF, département des Manuscrits, Français 2810, fol. 55v.
 Bibliothèque nationale de France
 Géolocalisation : 48.833293803557936, 2.3787615386037393 
 
+Il s’agit d’une illustration de dragon dans le « Livre des Merveilles » de Marco Polo. Dans certaines régions les couleuvres et les serpents sont tellement gros/ses que les habitants en ont peur et finissent par les confondre pour des dragons. Monter sur deux pattes, munit de griffes avec des gueules immenses, les artistes de l’atelier du Maître d’Egerton les transformèrent ainsi en majestueux dragons pour façonner l’imaginaire collectif de la population. Le terme dragon provient du grec « drakôn ». Aussi nommé dracunculi qui signifit petit dragon par les romains en parlant des serpents. Le dragon est considéré comme un animal semi-aquatique et terrestre. De plus, celui-ci vol et crache du feu, il est donc une canalisation des quatre éléments. Il représente le bien et le mal par son caractère céleste et terrestre. Lorsqu’il garde un trésor, il est l’épreuve ultime du héros en quête d’immortalité. Lorsqu’il est l’incarnation de Satan dans le dernier combat eschalogique, il représente le défi pour l’établissement de la paix. 
+
        
 ### 2.	Griffon (détail) du Livre des fleurs (texte en latin)
 
@@ -57,10 +59,49 @@ Bibliothèque nationale des pays-Bas
 Ms. 72 A 23, fol. 46
 Géolocalisation : 52.0815786887708, 4.328034986341748
 
+Cette illustration du griffon se trouve dans le « Livre des fleurs » de l’auteur Lambert. Le griffon ou grype est une créature légendaire. Il s’agit du mélange d’un aigle, d’un lion et d’un cheval. Il est considéré faisant partie de la famille des oiseaux au Moyen Âge. Hydride d’un animal qui règne sur la terre et l’autre dans le ciel, il représente un prédateur imposant pour les humains. Il symbolise la force, la noblesse, la justice et la double nature du Christ à cause de son ascendance terrestre et céleste. Ce qui en fait un animal souvent représenté sur les blasons à l’époque médiévale puisqu’il évoque les vertus du lion et de l’aigle (courage et vigilance).
 
 
 
+### 3. La chasse à la licorne
 
+Illustration de la chasse à la licorne
+Bestiaire d’Angleterre
+Artiste i.d
+Vers 1250-1275
+Manuscrit
+Dimension i.d
+Paris, France
+Bibliothèque nationale de France, Manuscrits, Latin 3630 fol. 76v © Bibliothèque nationale de France
+Géolocalisation : 48.833293803557936, 2.3787615386037393 
 
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
+Il s’agit d’une illustration des étapes de la chasse à la licorne dans un bestiaire anglais. La licorne est un des animaux le plus représenté dans les bestiaires au Moyen Âge. La licorne est considérée comme un petit cheval doux, mais d’une force puissante qui donne de la difficulté aux chasseurs à l’attraper. Elle possède une corne au milieu du front. Elle est solitaire et sauvage, qui s’attaque à tous ce qui l’approche. Selon la mise en scène du récit de Physiologos, la légende dit que pour en capturer une, il faut l’attirer avec le sein d’une vierge. Souvent mis en relation avec la vie du Christ pour sa trahison comme dans l’épisode de la passion ou l’incarnation de Jésus dans le sein de la vierge Marie. De plus, la corne possèderait des attributs magiques comme la purification de l’eau. Elle peut également représenter l’amoureux éconduit ou l’importance de la chasteté et la pureté du sentiment. 
 
+### 4. Un phénix
+
+Illustration du phénix franco-flamand
+Artiste i.d
+Environ 1270
+Manuscrit, couleurs tempura et feuilles d’or
+Ms.Ludwig XV 3 ( 83.MR.173), fol. 74v
+Leaf: 19.1 x 14.3 cm (7 ½ x 5 5/8 in.)
+Los Angeles, États-Unis 
+J.Paul Getty Museum
+Géolocalisation: 34.078200179368345, -118.47407394474104
+
+Voici une autre illustration de bestiaire cette fois sur le phénix. Unique oiseau de son espèce supposer venir d’Arabie. Son origine remonte à l’oiseau sacré égyptien Benu qui incarnait le dieu soleil. Son plumage rouge forme l’origine de son nom, « phénicée » qui signifie pourpre en Grec, de là le rouge de ses plumes.  Il est doté d’une vie pratiquement éternelle puisqu’il a le pouvoir de renaître de ses cendres. Il représentait le cycle de disparition du soleil. Par la suite, il devint le symbole de la réincarnation, le feu créateur et destructeur. Par sa consumation, il se purifie et permet sa régénérescence. Il représente l’immortalité du Christ et de l’âme. Selon les bestiaires, ses larmes auraient également la capacité de guérison. 
+
+### 5. Détails d'un basilic tuant un homme du regard et attaqué par une belette
+
+Illustration d’un basilic, Bestiaire d’Aberdeen
+Artiste i.d
+1542
+Manuscrit
+Dimension i.d
+Royal MS 12 C XIX, f. 63r
+Aberdeen, Écosse
+Univeristé d’Aberdeen
+Collections spéciales, Bibliothèque, collections spéciales et musées, Université d'Aberdeen, Bedford Road, Aberdeen,, AB24 3AA
+Géolocalisation : 57.1667336259957, -2.1013070133715503
+
+Cette illustration du basilic se trouve dans le Bestiaire d’Aberdeen. Le basilic est présenté comme un gros reptile et d’autres fois comme un petit serpent au regard mortel. Il n’existe aucun remède contre le poison de cette bête. Son regard pétrifie et son souffle empoisonne. Il a cependant peur des belettes et les larmes du phénix sont le seul remède contre son venin. Au Moyen Âge, il est représenté comme un hydride avec le coq. Il symbolise le pouvoir ultime royal (Satan) qui foudroie ceux qui lui manquent de respect. 
