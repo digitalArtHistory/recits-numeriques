@@ -79,6 +79,10 @@ Il s’agit d’une illustration des étapes de la chasse à la licorne dans un 
 
 ### 4. Un phénix
 
+<param ve-graphic 
+  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/phe%CC%81nix.png" 
+  title="phénix" />  
+
 Illustration du phénix franco-flamand
 Artiste i.d
 Environ 1270
@@ -92,6 +96,10 @@ Géolocalisation: 34.078200179368345, -118.47407394474104
 Voici une autre illustration de bestiaire cette fois sur le phénix. Unique oiseau de son espèce supposer venir d’Arabie. Son origine remonte à l’oiseau sacré égyptien Benu qui incarnait le dieu soleil. Son plumage rouge forme l’origine de son nom, « phénicée » qui signifie pourpre en Grec, de là le rouge de ses plumes.  Il est doté d’une vie pratiquement éternelle puisqu’il a le pouvoir de renaître de ses cendres. Il représentait le cycle de disparition du soleil. Par la suite, il devint le symbole de la réincarnation, le feu créateur et destructeur. Par sa consumation, il se purifie et permet sa régénérescence. Il représente l’immortalité du Christ et de l’âme. Selon les bestiaires, ses larmes auraient également la capacité de guérison. 
 
 ### 5. Détails d'un basilic tuant un homme du regard et attaqué par une belette
+
+<param ve-graphic 
+  url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/basilic%20copie.jpeg"
+  title="basilic" />
 
 Illustration d’un basilic, Bestiaire d’Aberdeen
 Artiste i.d
