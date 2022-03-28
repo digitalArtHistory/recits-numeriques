@@ -23,7 +23,7 @@
        label="Devisement du monde (Livre des Merveilles" 
        description="Enlluminure par Marco Polo" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/dragon.jpeg">
+       url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/dragon.jpeg" />
        
        
 Faune : dragon du Yunnan
