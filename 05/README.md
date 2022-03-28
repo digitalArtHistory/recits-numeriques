@@ -67,7 +67,8 @@ Cette illustration du griffon se trouve dans le « Livre des fleurs » de l’au
 
 <param ve-graphic 
   url=" https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/licorne.jpeg" 
-  title="Licorne" />      
+  title="Licorne" />    
+  
 Illustration de la chasse à la licorne
 Bestiaire d’Angleterre
 Artiste i.d
