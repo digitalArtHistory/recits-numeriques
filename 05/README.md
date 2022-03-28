@@ -10,8 +10,6 @@
     
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508970d/manifest.json"seq=  "44"> 
-    
-    
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100521277/manifest.json"> 
     
@@ -67,7 +65,7 @@ Cette illustration du griffon se trouve dans le « Livre des fleurs » de l’au
 
 <param ve-graphic 
   url=" https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/licorne.jpeg" 
-  title="Licorne" />    
+  title="Licorne"/>    
   
 Illustration de la chasse à la licorne
 Bestiaire d’Angleterre
