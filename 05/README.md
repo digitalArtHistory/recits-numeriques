@@ -41,11 +41,9 @@ Il s’agit d’une illustration de dragon dans le « Livre des Merveilles » de
        
 ### 2.	Griffon (détail) du Livre des fleurs (texte en latin)
 
-<param ve-image 
-       label="Griffon (détail) du livre des fleurs (texte en latin)" 
-       description="Enlluminure par artiste inconnu" 
-       license="public domain" 
-       url=":https://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg">     
+<param ve-graphic 
+  url=":https://www.getty.edu/art/exhibitions/bestiary/images/banner_x480.jpg" 
+  title="Griffon" />     
        
 Illustration de griffon
 Artiste inconnu, auteur Lambert, chanoin de Saint Omer
@@ -65,7 +63,7 @@ Cette illustration du griffon se trouve dans le « Livre des fleurs » de l’au
 
 <param ve-graphic 
   url=" https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/05/licorne.jpeg" 
-  title="Licorne"/>    
+  title="Licorne" />    
   
 Illustration de la chasse à la licorne
 Bestiaire d’Angleterre
