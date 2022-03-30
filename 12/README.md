@@ -40,6 +40,10 @@ Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux e
 ## La Dame à la licorne en France
 
 Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulées le Toucher, le Gout, l’Odorat, l’Ouïe, la Vue et une dernière œuvre avec une tente bleu et l’inscription “mon seul désir”.
+<param ve-graphic 
+url="https://user-images.githubusercontent.com/101141372/160937825-7799f841-6e58-40e6-9620-d82d2ae19626.png"
+       title="tapisserie en entier " />
+       
   <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/0/07/%28Toulouse%29_Le_toucher_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
   title="Le toucher " />
