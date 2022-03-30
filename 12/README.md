@@ -89,8 +89,8 @@ url="https://user-images.githubusercontent.com/101141372/160942340-195f0279-4f80
        
 De plus, sous les Fatimides (969 - 1171), se manifeste un renouveau du naturalisme dans des dessins d'une grande finesse, tels que des petits oiseaux, des palmettes, ou encore vignes entrelacées sont les motifs charmants de cette époque. Ce qui correspond aux motifs tissés ou peints sur cette pièce. 
 <param ve-graphic  
-    url="" 
-    title=""/>
+    url="https://user-images.githubusercontent.com/101141372/160945570-b758de95-2c91-48a7-94d9-336981434fdd.jpg" 
+    title="fragment des Fatimides"/>
 
 ## Tapisserie de rituel provenant du Pérou
 
