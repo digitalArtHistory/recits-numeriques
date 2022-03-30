@@ -43,27 +43,7 @@ Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulée
 <param ve-graphic 
 url="https://user-images.githubusercontent.com/101141372/160937825-7799f841-6e58-40e6-9620-d82d2ae19626.png"
        title="tapisserie en entier " />
-       
-  <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/0/07/%28Toulouse%29_Le_toucher_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="Le toucher " />
-  <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/f/fa/%28Toulouse%29_Le_Go%C3%BBt_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="Le goût " />
- <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/6/62/%28Toulouse%29_L%27Odorat_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="L'odorat "/>
- <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/f/f0/%28Toulouse%29_L%27Ou%C3%AFe_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="L'ouïe "/>
-  <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/a/a7/%28Toulouse%29_Le_Vue_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="La vue " />
- <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/9/9e/%28Toulouse%29_Mon_seul_d%C3%A9sir_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris.jpg" 
-  title="à mon seul désir " />
- 
-
+      
 Elles font partie d’une catégorie de tapisserie dite, millefleur, qui se caractérise par un fond fait d'une multitude de petites plantes et fleurs. Il s'agit d'un motif extrêmement populaire dans l'art et l'artisanat du Moyen Âge en Europe. On le retrouve par exemple dans les bordures enluminées des manuscrits ou dans les tapisseries.
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/d/db/Cluny-Dame_%C3%A0_la_licorne-Detail_16.JPG" 
@@ -74,7 +54,7 @@ Par ailleurs, le peintre, Jean d’Ypres (inconnue - 1508), qui a dessiné à gr
   manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
 
 
-Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces : les Le Viste. 
+Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces: les Le Viste. 
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/9/96/%28Toulouse%29_L%27Ou%C3%AFe_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris_-_Blason_d%27Antoine_Le_Viste.jpg" 
   title="armoire représentative des Le Viste"/>
@@ -84,8 +64,9 @@ Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois 
 Le *kesi* ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
 
 Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable. Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale.
- <param ve-iframe 
-    src="https://en.dpm.org.cn/collections/collections/2017-03-16/4551.html" />
+ <param ve-graphic  
+    url="https://user-images.githubusercontent.com/101141372/160939664-84012dba-2638-4ad3-a10a-67029673b279.png" 
+    title="tapisserie Kesi"/>
 
 ## Fragments de bandes de tapisseries provenant d'Egypte
        
