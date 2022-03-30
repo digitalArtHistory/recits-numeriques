@@ -61,13 +61,9 @@ Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois 
 ## Tapisserie Kesi chinoise représentant des fleurs de prunier et des pies en hiver 
 
 Le *kesi* ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
-<param ve-graphic 
-url="https://user-images.githubusercontent.com/101141372/160937825-7799f841-6e58-40e6-9620-d82d2ae19626.png"
-       title="tapisserie en entier" />
-
 <param ve-graphic  
  url="https://user-images.githubusercontent.com/101141372/160939664-84012dba-2638-4ad3-a10a-67029673b279.png" 
-    title="tapisserie Kesi" />
+    title="tapisserie Kesi"/>
 
 Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable. Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale.
 <param ve-graphic  
