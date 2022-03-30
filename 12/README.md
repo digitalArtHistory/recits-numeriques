@@ -96,8 +96,8 @@ De plus, sous les Fatimides (969 - 1171), se manifeste un renouveau du naturalis
 
 Il s'agit d'un fragment de textile qui présente un aspect général en damier. Des carrés de couleur unie sont placés en alternance avec carrés dessinés qui représentent des formes animales et humanoïdes. On estime que cet artéfact aurait pu faire partie d’une plus grande pièce de textile, selon le fait que ces côtés gauche et droit n'ont pas de bords finis ou de lisières.
 <param ve-graphic  
-    url="" 
-    title=""/>
+    url="https://user-images.githubusercontent.com/101141372/160945065-58588835-fef8-47b5-af2d-caafebf4277b.jpeg" 
+    title="tapisserie de rituel"/>
     
 <param ve-iframe 
     src="https://onlinecollections.syr.edu/objects/21790/textile-fragment--ritual-tapestry?ctx=b3191cd3bdc7bbf06a7af9e0d18b42d2740e2ba6&idx=3" />
