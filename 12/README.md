@@ -81,8 +81,8 @@ Cette pièce est constituée de cinq bandes à décor de médaillons au milieu d
 Une inscription est indiquée sur le bas du fragment en arabe *“Nasr min Allâh”* qui symbolise *“la victoire vient de Dieu”* sur le bas du tissu. Pour mieux visualisé voici un exemple de l'inscription sur un plumier.       
 Cette sourate loue Allah pour avoir convertit de nombreuses personnes à l'islam. Cette sourate est également connue sous le nom de "La victoire", comme dans la victoire de l'islam, car elle fait référence à la conquête de la Mecque, où les musulmans ont victorieusement combattu les ennemis de l'islam. Ce qui suggère que ce fragment de tapisserie avait une fonction liée à la prière ou à la célébration de l’Islam. On estime ce fragment vers le 12e siècle, dû fait de l’incorporation de la soie avec le matériau plus traditionnel qu’est le lin.
 <param ve-graphic  
-    url="" 
-    title=""/>
+    url="https://user-images.githubusercontent.com/101141372/160942340-195f0279-4f80-44ec-9602-40b83615a6a9.png" 
+    title="plumier avec inscription similaire"/>
     
 <param ve-iframe 
     src="https://www.britishmuseum.org/collection/object/W_G-7" />
