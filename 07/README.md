@@ -5,7 +5,7 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Représentations iconographique diverses des orgues dans le christianisme médiéval
+# Représentations iconographiques des orgues dans le christianisme médiéval
 
 ## Introduction
 L’orgue est un instrument à vent souvent reconnu pour ses aspects grandioses et imposants. Instrument souvent associé aux églises, il apparait seulement vers le VIIIe siècle dans ces dernières, malgré son invention vers le IIIe siècle, mais on parlait plus d’hydraule à ce moment jusqu’à la fin du Ve siècle. C’est par le règne de Pépin le Bref et ensuite Charlemagne, qui ont eu un intérêt envers l’instrument, qu’il revient en Occident. De plus, lors de son entrée dans les églises, on ne se servait pas encore de l’instrument comme accompagnement musical principal. Il soutenait certains chants liturgiques, mais ce n’est qu’après la réforme de Martin Luther au début du XVIe siècle que l’instrument prend vraiment une place importante, afin de guider les chœurs. Il est possible de constater une installation permanente des orgues entre le XIII et XIVe siècle, mais plutôt pour amuser les gens avec les gargouilles qu’on y mettait comme décoration, que pour prendre sa place importante dans la musique religieuse. Bien entendu, on ne parle pas encore ici d’orgues dites « classiques » ou « romantiques », ces orgues au buffet majestueux et aux compositions de tuyaux multiples. Il faudrait plutôt revenir avant cela avec des orgues « portatifs » et « positifs », ainsi que les orgues de tribunes.  
@@ -43,7 +43,7 @@ Close Up
 
 
 ## Orgue de Sion
-Orgue de Sion
+Orgue de la Basilique de Valère, constructeur inconnu, Peintre Pierre Maggenberg, commanditaire Guillaume VI de Rorgne, environ 1430-35, Volets peinture sur toile, dimensions inconnus, jeu de flute 4’ en bois de noyer, dimensions inconnus, coque en bois, dimensions inconnus, tuyauterie en bois et en métal, dimensions inconnus, clavier en bois, dimensions inconnus, Sion en Suisse.
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
 
 Volets fermés 
