@@ -5,15 +5,13 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/a/a1/Frida_Kahlo%2C_by_Guillermo_Kahlo_2.jpg" 
        layout="vertical">
 
-<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Frida_Kahlo%2C_by_Guillermo_Kahlo_2.jpg" title="Frida Kahlo" />
-
 # Famille
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
 Frida Kahlo was born Magdalena Carmen Frieda Kahlo y Calderón on July 6, 1907, in Coyoacán, Mexico.
 Frida Kahlo’s father, Wilhelm , was a German photographer who had immigrated to Mexico where he met and married her mother Matilde. She had two older sisters, Matilde and Adriana, and her younger sister, Cristina, was born a year after her .
 
-<param ve-graphic url="https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo_2.jpg" title="Frida Kahlo" />
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Frida_Kahlo%2C_by_Guillermo_Kahlo_2.jpg" title="Frida Kahlo" />
 
 # Biographie
 
