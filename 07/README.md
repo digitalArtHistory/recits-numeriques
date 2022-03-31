@@ -22,20 +22,20 @@ C’est particulièrement grâce à l’iconographie de cet instrument qu’il s
 # Présentation Orgues essaie
 
 ## Polyptique de Santa Chiara
-Polyptique
+*Polyptyque de Santa Chiara* [Polittico di Santa Chiara], Paolo Veneziano, 1350, tempera et or sur panneau de bois, 167 x 285 cm, panneau central 98 x 63 cm, Galerie de l’Académie de Venise, Salle 1.
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
 
-## Tenture de la Dame à la Licorne, L'Ouie
-L'Ouie
+## Tenture de la Dame à la Licorne, L'Ouïe
+*L’Ouïe des tentures de La Dame à la Licorne*, commanditaire Antoine le Viste, 1484-1538, tapisserie, 312 x 330 cm, Musée du Moyen-Âge, Cluny, Paris.
 <param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
 
 
 ## Agneau Mystique
-Agneau Mystique
+*Polyptique de l’Agneau Mystique*, Hubert van Eyck complété par Jan van Eyck, commanditaire Judocus Vidj,  6 mai 1432, Huile sur panneau de bois, retable ouvert 3.65 x 4.87m, fermé 3.65 x 2.29m, Cathédrale Saint-Bavon de Gand, Belgique
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
 
 ## Vitrail Orgue positive
-Orgue positive
+*Vitrail fenêtre Sud d’un ange jouant de l’orgue*, John Prudde, 1447, Vitrail, dimensions inconnues, Chapelle Beauchamp, Warwick, Angleterre
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159949021-bc44e039-51c4-4cd4-a69d-5065a236de06.png" />
 
 Close Up
