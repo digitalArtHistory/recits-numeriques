@@ -43,7 +43,7 @@ Close Up
 
 
 ## Orgue de Sion
-Orgue de la Basilique de Valère, constructeur inconnu, Peintre Pierre Maggenberg, commanditaire Guillaume VI de Rorgne, environ 1430-35, Volets peinture sur toile, dimensions inconnus, jeu de flute 4’ en bois de noyer, dimensions inconnus, coque en bois, dimensions inconnus, tuyauterie en bois et en métal, dimensions inconnus, clavier en bois, dimensions inconnus, Sion en Suisse.
+*Orgue de la Basilique de Valère*, constructeur inconnu, Peintre Pierre Maggenberg, commanditaire Guillaume VI de Rorgne, environ 1430-35, Volets peinture sur toile, dimensions inconnus, jeu de flute 4’ en bois de noyer, dimensions inconnus, coque en bois, dimensions inconnus, tuyauterie en bois et en métal, dimensions inconnus, clavier en bois, dimensions inconnus, Sion en Suisse.
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
 
 Volets fermés 
