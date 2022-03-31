@@ -53,9 +53,11 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 ## Deuxième paragraphe
 
-Le Moyen-Âge, est une période qui est caractéristique d'une production artistique hautement associées au cpncepte de la vie terrestre en alliance avec la vie célete. Une situation qui fait interpeller la nature yel qu'un motif faisant de l'espèce animal et végétal une représentation stylistiquement. Il est possible de percevoir cette réalité avec des oeuvres ou il est plaussible de noter la différence entre l'ornementtaion et la nature. C'est assez complexe de noter une telle chose lorsqu'il est pas mise l'accent sur cette effet. voilà pourquoi il importe de discuter et dicerner la nature.
+Le Moyen-Âge, est une période qui est caractéristique d'une production artistique hautement associées au cpncepte de la vie terrestre en alliance avec la vie célete. Une situation qui fait interpeller la nature yel qu'un motif faisant de l'espèce animal et végétal une représentation stylistiquement.
 <param ve-graphic 
   url="https://previews.agefotostock.com/previewimage/medibigoff/71cbbd1f6878866664e8aba136d0d358/xi3-2095223.jpg" 
   title="mosaique" />
+
+Il est possible de percevoir cette réalité avec des oeuvres ou il est plaussible de noter la différence entre l'ornementtaion et la nature. C'est assez complexe de noter une telle chose lorsqu'il est pas mise l'accent sur cette effet. voilà pourquoi il importe de discuter et dicerner la nature.
 
 
