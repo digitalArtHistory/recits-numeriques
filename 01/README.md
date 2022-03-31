@@ -56,9 +56,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 Le Moyen-Âge, est une période qui est caractéristique d'une production artistique hautement associées au cpncepte de la vie terrestre en alliance avec la vie célete. Une situation qui fait interpeller la nature yel qu'un motif faisant de l'espèce animal et végétal une représentation stylistiquement.
 <param ve-graphic 
   url="https://www.parisinsidersguide.com/image-files/cluny-museum-ivory-by-adrian-scottow-widipedia-commons-800-2x1.jpg" 
-  title="corne ivoire" />
-  title="Musée Cluny" />
-
+  title="corne ivoire, Musée Cluny" />
+  
 Il est possible de percevoir cette réalité avec des oeuvres ou il est plaussible de noter la différence entre l'ornementtaion et la nature. C'est assez complexe de noter une telle chose lorsqu'il est pas mise l'accent sur cette effet. voilà pourquoi il importe de discuter et dicerner la nature.
 
 
