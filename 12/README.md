@@ -9,13 +9,9 @@
 
   Cette exposition constitue un récit autour du médium de la tapisserie au Moyen-  ge à travers différentes zones géographiques, techniques et usages. Elle traverse différentes cultures et religions pour élaborer un corpus autour de l’idée reçue ethnocentrique que les ateliers de l’Europe du Nord durant cette période étaient les seuls à confectionner ce genre d’objets. 
 Les œuvres proposées ne sont pas là pour exposer un dualisme entre la production du monde dit “Occident” et celle dite du “Tiers monde”. Ce corpus adresse la fabrication d’artefacts selon le métier, la création, l’expression qu’ils transmettent dans divers contextes culturels, socio-religieux. 
-
 La tapisserie est un art nouant le dessin et le textile. De manière générale, le nom a été utilisé pour presque tous les matériaux lourds, tissés à la main, à la machine ou même brodés, utilisés pour recouvrir des meubles, des murs ou des sols ou pour décorer des vêtements. C’est pourquoi, la tapisserie de Bayeux est intégrée dans cette exposition, malgré le fait qu’elle soit en réalité une broderie.
-
 Traditionnellement, la tapisserie est un art de luxe que seules les personnes fortunées pouvaient s'offrir, et même au XXIe siècle, les tapisseries tissées à la main à grande échelle sont trop chères pour les personnes à revenu modeste. La plupart des artefacts de cette exposition, ont des usages liés à des pratiques religieuses ou ont été commandés par des parties au pouvoir ou ayant une importance dû à leur fortune. 
-
 Les tapisseries sont généralement conçues comme des panneaux individuels ou des ensembles. Un ensemble de tapisseries est un groupe de panneaux individuels liés par le sujet, le style et la fabrication et destinés à être accrochés ensemble. Le nombre de pièces d'un ensemble varie en fonction des dimensions de l’endroit où elle sont disposées.
-
 La tapisserie a traditionnellement été un art collectif combinant les talents du peintre, ou du dessinateur, et ceux du tisserand. Les premières tapisseries européennes, celles qui ont été tissées au Moyen  ge, ont été réalisées par des tisserands qui ont fait preuve d'une grande ingéniosité en suivant le dessin ou le croquis produit par un autre artiste. En outre, on pourra constater que la tapisserie n’a rien à envier aux autres arts, au contraire, elle contribue, elle aussi, à l’évolution dynamique des autres modes d’expression .
 
 ## La Tapisserie de Bayeux
