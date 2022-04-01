@@ -14,7 +14,7 @@ Traditionnellement, la tapisserie est un art de luxe que seules les personnes fo
 Les tapisseries sont généralement conçues comme des panneaux individuels ou des ensembles. Un ensemble de tapisseries est un groupe de panneaux individuels liés par le sujet, le style et la fabrication et destinés à être accrochés ensemble. Le nombre de pièces d'un ensemble varie en fonction des dimensions de l’endroit où elle sont disposées.
 La tapisserie a traditionnellement été un art collectif combinant les talents du peintre, ou du dessinateur, et ceux du tisserand. Les premières tapisseries européennes, celles qui ont été tissées au Moyen  ge, ont été réalisées par des tisserands qui ont fait preuve d'une grande ingéniosité en suivant le dessin ou le croquis produit par un autre artiste. En outre, on pourra constater que la tapisserie n’a rien à envier aux autres arts, au contraire, elle contribue, elle aussi, à l’évolution dynamique des autres modes d’expression .
 
-### Pour en savoir plus veuillez consulter les articles suivant :
+## Pour en savoir plus veuillez consulter les articles suivant :
 
 De La Rochefoucauld, G.-C. (1966). “L’Égypte des tissus”. Vie des arts, (43), 60–67, URL : https://www.erudit.org/fr/revues/va/1966-n43-va1201520/58380ac/ .
 
