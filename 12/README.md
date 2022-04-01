@@ -115,13 +115,3 @@ Il s'agit d'un fragment de textile qui présente un aspect général en damier. 
   title="La Stèle de Raimondi, découverte sur le site de Chavín de Huantar au Pérou par Antonio Raimondi (1875), déssiné dans son livre *El Perù*"/>
  
 Ce qui suggère que ce fragment ne soit pas une partie manquante d’un vêtement et devait donc être destiné à un usage rituel. Il est également suggéré, quant à l’absence de l’écriture, les textiles religieux pouvaient avoir un but narratif, le tisserand ayant été le "verbalisateur" de l'histoire.
-
-
-
-
-
-
-
-
-
-
