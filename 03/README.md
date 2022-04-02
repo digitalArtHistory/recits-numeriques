@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="La représentation des martyres des saints" 
-       banner="https://pictures.abebooks.com/inventory/md/md7231395885.jpg" 
-       layout="horizontal">
+       banner="https://images-na.ssl-images-amazon.com/images/I/41Uf2hhfn0L._SX331_BO1,204,203,200_.jpg" 
+       layout="vertical">
        
 
 
