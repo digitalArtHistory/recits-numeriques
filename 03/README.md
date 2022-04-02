@@ -2,8 +2,10 @@
 
 <param ve-config 
        title="La représentation des martyres des saints" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://pictures.abebooks.com/inventory/md/md7231395885.jpg" 
        layout="vertical">
+       
+
 
 # [Saint Thomas Becket](https://fr.wikipedia.org/wiki/Thomas_Becket)
 
