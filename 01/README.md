@@ -21,7 +21,9 @@ Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%202/s,900-3afa62.jpg" 
   title="Olifant de Saint-Arnoul de Metz" />
 
-L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animalesque (bord du haut) ainsi que le thème de chasse (bord du bas) sur fond végétal et le cément affichant une scène de l’Ascension.Quant à la valeur de cet objet encore méconnu, une importante polémique tourne autour de la notion stylistique relevant une conscience des fondements sociétaux islamiques et chrétiens qui discorde voire facteur d’une esthétique hybride. À appréhender une création incarnant une cohabitation des formes rudimentaires avec la figuration. De plus, cet épisode biblique marque une idée de hiérarchie, car l’élévation de Jésus-Christ s’orient plutôt vers le monde sauvage offrant finalement une expérience qui fixe le statut subordonné de l’humanité. 
+L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animalesque (bord du haut) ainsi que le thème de chasse (bord du bas) sur fond végétal et le cément affichant une scène de l’Ascension.
+
+Quant à la valeur de cet objet encore méconnu, une importante polémique tourne autour de la notion stylistique relevant une conscience des fondements sociétaux islamiques et chrétiens qui discorde voire facteur d’une esthétique hybride. À appréhender une création incarnant une cohabitation des formes rudimentaires avec la figuration. De plus, cet épisode biblique marque une idée de hiérarchie, car l’élévation de Jésus-Christ s’orient plutôt vers le monde sauvage offrant finalement une expérience qui fixe le statut subordonné de l’humanité. 
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title=" Vue de profile" />
