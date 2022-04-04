@@ -10,6 +10,7 @@
 Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge à véhiculé plusieurs définitions du monde. Une diversité des manières de sa représentation manifeste le désir à contempler celle-ci. Bien que les œuvres comportent majoritairement une interprétation ambivalente, le regard porté sur cette entité demeure un thème digne d’appréhender, et ceci concernant son exhibition autant stylistique que réaliste. Cela dit, il importe d’envisager l’ensemble des formes rudimentaires soit animal et végétal afin davantage traduire les raisons menant le motif de la nature à être un dispositif omniprésent dans l’art médiéval. Ainsi, approfondir la distinction entre la frontière séparant  le monde dit élémentaire ainsi que le monde civilisationnel. 
 
 >Bibliographie 
+
 [-Maaike van der Lugt. (2011). L’autorité morale et normative de la nature au Moyen Àge. HAL open science. Paris. France.](https://halshs.archives-ouvertes.fr/halshs-00999421/document)
 
 ## Olifant
