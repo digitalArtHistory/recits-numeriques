@@ -12,7 +12,11 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
 ## Olifant
 ### Étiquette 
 Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe siècle retrouvé en Italie du Sud faisant partie du trésor de Saint-Arnoul de Metz et actuellement acquis par le musée Cluny, Paris.  
+
 Œuvre d’abord associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un important répertoire naturel. 
+<param ve-graphic 
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant/s,315-adbec8.jpg" 
+  title="Olifant de Saint-Arnoul de Metz" />
 
 L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animalesque (bord du haut) ainsi que le thème de chasse (bord du bas) sur fond végétal et le cément affichant une scène de l’Ascension. 
 
