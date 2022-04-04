@@ -32,9 +32,6 @@ L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre un ba
 Quant à la valeur de cet objet encore méconnu, une importante polémique tourne autour de la notion stylistique relevant une conscience des fondements sociétaux islamiques et chrétiens qui discorde voire facteur d’une esthétique hybride. 
 
 À appréhender une création incarnant une cohabitation des formes rudimentaires avec la figuration. De plus, cet épisode biblique marque une idée de hiérarchie, car l’élévation de Jésus-Christ s’orient plutôt vers le monde sauvage offrant finalement une expérience qui fixe le statut subordonné de l’humanité. 
-<param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
-  title=" Olifant de Saint-Arnoul de Metz, vue de profile" />
 
 
  
