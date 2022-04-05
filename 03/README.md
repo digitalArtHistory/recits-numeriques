@@ -4,9 +4,15 @@
        title="La représentation des martyres des saints" 
        banner="https://images-na.ssl-images-amazon.com/images/I/41Uf2hhfn0L._SX331_BO1,204,203,200_.jpg" 
        fit="cover"/>
+
+# Introduction
+
+<param ve-image 
+    url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b90176158/manifest.json" />
+    
+La religion chrétienne est remplie de personnages mythiques impressionnants. On peut retrouver les personnages de Marie, Jésus, Adam, Ève et bien d’autres qui ont participé à la merveilleuse histoire de la Création du monde jusqu’à l’Apocalypse de Jean. Alors que le meurtre est châtié par Dieu, on peut quand même compter plus de 2,8 millions de morts causé par le Père lui-même dans les récits de la Bible, alors que Satan n’en a que 10. Cette statistique monstrueuse inclut seulement les récits dans lesquels le nombre de morts est mentionné, donc le chiffre est beaucoup plus grand que ce qui est écrit. La mort est donc une partie importante de la religion chrétienne, mais qu’est-ce qui en est des suicides? Bien que les suicides sont généralement interdit dans le catholicisme, les martyrs sont, quand à eux, considérés comme des héros bibliques. Le suicide et le martyre, même si le geste est le même, le but n’est pas pareil: le suicide est une façon d’échapper à la douleur du monde et est un signe de faiblesse et de lâcheté, alors que la martyre est une façon d’accepter la douleur et de se sacrifier pour Dieu sans désir de mourir. L’Église a toujours célébré les martyrs; le refus d'abjurer lorsque les conséquences étaient connues n'était pas suicidaire, car la mort n'était pas désirée mais reçue du persécuteur. La vie des saints martyrs est tout à fait intéressante, car il est fascinant de voir la raison de leur condamnation et les moyens utilisés pour mettre fin à leur vie. Leurs moyens de tortures sont aussi originaux que les récits de la Bible; vrai ou non, les récits des tortures sont dignes des récits épiques chevaleresques. Le Moyen-Âge, étant une époque très sombre de notre histoire, il est normal d’y voir des images sanglantes, mais il est particulier d’y représenter des scènes bibliques. Le mélange des épisodes bibliques et des scènes meurtrières est le sujet principal de cette exposition. Le martyre de ces saints seras ici illustré par le biais de reliques, d’enluminures de manuscrits et de tableaux chacun représentant le moment der torture du saint en question. 
        
-
-
+       
 # [Saint Thomas Becket](https://fr.wikipedia.org/wiki/Thomas_Becket)
 
 <param ve-image 
