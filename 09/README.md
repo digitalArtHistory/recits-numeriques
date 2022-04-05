@@ -19,25 +19,32 @@ Le détail qui nous intéresse, ici, est la représentation de Mansa Moussa, roi
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json">
   
      
-# Saint Maurice  
+# Saint Maurice, martyr copte 
 La statue de Saint-Maurice de Magdebourg, commanditée par l'archevêque Albert de Käfernburg autour de 1250, se trouve en Allemagne, à la cathédrale de Magdebourg. Dédié à Saint-Maurice et à Sainte-Catherine. Elle est alors la première cathédrale gothique du royaume de Germanie.
 Le personnage de Saint-Maurice, auquel nous nous intéressons ici, est un martyr chrétien condamné pour sa foi sous l’empereur Dioclétien. Son origine copte, qui est un groupe ethnoreligieux de l’Afrique du Nord résidant surtout en Égypte, est dénotée par sa peau noire dans cette sculpture, contrairement à plusieurs représentations qui tentent d’effacer les origines de ce guerrier saint. Admiré pour sa force au combat et pour sa piété, il est représenté debout en tenue de combat et tenait probablement une lance auparavant. La Figure de Saint-Maurice laisse une trace importante dans la culture allemande et plusieurs églises d’Allemagne et de Suisse, principalement, continuent de lui vouer un culte jusqu’à ce jour.
 <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Maurice_Magdeburg.jpg" title="Saint Maurice" />
 
 
-# L'Adoration des Mages
+# L'Adoration des Mages & le cas de Balthazar
 L’Adoration des Mages est un thème biblique très propice à l’inclusion et à la diversité culturelle. En effet, les rois mages symbolisent le lointain et l'étendue universelle que devait connaître le message du Christ. Au nombre de trois, ils représentent le monde entier venu célébrer la venue du Christ et se nomment Melchior, Gaspard et Balthazar. Dans cette estampe, nous pouvons observer en avant de la Vierge et du Christ Melchior et Gaspard, qu’on peut identifier grâce aux offrandes qu’ils amènent, soit de l’or et de l’encens, qui marquent respectivement la royauté et la divinité du Christ. Ils ont tous deux des vêtements similaires, mais représentent l’Asie, avec Gaspard, et l’Europe avec Melchior, et sont positionnés de part et d’autre du sujet central de la composition, soit le Christ. 
 Plus en retrait, nous retrouvons le troisième roi mage, Balthazar, tenant la myrrhe, offrande dont la symbolique ne fait pas unanimité : elle représente tantôt le futur douloureux du Christ, tantôt son humanité. Dans tous les cas, cette résine aromatique est connue pour son usage dans l’Antiquité, qui servait à embaumer les défunts. De par son offrande, Balthazar est déjà mis à l’écart et porte une dimension plus sombre. De surcroit, sa peau plus foncée et ses cheveux frisés laissent planer un questionnement quant à son origine. Ici encore, on affirme tantôt qu’il viendrait du nord de l’Afrique, peut-être de l’Égypte, tantôt de l’Afrique subsaharienne et parfois même de Saba. Plus généralement, on dit de lui qu’il représente le continent africain. Il faudra attendre le début du XVe siècle pour que son identité soit plutôt associée à l’Afrique subsaharienne et que des traits et une carnation cohérente avec son origine soit dépeinte dans les scènes de l’Adoration des Mages. 
 <param ve-image
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10505681s/manifest.json">
   
     
-# Prince Djem
+# Le Prince Djem & le symbole de l'autre
 
 Cette enluminure issue du Gestorum Rhodie obsidionis commenta représente le Prince Djem arrivant à Rhodes. Ce prince d’origine ottomane est le fils du Sultan Mehmet II, qui suite à la prise du pouvoir par son frère, le Sultan Bayazid, dût se réfugier en Europe. En effet, après son refus catégorique de renoncer au trône, Zizim était en danger sur le continent africain, car la plupart des routes étaient désormais sous le contrôle de son frère, ce qui le força à l’exil. Il commence d’abord par se réfugier à Rhodes, territoire sous le contrôle de l’ordre des Hospitaliers qui livrèrent plusieurs combats contre l’Empire ottoman. 
 Parfois décrit comme un invité, le Prince Djem est en fait un otage. D’un côté, les européens virent en lui un captif utile pour faire pression sur l’empire ottoman et d’un autre côté, cette captivité facilitait le règne de Bayezid qui, longtemps, finança la captivité de son frère en versant régulièrement des sommes afin de répondre à ses besoins. Ce personnage, bien qu’ayant eu une courte vie, représente, en sa simple existence, le jeu de pouvoir entre ces deux territoires souvent en querelles. Exilé de sa terre d’origine et captif jusqu’à sa mort en terrain étranger, le prince Djem incarne ‘’l’autre’’ tout au long de sa courte existence par le fait qu’il ne soit chez lui nulle part, un Ulysse sans Ithaque. 
 <param ve-image
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10535160j/manifest.json" seq="356">
+   
+   # La Tabula Rogeriana & Al-Idrisi
+   
+   Réalisé en 1154 par le géographe marocain Al-Idrisi, la Tabula Rogeriana est une carte du monde qui se veut représenter et décrire l’entièreté du monde connu de l’époque. Commandé par Roger II, roi de Sicile, les pages ici représentent une carte du monde sphérique.
+Cette carte restera pendant plus de trois siècles la plus précise et plusieurs informations concordent avec les recherches scientifiques actuelles. Un exemple notable de cette précision se dénote par le fait que le monde représenté en sphère a une circonférence seulement 10% plus grosse que dans les faits actuels. 
+Cette carte diffère grandement de celles faites en Europe à l’époque, principalement par l’espace que les différents continents occupent :  l’Europe est souvent centrale et beaucoup plus volumineuse, alors qu’on la retrouve ici comme étant le plus petit continent, comparément à l’Asie et à l’Afrique qui sont d’ailleurs reliés par une route terrestre tel que représenté ici. 
+
    
     
     
