@@ -47,6 +47,8 @@ Parfois décrit comme un invité, le Prince Djem est en fait un otage. D’un c�
    Réalisé en 1154 par le géographe marocain Al-Idrisi, la Tabula Rogeriana est une carte du monde qui se veut représenter et décrire l’entièreté du monde connu de l’époque. Commandé par Roger II, roi de Sicile, les pages ici représentent une carte du monde sphérique.
 Cette carte restera pendant plus de trois siècles la plus précise et plusieurs informations concordent avec les recherches scientifiques actuelles. Un exemple notable de cette précision se dénote par le fait que le monde représenté en sphère a une circonférence seulement 10% plus grosse que dans les faits actuels. 
 Cette carte diffère grandement de celles faites en Europe à l’époque, principalement par l’espace que les différents continents occupent :  l’Europe est souvent centrale et beaucoup plus volumineuse, alors qu’on la retrouve ici comme étant le plus petit continent, comparément à l’Asie et à l’Afrique qui sont d’ailleurs reliés par une route terrestre tel que représenté ici. 
+<param ve-image
+    manifest="https://digital.bodleian.ox.ac.uk/objects/ced0d8bd-1019-4af2-9086-e411115f1507/">
 
    
     
