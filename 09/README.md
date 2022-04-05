@@ -19,12 +19,11 @@ Le détail qui nous intéresse, ici, est la représentation de Mansa Moussa, roi
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json">
   
      
-# Saint Maurice     
-Saint Patron Magdebourg
-Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.
-<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Maurice_Magdeburg.jpg" title="Saint Maurice" />
-Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de l’élément par un espace. Ils prennent la forme nom="valeur". Attention à bien placer la valeur à l’intérieur des guillemets et à ne pas ajouter d’espace superflus.Un élément débute par une séquence de caractères <, le nom de l’élément et se termine par />. Les attributs son placés à l’intérieur de la balise et séparé du nom de
+# Saint Maurice  
+La statue de Saint-Maurice de Magdebourg, commanditée par l'archevêque Albert de Käfernburg autour de 1250, se trouve en Allemagne, à la cathédrale de Magdebourg. Dédié à Saint-Maurice et à Sainte-Catherine. Elle est alors la première cathédrale gothique du royaume de Germanie.
+Le personnage de Saint-Maurice, auquel nous nous intéressons ici, est un martyr chrétien condamné pour sa foi sous l’empereur Dioclétien. Son origine copte, qui est un groupe ethnoreligieux de l’Afrique du Nord résidant surtout en Égypte, est dénotée par sa peau noire dans cette sculpture, contrairement à plusieurs représentations qui tentent d’effacer les origines de ce guerrier saint. Admiré pour sa force au combat et pour sa piété, il est représenté debout en tenue de combat et tenait probablement une lance auparavant. La Figure de Saint-Maurice laisse une trace importante dans la culture allemande et plusieurs églises d’Allemagne et de Suisse, principalement, continuent de lui vouer un culte jusqu’à ce jour.
 
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Maurice_Magdeburg.jpg" title="Saint Maurice" />
 
 # L'Adoration des Mages
 
