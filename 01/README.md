@@ -43,11 +43,12 @@ Quant à la valeur de cet objet encore méconnu, une importante polémique tourn
 Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du XIIe siècle, provient du portail occidental de l’église abbatiale de Saint-Denis en France localisée à l’extrême droite de la façade, et présentement conservée au musée d’Orsay suite au dépôt du musée de Louvre en 1914. 
 
 La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique faisant apparition au préalable à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditatif certes, mais également une profusion de motifs liés à la nature.
-
-La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.
 <param ve-graphic 
   url="https://sculpturesmedievales-cluny.fr/img/zoom/07-535500.jpg" 
   title="Colonnette à rinceaux habités" />
+
+La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.
+
 
 
 
