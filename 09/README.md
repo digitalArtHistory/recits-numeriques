@@ -12,9 +12,8 @@ L’idée d’exposer les interactions entre différentes cultures au Moyen Âge
  Cette exposition souhaite alors pousser plus loin l’initiative de notre sixième semaine de cours en mettant de l’avant ces cultures que l’on a pu commencer à étudier. En tenant à assumer les limites de connaissances auxquels nous faisons face, par le fait que ce travail est rédigé à partir d’informations principalement passées sous le filtre d’une éducation occidentale, cette exposition virtuelle ne prétend pas dresser un portrait parfait des différentes cultures qui rentreront en cause, mais souhaite plutôt inciter une exploration des différentes interactions culturelles qui ont su laisser une trace dans la production picturale du Moyen Âge. L’autre est moi veut mettre en lumière des échanges qui peuvent nous pousser à  redéfinir l’étude de l’histoire de l’art du Moyen Âge en adoptant une approche plus consciente des limites de lectures que notre contexte socio-culturel tend à imposer. 
 Ultimement, L’autre est moi veut célébrer les productions qui témoignent de l’interconnexion des cultures au Moyen Âge et encourager un mode de représentation conscient de ses richesses comme de ses limites. 
 <param ve-image
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json"
-    region="1976,4902,740,561"  
-       >
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json">
+     
     
   
 
@@ -22,7 +21,9 @@ Ultimement, L’autre est moi veut célébrer les productions qui témoignent de
 L’Atlas Catalan, en 1375, atteste déjà d’un grand mélange culturel lorsqu’on s’attarde aux simples échanges autour de sa création :  Composé de six feuillets de Vélin plié en deux, l’Atlas Catalan, créé par un cartographe juif de Majorque, est offert en cadeau par Jean 1er d’Aragon à Charles VI, roi de France. Cet atlas a deux objectifs principaux : illustrer des questions d’astrologies et de cosmologies, mais surtout créer une référence géographique forte, soit une Mappamundi, qui recouvre donc tout le territoire connu à l’époque.
 Le détail qui nous intéresse, ici, est la représentation de Mansa Moussa, roi du Mali. Ce roi, d’une richesse incomparable et d’une puissance économique incontournable, est représenté ici tenant un globe doré et arborant une couronne de la même teinte afin de dénoter ce caractère opulent. Acteur important dans le commerce de l’époque, la ville la plus proche de lui est Tombouctou, et plusieurs chemins de commerce importants se déploient autour de sa figure. 
 <param ve-image
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json">
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json"
+    region="1976,4902,740,561" 
+    >
   
      
 # Saint Maurice, martyr copte 
