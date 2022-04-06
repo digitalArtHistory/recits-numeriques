@@ -23,13 +23,16 @@ Le détail qui nous intéresse, ici, est la représentation de Mansa Moussa, roi
 <param ve-image
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json"
     region="1976,4902,740,561" 
-    >
+    />
   
      
 # Saint Maurice, martyr copte 
 La statue de Saint-Maurice de Magdebourg, commanditée par l'archevêque Albert de Käfernburg autour de 1250, se trouve en Allemagne, à la cathédrale de Magdebourg. Dédié à Saint-Maurice et à Sainte-Catherine. Elle est alors la première cathédrale gothique du royaume de Germanie.
 Le personnage de Saint-Maurice, auquel nous nous intéressons ici, est un martyr chrétien condamné pour sa foi sous l’empereur Dioclétien. Son origine copte, qui est un groupe ethnoreligieux de l’Afrique du Nord résidant surtout en Égypte, est dénotée par sa peau noire dans cette sculpture, contrairement à plusieurs représentations qui tentent d’effacer les origines de ce guerrier saint. Admiré pour sa force au combat et pour sa piété, il est représenté debout en tenue de combat et tenait probablement une lance auparavant. La Figure de Saint-Maurice laisse une trace importante dans la culture allemande et plusieurs églises d’Allemagne et de Suisse, principalement, continuent de lui vouer un culte jusqu’à ce jour.
-<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Maurice_Magdeburg.jpg" title="Saint Maurice" />fit="contain"/>
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Maurice_Magdeburg.jpg"
+       title="Saint Maurice" 
+       fit="contain"
+       />
 
 
 # L'Adoration des Mages & le cas de Balthazar
