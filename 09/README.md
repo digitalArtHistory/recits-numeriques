@@ -57,7 +57,6 @@ Cette carte diffère grandement de celles faites en Europe à l’époque, princ
 <param ve-image
     manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/ced0d8bd-1019-4af2-9086-e411115f1507.json">
 
-Exploration de la carte : quelques repères géographiques
 
 
 
