@@ -47,7 +47,8 @@ Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du
 La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique faisant apparition au préalable à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditatif certes, mais également une profusion de motifs liés à la nature.
 
 La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.Discernée tel qu’un éventail décoratif végétal, l’examen de l’œuvre préférablement comme une des nombreuses images monumentales qui occupent la spatialité située en dehors des bâtiments du Moyen-âge relève un traitement des rinceaux dites habités. En effet, les feuilles de palmettes dissimulant des hommes, monstres ou des créatures métissées performent un rituel qui remémore la prépondérance du  sauvage vis-à-vis le désir charnel voire une caractéristique humaine à la base du péché originel. Donc, ces formes rudimentaires disposent une agentivité qui rappel et fixe l’Homme en tant sujet vulnérable.
-<param ve-image url="https://ids.si.edu/ids/iiif/FS-F1930.51_001/full/full/0/default.jpg" />
+<param ve-image 
+    manifest="https://ids.si.edu/ids/iiif/FS-F1930.51_001/full/full/0/default.jpg" />
 
 
 
