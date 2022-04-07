@@ -2,10 +2,8 @@
 
 <param ve-config 
        title="La représentation des martyrs des saints" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://www.wikidata.org/wiki/Q62113833#/media/File:Signorelli,_Luca_-_The_Martyrdom_of_Saint_Catherine_of_Alexandria_-_The_Clark_Art_Institute.jpg" 
        layout="vertical">
-
-# Yeet
 
 ## Introduction
 <param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b90176158/manifest.json"/>
