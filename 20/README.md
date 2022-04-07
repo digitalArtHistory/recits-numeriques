@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/1375_Atlas_Catalan_Abraham_Cresques.jpg/2880px-1375_Atlas_Catalan_Abraham_Cresques.jpg" 
        layout="vertical">
 
 # Les récits recelés dans la matière du « Moyen Âge » : *géographies multiples, mouvance et agentivité*
