@@ -28,6 +28,15 @@ C’est particulièrement grâce à l’iconographie de cet instrument qu’il s
 Les raisons de la création de cette toile par Paolo Veneziano sont difficiles à expliquer, car l’artiste a passé sa carrière à représenter les mêmes scènes bibliques. Il est donc logique de dire qu’il a très probablement créé ce polyptyque simplement dans le but de démontrer une autre histoire religieuse. Dans celle-ci, au niveau du panneau central, il est possible de reconnaitre le couronnement de la Vierge par le Christ, entouré de chœur d’anges. Les anges dominants la scène centrale ont tous des instruments dans leurs bras. Deux anges se trouvent en bas de cette même scène et regardent le couronnement de la Vierge, tenant chacun un orgue portatif, reconnaissable par la façon qu’il est posé sur leurs genoux. . Les chœurs d’anges comme celui-ci on grandement participer à l’association des instruments, tel que l’orgue, au christianisme.
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
 
+MOTS CLÉS: Orgue portatif, Anges, polyptique, musique, religion
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
+
+Bibliographie:
+[CITYZEUM (2022). Guide le tableau « Le couronnement de la Vierge » de Paolo Veneziano, Venise, [En ligne]](https://www.cityzeum.com/le-tableau-le-couronnement-de-la-vierge-de-paolo-veneziano)
+[GIBBS, Robert (2003). « Paolo Veneziano », Oxford Art Online, [En ligne]](https://www.oxfordartonline.com/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000065142?rskey=zYGWU5)
+[VENEZIANO, Paolo (1350). Polittico di Santa Chiara [Polyptyque de Santa Chiara] [tempera et or sur panneau de bois]. Galerie de l’Académie, Italie, Venise, VE, Italie.](https://www.gallerieaccademia.it/en/coronation-virgin-polyptych#:~:text=Paolo%20Veneziano's%20polyptych%20comes%20from,of%20Santa%20Chiara%20in%20Venice.&text=The%20central%20panel%20contains%20the,throughout%20the%20entire%20fourteenth%20century.)
+
+
 [Lien d'écoute d'un orgue portatif](https://www.youtube.com/watch?v=Uk4iVold0eU)
 
 ## Tenture de la Dame à la Licorne, L'Ouïe
