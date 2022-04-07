@@ -10,7 +10,7 @@
 Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge à véhiculé plusieurs définitions du monde. Une diversité des manières de sa représentation manifeste le désir à contempler celle-ci. Bien que les œuvres comportent majoritairement une interprétation ambivalente, le regard porté sur cette entité demeure un thème digne d’appréhender, et ceci concernant son exhibition autant stylistique que réaliste. Cela dit, il importe d’envisager l’ensemble des formes rudimentaires soit animal et végétal afin davantage traduire les raisons menant le motif de la nature à être un dispositif omniprésent dans l’art médiéval. Ainsi, approfondir la distinction entre la frontière séparant le monde dit élémentaire ainsi que le monde civilisationnel.
 
 
-Bibliographie 
+**Bibliographie**
 
 -Maaike van der Lugt. 2011. « L’autorité morale et normative de la nature au Moyen Àge ». Paris. France. [HAL open science](https://halshs.archives-ouvertes.fr/halshs-00999421/document)
 
@@ -41,18 +41,9 @@ Quant à la valeur de cet objet encore méconnu, une importante polémique tourn
 ## Colonnette Statue 
 ### Étiquette
 Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du XIIe siècle, provient du portail occidental de l’église abbatiale de Saint-Denis en France localisée à l’extrême droite de la façade, et présentement conservée au musée d’Orsay suite au dépôt du musée de Louvre en 1914. 
-<param ve-graphic 
-  url="https://sculpturesmedievales-cluny.fr/img/zoom/07-535500.jpg" 
-  title="Colonnette à rinceaux habités" />
 
-La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique faisant apparition au préalable à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditatif certes, mais également une profusion de motifs liés à la nature.
 
-La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.Discernée tel qu’un éventail décoratif végétal, l’examen de l’œuvre préférablement comme une des nombreuses images monumentales qui occupent la spatialité située en dehors des bâtiments du Moyen-âge relève un traitement des rinceaux dites habités. 
-<param ve-graphic 
-  url="https://journals.openedition.org/syria/docannexe/image/1647/img-3-small580.jpg" 
-  title="Mosaique" />
-
-En effet, les feuilles de palmettes dissimulant des hommes, monstres ou des créatures métissées performent un rituel qui remémore la prépondérance du  sauvage vis-à-vis le désir charnel voire une caractéristique humaine à la base du péché originel. Donc, ces formes rudimentaires disposent une agentivité qui rappel et fixe l’Homme en tant sujet vulnérable.
+La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique faisant apparition au préalable à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditatif certes, mais également une profusion de motifs liés à la nature.La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.Discernée tel qu’un éventail décoratif végétal, l’examen de l’œuvre préférablement comme une des nombreuses images monumentales qui occupent la spatialité située en dehors des bâtiments du Moyen-âge relève un traitement des rinceaux dites habités. En effet, les feuilles de palmettes dissimulant des hommes, monstres ou des créatures métissées performent un rituel qui remémore la prépondérance du  sauvage vis-à-vis le désir charnel voire une caractéristique humaine à la base du péché originel. Donc, ces formes rudimentaires disposent une agentivité qui rappel et fixe l’Homme en tant sujet vulnérable.
 
 
 
