@@ -7,7 +7,8 @@
 
 # Nature en Motif 
 
-Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge à véhiculé plusieurs définitions du monde. Une diversité des manières de sa représentation manifeste le désir à contempler celle-ci. Bien que les œuvres comportent majoritairement une interprétation ambivalente, le regard porté sur cette entité demeure un thème digne d’appréhender, et ceci concernant son exhibition autant stylistique que réaliste. Cela dit, il importe d’envisager l’ensemble des formes rudimentaires soit animal et végétal afin davantage traduire les raisons menant le motif de la nature à être un dispositif omniprésent dans l’art médiéval. Ainsi, approfondir la distinction entre la frontière séparant le monde dit élémentaire ainsi que le monde civilisationnel.
+Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge à véhiculé plusieurs définitions du monde. Une diversité des manières de sa représentation manifeste le désir à contempler celle-ci. Bien que les œuvres comportent majoritairement une interprétation ambivalente, le regard porté sur cette entité demeure un thème digne d’appréhender, et ceci concernant son exhibition autant stylistique que réaliste. Cela dit, il importe d’envisager l’ensemble des formes rudimentaires soit animal et végétal afin davantage traduire les raisons menant le motif de la nature à être un dispositif omniprésent dans l’art médiéval jusque dans la réalisation de manuscrit. Ainsi, approfondir la distinction entre la frontière séparant le monde dit élémentaire ainsi que le monde civilisationnel.
+<param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10545836z/f404/1009.5589236648617,1500.8411659957956,1454.5374055592815,1376.4763641160284/559,529/0/native.jpg" />
 
 
 **Bibliographie**
