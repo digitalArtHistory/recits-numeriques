@@ -14,7 +14,13 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
   <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8423830f/manifest.json" 
     seq="12" />  
-
+<param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8423842n/manifest.json" 
+    seq="11" />
+    <param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8423842n/manifest.json" 
+    seq="13" />
+    
 **Bibliographie**
 
 -Maaike van der Lugt. 2011. « L’autorité morale et normative de la nature au Moyen Àge ». Paris. France. [HAL open science](https://halshs.archives-ouvertes.fr/halshs-00999421/document)
