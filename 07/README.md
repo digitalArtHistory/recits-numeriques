@@ -27,15 +27,19 @@ C’est particulièrement grâce à l’iconographie de cet instrument qu’il s
 
 Les raisons de la création de cette toile par Paolo Veneziano sont difficiles à expliquer, car l’artiste a passé sa carrière à représenter les mêmes scènes bibliques. Il est donc logique de dire qu’il a très probablement créé ce polyptyque simplement dans le but de démontrer une autre histoire religieuse. Dans celle-ci, au niveau du panneau central, il est possible de reconnaitre le couronnement de la Vierge par le Christ, entouré de chœur d’anges. Les anges dominants la scène centrale ont tous des instruments dans leurs bras. Deux anges se trouvent en bas de cette même scène et regardent le couronnement de la Vierge, tenant chacun un orgue portatif, reconnaissable par la façon qu’il est posé sur leurs genoux. . Les chœurs d’anges comme celui-ci on grandement participer à l’association des instruments, tel que l’orgue, au christianisme.
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
+[Lien d'écoute d'un orgue portatif](https://www.youtube.com/watch?v=Uk4iVold0eU)
 
 ## Tenture de la Dame à la Licorne, L'Ouïe
 *L’Ouïe des tentures de La Dame à la Licorne*, commanditaire Antoine le Viste, 1484-1538, tapisserie, 312 x 330 cm, Musée du Moyen-Âge, Cluny, Paris.
 <param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
 
+[Lien d'écoute d'un orgue portatif joué par deux personnes](https://www.youtube.com/watch?v=jJH5-tLvxwo)
 
 ## Agneau Mystique
 *Polyptique de l’Agneau Mystique*, Hubert van Eyck complété par Jan van Eyck, commanditaire Judocus Vidj,  6 mai 1432, Huile sur panneau de bois, retable ouvert 3.65 x 4.87m, fermé 3.65 x 2.29m, Cathédrale Saint-Bavon de Gand, Belgique
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
+
+[Lien d'écoute d'un orgue ressemblant à celui du polyptique](https://www.youtube.com/watch?v=nVHbBHwMbgA)
 
 ## Vitrail Orgue positif
 *Vitrail fenêtre Sud d’un ange jouant de l’orgue*, John Prudde, 1447, Vitrail, dimensions inconnues, Chapelle Beauchamp, Warwick, Angleterre
@@ -51,6 +55,8 @@ Close Up
 
 Volets fermés 
 <param ve-image url="https://user-images.githubusercontent.com/100982262/160021890-407905ec-4119-4594-9e40-d5e078a63b1f.png" />
+
+[Lien d'écoute de l'orgue de sion à commencer à 0.44 secondes](https://www.youtube.com/watch?v=iDjZFvNaxlM&t=167s)
 
 
 
