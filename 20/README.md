@@ -48,9 +48,9 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - intégrer une vidéo
 
 
-# Les récits recelés dans la matière du « moyen âge » : géographies multiples, mouvance et agentivité
+#  géographies multiples, mouvance et agentivité : comment une approche théorique peut former notre regard au delà du visuel. 
 
-Dans ce projet, je souhaiterais aborder et révéler les récits que porte la matière comme objet d’étude. Inspirée des approches théoriques des études matérielles et du New materials, je chercherais à exposer l’agentivité et les récits cachés dans la richesse matérielle de multiples objets issus de la période dite du Moyen-âge1. À travers les objets présentés, on cherchera à voyager sur les chemins de commerce contemporains à cette époque et à en comprendre l’accumulation de symbolismes au sein de la matière dans ses provenances et ses transformations. Le premier objet présenté pose la question de l’or, ses chemins de commerce provenant de Numbia et la valeur inhérente tout comme symbolique de l’objet appartenant à la dynastie Fatimid. Le deuxième objet ouvre également la question de la provenance de l’or comme matériel, mais également celle de coquillages et de pierres précieuses. Avec ce deuxième objet, c’est plus particulièrement la notion de transformation des matières, notamment de pièces d’or romaines fondues pour créer la croix, que nous chercherons à aborder au-delà de la géographie d’origine des matériaux.
+ICI INSÉRÉ COURT DESCRITION DES MATÉRIALS SUTDIES ET MOBILITY STUDIES. CHARGE AGENTIVE DE L'OBJET COMME "THING" (mettre lien vers d'autres articles ici?)
 
 ## Perle biconique
 
