@@ -14,39 +14,6 @@ Essayant à la fois de représenter une multitude matérielle et une diversité 
 
 Le premier objet présenté pose la question de l’or, ses chemins de commerce provenant de Numbia et la valeur inhérente tout comme symbolique de l’objet appartenant à la dynastie Fatimid. Le deuxième objet ouvre également la question de la provenance de l’or comme matériel, mais aussi celle de coquillages et de pierres précieuses. Avec ce deuxième objet, c’est plus particulièrement la notion de transformation des matières, notamment de pièces d’or romaines fondues pour créer la croix, que nous chercherons à aborder, au-delà de la géographie d’origine des matériaux. Notre troisième objet permettra de mettre de l’avant le travail du verre à l’époque médiévale; objet de luxe ayant difficilement traversé le temps. Celui-ci, conservé de façon remarquable, permet de faire le récit entre la Syrie, son milieu de production, et l’Angleterre, sa géographie de destination, et ce, en nous laissant entrevoir la grande complexité des chemins de commerce essentiels et inhérents à la production et à la distribution des objets de verre. Le quatrième objet nous entraîne quant à lui sur les chemins de l’ivoire et ses diverses provenances, autant animales que géographiques. Le dernier objet, quelque peu différent des autres, prend une forme papier afin de révéler les mouvances et la géographie. Divergent quelque peu de notre cadre théorique des études matérielles en ce qui concerne ce dernier objet, celui-ci nous permettra toutefois de synthétiser et d’assembler le portrait des mouvances matérielles tracées par les objets précédents, dévoilant la richesse et la multitude des échanges transgéographiques au Moyen Âge. 
 
-# Explorer Markdown
-
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
-
-```
-# Titre de niveau 1
-
-## Titre de niveau 2
-
-### Titre de niveau 3
-```
-
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
-
-Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
-
-> Ceci est du texte cité.
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata
-- intégrer une vidéo
-
 
 #  géographies multiples, mouvance et agentivité : comment une approche théorique peut former notre regard au delà du visuel. 
 
