@@ -95,6 +95,7 @@ bbbbbbbbbbb
   
   ![ooooooo](https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron%20en%20ivoire%20de%20morse%205/s,900-0987d7.jpg)
   
+  ![ooooooo](https://www.musee-moyenage.fr/cache/media/oeuvres/19-crosseron-en-ivoire-de-morse/crosseron%20en%20ivoire%20de%20morse%205/s,900-0987d7.jpg)
   
   
 Zone de texte pour Crosseron en ivoire de morse Crosseron en ivoire de morse, provenance incertaine, fin du X11 siècle, Ivoire et Perle de verre verte, 11,9 x 4,6 x 2,7 cm. musée de Cluny, Paris.besion d'un paragraph plus long pour que l'image s'affice...... (texte cluny filler: Cette partie supérieure d'un bâton pastoral est sculptée dans deux ivoires différents : le morse pour la volute du crosseron et l'hippopotame pour le nœud, sans doute une adjonction moderne. La volute terminée par une tête de dragon, bien peu menaçant, est ornée d'un enroulement de rinceaux habités par un lion sur une face, un aigle sur l'autre. De petites perles de verre coloré rehaussent la préciosité de l'ivoire, soulignent les motifs décoratifs et animent les yeux des animaux.)
