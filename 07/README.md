@@ -55,7 +55,7 @@ Close Up
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
 
 Volets fermés 
-<param ve-image url="https://user-images.githubusercontent.com/100982262/160021890-407905ec-4119-4594-9e40-d5e078a63b1f.png" />
+<param ve-image url="https://user-images.githubusercontent.com/100982262/162229088-14a5f407-789a-465c-85e6-28be70228737.png" />
 
 [Lien d'écoute de l'orgue de sion à commencer à 0.44 secondes](https://www.youtube.com/watch?v=iDjZFvNaxlM&t=167s)
 
