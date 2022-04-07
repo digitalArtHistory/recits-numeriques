@@ -5,7 +5,9 @@
        banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Les récits recelés dans la matière du « Moyen Âge » 
+
+## géographies multiples, mouvance et agentivité
 
 Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
 
