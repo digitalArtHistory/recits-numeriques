@@ -53,7 +53,7 @@ La naissance du réseau de commanditaires est une réalité du chantier médiév
 
 La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.Discernée tel qu’un éventail décoratif végétal, l’examen de l’œuvre préférablement comme une des nombreuses images monumentales qui occupent la spatialité située en dehors des bâtiments du Moyen-âge relève un traitement des rinceaux dites habités. En effet, les feuilles de palmettes dissimulant des hommes, monstres ou des créatures métissées performent un rituel qui remémore la prépondérance du  sauvage vis-à-vis le désir charnel voire une caractéristique humaine à la base du péché originel. Donc, ces formes rudimentaires disposent une agentivité qui rappel et fixe l’Homme en tant sujet vulnérable.
 <param ve-image 
-    manifest="http://www.shared-canvas.org/ns/context.json" />
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/manifest.json" />
 
 
 
