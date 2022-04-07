@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/images/btn_juncture.svg" style="height:40px"></a>
 
 <param ve-config 
-       title="depart" 
+       title="Exposition virtuel: Le monde médiéval" 
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/1375_Atlas_Catalan_Abraham_Cresques.jpg/2880px-1375_Atlas_Catalan_Abraham_Cresques.jpg" 
        layout="vertical">
 
