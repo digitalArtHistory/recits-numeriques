@@ -7,10 +7,7 @@
 
 # Nature en Motif 
 
-Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge à véhiculé plusieurs définitions du monde. Une diversité des manières de sa représentation manifeste le désir à contempler celle-ci. Bien que les œuvres comportent majoritairement une interprétation ambivalente, le regard porté sur cette entité demeure un thème digne d’appréhender, et ceci concernant son exhibition autant stylistique que réaliste. Cela dit, il importe d’envisager l’ensemble des formes rudimentaires soit animal et végétal afin davantage traduire les raisons menant le motif de la nature à être un dispositif omniprésent dans l’art médiéval. Ainsi, approfondir la distinction entre la frontière séparant le monde dit élémentaire ainsi que le monde civilisationnel. 
-<param ve-image 
-    manifest="http://www.shared-canvas.org/ns/context.json" />
-
+Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge à véhiculé plusieurs définitions du monde. Une diversité des manières de sa représentation manifeste le désir à contempler celle-ci. Bien que les œuvres comportent majoritairement une interprétation ambivalente, le regard porté sur cette entité demeure un thème digne d’appréhender, et ceci concernant son exhibition autant stylistique que réaliste. Cela dit, il importe d’envisager l’ensemble des formes rudimentaires soit animal et végétal afin davantage traduire les raisons menant le motif de la nature à être un dispositif omniprésent dans l’art médiéval. Ainsi, approfondir la distinction entre la frontière séparant le monde dit élémentaire ainsi que le monde civilisationnel.
 
 Bibliographie 
 
@@ -19,28 +16,26 @@ Bibliographie
 -Rosser-Owen. Mariam. 2015.«The Olifant: A call for a shift of perspective ». Dans Romanesque and the Mediterranean. British Archéologie Association. (p.20). [PDFCOFFEE](https://pdfcoffee.com/oliphantcall-for-shift-of-perspective-1-pdf-free.html)
 
 
-
-
 ## Olifant
 ### Étiquette 
 Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe siècle retrouvé en Italie du Sud faisant partie du trésor de Saint-Arnoul de Metz et actuellement acquis par le musée Cluny, Paris. 
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%202/s,900-3afa62.jpg" 
-  title="Olifant de Saint-Arnoul de Metz" />
+  title="Olifant de Saint-Arnoul de Metz, une vue de profile" />
 
 Œuvre d’abord associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un important répertoire naturel. 
 
 L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre un banquet animalesque ainsi qu'aux bords le thème de chasse sur fond végétal et le cément affichant une scène de l’Ascension. 
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%204/s,900-be0375.jpg" 
-  title="Olifant de Saint-Arnoul de Metz" />
+  title="Olifant de Saint-Arnoul de Metz, le dos" />
  
 Quant à la valeur de cet objet encore méconnu, une importante polémique tourne autour de la notion stylistique relevant une conscience des fondements sociétaux islamiques et chrétiens qui discorde voire facteur d’une esthétique hybride. 
 
 À appréhender une création incarnant une cohabitation des formes rudimentaires avec la figuration. De plus, cet épisode biblique marque une idée de hiérarchie, car l’élévation de Jésus-Christ s’orient plutôt vers le monde sauvage offrant finalement une iconographie qui note un statut subordonné de l’humanité. 
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
-  title=" Olifant de Saint-Arnoul de Metz, vue de profile" />
+  title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
   
 ## Colonnette Statue 
 ### Étiquette
@@ -53,7 +48,7 @@ La naissance du réseau de commanditaires est une réalité du chantier médiév
 
 La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.Discernée tel qu’un éventail décoratif végétal, l’examen de l’œuvre préférablement comme une des nombreuses images monumentales qui occupent la spatialité située en dehors des bâtiments du Moyen-âge relève un traitement des rinceaux dites habités. En effet, les feuilles de palmettes dissimulant des hommes, monstres ou des créatures métissées performent un rituel qui remémore la prépondérance du  sauvage vis-à-vis le désir charnel voire une caractéristique humaine à la base du péché originel. Donc, ces formes rudimentaires disposent une agentivité qui rappel et fixe l’Homme en tant sujet vulnérable.
 <param ve-image 
-    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/manifest.json" />
+    manifest="http://iiif.io/api/presentation/2/context.json" />
 
 
 
