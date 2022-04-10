@@ -87,6 +87,8 @@ MOTS CLÉS : Orgue positif de chœur, Sainte-Cécile, religion, musique, retable
 
 Bibliographie:
 
+Praet, Danny, and Maximiliaan P. J Martens et al., L'agneau Mystique : Van Eyck : Art, Histoire, Science Et Religion (Paris, Flammarion, 2019), 368p. 
+
 
 
 [Lien d'écoute d'un orgue ressemblant à celui du polyptique](https://www.youtube.com/watch?v=nVHbBHwMbgA)
