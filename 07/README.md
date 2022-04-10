@@ -21,14 +21,14 @@ C’est particulièrement grâce à l’iconographie de cet instrument qu’il s
 
 # Présentation Orgues essaie
 
-## Polyptique de Santa Chiara
+## Polyptyque de Santa Chiara
 *Polyptyque de Santa Chiara* [Polittico di Santa Chiara], Paolo Veneziano, 1350, tempera et or sur panneau de bois, 167 x 285 cm, panneau central 98 x 63 cm, Galerie de l’Académie de Venise, Salle 1.
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
 
 Les raisons de la création de cette toile par Paolo Veneziano sont difficiles à expliquer, car l’artiste a passé sa carrière à représenter les mêmes scènes bibliques. Il est donc logique de dire qu’il a très probablement créé ce polyptyque simplement dans le but de démontrer une autre histoire religieuse. Dans celle-ci, au niveau du panneau central, il est possible de reconnaitre le couronnement de la Vierge par le Christ, entouré de chœur d’anges. Les anges dominants la scène centrale ont tous des instruments dans leurs bras. Deux anges se trouvent en bas de cette même scène et regardent le couronnement de la Vierge, tenant chacun un orgue portatif, reconnaissable par la façon qu’il est posé sur leurs genoux. . Les chœurs d’anges comme celui-ci on grandement participer à l’association des instruments, tel que l’orgue, dans le christianisme.
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
 
-MOTS CLÉS: Orgue portatif, Anges, polyptique, musique, religion
+MOTS CLÉS: Orgue portatif, Anges, polyptyque, musique, religion
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159940851-cc990dfc-21cc-421c-96c3-19f32032d94b.png" />
 
 Bibliographie:
@@ -43,11 +43,36 @@ Bibliographie:
 *L’Ouïe des tentures de La Dame à la Licorne*, commanditaire Antoine le Viste, 1484-1538, tapisserie, 312 x 330 cm, Musée du Moyen-Âge, Cluny, Paris.
 <param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
 
+Les 6 tapisseries qui forment la tenture de la Dame à la licorne portent différents noms, soit le Toucher, le Gout, l’Odorat, l’Ouïe, la Vue et enfin « À mon seul désir ». Grâce aux armoiries représentées sur chacune des tapisseries, il fut possible de retracer la famille des Le Viste comme étant les commanditaires, cependant il est, encore aujourd’hui, débattu s’il s’agit de Jean IV Le Viste ou Antoine Le Viste qui est le commanditaire. 
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
+
+La tapisserie intitulée l’Ouïe s’est vu donner de nombreuses interprétations, comme les autres, mais dans celle-ci il est possible d’y retrouver un orgue entre le portatif et le positif. Il est possible de le transporter, d’où son aspect portatif, cependant par la présence de la dame de compagnie maniant les soufflets, on peut voir cet orgue comme positif comme il s’agissait d’une caractéristique de celui-ci. Les nombreuses interprétations ne s’entendent pas sur la réelle interprétation de cette tapisserie, mais l’une d’elles, pour l’Ouïe, serait que la musique de l’orgue servirait d’élévation de l’âme, lui donnant donc une symbolique religieuse.
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
+
+MOTS CLÉS : Orgue portatif/positif, tapisserie, ouïe, musique
+<param ve-image manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
+
+Bibliographie:
+
+
 [Lien d'écoute d'un orgue portatif joué par deux personnes](https://www.youtube.com/watch?v=jJH5-tLvxwo)
 
 ## Agneau Mystique
 *Polyptique de l’Agneau Mystique*, Hubert van Eyck complété par Jan van Eyck, commanditaire Judocus Vidj,  6 mai 1432, Huile sur panneau de bois, retable ouvert 3.65 x 4.87m, fermé 3.65 x 2.29m, Cathédrale Saint-Bavon de Gand, Belgique
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
+
+Ce retable commencé par Hubert Van Eyck et complété par son frère Jan Van Eyck fut commandé par Judocus Vidj, un riche marguiller. Dans ce polyptyque, représentant différentes scènes bibliques, il est possible d’y retrouver un chœur d’ange entourant le panneau central et dans le panneau à droite, on y retrouve Sainte-Cécile, jouant de l’orgue positif. Il est possible de la reconnaitre comme elle était la sainte patronne de la musique et était souvent représentée en jouant d’un instrument dans les scènes religieuses.
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
+
+Ce qui est remarquable de cet orgue dans le panneau, c’est qu’il a été représenté avec des détails absolument exact et précis. Grâce à cela, les musicologues d’aujourd’hui ont été capables de parfaitement refaire l’instrument et ainsi avoir une idée de la musique jouée pendant l’époque médiévale.
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
+
+MOTS CLÉS : Orgue positif de chœur, Sainte-Cécile, religion, musique, retable
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159938151-88d93c60-de1c-4d99-be59-e15a5644a373.png" />
+
+Bibliographie:
+
+
 
 [Lien d'écoute d'un orgue ressemblant à celui du polyptique](https://www.youtube.com/watch?v=nVHbBHwMbgA)
 
@@ -58,6 +83,19 @@ Bibliographie:
 Close Up
 <param ve-image url="https://user-images.githubusercontent.com/100982262/159949571-4685a04e-d7ab-430a-aa68-494ce2b7dfec.png" />
 
+Les vitraux de la chapelle Beauchamp à Warwick furent peints par John Prudde en 1447 à la demande de Richard Beauchamp en l’honneur de Marie, mère du Christ. Il est donc possible de la retrouver sur le vitrail principal de la chapelle. Entourant ce vitrail, les fenêtres Sud et Nord représente des chœurs d’anges jouant de différents instruments, ainsi que des partitions de musiques qui leur ont valu un grand intérêt des musicologues. 
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159949021-bc44e039-51c4-4cd4-a69d-5065a236de06.png" />
+
+À la fenêtre Sud, il est possible de retrouver un petit vitrail d’un ange jouant de l’orgue positif, lui donnant une double signification religieuse. Tout d’abord, l’une des symboliques importantes de l’orgue est qu’il est une interprétation de la voix divine de Dieu, menant donc celui qui l’entend à élever son âme vers les cieux. Ensuite, une autre symbolique importante, cette fois-ci auprès du vitrail est qu’il est considéré comme une inscription divine donnant corps à cette lumière divine le traversant. Avec ce vitrail, il est donc indéniable de lui donner une symbolique religieuse.
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159949021-bc44e039-51c4-4cd4-a69d-5065a236de06.png" />
+
+MOTS CLÉS : Vitrail, Orgue positif, ange, Warwick, Chapelle
+<param ve-image url="https://user-images.githubusercontent.com/100982262/159949021-bc44e039-51c4-4cd4-a69d-5065a236de06.png" />
+
+Bibliographie:
+
+
+
 
 ## Orgue de Sion
 *Orgue de la Basilique de Valère*, constructeur inconnu, Peintre Pierre Maggenberg, commanditaire Guillaume VI de Rorgne, environ 1430-35, Volets peinture sur toile, dimensions inconnus, jeu de flute 4’ en bois de noyer, dimensions inconnus, coque en bois, dimensions inconnus, tuyauterie en bois et en métal, dimensions inconnus, clavier en bois, dimensions inconnus, Sion en Suisse.
@@ -65,6 +103,18 @@ Close Up
 
 Volets fermés 
 <param ve-image url="https://user-images.githubusercontent.com/100982262/162229088-14a5f407-789a-465c-85e6-28be70228737.png" />
+
+Le plus ancien orgue toujours jouable au monde. Ainsi est appelé l’Orgue de la cathédrale de Valère à Sion. Bien que rénové à plusieurs reprises, l’instrument possède toujours plusieurs de ses pièces d’origines lui laissant son origine médiévale. Si on ignore tout de son constructeur, on sait qu’il a construit l’instrument vers 1435, datation possible grâce aux volets entourant les tuyaux, peints par Pierre Maggenberg. Ces volets sont ouverts lorsque l’on joue de l’instrument et fermés lorsqu’on ne le joue pas. 
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
+
+Il est possible de dire que l’endroit où se trouve cet orgue est prestigieux, puisqu’entre le Xe et XIVe siècle, les seuls endroits qui pouvaient se permettre ce genre d’instrument étaient possédés par des riches. L’orgue de la cathédrale contribue également à cette association de cet instrument à la voix de Dieu, comme il permettait des notes plus graves avec ses multiples tuyaux, ce qui n’est pas exactement le cas avec ses précédents, comme ils avaient un son plus festif.  
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
+
+MOTS CLÉS : Orgue médiéval, orgue de tribune, basilique de Valère, religion, musique
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
+
+Bibliographie:
+
 
 [Lien d'écoute de l'orgue de sion à commencer à 0.44 secondes](https://www.youtube.com/watch?v=iDjZFvNaxlM&t=167s)
 
