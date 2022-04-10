@@ -17,6 +17,21 @@ On peut dire que l’orgue positif est en quelque sorte une première évolution
 Enfin l’orgue de tribune. Pas exactement une évolution chronologique de l’orgue comme on signale sa présence dès le Xe siècle, mais l’orgue qui ouvre définitivement le bal vers une association directe de cet instrument aux églises. Sa composition est plus complexe, beaucoup plus grande également, permettant un son plus grave, plus impressionnant et poignant, facilement interprétable comme la voix de Dieu. 
 C’est particulièrement grâce à l’iconographie de cet instrument qu’il sera possible d’y voir un rattachement indéniable à la religion chrétienne et non par son utilisation plus ou moins religieuse pendant l’époque médiévale. 
 
+Bibliographie:
+
+[Ccornonvaux, Nathalie. « L’Histoire de l’orgue – Genèse et Moyen-Âge », PointCulture, [En ligne], 11 Février 2016](https://www.pointculture.be/magazine/articles/focus/l-histoire-de-l-orgue-genese-et-moyen-age/)
+
+CELLIER, Alexandre, Henri Bachelin, L’orgue : ses éléments, son histoire, son esthétique, (Paris, Delagrave, 1933), 254p.
+
+[LACAS, Pierre-Paul, « ORGUE », Encyclopædia Universalis [en ligne]](http://www.universalis-edu.com/encyclopedie/orgue/)
+
+[RARICK, Ronald D (2003). « Organ shutters [organ doors; organ wings] », Grove Art Online, [En ligne],](https://www.oxfordartonline.com/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000063774)
+
+[SCHWICKERATH, Pierre (2005). « L’Orgue : sa nature et sa symbolique », Pizzicato, Juillet, p.17-18. Accès en ligne :](http://amisdelorgue.lu/docs/LOrgueSaNatureEtSaSymbolique.pdf) 
+
+[WILLIAMS, C.F. Abby (1924). « Evolution of the Organ », Music & Letters, Vol. 5, n°3, p.253-263](https://www.jstor.org/stable/726785?seq=1#metadata_info_tab_contents) 
+
+
 
 
 # Présentation Orgues essaie
