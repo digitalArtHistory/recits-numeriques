@@ -71,6 +71,13 @@ MOTS CLÉS : Orgue portatif/positif, tapisserie, ouïe, musique
 
 Bibliographie:
 
+[DELAHAYE, Élisabeth (2010). « Les tapisseries de La Dame à la licorne, allégories des sens », Cairn, Vol. 1, n°86, p. 57-64](https://www.cairn.info/revue-communications-2010-1-page-57.htm) 
+
+[DE VAIVRE, Jean-Bernard (2015). « Autour de la Dame à la licorne et d’autres tentures II. Notes de méthodologie et études comparatives », Persée, n°94, p. 138-147](https://www.persee.fr/docAsPDF/piot_1148-6023_2015_num_94_1_2136.pdf)
+
+[« Tapisseries De La Dame à La Licorne », Musée de Cluny](https://www.musee-moyenage.fr/collection/oeuvre/la-dame-a-la-licorne.html)
+
+
 
 [Lien d'écoute d'un orgue portatif joué par deux personnes](https://www.youtube.com/watch?v=jJH5-tLvxwo)
 
