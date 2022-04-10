@@ -113,7 +113,7 @@ Bibliographie:
 
 [HARDY, Charles Frederic (1909). « XXII. – On the Music in the Painted Glass of the Windows in the Beauchamp Chapel at Warwick », Archaeologia, Vol. 61, n°2, p.583-614.](https://www.cambridge.org/core/journals/archaeologia/article/xxiion-the-music-in-the-painted-glass-of-the-windows-in-the-beauchamp-chapel-at-warwick/C9195819F9E58DECE06CA706B28B27B0)
 
-[HERBERT L. Kessler, L’œil médiéval : ce que signifie voir l’art du Moyen-Âge, Paris, Klincksieck, 2015, p.171-186.] (https://studium.umontreal.ca/pluginfile.php/7053768/mod_resource/content/1/Kessler_loeil%20me%CC%81die%CC%81vale.pdf)
+[HERBERT L. Kessler, L’œil médiéval : ce que signifie voir l’art du Moyen-Âge, Paris, Klincksieck, 2015, p.171-186.](https://studium.umontreal.ca/pluginfile.php/7053768/mod_resource/content/1/Kessler_loeil%20me%CC%81die%CC%81vale.pdf)
 
 [WINSTON, Charles (1864). « The Painted Glass in the Beauchamp Chapel at Warwick », Archaeologia Journal, Vol. 21, n°1, p.302-318.](https://catalog.hathitrust.org/api/volumes/oclc/1481817.html)
 
