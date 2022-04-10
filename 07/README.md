@@ -109,6 +109,13 @@ MOTS CLÉS : Vitrail, Orgue positif, ange, Warwick, Chapelle
 
 Bibliographie:
 
+[BUCKLE, Alexandra (2010). « ‘Fit for a king’: music and iconography in Richard Beauchamp’s chantry chapel », Early Music, Vol. 38, n°1, Février, p. 3-20.](https://academic.oup.com/em/article/38/1/3/373931?login=true) 
+
+[HARDY, Charles Frederic (1909). « XXII. – On the Music in the Painted Glass of the Windows in the Beauchamp Chapel at Warwick », Archaeologia, Vol. 61, n°2, p.583-614.](https://www.cambridge.org/core/journals/archaeologia/article/xxiion-the-music-in-the-painted-glass-of-the-windows-in-the-beauchamp-chapel-at-warwick/C9195819F9E58DECE06CA706B28B27B0)
+
+[HERBERT L. Kessler, L’œil médiéval : ce que signifie voir l’art du Moyen-Âge, Paris, Klincksieck, 2015, p.171-186.] (https://studium.umontreal.ca/pluginfile.php/7053768/mod_resource/content/1/Kessler_loeil%20me%CC%81die%CC%81vale.pdf)
+
+[WINSTON, Charles (1864). « The Painted Glass in the Beauchamp Chapel at Warwick », Archaeologia Journal, Vol. 21, n°1, p.302-318.](https://catalog.hathitrust.org/api/volumes/oclc/1481817.html)
 
 
 
@@ -129,6 +136,17 @@ MOTS CLÉS : Orgue médiéval, orgue de tribune, basilique de Valère, religion,
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/07/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202022-03-17%20a%CC%80%2013.49.49.png" />
 
 Bibliographie:
+
+[COUTO, Rodrigo Carrizo. « A magic sound across the centuries », Swissinfo.ch, [En ligne], 21 décembre 2009](https://www.swissinfo.ch/eng/a-magic-sound-across-the-centuries/7897614)
+
+[DELALOYE, Claire (1999). Les peintures murales du XVe siècle de la chapelle de Tourbillon, [En ligne], Mémoire de licence sous la direction du professeur Mauro Natale, Genève, Université de Genève](https://doc.rero.ch/record/29253/files/BCV_TB_12027.pdf)
+
+[MY PIPE ORGAN HOBBY (Mardi 03 septembre 2009). Organ Sion Switzerland Notre Dame de Valere 1434, [En ligne]](http://mypipeorganhobby.blogspot.com/2008/11/organ-sion-swittserland.html)
+
+[THE JOY OF MUSIC (1982). [En ligne], animé par Diane Bish, 02 janvier 2011, diffusion dépend de la ville dans laquelle nous sommes](https://www.youtube.com/watch?v=jxwZTfILJDA (partie 1 du reportage))
+
+[VOEFFRAY, Edmond, Maria PORTMANN (2019). « L’Orgue de la Basilique de Valière à Sion (Valais) », [En ligne], KGS Forum, No. 32, mois inconnu, p.23 à 31](https://orgueancien-valere.ch/wp-content/document/2019_PBCForum_OrgueValere)
+
 
 
 [Lien d'écoute de l'orgue de sion à commencer à 0.44 secondes](https://www.youtube.com/watch?v=iDjZFvNaxlM&t=167s)
