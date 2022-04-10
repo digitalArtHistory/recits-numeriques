@@ -29,6 +29,8 @@ CELLIER, Alexandre, Henri Bachelin, L’orgue : ses éléments, son histoire, so
 
 [SCHWICKERATH, Pierre (2005). « L’Orgue : sa nature et sa symbolique », Pizzicato, Juillet, p.17-18. Accès en ligne :](http://amisdelorgue.lu/docs/LOrgueSaNatureEtSaSymbolique.pdf) 
 
+[THISTLETHWAITE, Nicholas, The Cambridge Companion to the Organ (Angleterre, Cambridge University Press, 1999), 340p. [En ligne]](file:///C:/Users/princ/Zotero/storage/2NSJAED6/E010EDF24BAD01206F37EED32BDD44DD.html#information)
+
 [WILLIAMS, C.F. Abby (1924). « Evolution of the Organ », Music & Letters, Vol. 5, n°3, p.253-263](https://www.jstor.org/stable/726785?seq=1#metadata_info_tab_contents) 
 
 
