@@ -11,6 +11,26 @@ Cette exposition souhaite confronter l'idée préconçue que le Moyen Âge occid
 L’idée d’exposer les interactions entre différentes cultures au Moyen Âge a été encouragée par l’exploration de l’approche théorique de race et études médiévales lors de la sixième semaine de notre cours sur le monde médiéval. En fait, cette approche a permis d’engendrer une réflexion par rapport au choix que l’on fait de représenter et d’étudier certaines cultures, tandis que d’autres passent sous le silence. Plus souvent que rarement, la production artistique de différentes cultures africaines, dans le cadre d’études médiévales, subissent le second sort. Il faut alors s’interroger quant à l’impact socio-historique que ces décisions provoquent : plusieurs voix se font passer sous silence alors que d’autres sont amplifiées à leur détriment. Bien que la race ait fonctionné différemment au Moyen-Âge, et que la conception de race telle qu’on la connait de nos jours ait apparu bien après cette période, il est important d’observer comment l’effacement du passé impacte notre époque actuelle. En réfléchissant à l'interconnexion des cultures médiévales, il est possible de tirer de sages apprentissages quant à la coexistence et à la forme que prend <<l’autre>> ou <<l’étranger>> de nos jours. 
  Cette exposition souhaite alors pousser plus loin l’initiative de notre sixième semaine de cours en mettant de l’avant ces cultures que l’on a pu commencer à étudier. En tenant à assumer les limites de connaissances auxquels nous faisons face, par le fait que ce travail est rédigé à partir d’informations principalement passées sous le filtre d’une éducation occidentale, cette exposition virtuelle ne prétend pas dresser un portrait parfait des différentes cultures qui rentreront en cause, mais souhaite plutôt inciter une exploration des différentes interactions culturelles qui ont su laisser une trace dans la production picturale du Moyen Âge. Cette exposition veut mettre en lumière des échanges qui peuvent nous pousser à  redéfinir l’étude de l’histoire de l’art du Moyen Âge en adoptant une approche plus consciente des limites de lectures que notre contexte socio-culturel tend à imposer. 
 Ultimement, L’autre est moi veut célébrer les productions qui témoignent de l’interconnexion des cultures au Moyen Âge et encourager un mode de représentation conscient de ses richesses comme de ses limites. 
+
+Lectures complémentaires : 
+
+Akbari, Suzanne C. Idols in the East: European Representations of Islam and
+the Orient, 1100–1450 (Ithaca: Cornell University Press, 2009).
+
+Bartlett, Robert. ‘Medieval and Modern Concepts of Race and Ethnicity.’
+Journal of Medieval and Early Modern Studies 31 (2001): 39–55.
+
+Davis, Kathleen and Nadia Altschul, eds. Medievalisms in the Postcolonial
+World: The Idea of ‘the Middle Ages’ Outside Europe (Baltimore: Johns
+Hopkins University Press, 2009).
+
+Epstein, Steven A. Purity Lost: Transgressing Boundaries in the Eastern
+Mediterranean: 1000–1400 (Baltimore: Johns Hopkins University Press, 2006).
+
+Keita, Maghan. ‘Race: What the Bookstore Hid.’ In Why the Middle Ages
+Matter: Medieval Light on Modern Injustice, eds. Celia Chazelle, Simon
+Doubleday, Felice Lifshitz, and Amy G. Remensnyder (London: Routledge,
+2011), 130–40.
 <param ve-image
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84466411/manifest.json">
      
