@@ -44,6 +44,7 @@ Pour une majorité d’historiens, Odon (vers 1030 - 1097), évêque de Bayeux e
 <param ve-image 
   manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7740786m/manifest.json" />
 
+
 ## La Dame à la licorne en France
 
 Les tapisseries qui forment la tenture de la Dame à la licorne, sont intitulées le Toucher, le Gout, l’Odorat, l’Ouïe, la Vue et une dernière œuvre avec une tente bleu et l’inscription “mon seul désir”.
@@ -74,50 +75,42 @@ Le *kesi* ou en chinois traditionnel, est une technique de tapisserie entièreme
        fit="contain"
        />
 
-<!--<param ve-graphic  
- url="https://user-images.githubusercontent.com/101141372/160939664-84012dba-2638-4ad3-a10a-67029673b279.png" 
-    title="Tapisserie Kesi représentant des fleurs de prunier et des pies en hiver (1127-1279) 104 x 36 cm, soie, Shen Zifan"/> -->
-
 Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable. Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale.
-<param ve-graphic  
- url="https://user-images.githubusercontent.com/101141372/160940992-49ea0113-e3e2-4758-a65b-f7d6a63ffeb9.png" 
-    title="Détail du kesi" />
+<param ve-graphic url="https://user-images.githubusercontent.com/101141372/160940992-49ea0113-e3e2-4758-a65b-f7d6a63ffeb9.png" 
+    title="Détail du kesi"
+    fit="contain"
+       />
 
 
 ## Fragments de bandes de tapisseries provenant d'Egypte
        
 Cette pièce est constituée de cinq bandes à décor de médaillons au milieu desquels se trouvent des animaux. 
-<param ve-graphic  
-    url="https://user-images.githubusercontent.com/101141372/160940173-723ecb37-9504-450a-b6aa-e3dfd3d22cc4.png" 
-    title="Fragments de bandes de tapisserie (XIIe) 35 x 26,4 cm, lin et soie"/>
+<param ve-graphic url="https://user-images.githubusercontent.com/101141372/160940173-723ecb37-9504-450a-b6aa-e3dfd3d22cc4.png" 
+    title="Fragments de bandes de tapisserie (XIIe) 35 x 26,4 cm, lin et soie"
+    fit="contain"
+       />
 
 Une inscription est indiquée sur le bas du fragment en arabe *“Nasr min Allâh”* qui symbolise *“la victoire vient de Dieu”* sur le bas du tissu. Pour mieux visualisé voici un exemple de l'inscription sur un plumier.       
 Cette sourate loue Allah pour avoir convertit de nombreuses personnes à l'islam. Cette sourate est également connue sous le nom de "La victoire", comme dans la victoire de l'islam, car elle fait référence à la conquête de la Mecque, où les musulmans ont victorieusement combattu les ennemis de l'islam. Ce qui suggère que ce fragment de tapisserie avait une fonction liée à la prière ou à la célébration de l’Islam. On estime ce fragment vers le 12e siècle, dû fait de l’incorporation de la soie avec le matériau plus traditionnel qu’est le lin.
-<param ve-graphic
-url="https://user-images.githubusercontent.com/101141372/160942340-195f0279-4f80-44ec-9602-40b83615a6a9.png"
-       title="Inscription sur un plumier du XIII/XIVe siècle, 6,40 x 29,40 x 6,10 cm, céramique et argent " /> 
-    
+<param ve-graphic url="https://user-images.githubusercontent.com/101141372/160942340-195f0279-4f80-44ec-9602-40b83615a6a9.png"
+       title="Inscription sur un plumier du XIII/XIVe siècle, 6,40 x 29,40 x 6,10 cm, céramique et argent " />     
 <param ve-iframe 
     src="https://www.britishmuseum.org/collection/object/W_G-7" />
        
 De plus, sous les Fatimides (969 - 1171), se manifeste un renouveau du naturalisme dans des dessins d'une grande finesse, tels que des petits oiseaux, des palmettes, ou encore vignes entrelacées sont les motifs charmants de cette époque. Ce qui correspond aux motifs tissés ou peints sur cette pièce. 
-<param ve-graphic  
-    url="https://user-images.githubusercontent.com/101141372/160945570-b758de95-2c91-48a7-94d9-336981434fdd.jpg" 
+<param ve-graphic url="https://user-images.githubusercontent.com/101141372/160945570-b758de95-2c91-48a7-94d9-336981434fdd.jpg" 
     title="Fragment d'un Tiraz-Style Textile, (1100) Période fatimide, 23,2 x 24,5 cm, soie et lin"/>
 
 ## Tapisserie de rituel provenant du Pérou
 
 Il s'agit d'un fragment de textile qui présente un aspect général en damier. Des carrés de couleur unie sont placés en alternance avec carrés dessinés qui représentent des formes animales et humanoïdes. On estime que cet artéfact aurait pu faire partie d’une plus grande pièce de textile, selon le fait que ces côtés gauche et droit n'ont pas de bords finis ou de lisières.
-<param ve-graphic  
-    url="https://user-images.githubusercontent.com/101141372/160945065-58588835-fef8-47b5-af2d-caafebf4277b.jpeg" 
+<param ve-graphic url="https://user-images.githubusercontent.com/101141372/160945065-58588835-fef8-47b5-af2d-caafebf4277b.jpeg" 
     title="Tapisserie de rituel (vers 600 CE) 124,46 x 160,02 cm, coton et laine"/>
-    
 <param ve-iframe 
     src="https://onlinecollections.syr.edu/objects/21790/textile-fragment--ritual-tapestry?ctx=b3191cd3bdc7bbf06a7af9e0d18b42d2740e2ba6&idx=3" />
 
- Les techniques de tissage entre croisées et l'imagerie iconographique utilisées dans ce textile indiquent qu'il a été fabriqué pendant l'empire Huari (600 - 1100 AD). L’iconographie renvoie à une culture aujourd'hui connue sous le nom de *Chavin* (900 - 200 BCE) qui est née dans les hautes terres du nord du Pérou. Parmi les icônes religieuses des *Chavin*, on trouve une divinité portant un bâton et une figure féline, cette divinité décoraient principalement les textiles cérémoniels spécifiques. 
- <param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/a/af/Raimondi_Stela_%28Chavin_de_Huantar%29.svg" 
+Les techniques de tissage entre croisées et l'imagerie iconographique utilisées dans ce textile indiquent qu'il a été fabriqué pendant l'empire Huari (600 - 1100 AD). L’iconographie renvoie à une culture aujourd'hui connue sous le nom de *Chavin* (900 - 200 BCE) qui est née dans les hautes terres du nord du Pérou. Parmi les icônes religieuses des *Chavin*, on trouve une divinité portant un bâton et une figure féline, cette divinité décoraient principalement les textiles cérémoniels spécifiques. 
+ <param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/a/af/Raimondi_Stela_%28Chavin_de_Huantar%29.svg" 
   title="La Stèle de Raimondi, découverte sur le site de Chavín de Huantar au Pérou par Antonio Raimondi (1875), déssiné dans son livre *El Perù*"/>
  
 Ce qui suggère que ce fragment ne soit pas une partie manquante d’un vêtement et devait donc être destiné à un usage rituel. Il est également suggéré, quant à l’absence de l’écriture, les textiles religieux pouvaient avoir un but narratif, le tisserand ayant été le "verbalisateur" de l'histoire.
