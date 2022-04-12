@@ -18,7 +18,7 @@ La tapisserie a traditionnellement été un art collectif combinant les talents 
 
 De La Rochefoucauld, G.-C. (1966). “L’Égypte des tissus”. Vie des arts, (43), 60–67, URL : https://www.erudit.org/fr/revues/va/1966-n43-va1201520/58380ac/ .
 
-•	Kares, Jean Louise. (2010), “Playing Host to Cultural Prestige : Imperial Agency in Two Manchu Kesi.” Thèses et mémoires électroniques (ETD) 2008. T, University of British Columbia. URL: doi:http://dx.doi.org/10.14288/1.0070977 .
+•	Kares, Jean Louise. (2010), “Playing Host to Cultural Prestige: Imperial Agency in Two Manchu Kesi.” Thèses et mémoires électroniques (ETD) 2008. T, University of British Columbia. URL: doi:http://dx.doi.org/10.14288/1.0070977 .
 
 •	Madeleine Jarry, (8 mars 2019), "Tapestry". Encyclopedia Britannica, URL : https://www.britannica.com/art/tapestry .
 
@@ -67,7 +67,7 @@ Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois 
 
 ## Tapisserie Kesi chinoise représentant des fleurs de prunier et des pies en hiver 
 
-Le *kesi* ou en chinois traditionnel 緙絲, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
+Le *kesi* ou en chinois traditionnel, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
 <param ve-graphic  
  url="https://user-images.githubusercontent.com/101141372/160939664-84012dba-2638-4ad3-a10a-67029673b279.png" 
     title="Tapisserie Kesi représentant des fleurs de prunier et des pies en hiver (1127-1279) 104 x 36 cm, soie, Shen Zifan"/>
