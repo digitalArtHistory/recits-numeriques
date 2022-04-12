@@ -28,13 +28,11 @@ De La Rochefoucauld, G.-C. (1966). “L’Égypte des tissus”. Vie des arts, (
 ## La Tapisserie de Bayeux
 
 La Tapisserie de Bayeux est un artéfact retraçant la conquête de l'Angleterre par Guillaume le Conquérant (1027 - 1087), duc de Normandie, lors de la bataille d'Hastings en 1066. Cette tapisserie est considérée comme une broderie, en dépit de son nom, elle relève d’une technique aux points d’aiguille qui est directement cousue sur la toile alors qu’une tapisserie est tissée sur un métier manuel ou mécanique.
-<param ve-graphic 
-  url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Bayeux_Tapestry_scene1_Edward.jpg" 
+<param ve-graphic url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Bayeux_Tapestry_scene1_Edward.jpg" 
   title=" Détails de la broderie" />
 
 On peut relever ce point, à l’aide des neuf panneaux de lin reliés les un aux autres et des quatre points de broderie pour les couleurs.
-<param ve-graphic 
-  url="https://www.perseus-web.fr/nar6/uploads/tapisserie-de-bayeux-ok.jpg" 
+<param ve-graphic url="https://www.perseus-web.fr/nar6/uploads/tapisserie-de-bayeux-ok.jpg" 
   title=" Tapisserie de Bayeux (1070-1080) 70 × 6 830 cm, fils de laine sur toile de lin" />
   
   <param ve-iframe 
