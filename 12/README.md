@@ -74,7 +74,7 @@ Le *kesi* ou en chinois traditionnel, est une technique de tapisserie entièreme
        />
 
 Le tissage est parfaitement fini des deux côtés, de sorte que les tapisseries sont réversibles. Les chaînes sont verticales par rapport au motif, plutôt qu'horizontales comme dans le tissage européen. Occasionnellement, le tisserand utilise des fils métalliques pour rendre ses tentures plus somptueuses ou met en valeur le motif par la peinture, bien que cela ne soit pas considéré comme un expédient louable. Comme ce parchemin-ci qui a été confectionné à l’aide d’une petite navette enfilée avec des fils de soie, de quinze à seize couleurs, qui a été manœuvrée au cours du processus de tissage pour présenter le schéma de couleurs de la peinture originale.
-<param ve-graphic url="https://user-images.githubusercontent.com/101141372/160940992-49ea0113-e3e2-4758-a65b-f7d6a63ffeb9.png" 
+<param ve-graphic url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/ktanton-work-patch-1/12/160940992-49ea0113-e3e2-4758-a65b-f7d6a63ffeb9.png" 
     title="Détail du kesi"
     fit="contain"
        />
