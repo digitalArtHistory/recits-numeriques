@@ -27,13 +27,13 @@ Une petite vidéo bien relax pour casser toute la concentration de tout cela. Il
 This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k327545t/manifest.json" />
-    
-This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
-<param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/f1/full/full/0/native.jpg" />
+   
 
 [La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. 
 <param ve-image url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" />
 
+This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
+<param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/f1/full/full/0/native.jpg" />
 
 
 
