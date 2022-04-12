@@ -60,11 +60,12 @@ Par ailleurs, le peintre, Jean d’Ypres (inconnue - 1508), qui a dessiné à gr
 <param ve-image 
   manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8431388k/manifest.json" />
 
-Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces: les Le Viste. 
+<!--Les armoiries, de gueules (rouge) à la bande d’azur (bleu) chargée de trois croissants d’argent (blanc) ont permis d’identifier la famille qui a fait tisser ces pièces: les Le Viste. 
 <param ve-graphic 
   url="https://upload.wikimedia.org/wikipedia/commons/9/96/%28Toulouse%29_L%27Ou%C3%AFe_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris_-_Blason_d%27Antoine_Le_Viste.jpg" 
-  title="Armoire représentative des Le Viste"/>
-
+  title="Armoire représentative des Le Viste"/> -->
+  
+  
 ## Tapisserie Kesi chinoise représentant des fleurs de prunier et des pies en hiver 
 
 Le *kesi* ou en chinois traditionnel, est une technique de tapisserie entièrement fait de fils de soie, parfois de différentes couleurs et finis. Les plus anciens exemples de kesi datent de la dynastie Tang (618 - 907 CE), mais il  est vraiment considéré comme un art autour de la dynastie Song (960 - 1279) à la dynastie Qing (1644 - 1911), car cette famille impériale encourageait la peinture et patronnait l'art de la tapisserie particulièrement. 
