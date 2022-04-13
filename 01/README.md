@@ -46,11 +46,6 @@ Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
  
-![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/KFMOSV/01-007401.jpg)
-<param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
-  title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
- 
 L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animal ainsi que des vues de chasses sur fond végétal et le cément affichant une scène de l’Ascension. En effet, l’objet soulève une conscience des fondements sociétaux islamiques et chrétiens qui discordent étant facteur d’une esthétique hybride.
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
