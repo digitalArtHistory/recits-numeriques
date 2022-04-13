@@ -74,7 +74,7 @@ Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du
   
 La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique apparent d’abord à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditative certes, mais également une profusion de motifs liés à la nature. La colonnette de l’église abbatiale de Saint-Denis sculptée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.  
 <param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/colonnette-a-decor-de-rinceaux-habites/rf_1249_18/s,900-f30f1e.jpg" 
+  url="https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/N0X0DO/07-535499.jpg" 
   title="Colonnette à rinceau habité" />
 
 Discernée tel qu’un éventail décoratif, l’examen de l’œuvre préférablement comme un agencement de l’espèce végétale et animale occupant la spatialité extérieure du bâtiment relève une image monumentale tout aussi didactique que l’Olifant de Metz. En effet, le traitement des rinceaux dit habité érige des feuilles de palmette dissimulant des hommes, des oiseaux et une lionne qui remémorent l’impuissance des croyants vis-à-vis le sauvage. Un rituel rythmé par les branches, puis performé au moyen de la tension entre figuration humaine et bestiale caractérisant la résistance au désir charnel à la base du péché originel. Les formes rudimentaires de la nature disposent une agentivité qui rappelle et cristallise l’Homme en tant qu’être vulnérable pendant une expérience liminale. 
