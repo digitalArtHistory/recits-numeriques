@@ -70,10 +70,23 @@ Argent moulé avec dorure de mercure de dimension 6,4 cm (longueur) x 7,8 cm (la
 La  dynastie Tang gouverne la Chine entre le VIIe et Xe siècle soit une période où la route du commerce de la soie autorise d’une part une ouverture culturelle envers l’héritage byzantin, puis d’autre part un déplacement des techniques du travail métallurgique arabe. Ces échanges engendrent la fabrication des ustensiles à esthétique variée incluant une représentation de la nature plus passive.  
 <param ve-image url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" />
 
-La Tasse à vin avec poignée d’anneau renvoie vers un dynamisme de viticulture doté d’une théâtralité issue par la composition enchevêtrée de la vignette avec les oiseaux et un lapin en motion. Ceux-ci, retracés par le doré du mercure, contrastent avec l’argent des vrilles de la plante du raisin afin d’assurer un éclat traduisant une image fantasmée.![image](https://kimon.hosting.nyu.edu/sogdians/files/fullsize/808f622ca0c3556d4b8cfc8b503131fa.jpg)
+La Tasse à vin avec poignée d’anneau renvoie vers un dynamisme de viticulture doté d’une théâtralité issue par la composition enchevêtrée de la vignette avec les oiseaux et un lapin en motion. Ceux-ci, retracés par le doré du mercure, contrastent avec l’argent des vrilles de la plante du raisin afin d’assurer un éclat traduisant une image fantasmée.
 
 À cet égard, la confection de ferronnerie exotique avec l’imaginaire de rinceaux abrités légitime des traditions généralement à connotation religieuse pour les empires de l’Est, et parmi eux la colonnette-statut. À appréhender une réciprocité tolérée grâce à un vocabulaire optique stylistique. Ici, l’utilisation de motifs rudimentaires par les artisans du récipient souligne le caractère suprême de la nature, car celle-ci offre un langage universel. 
 
+
+## Mosaïque de Temanaa
+### Étiquette
+Tesselle (pierre inconnu) de dimension 8000 cm (longueur) x 781 cm (largeur), seconde moitié du Ve siècle, panneau central de la nef dedans la petite église de paroisse Temanaa, située dans le Nord-Ouest de la Syrie (région Apamène), musée (?).
+
+Dès l’Antiquité tardive, le pèlerinage est une activité ancienne dont la pratique nécessite un programme visuel manifestant les bases de la cosmographie dans le but de miroiter l’intemporalité de l’univers. Une situation auquel le Moyen-Orient y atteste avec les Églises byzantines aménagées afin d’affirmer le statut sacré de Jérusalem, voire souvent associé au Saint-Sépulcre. 
+<param ve-graphic 
+  url="https://journals.openedition.org/syria/docannexe/image/1647/img-3-small580.jpg" 
+  title="Mosaique du panneau central de la nef" />
+
+La mosaïque de Temanaa en témoigne à travers une mise en scène suivant un vocabulaire optique symétrique. Ainsi, et comparativement à l’œuvre précédente, le panneau implique une harmonie des paysages de chasse animalière et du paysage végétal à fruits abondant. Cette distribution d’espèces vivant de part et d’autre d’un axe pour identifier le Paradis revient à saluer la nature comme agent immortel relativement aux organisations sociétales sur terre. 
+
+D’ailleurs, c’est une configuration répandue telle que discernée dans l’enlumineur La Fontaine de vie de l’Évangéliaire de Saint-Médard de Soissons réalisé vers le IXe siècle. Une copie accomplie dans la cour impériale de Charlemagne quatre siècles plus tard, mais privilégiant une schématisation du jardin qui évoque l’architecture médiévale. Une réinterprétation de l’image par l’Empire-Occidental accentuant l’écart entre le civilisé et le monde primaire, mais de façon plus critique à savoir qu’il ne consiste pas d’exalter le paradis autant qu’afficher la compétence insurpassée de la nature.
 
 
 
