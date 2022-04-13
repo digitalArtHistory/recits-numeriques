@@ -55,12 +55,14 @@ Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à
 ### Étiquette
 Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du XIIe siècle, provient du portail occidental de l’église abbatiale de Saint-Denis en France localisée à l’extrême droite de la façade, et présentement conservée au musée d’Orsay suite au dépôt du musée de Louvre en 1914. 
 
-La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique faisant apparition au préalable à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditatif certes, mais également une profusion de motifs liés à la nature. La colonnette de l’église abbatiale de Saint-Denis réalisée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs. 
+La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique apparent d’abord à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditative certes, mais également une profusion de motifs liés à la nature. La colonnette de l’église abbatiale de Saint-Denis sculptée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.  
 <param ve-graphic 
   url="https://sculpturesmedievales-cluny.fr/img/zoom/07-535500.jpg" 
   title="Colonnette à rinceau habité" />
 
-Discernée tel qu’un éventail décoratif végétal, l’examen de l’œuvre préférablement comme une des nombreuses images monumentales qui occupent la spatialité située en dehors des bâtiments du Moyen-âge relève un traitement des rinceaux dites habités. En effet, les feuilles de palmettes dissimulant des hommes, monstres ou des créatures métissées performent un rituel qui remémore la prépondérance du  sauvage vis-à-vis le désir charnel voire une caractéristique humaine à la base du péché originel. Donc, ces formes rudimentaires disposent une agentivité qui rappel et fixe l’Homme en tant sujet vulnérable.
+Discernée tel qu’un éventail décoratif, l’examen de l’œuvre préférablement comme un agencement de l’espèce végétale et animale occupant la spatialité extérieure du bâtiment relève une image monumentale tout aussi didactique que l’Olifant de Metz. En effet, le traitement des rinceaux dit habité érige des feuilles de palmette dissimulant des hommes, des oiseaux et une lionne qui remémorent l’impuissance des croyants vis-à-vis le sauvage. Un rituel rythmé par les branches, puis performé au moyen de la tension entre figuration humaine et bestiale caractérisant la résistance au désir charnel à la base du péché originel. Les formes rudimentaires de la nature disposent une agentivité qui rappelle et cristallise l’Homme en tant qu’être vulnérable pendant une expérience liminale. 
+
+
 
 
 
