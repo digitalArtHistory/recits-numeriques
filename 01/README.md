@@ -41,14 +41,12 @@ Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%202/s,900-3afa62.jpg" 
   title="Olifant de Saint-Arnoul de Metz, une vue de profile" />
 
-Œuvre associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un répertoire naturel important. 
-
-L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animal ainsi que des vues de chasses sur fond végétal et le cément affichant une scène de l’Ascension. En effet, l’objet soulève une conscience des fondements sociétaux islamiques et chrétiens qui discordent étant facteur d’une esthétique hybride.
+Œuvre associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un répertoire naturel important.L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animal ainsi que des vues de chasses sur fond végétal et le cément affichant une scène de l’Ascension. En effet, l’objet soulève une conscience des fondements sociétaux islamiques et chrétiens qui discordent étant facteur d’une esthétique hybride.
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
  
-Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à travers un épisode biblique peut refléter le dogme de l’incarnation. L’élévation disposée au cœur d’un groupe sauvage fixe une iconographie totale qui joue sur l’humanité et la divinité du Christ. Une double existence possible d’épier avec les anges comme emblème du divin, et la Vierge dont les créatures volantes à ses pieds qui semblent lui ramener une grappe soit le sang sacrifié du Christ. Ainsi, les motifs de la nature ont une fonction didactique stipulant une subordination de tout outre que le prophète.     
+Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à travers un épisode biblique peut refléter le dogme de l’incarnation. L’élévation disposée au cœur d’un groupe sauvage fixe une iconographie totale qui joue sur l’humanité et la divinité du Christ.Une double existence possible d’épier avec les anges comme emblème du divin, et la Vierge dont les créatures volantes à ses pieds qui semblent lui ramener une grappe soit le sang sacrifié du Christ. Ainsi, les motifs de la nature ont une fonction didactique stipulant une subordination de tout outre que le prophète.     
 
   
 ## Colonnette Statue 
