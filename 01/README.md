@@ -46,8 +46,8 @@ Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title="Olifant de Saint-Arnoul de Metz, une vue frontale" />
 
-![image](https://www.parisinsidersguide.com/image-files/xcluny-museum-ivory-by-adrian-scottow-widipedia-commons-800-2x1.jpg.pagespeed.ic.19kzHF_NwZ.jpg)
 ![image](https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant/s,900-9de2d7.jpg)
+![image](https://www.parisinsidersguide.com/image-files/xcluny-museum-ivory-by-adrian-scottow-widipedia-commons-800-2x1.jpg.pagespeed.ic.19kzHF_NwZ.jpg)
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title="Olifant de Saint-Arnoul de Metz, une vue frontale" />
