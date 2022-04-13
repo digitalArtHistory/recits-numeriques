@@ -63,10 +63,16 @@ La naissance du réseau de commanditaires est une réalité du chantier médiév
 Discernée tel qu’un éventail décoratif, l’examen de l’œuvre préférablement comme un agencement de l’espèce végétale et animale occupant la spatialité extérieure du bâtiment relève une image monumentale tout aussi didactique que l’Olifant de Metz. En effet, le traitement des rinceaux dit habité érige des feuilles de palmette dissimulant des hommes, des oiseaux et une lionne qui remémorent l’impuissance des croyants vis-à-vis le sauvage. Un rituel rythmé par les branches, puis performé au moyen de la tension entre figuration humaine et bestiale caractérisant la résistance au désir charnel à la base du péché originel. Les formes rudimentaires de la nature disposent une agentivité qui rappelle et cristallise l’Homme en tant qu’être vulnérable pendant une expérience liminale. 
 
 
+## Tasse à vin avec poignée d'anneau
+### Étiquette
+Argent moulé avec dorure de mercure de dimension 6,4 cm (longueur) x 7,8 cm (largeur), fin VIIe siècle lié au règne de la dynastie Tang, et récupéré de la province chinoise Shaanxi (plausiblement Xi’an), en provenance de Yamanaka, puis acheté en 1930 par la Galerie d'art Freer à Boston étant reconnue par le National Museum of Asian Art.
 
+La  dynastie Tang gouverne la Chine entre le VIIe et Xe siècle soit une période où la route du commerce de la soie autorise d’une part une ouverture culturelle envers l’héritage byzantin, puis d’autre part un déplacement des techniques du travail métallurgique arabe. Ces échanges engendrent la fabrication des ustensiles à esthétique variée incluant une représentation de la nature plus passive.  
+<param ve-image url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" />
 
+La Tasse à vin avec poignée d’anneau renvoie vers un dynamisme de viticulture doté d’une théâtralité issue par la composition enchevêtrée de la vignette avec les oiseaux et un lapin en motion. Ceux-ci, retracés par le doré du mercure, contrastent avec l’argent des vrilles de la plante du raisin afin d’assurer un éclat traduisant une image fantasmée.
 
-
+À cet égard, la confection de ferronnerie exotique avec l’imaginaire de rinceaux abrités légitime des traditions généralement à connotation religieuse pour les empires de l’Est, et parmi eux la colonnette-statut. À appréhender une réciprocité tolérée grâce à un vocabulaire optique stylistique. Ici, l’utilisation de motifs rudimentaires par les artisans du récipient souligne le caractère suprême de la nature, car celle-ci offre un langage universel. 
 
 
 
