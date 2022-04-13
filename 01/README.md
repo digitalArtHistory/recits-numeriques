@@ -52,11 +52,7 @@ Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
-  
-![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/86ZXAM/13-528702.jpg)
-<param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
-  title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
+  ![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/86ZXAM/13-528702.jpg)
 
   
 ## Colonnette Statue 
