@@ -90,6 +90,9 @@ La mosaïque de Temanaa en témoigne à travers une mise en scène suivant un v
   title="Mosaique du panneau central de la nef" />
 
 ![image](https://kimon.hosting.nyu.edu/sogdians/files/fullsize/808f622ca0c3556d4b8cfc8b503131fa.jpg) ![image](https://journals.openedition.org/syria/docannexe/image/1647/img-17-small480.jpg)
+<param ve-graphic 
+  url="https://journals.openedition.org/syria/docannexe/image/1647/img-3-small580.jpg" 
+  title="Mosaique du panneau central de la nef" />
 
 D’ailleurs, c’est une configuration répandue telle que discernée dans l’enlumineur *La Fontaine de vie de l’Évangéliaire* de Saint-Médard de Soissons réalisé vers le IXe siècle. Une copie accomplie dans la cour impériale de Charlemagne quatre siècles plus tard, mais privilégiant une schématisation du jardin qui évoque l’architecture médiévale. Une réinterprétation de l’image par l’Empire-Occidental accentuant l’écart entre le civilisé et le monde primaire, mais de façon plus critique à savoir qu’il ne consiste pas d’exalter le paradis autant qu’afficher la compétence insurpassée de la nature.
 <param ve-image 
