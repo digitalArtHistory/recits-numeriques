@@ -41,7 +41,8 @@ Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%202/s,900-3afa62.jpg" 
   title="Olifant de Saint-Arnoul de Metz, une vue de profile" />
 
-Œuvre associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un répertoire naturel important.<param ve-graphic 
+Œuvre associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un répertoire naturel important.
+<param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
  
