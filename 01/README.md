@@ -22,10 +22,15 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
     seq="13" />
     
 **Bibliographie**
+-Freer Gallery of Art. « Wine cup with ring handle, birds, animals and grape vines». 2022. [Telling the Sogdian Story: A Freer|Sackler Digitaal Exhibition Project](https://kimon.hosting.nyu.edu/sogdians/items/show/941)
 
--Maaike van der Lugt. 2011. « L’autorité morale et normative de la nature au Moyen Àge ». Paris. France. [HAL open science](https://halshs.archives-ouvertes.fr/halshs-00999421/document)
+-Jouéjati, Rafah. 2012. « L’église de Temanaa ». *Syria Archéologie, art et histoire*. (p.243-245). [OpenEdition](https://journals.openedition.org/syria/1647)
 
--Rosser-Owen. Mariam. 2015.«The Olifant: A call for a shift of perspective ». Dans Romanesque and the Mediterranean. British Archéologie Association. (p.20). [PDFCOFFEE](https://pdfcoffee.com/oliphantcall-for-shift-of-perspective-1-pdf-free.html)
+-Maaike van der Lugt. 2011. « L’autorité morale et normative de la nature au Moyen Àge: Essai comparatif et introduction». Université Paris Diderot. Paris. France.(p3-40). [HAL open science](https://halshs.archives-ouvertes.fr/halshs-00999421/document)
+
+-Rosser-Owen, Mariam. 2015.«The Olifant: A call for a shift of perspective ». Dans *Romanesque and the Mediterranean*. British Archéologie Association. (p.20). [PDFCOFFEE](https://pdfcoffee.com/oliphantcall-for-shift-of-perspective-1-pdf-free.html)
+
+-Trivellone, Alessia. 2014. « Images, rites et magie aux marges des églises dans l’Occident médéivale». *Revue de l’histoire des religions*. (p.784). [OpenEdition](https://journals.openedition.org/rhr/8333?lang=en)
 
 
 ## Olifant
