@@ -49,10 +49,12 @@ L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les b
   title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
  
 Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à travers un épisode biblique peut refléter le dogme de l’incarnation. L’élévation disposée au cœur d’un groupe sauvage fixe une iconographie totale qui joue sur l’humanité et la divinité du Christ.Une double existence possible d’épier avec les anges comme emblème du divin, et la Vierge dont les créatures volantes à ses pieds qui semblent lui ramener une grappe soit le sang sacrifié du Christ. Ainsi, les motifs de la nature ont une fonction didactique stipulant une subordination de tout outre que le prophète.  
+
+![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/86ZXAM/13-528702.jpg)
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
-  ![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/86ZXAM/13-528702.jpg)
+
 
   
 ## Colonnette Statue 
