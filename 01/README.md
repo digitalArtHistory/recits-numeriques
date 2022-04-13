@@ -66,6 +66,7 @@ Discernée tel qu’un éventail décoratif, l’examen de l’œuvre préférab
 ## Tasse à vin avec poignée d'anneau
 ### Étiquette
 Argent moulé avec dorure de mercure de dimension 6,4 cm (longueur) x 7,8 cm (largeur), fin VIIe siècle lié au règne de la dynastie Tang, et récupéré de la province chinoise Shaanxi (plausiblement Xi’an), en provenance de Yamanaka, puis acheté en 1930 par la Galerie d'art Freer à Boston étant reconnue par le National Museum of Asian Art.
+<param ve-image url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" />
 
 La  dynastie Tang gouverne la Chine entre le VIIe et Xe siècle soit une période où la route du commerce de la soie autorise d’une part une ouverture culturelle envers l’héritage byzantin, puis d’autre part un déplacement des techniques du travail métallurgique arabe. Ces échanges engendrent la fabrication des ustensiles à esthétique variée incluant une représentation de la nature plus passive.  
 <param ve-image url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" />
@@ -78,6 +79,9 @@ La Tasse à vin avec poignée d’anneau renvoie vers un dynamisme de viticultur
 ## Mosaïque de Temanaa
 ### Étiquette
 Tesselle (pierre inconnu) de dimension 8000 cm (longueur) x 781 cm (largeur), seconde moitié du Ve siècle, panneau central de la nef dedans la petite église de paroisse Temanaa, située dans le Nord-Ouest de la Syrie (région Apamène), musée (?).
+<param ve-graphic 
+  url="https://journals.openedition.org/syria/docannexe/image/1647/img-3-small580.jpg" 
+  title="Mosaique du panneau central de la nef" />
 
 Dès l’Antiquité tardive, le pèlerinage est une activité ancienne dont la pratique nécessite un programme visuel manifestant les bases de la cosmographie dans le but de miroiter l’intemporalité de l’univers. Une situation auquel le Moyen-Orient y atteste avec les Églises byzantines aménagées afin d’affirmer le statut sacré de Jérusalem, voire souvent associé au Saint-Sépulcre. 
 <param ve-graphic 
@@ -103,14 +107,17 @@ D’ailleurs, c’est une configuration répandue telle que discernée dans l’
 ## Textile andalouse
 ### Étiquette
 Soie travaillée à partir de la technique Lampas, fragment daté entre le  XIVe et XVe siècle attribué à l’héritage de la période Nasrid en Espagne, acquis par le Metropolitan Museum of Art en 1912, New York.
+<param ve-image url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" />
 
 La soierie andalouse est un type de tissu à esthétique géométrique qui comprend des médaillons circulaires, des arabesques et des formes primitives correspondant à un savoir-faire approximativement généré entrent le IVe et XVe siècle dont la fin du siècle est marquée par l’écroulement du dernier royaume musulman producteur en Espagne, les Nasrides.
 <param ve-image url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" />
 
 L’échantillon examiné rend en trois registres des formes floraux, des merlons pyramidaux et des palmiers séparant deux oiseaux confrontés tout sur un fond rouge-brun où la manière méthodique pour d’éployer la végétation et l’animal apparaît plus tactique que l’entremêlé habituellement conçu chez les rinceaux habités. 
 Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il est possible de déceler dans le niveau supérieur une optique, bien qu’abstraite, faisant entrevoir une expérience formelle équivalente à celle de la mosaïque de Temanaa au niveau du Saint-Sépulcre.
+<param ve-image url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" />
 
 ![image](https://journals.openedition.org/syria/docannexe/image/1647/img-16-small480.jpg)
+<param ve-image url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" />
 
 Concernant le contenu, l’absence du contexte paradisiaque et/ou architectural occasionne un  sens  moins symbolique des oiseaux affrontés avec leur palmier. Dans ce cas, il s’agit d’emprunter un sujet sauvage distingué du sujet civilisé par le fait qu’il préserve la beauté initiatrice de la Création. Autrement dit, le textile incarne un motif  beau, un motif pur, une nature qui impose sa perfection pouvant être analogue à la réception de l’enlumineur *La Fontaine de vie*.
 <param ve-image url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" />
