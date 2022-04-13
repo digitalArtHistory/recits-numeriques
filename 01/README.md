@@ -22,6 +22,7 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
     seq="13" />
     
 **Bibliographie**
+
 -Freer Gallery of Art. « Wine cup with ring handle, birds, animals and grape vines». 2022. [Telling the Sogdian Story: A Freer|Sackler Digitaal Exhibition Project](https://kimon.hosting.nyu.edu/sogdians/items/show/941)
 
 -Jouéjati, Rafah. 2012. « L’église de Temanaa ». *Syria Archéologie, art et histoire*. (p.243-245). [OpenEdition](https://journals.openedition.org/syria/1647)
@@ -35,24 +36,20 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
 
 ## Olifant
 ### Étiquette 
-Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe siècle retrouvé en Italie du Sud faisant partie du trésor de Saint-Arnoul de Metz et actuellement acquis par le musée Cluny, Paris. 
+Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe siècle retrouvé en Italie du Sud faisant partie du trésor de Saint-Arnoul de Metz et actuellement acquis en 1893 par le musée Cluny, Paris. 
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%202/s,900-3afa62.jpg" 
   title="Olifant de Saint-Arnoul de Metz, une vue de profile" />
 
-Œuvre d’abord associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un important répertoire naturel. 
+Œuvre associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un répertoire naturel important. 
 
-L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre un banquet animalesque ainsi qu'aux bords le thème de chasse sur fond végétal et le cément affichant une scène de l’Ascension. 
-<param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%204/s,900-be0375.jpg" 
-  title="Olifant de Saint-Arnoul de Metz, le dos" />
- 
-Quant à la valeur de cet objet encore méconnu, une importante polémique tourne autour de la notion stylistique relevant une conscience des fondements sociétaux islamiques et chrétiens qui discorde voire facteur d’une esthétique hybride. 
-
-À appréhender une création incarnant une cohabitation des formes rudimentaires avec la figuration. De plus, cet épisode biblique marque une idée de hiérarchie, car l’élévation de Jésus-Christ s’orient plutôt vers le monde sauvage offrant finalement une iconographie qui note un statut subordonné de l’humanité. 
+L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animal ainsi que des vues de chasses sur fond végétal et le cément affichant une scène de l’Ascension. En effet, l’objet soulève une conscience des fondements sociétaux islamiques et chrétiens qui discordent étant facteur d’une esthétique hybride.
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
+ 
+Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à travers un épisode biblique peut refléter le dogme de l’incarnation. L’élévation disposée au cœur d’un groupe sauvage fixe une iconographie totale qui joue sur l’humanité et la divinité du Christ. Une double existence possible d’épier avec les anges comme emblème du divin, et la Vierge dont les créatures volantes à ses pieds qui semblent lui ramener une grappe soit le sang sacrifié du Christ. Ainsi, les motifs de la nature ont une fonction didactique stipulant une subordination de tout outre que le prophète.     
+
   
 ## Colonnette Statue 
 ### Étiquette
