@@ -38,14 +38,19 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
 ### Étiquette 
 Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe siècle retrouvé en Italie du Sud faisant partie du trésor de Saint-Arnoul de Metz et actuellement acquis en 1893 par le musée Cluny, Paris. 
 <param ve-graphic 
-  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%202/s,900-3afa62.jpg" 
-  title="Olifant de Saint-Arnoul de Metz, une vue de profile" />
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
+  title="Olifant de Saint-Arnoul de Metz, une vue frontale" />
 
 Œuvre associé à la chasse noble, ensuite réassignée à l’Église en tant qu’un reliquaire soit une corne communément fabriquée entre le XIe et XIIe siècle à partir d’une défense d’éléphant ayant une surface taillée de nombreux motifs dont un répertoire naturel important.
 <param ve-graphic 
-  url="https://www.parisinsidersguide.com/image-files/xcluny-museum-ivory-by-adrian-scottow-widipedia-commons-800-2x1.jpg.pagespeed.ic.19kzHF_NwZ.jpg" 
-  title=" Olifant de Saint-Arnoul de Metz, une vue frontale" />
- 
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
+  title="Olifant de Saint-Arnoul de Metz, une vue frontale" />
+
+![image](https://www.parisinsidersguide.com/image-files/xcluny-museum-ivory-by-adrian-scottow-widipedia-commons-800-2x1.jpg.pagespeed.ic.19kzHF_NwZ.jpg)![image]( https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%202/s,900-3afa62.jpg)
+<param ve-graphic 
+  url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
+  title="Olifant de Saint-Arnoul de Metz, une vue frontale" />
+
 L’olifant du trésor de Saint-Arnoul de Metz illustre une dualité entre les bords contenant un banquet animal ainsi que des vues de chasses sur fond végétal et le cément affichant une scène de l’Ascension. En effet, l’objet soulève une conscience des fondements sociétaux islamiques et chrétiens qui discordent étant facteur d’une esthétique hybride.
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
