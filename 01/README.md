@@ -85,6 +85,9 @@ Dès l’Antiquité tardive, le pèlerinage est une activité ancienne dont la p
   title="Mosaique du panneau central de la nef" />
 
 La mosaïque de Temanaa en témoigne à travers une mise en scène suivant un vocabulaire optique symétrique. Ainsi, et comparativement à l’œuvre précédente, le panneau implique une harmonie des paysages de chasse animalière et du paysage végétal à fruits abondant. Cette distribution d’espèces vivant de part et d’autre d’un axe pour identifier le Paradis revient à saluer la nature comme agent immortel relativement aux organisations sociétales sur terre.
+<param ve-graphic 
+  url="https://journals.openedition.org/syria/docannexe/image/1647/img-3-small580.jpg" 
+  title="Mosaique du panneau central de la nef" />
 
 ![image](https://kimon.hosting.nyu.edu/sogdians/files/fullsize/808f622ca0c3556d4b8cfc8b503131fa.jpg) ![image](https://journals.openedition.org/syria/docannexe/image/1647/img-17-small480.jpg)
 
