@@ -87,7 +87,9 @@ Dès l’Antiquité tardive, le pèlerinage est une activité ancienne dont la p
 La mosaïque de Temanaa en témoigne à travers une mise en scène suivant un vocabulaire optique symétrique. Ainsi, et comparativement à l’œuvre précédente, le panneau implique une harmonie des paysages de chasse animalière et du paysage végétal à fruits abondant. Cette distribution d’espèces vivant de part et d’autre d’un axe pour identifier le Paradis revient à saluer la nature comme agent immortel relativement aux organisations sociétales sur terre. 
 
 D’ailleurs, c’est une configuration répandue telle que discernée dans l’enlumineur La Fontaine de vie de l’Évangéliaire de Saint-Médard de Soissons réalisé vers le IXe siècle. Une copie accomplie dans la cour impériale de Charlemagne quatre siècles plus tard, mais privilégiant une schématisation du jardin qui évoque l’architecture médiévale. Une réinterprétation de l’image par l’Empire-Occidental accentuant l’écart entre le civilisé et le monde primaire, mais de façon plus critique à savoir qu’il ne consiste pas d’exalter le paradis autant qu’afficher la compétence insurpassée de la nature.
-
+<param ve-image 
+    manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452550p/manifest.json" 
+    seq="21" />
 
 
 
