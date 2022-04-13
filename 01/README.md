@@ -86,15 +86,21 @@ Dès l’Antiquité tardive, le pèlerinage est une activité ancienne dont la p
 
 La mosaïque de Temanaa en témoigne à travers une mise en scène suivant un vocabulaire optique symétrique. Ainsi, et comparativement à l’œuvre précédente, le panneau implique une harmonie des paysages de chasse animalière et du paysage végétal à fruits abondant. Cette distribution d’espèces vivant de part et d’autre d’un axe pour identifier le Paradis revient à saluer la nature comme agent immortel relativement aux organisations sociétales sur terre. 
 
-D’ailleurs, c’est une configuration répandue telle que discernée dans l’enlumineur La Fontaine de vie de l’Évangéliaire de Saint-Médard de Soissons réalisé vers le IXe siècle. Une copie accomplie dans la cour impériale de Charlemagne quatre siècles plus tard, mais privilégiant une schématisation du jardin qui évoque l’architecture médiévale. Une réinterprétation de l’image par l’Empire-Occidental accentuant l’écart entre le civilisé et le monde primaire, mais de façon plus critique à savoir qu’il ne consiste pas d’exalter le paradis autant qu’afficher la compétence insurpassée de la nature.
+D’ailleurs, c’est une configuration répandue telle que discernée dans l’enlumineur *La Fontaine de vie de l’Évangéliaire* de Saint-Médard de Soissons réalisé vers le IXe siècle. Une copie accomplie dans la cour impériale de Charlemagne quatre siècles plus tard, mais privilégiant une schématisation du jardin qui évoque l’architecture médiévale. Une réinterprétation de l’image par l’Empire-Occidental accentuant l’écart entre le civilisé et le monde primaire, mais de façon plus critique à savoir qu’il ne consiste pas d’exalter le paradis autant qu’afficher la compétence insurpassée de la nature.
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452550p/manifest.json" 
     seq="21" />
 
 
+## Textile andalouse
+### Étiquette
+Soie travaillée à partir de la technique Lampas, fragment daté entre le  XIVe et XVe siècle attribué à l’héritage de la période Nasrid en Espagne, acquis par le Metropolitan Museum of Art en 1912, New York.
 
+La soierie andalouse est un type de tissu à esthétique géométrique qui comprend des médaillons circulaires, des arabesques et des formes primitives correspondant à un savoir-faire approximativement généré entrent le IVe et XVe siècle dont la fin du siècle est marquée par l’écroulement du dernier royaume musulman producteur en Espagne, les Nasrides.
+<param ve-image url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" />
 
- 
+L’échantillon examiné rend en trois registres des formes floraux, des merlons pyramidaux et des palmiers séparant deux oiseaux confrontés tout sur un fond rouge-brun où la manière méthodique pour d’éployer la végétation et l’animal apparaît plus tactique que l’entremêlé habituellement conçu chez les rinceaux habités. 
+Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il est possible de déceler dans le niveau supérieur une optique, bien qu’abstraite, faisant entrevoir une expérience formelle équivalente à celle de la mosaïque de Temanaa. Concernant le contenu, l’absence du contexte paradisiaque et/ou architectural occasionne un  sens  moins symbolique des oiseaux affrontés avec leur palmier. Dans ce cas, il s’agit d’emprunter un sujet sauvage distingué du sujet civilisé par le fait qu’il préserve la beauté initiatrice de la Création. Autrement dit, le textile incarne un motif  beau, un motif pur, une nature qui impose sa perfection pouvant être analogue à la réception de l’enlumineur *La Fontaine de vie*. 
 
 
 
