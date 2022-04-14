@@ -54,10 +54,14 @@ Barnet, P. et Dandridge, P. (2006). Lions, Dragons, & Other Beasts: Aquamanilia 
 [(2022). Viking Age. Wolves among Sheeps. *Obelisk Art History*.](https://arthistoryproject.com/timeline/middle-ages/viking-age/)
 
 ## *Draughtsman with a Dog*
-Cette pièce de jeu de dames est gravée dans un os, représentant un chien stylisé. Le jeu de dames est un jeu qui a été joué fréquemment durant l’époque médiévale et il n’était pas incongru de voir des pièces décorées.
+Cette pièce de jeu de dames est gravée dans un os, représentant un chien stylisé. Le jeu de dames est un jeu qui a été joué fréquemment durant l’époque médiévale et il n’était pas incongru de voir des pièces décorées. Durant l'époque médiéval, surtout autour du 13e et 14e siècle, les jeux de table, comme le jeu de dames et les échecs étaient populaires. L'activité se jouait souvent entre les personens désireux d'entrer dans la société, étant donné que le jeu permettait un espace de socialisation. En se développant durant la culture courtoise et le temps de troubadours, les jeux deviennent également une allégorie dans la pratique de la littérature, là ou le motif se développe pour devenir un symbole de la courtoisie. Puisque les jeux de table se jouaient par plusieurs, il est possible de croire que les personens utilisaient les moyens à leur disposition pour fabriquer les pièces nécessaires au jeu. 
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/WOA_IMAGE_1.jpg" />
 
 **Mots-clés:** chien, pion, os, jeu.
+
+**Bibliographie**
+
+[Wills, M. (2021, 243 septembre). Knights and Kings Medieval Chess as Male Bonding. *JSTOR Daily*.](https://daily.jstor.org/knights-and-kings-medieval-chess-as-male-bonding/)
 
 ## *Tombeau de Louis de Male, Marguerite de Brabant et Marguerite de Male*
 La représentation des animaux aux pieds d’un défunt sur les tombeaux témoigne de l’identité de la personne impliquée. Il n’est pas rare de voir des chiens, symbole de loyauté, avec les femmes et le lion, symbole de bravoure, chez les hommes. Les figures animalières peuvent également avoir une fonction héraldique. La construction a suivi la mort de Louis II de Male, le comte de Flandre, le 30 janvier 1384. Entre ses activités politiques et économiques, Louis II de Male était réputé pour inverstir son argent dans le divertissement. Ses conflits avec les autres nations a mené à sa mort, inscrivant sa tombe durant le Moyen Âge tardif.
