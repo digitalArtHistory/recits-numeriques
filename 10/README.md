@@ -60,6 +60,9 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 ## Saint Michel
 
 paragraphe à ajouté
+<param ve-image
+       url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/0000328220_OG.JPG?raw=true"
+       titre="Partie centrale d'un tympan: Saint Michel terrassant le dragon"/>
 
 ## Saint Margueritte d'Antioche
 Je crois qu'elle doit avoir un paragraphe pour avoir un texte associé.
