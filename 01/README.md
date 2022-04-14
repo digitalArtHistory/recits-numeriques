@@ -105,7 +105,7 @@ La  dynastie Tang gouverne la Chine entre le VIIe et Xe siècle soit une périod
 
 ## Mosaïque de Temanaa
 ### Étiquette
-Tesselle (pierre inconnu) de dimension 8000 cm (longueur) x 781 cm (largeur), seconde moitié du Ve siècle, panneau central de la nef dedans la petite église de paroisse Temanaa, située dans le Nord-Ouest de la Syrie (région Apamène), musée (?).
+Tesselle (pierre inconnu) de dimension 8000 cm (longueur) x 781 cm (largeur), seconde moitié du Ve siècle, panneau central de la nef dedans la petite église de paroisse Temanaa, située dans le Nord-Ouest de la Syrie (région Apamène), Musée de Maaret-en-Noman, Syrie.
 <param ve-graphic 
   url="https://journals.openedition.org/syria/docannexe/image/1647/img-3-small580.jpg" 
   title="Mosaique du panneau central de la nef" />
