@@ -64,7 +64,8 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 
 ## Saint Michel
 
-paragraphe à ajouté
+Saint Michel est à la fois protecteur des âmes croyants et l’introducteur des âmes à l’au-delà. Quant à l’image du dragon, dans l’histoire de Saint Michel, il est intimement lié au serpent biblique, tentateur d’Ève et Adam. Dans cette représentation-ci, le dragon n’est pas seulement le mal, mais Satan. Dans les écritures religieuses, il s’agit de l’Archange qui combat Satan (Markale : 1987).
+Œuvre réalisée pour la chapelle Saint-Michel de l’abbaye Notre-Dame de Nevers, aujourd’hui démolie, témoigne d’un style artistique romain. Premièrement, son visage, plus spécifiquement par ses yeux, rappelle les images peintes romanes qu’on aurait adaptées en sculpture (Erlande-Brandenburg: 1978 : 187). Puis, sa posture « tranquille, début sur le corps d’un énorme serpent qui se tord sous ses pieds, en redressant la tête ; des deux mains, il enfonce dans la gueule du monstre la pointe de sa lance » est une iconographie de Saint-Michel qui provient du bas-relief sur la chaire épiscopale au mont Gargan (Jerphanion : 1938 : 367).
 <param ve-image
        url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/0000328220_OG.JPG?raw=true"
        titre="Partie centrale d'un tympan: Saint Michel terrassant le dragon"/>
