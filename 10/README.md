@@ -82,7 +82,9 @@ creer une distanciation
 
 
 ## Saint George
-Tentative de convertir image wiki en iif
+
+C’est l’histoire d’un village qui vit sous l’oppression d’un dragon, qui demande des sacrifices humains pour être nourri. Lorsque la princesse est choisie par le dragon comme prochain sacrifice, Saint George se porte volontaire pour la sauver avec son cheval blanc. Il tue la bête, sauvant à la fois la princesse et le village (Didi-Huberman : 2018).
+Une variété de représentation inimaginable de cette histoire existe dans l’histoire de l’art. Cette pièce particulière est la plus grande sculpture jamais réalisée. Il montre de façon extraordinaire la morphologie du dragon dans les détails. La sculpture a été demandée par le gouverneur de Suède Sten Sture après sa victoire contre les Danois. La bataille de Saint Georges contre le dragon symbolise une fierté nationale où le gouverneur suédois a libéré son territoire des oppresseurs danois (Khrom : 1998).
 <param ve-image
     manifest="https://wd-image-positions.toolforge.org/iiif/Q10661353/P18/manifest.json"/>
 ajouter le texte expliquant son contenu
