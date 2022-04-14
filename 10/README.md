@@ -6,7 +6,9 @@
        layout="vertical">
 
 # Le thème
-
+<param ve-image
+       url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/IMG_5627.jpg?raw=true"
+       Titre="Évolution physique de la représentation du dragon"/>
 L’illustration des dragons est très commune au moyen-âge. Ils se trouvent un peu partout parmi les œuvres d’art, décorations, emblèmes, gourde, etc. Il est fréquent de voir la complexité de leur physique entier en dessin, par exemple celui de [Jacopo Bellini, Saint Georges combattant le dragon, XVe siècle](https://collections.louvre.fr/en/ark:/53355/cl020113220) . À cette époque, dans ce cas-ci on se focalise entre les années 300 et 1500, l’Église est celle qu’utilise l’image du dragon de manière très importante. Il symbolise l’antéchrist que le représentant du bien affronte (Darcheville : 1994 : 93). Il est le vilain récurant dans la Légende dorée, où de nombreux saints le combattent. Pour cette raison, on retrouve le dragon à plusieurs endroits dans les églises soit sur les portails d’entrée, sur les colonnes ou sur les murs. Le physique du dragon s’adapte selon la construction du bâtiment, on peut donc le confondre facilement avec un serpent ou à un animal mythique marin (Darcheville : 1994 : 98-99). 
 
 Il y a également des cas où l’Église se sert de l’image du dragon à leur avantage. Par exemple, le pape Grégoire XIII (1572-1585) dont son emblème était le dragon. Il est alors davantage associé au signe de férocité (Loskoutoff: 2018: 22).
