@@ -32,7 +32,7 @@ Ce pendentif en argent a été retrouvé dans la tombe d’Aska. Cette dernière
        
 #### Piste de réflexion    
 
-Est-ce que la représentation de Freyja sur le pendentif pourrait signifier un désir d’envoyer le **corps** d’Aska à *Fólkvangr* (la salle de Freyja)? Le caractère prestigieux des artefacts retrouvés pourrait indiquer un désir de rendre la **vǫlva** digne de rejoindre sa **déesse, Freyja**. 
+Est-ce que la représentation de Freyja sur le pendentif pourrait signifier un désir d’envoyer le **corps** d’Aska à *Fólkvangr* (la salle de Freyja)? Le caractère prestigieux des artefacts retrouvés pourrait indiquer un désir de rendre la **vǫlva** digne de rejoindre sa **déesse**, Freyja. 
        
 ##### Bâton de Klinta  
 
@@ -41,28 +41,17 @@ Ce bâton était attribué à la vǫlva Klinta. Le terme vǫlva retrouve sa sign
   url="https://historiska.se/wp-content/uploads/2015/04/klintastaven_artikel_541355.jpg" 
   title="Baton Klinta" />
 
-Ceci est un nouveau paragraphe pour les iiif...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
-<param ve-image 
-  manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6567444s/manifest.json" >
+## Statuette du Dieu Thor
 
-
-
-> Ceci est du texte cité.
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata
-- intégrer une vidéo
-
-https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/a-seeress-from-fyrkat/ 
+Cette petite statuette de bronze a été retrouvée à la ferme Eyrarland en Islande. Elle représente le Dieu Thor assis tenant sa barbe qui forme une croix. L’inspiration serait tirée de la coutume de sculpter les idoles dans des troncs d’arbre. Il pourrait s’agir d’un seite, ce qui signifierait que la statuette contient un esprit. 
+<param ve-graphic 
+  url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Reykjavik_-_Thor-Figur_1.jpg/800px-Reykjavik_-_Thor-Figur_1.jpg" 
+  title="Statuette du Dieu Thor" />
+  
+  ## Pendentif d'Fyrkat
+  
+  Cette petite chaise a été retrouvée dans la tombe de la prêtresse Fyrkat. Il s’agit d’un pendentif, car il y a l’anneau au dossier du siège qui indique que l’objet peut être porté avec une chaine. Ce siège rappelle la chaise sur lequel s’assoie celui ou celle qui ritualise le seior. 
+  <param ve-graphic 
+  url="https://en.natmus.dk/typo3temp/assets/images/csm_amulet_01_e3cabd11cb_1869d698ed.jpg " 
+  title="Pendentif d'Fyrkat" />
 
