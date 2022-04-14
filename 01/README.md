@@ -151,11 +151,10 @@ La soierie andalouse est un type de tissu à esthétique géométrique qui compr
     label="Fragment de textile de l'époque Nasrid" 
     description="Paons avec parlmiers affrontés" />
     
-![image](https://user-images.githubusercontent.com/101302950/163447744-a5ac6495-7a43-4113-bcec-ef8306f67ed3.png)![image](https://journals.openedition.org/syria/docannexe/image/1647/img-16-small480.jpg)
-<param ve-image 
-    url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" 
-    label="Fragment de textile de l'époque Nasrid" 
-    description="Paons avec parlmiers affrontés" />
+![image](https://user-images.githubusercontent.com/101302950/163447744-a5ac6495-7a43-4113-bcec-ef8306f67ed3.png)
+<param ve-graphic 
+  url="https://journals.openedition.org/syria/docannexe/image/1647/img-16-small480.jpg" 
+  title="Oiseaux affrontés en-dessus du Saint-Sépulcre" />
  
 Concernant le contenu, l’absence du contexte paradisiaque et/ou architectural occasionne un  sens  moins symbolique des oiseaux affrontés avec leur palmier. Dans ce cas, il s’agit d’emprunter un sujet sauvage distingué du sujet civilisé par le fait qu’il préserve la beauté initiatrice de la Création. Autrement dit, le textile incarne un motif  beau, un motif pur, une nature qui impose sa perfection pouvant être analogue à la réception de l’enlumineur *La Fontaine de vie*.
 <param ve-image 
