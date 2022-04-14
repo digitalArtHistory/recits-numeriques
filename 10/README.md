@@ -51,17 +51,14 @@ Voici quelques ressources sur Markdown
 ## Saint Théodore
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-
-<param ve-image
-   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/Akdamar-Saint_Theodore.jpg?raw=true"
-            titre=" Saint Théodore terrassant le dragon"/>
-                                                    
+- créer des sections interactives (paragraphes)                                                    
 - insérer une image
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
-
+<param ve-image
+   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/Akdamar-Saint_Theodore.jpg?raw=true"
+            titre=" Saint Théodore terrassant le dragon"/>
 
 ## Saint Michel
 
