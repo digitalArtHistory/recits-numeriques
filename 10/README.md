@@ -7,14 +7,7 @@
 
 # Le thème
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
-
-
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
+L’illustration des dragons est très commune au moyen-âge. Ils se trouvent un peu partout parmi les œuvres d’art, décorations, emblèmes, gourde, etc. Il est fréquent de voir la complexité de leur physique entier en dessin, par exemple celui de [Jacopo Bellini, Saint Georges combattant le dragon, XVe siècle](https://collections.louvre.fr/en/ark:/53355/cl020113220) . À cette époque, dans ce cas-ci on se focalise entre les années 300 et 1500, l’Église est celle qu’utilise l’image du dragon de manière très importante. Il symbolise l’antéchrist que le représentant du bien affronte (Darcheville : 1994 : 93). Il est le vilain récurant dans la Légende dorée, où de nombreux saints le combattent. Pour cette raison, on retrouve le dragon à plusieurs endroits dans les églises soit sur les portails d’entrée, sur les colonnes ou sur les murs. Le physique du dragon s’adapte selon la construction du bâtiment, on peut donc le confondre facilement avec un serpent ou à un animal mythique marin (Darcheville : 1994 : 98-99). 
 
 
 ## Cadmos
