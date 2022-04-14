@@ -51,6 +51,9 @@ Voici quelques ressources sur Markdown
 
 ## Saint Théodore
 
+Holy Cross, Aght'amar est la preuve d’une importante rencontre interculturelle. Malgré le lieu islamique, la cathédrale était sous le groupe de personnes catholiques arméniennes (Nersessian : 1965 : 1). Le but de représenter leurs croyances est bien déclaré sur les murs de la cathédrale où l’on peut distinguer divers épisodes bibliques. Saint Théodore terrassant un dragon représente ici une bataille de triomphes spirituels et de croyances contre les barbares — c’est-à-dire ceux qui ne partageaient pas les mêmes croyances.
+L’origine de saint Théodore est simple, mais incertaine et ambiguë. C’est un soldat devenu martyr après avoir refusé de renoncer à sa foi en ne sacrifiant pas le temple de Cybèle. Au fur et à mesure que le temps passe, on lui attribue divers miracles sans aucune preuve textuelle en soi. Aussi, lors des premiers épisodes iconoclastes, sous Constantin V, son image reste presque intacte gagnant en popularité auprès des autres saints (Walter : 1999 : 167). Aux mêmes moments, durant le moyen âge byzantin, la bataille contre le dragon symbolise une bataille contre les « souverains païens tyrans » via l’iconographie du Holy Rider (Pancaroglu : 2004 : 152). C’est grâce la combinaison de ces deux symboles, soit le Saint et le Holy Rider, que Saint Théodore est devenu le soldat contre le dragon. 
+
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 - créer des sections interactives (paragraphes)                                                    
 - insérer une image
