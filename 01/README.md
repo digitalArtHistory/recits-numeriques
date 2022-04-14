@@ -46,7 +46,6 @@ Ivoire de dimension 64.5 cm (longueur) x 12 cm (diamètre), dernier tiers du XIe
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
   title="Olifant de Saint-Arnoul de Metz, une vue frontale" />
 
-![image](https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant/s,900-9de2d7.jpg)
 ![image](https://www.parisinsidersguide.com/image-files/xcluny-museum-ivory-by-adrian-scottow-widipedia-commons-800-2x1.jpg.pagespeed.ic.19kzHF_NwZ.jpg)
 <param ve-graphic 
   url="https://www.musee-moyenage.fr/cache/media/oeuvres/21-olifant/olifant%203/s,900-242cff.jpg" 
@@ -95,8 +94,7 @@ Argent moulé avec dorure de mercure de dimension 6,4 cm (longueur) x 7,8 cm (la
 <param ve-image 
     url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" 
     label="Tasse à vin avec poignée d'anneau de contour feuillé" 
-    description="Ustensile de breuvage" 
-    license="Smithsonian Institution" />
+    description="Ustensile de breuvage" />
     
 La  dynastie Tang gouverne la Chine entre le VIIe et Xe siècle soit une période où la route du commerce de la soie autorise d’une part une ouverture culturelle envers l’héritage byzantin, puis d’autre part un déplacement des techniques du travail métallurgique arabe. Ces échanges engendrent la fabrication des ustensiles à esthétique variée incluant une représentation de la nature plus passive.  
 <param ve-image url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" />
@@ -140,8 +138,7 @@ Soie travaillée à partir de la technique Lampas, fragment daté entre le  XIVe
 <param ve-image 
     url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" 
     label="Fragment de textile de l'époque Nasrid" 
-    description="oiseaux (paons) avec parlmiers affrontés" 
-    license="The Met's Open Access program" />
+    description="oiseaux (paons) avec parlmiers affrontés" />
 
 La soierie andalouse est un type de tissu à esthétique géométrique qui comprend des médaillons circulaires, des arabesques et des formes primitives correspondant à un savoir-faire approximativement généré entrent le IVe et XVe siècle dont la fin du siècle est marquée par l’écroulement du dernier royaume musulman producteur en Espagne, les Nasrides.
 <param ve-image 
@@ -160,8 +157,7 @@ Concernant le contenu, l’absence du contexte paradisiaque et/ou architectural 
 <param ve-image 
     url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" 
     label="Fragment de textile de l'époque Nasrid" 
-    description="oiseaux (paons) avec parlmiers affrontés" 
-    license="The Met's Open Access program" />
+    description="oiseaux (paons) avec parlmiers affrontés" />
 
 
 
