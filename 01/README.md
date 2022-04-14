@@ -71,17 +71,23 @@ Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à
 ## Colonnette Statue 
 ### Étiquette
 Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du XIIe siècle, provient du portail occidental de l’église abbatiale de Saint-Denis en France localisée à l’extrême droite de la façade, et présentement conservée au musée d’Orsay suite au dépôt du musée de Louvre en 1914. 
+  
+La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique apparent d’abord à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditative certes, mais également une profusion de motifs liés à la nature. La colonnette de l’église abbatiale de Saint-Denis sculptée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.  
 <param ve-graphic 
   url="https://sculpturesmedievales-cluny.fr/img/zoom/07-535500.jpg" 
   title="Colonnette à rinceau habité" />
-  
-La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique apparent d’abord à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditative certes, mais également une profusion de motifs liés à la nature. La colonnette de l’église abbatiale de Saint-Denis sculptée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.  
 
 Discernée tel qu’un éventail décoratif, l’examen de l’œuvre préférablement comme un agencement de l’espèce végétale et animale occupant la spatialité extérieure du bâtiment relève une image monumentale tout aussi didactique que l’Olifant de Metz. En effet, le traitement des rinceaux dit habité érige des feuilles de palmette dissimulant des hommes, des oiseaux et une lionne qui remémorent l’impuissance des croyants vis-à-vis le sauvage. Un rituel rythmé par les branches, puis performé au moyen de la tension entre figuration humaine et bestiale caractérisant la résistance au désir charnel à la base du péché originel. Les formes rudimentaires de la nature disposent une agentivité qui rappelle et cristallise l’Homme en tant qu’être vulnérable pendant une expérience liminale. 
+<param ve-graphic 
+  url="https://sculpturesmedievales-cluny.fr/img/zoom/07-535500.jpg" 
+  title="Colonnette à rinceau habité" />
 
 ![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/1PTBI/19-540442.jpg)
 ![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/9MOSV/19-540450.jpg)
 ![image](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR4_MD5/8/1/e/f/19-540439.jpg)
+<param ve-graphic 
+  url="https://sculpturesmedievales-cluny.fr/img/zoom/07-535500.jpg" 
+  title="Colonnette à rinceau habité" />
 
 
 ## Tasse à vin avec poignée d'anneau
