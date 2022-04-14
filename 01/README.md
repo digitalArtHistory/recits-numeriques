@@ -22,10 +22,6 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
     seq="13" />
     
 **Bibliographie**
-<param ve-video 
-       id="a3ta5Q3ITUc" 
-       title="Walter, the cat" 
-       start="26" />
 
 -Freer Gallery of Art. « Wine cup with ring handle, birds, animals and grape vines». 2022. [Telling the Sogdian Story: A Freer|Sackler Digitaal Exhibition Project](https://kimon.hosting.nyu.edu/sogdians/items/show/941)
 
