@@ -42,7 +42,7 @@ Barnet, P. et Dandridge, P. (2006). Lions, Dragons, & Other Beasts: Aquamanilia 
 
 ## *Whale bone plaque*
 [La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. 
-<param ve-image url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" />
+<param ve-graphic url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" title="boob" />
 
 **Mots-clés:** os, viking, cheval, tête, migration.
 
