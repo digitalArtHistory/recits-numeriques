@@ -25,8 +25,7 @@ La figure de l’animal, ultimement, devient un signifiant d’une pratique qui 
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/Aquamanile_in_the_Form_of_a_Lion_MET_DP117252_(cropped).jpeg" />
 
 Le lion s’inscrit dans cette longue tradition de pratique d’alliage de cuivre. Le style héraldique des aquamaniles de Nuremberg se retrouve surtout dans l’espace domestique comme produit de décoration. Le motif animalier sert notamment à témoigner de l’expertise des artisans. 
-<param ve-video id="" title="https://www.youtube.com/watch?v=YX1SetbDglM" start="2" />
-
+<param ve-video id="https://www.youtube.com/watch?v=YX1SetbDglM" title="Aquamaniles de Christie's" start="2" />
 
 **Mots-clés:** aquamanile, Lion, métallurgie germanique, liturgie, ablution.
 
