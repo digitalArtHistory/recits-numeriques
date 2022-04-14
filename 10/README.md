@@ -45,7 +45,7 @@ Voici quelques ressources sur Markdown
 
 <param ve-graphic
  url= "https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/ANSA_I_1045_a_01.jpg?raw=true"
- titre="La ataille de Cadmos et le dragon"/>
+ titre="La Bataille de Cadmos et le dragon"/>
 
 
 ## Saint Théodore
