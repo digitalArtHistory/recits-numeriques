@@ -17,6 +17,9 @@ Dû à un important nombre d’images, on focalise le sujet autour de la représ
 
 ## Cadmos
 
+L’histoire de Cadmos raconte l’origine de la cité de Thèbes sous les thèmes de la mort et de la destinée. Cadmos et ses compagnons tyriens sont envoyés pour chercher de l’eau vive comme signe de reconnaissance envers Jupiter. Le lieu de cette eau habite un « dragon, fils de Mars » (Ovide : 1866 : 88-94 cité dans Didi-Hubermann : 1994). Cadmos réussit à vaincre le dragon, et assure ainsi le développement de Thèbes. Toutefois, ce que cette œuvre présente davantage est la notion de perte plutôt que celle de la victoire. L’objet se concentre sur l’épisode de violence où Cadmos, à gauche du dragon, est témoin de la mort de ses compagnons, représenté ici par le corps inerte enroulé par le corps reptilien. 
+L’objet en question est une urne qui provient de Volterra, Italie. Il existe plusieurs autres urnes représentant les mythologies grecques au Etruscan Guarnacci Volterra Museum. Celui-ci a été procuré pour la collection d’Este Catajo de l’Archiduché Franz Ferninand en 1923 qui explique sa présence aujourd’hui au musée de Kunsthistorisches Museum Vienna en Autriche (Kunsthistorisches Museum Wien). 
+
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
