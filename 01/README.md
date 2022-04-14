@@ -150,8 +150,7 @@ L’échantillon examiné rend en trois registres des formes floraux, des merlon
 Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il est possible de déceler dans le niveau supérieur une optique, bien qu’abstraite, faisant entrevoir une expérience formelle équivalente à celle de la mosaïque de Temanaa au niveau du Saint-Sépulcre.
 <param ve-graphic 
   url="https://journals.openedition.org/syria/docannexe/image/1647/img-12.jpg" 
-  title="Paons affrontés" 
-  Rotate="90"/>
+  title="Paons affrontés" />
  
 Concernant le contenu, l’absence du contexte paradisiaque et/ou architectural occasionne un  sens  moins symbolique des oiseaux affrontés avec leur palmier. Dans ce cas, il s’agit d’emprunter un sujet sauvage distingué du sujet civilisé par le fait qu’il préserve la beauté initiatrice de la Création. Autrement dit, le textile incarne un motif  beau, un motif pur, une nature qui impose sa perfection pouvant être analogue à la réception de l’enlumineur *La Fontaine de vie*.
 <param ve-image 
