@@ -5,17 +5,18 @@
        banner="https://historiska.se/wp-content/uploads/2015/09/hedniska_gudar_3_artikel_IMG0024web_artikel.jpg" 
        layout="vertical">
 
-# Fichier de démarrage
+# Magie nordique
 
-Ceci est un fichier de démarrage que vous pouvez modifier pour créer votre propre récit numérique.
+La Scandinavie préchrétienne avait des rites singuliers qui entremêlent la magie et la religion. Chaque région possède des particularités singulières pouvant même différer de village en village. Néanmoins, la mythologie nordique est au centre de ces pratiques et a recourt à des pratiques dites magiques. Cet ensemble de rites propre à l’ancienne Scandinavie porte le nom de seiðr. Les communautés se basent sur cette mythologie pour expliquer leur monde social et religieux. Selon le mythe, la déesse Freyja aurait enseigné le seiðr à son amant, Óðinn. Ainsi, cette religion est associé majoritaire à ces deux dieux. Cependant, la mythologie nordique est très complexe et les différents dieux abondent. Le seiðr est une pratique réservée aux femmes et regroupe des pratiques de sorcellerie et chamanisme. Différentes techniques étaient utilisées dans des buts diverses, comme « résoudre des problèmes liés à des crises, de guérir les malades, d’assurer une bonne chasse ou une bonne pêche, de contrôler le climat, et de prédire le futur, et de rituels de sorcellerie qui incluaient par exemple rendre une terre infertile.  » Cependant, un procédé négatif pouvait être utilisé pour jeter des sorts allant jusqu’à causer la mort d’un individu. 
 
-Voici quelques actions à réaliser pour commencer :
-- modifier le titre de votre essai visuel
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
+Le seiðr possède sa propre perception de la mort. D’abord, chaque être humain possède deux formes non matérielles soit « hamr » et « hugr ». Hamr est une forme immatérielle que prend l’âme et qui permet lors des rites chamaniques de se déplacer hors du corps. Tandis que hugr serait l’âme ou l’essence de l’individu. Par exemple, lorsque les formes voyagent hors du corps, c’est l’hamr qui se déplace, mais l’hugr qui manipule et dicte les actions engagées par l’hamr. De plus, ces formes permettre aux pratiquants revisités le monde des vivants lorsque le corps physique décède. Aussi, l’action du décès est très importante, car elle décidait de l’endroit où le pratiquant allait à sa mort, soit à Valhǫll (la salle d’Óðinn), ou à Fólkvangr (la salle de Freyja). Certaines femmes d’exception pouvaient rejoindre Fólkvangr en raison de leur bravoure, par exemple. Cette conception d’un après monde explique les objets trouvés dans les tombes lors de fouilles archéologiques souvent interprétées « comme un désir de continuer à accomplir les mêmes activités après la mort.  » 
 
-# Explorer Markdown
+J’envisage de regrouper des artefacts et des objets issus de ces rituels seiðr pratiqués par des femmes nommées vǫlva traduisent comme voyante. Les objets présentés ont été retrouvés dans les tombes des vǫlvas Asaka, Klinta et Fyrkat en plus d’une statuette conceptualisée autour du dieu Thor de la mythologie. 
+
+Le seiðr est une pratique religieuse qui a pris fin à l’arrivée du christianisme en Scandinavie. Lors du cours sur l’Art médiéval, nous abordons plusieurs objets en lien avec des pratiques religieuses de l’époque, majoritairement catholique. Dans le cadre de cette exposition, je tente de mettre en lumière une religion qui n’a pas été abordée et qui a existé avant l’arrivée du christianisme. 
+
+
+## Pendentif d'Aska
 
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
