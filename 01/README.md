@@ -146,6 +146,7 @@ Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il
 <param ve-graphic 
   url="https://journals.openedition.org/syria/docannexe/image/1647/img-12.jpg" 
   title=" Paons affrontés" />
+
 Concernant le contenu, l’absence du contexte paradisiaque et/ou architectural occasionne un  sens  moins symbolique des oiseaux affrontés avec leur palmier. Dans ce cas, il s’agit d’emprunter un sujet sauvage distingué du sujet civilisé par le fait qu’il préserve la beauté initiatrice de la Création. Autrement dit, le textile incarne un motif  beau, un motif pur, une nature qui impose sa perfection pouvant être analogue à la réception de l’enlumineur *La Fontaine de vie*.
 <param ve-image url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" />
 
