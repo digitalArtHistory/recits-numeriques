@@ -56,9 +56,7 @@ Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https:/
 - insérer une image avec IIIF
 - insérer un lien Wikidata
 - intégrer une vidéo
-<param ve-image
-   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/Akdamar-Saint_Theodore.jpg?raw=true"
-            titre=" Saint Théodore terrassant le dragon"/>
+
 
 ## Saint Michel
 
