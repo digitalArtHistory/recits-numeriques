@@ -18,16 +18,12 @@ Le seiðr est une pratique religieuse qui a pris fin à l’arrivée du christia
 
 ## Pendentif d'Aska
 
-```
-
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
-
-Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
+Aska fut une vǫlva, soit une prêtresse pratiquant la magie dans les religions nordiques. Des artefacts ont été retrouvés dans sa tombe, dont celui-ci. La valeur de ce pendentif renseigne sur le statut social élevé d’Aska. Il s’agit d’une minuscule tête masculine faite en argent. Les pendentifs de la religion préchrétienne nordique représentaient souvent des dieux. 
 <param ve-graphic 
   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/24/Manniskor_med_kontakterweb_artikel.jpg?raw=true" 
   title="Pendentif d'Aska" />
   
-  ### Pendentif D'Aska
+### Pendentif D'Aska
 
 Ce pendentif en argent a été retrouvé dans la tombe d’Aska. Cette dernière était une vǫlva, donc une prêtresse du *seiðr*. Ces voyantes étaient considérées comme des « sorcières » en raison du caractère magique de leur pratique. Le pendentif représente d’un corps féminin et représenterait la déesse Freyja. Ce personnage porte un collier à quatre rangées et un casque. Elle pose ses bras sous son ventre qui pourrait indiquer sa nature de déesse de la fertilité. Les objets insérés dans la tombe du défunt témoignent de la classe sociale de l’individu. L’argent était considéré comme un matériel « riche » ce qui traduit la notoriété d’Aska. 
 <param ve-graphic 
