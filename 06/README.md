@@ -51,8 +51,10 @@ La représentation des animaux aux pieds d’un défunt sur les tombeaux témoig
 **Mots-clés:** architecture, tombeau, chien, lion, Louis de Male.
 
 **Bibliographie**
+
 [Walker-Meikle, K. (2012). Pets in Iconography. *Medieval Pets*, 75–89. Boydell & Brewer.](http://www.jstor.org/stable/10.7722/j.ctt1x738m.10)
 Les animaux sur les tombeaux funéraires, les médaillons, la représentation des portraits, etc
+
 [Millin, A. L. (1798). *Antiquités nationales, ou, Recueil de monumens: pour servir à l'histoire générale et particulière de l'empire françois, tels que tombeaux, inscriptions, statues, vitraux, fresques, etc. : tirés des abbayes, monastères, châteaux, et autres lieux devenus domaines nationaux*. À Paris: Chez M. Drouhin.](
 https://catalog.hathitrust.org/api/volumes/oclc/21363699.html) 
 
