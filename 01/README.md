@@ -145,20 +145,13 @@ Soie travaillée à partir de la technique Lampas, fragment daté entre le  XIVe
     label="Fragment de textile de l'époque Nasrid" 
     description="Paons avec parlmiers affrontés" />
 
-La soierie andalouse est un type de tissu à esthétique géométrique qui comprend des médaillons circulaires, des arabesques et des formes primitives correspondant à un savoir-faire approximativement généré entrent le IVe et XVe siècle dont la fin du siècle est marquée par l’écroulement du dernier royaume musulman producteur en Espagne, les Nasrides.
-<param ve-image 
-    url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" 
-    label="Fragment de textile de l'époque Nasrid" 
-    description="Paons avec parlmiers affrontés" />
-
-L’échantillon examiné rend en trois registres des formes floraux, des merlons pyramidaux et des palmiers séparant deux oiseaux confrontés tout sur un fond rouge-brun où la manière méthodique pour d’éployer la végétation et l’animal apparaît plus tactique que l’entremêlé habituellement conçu chez les rinceaux habités. 
-Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il est possible de déceler dans le niveau supérieur une optique, bien qu’abstraite, faisant entrevoir une expérience formelle équivalente à celle de la mosaïque de Temanaa au niveau du Saint-Sépulcre.
+La soierie andalouse est un type de tissu à esthétique géométrique qui comprend des médaillons circulaires, des arabesques et des formes primitives correspondant à un savoir-faire approximativement généré entrent le IVe et XVe siècle dont la fin du siècle est marquée par l’écroulement du dernier royaume musulman producteur en Espagne, les Nasrides.L’échantillon examiné rend en trois registres des formes floraux, des merlons pyramidaux et des palmiers séparant deux oiseaux confrontés tout sur un fond rouge-brun où la manière méthodique pour d’éployer la végétation et l’animal apparaît plus tactique que l’entremêlé habituellement conçu chez les rinceaux habités.Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il est possible de déceler dans le niveau supérieur une optique, bien qu’abstraite, faisant entrevoir une expérience formelle équivalente à celle de la mosaïque de Temanaa au niveau du Saint-Sépulcre.
 <param ve-image 
     url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" 
     label="Fragment de textile de l'époque Nasrid" 
     description="Paons avec parlmiers affrontés" />
     
-![image](https://user-images.githubusercontent.com/101302950/163447744-a5ac6495-7a43-4113-bcec-ef8306f67ed3.png)
+![image](https://user-images.githubusercontent.com/101302950/163447744-a5ac6495-7a43-4113-bcec-ef8306f67ed3.png)![image](https://journals.openedition.org/syria/docannexe/image/1647/img-16-small480.jpg)
 <param ve-image 
     url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/446211/881232/main-image" 
     label="Fragment de textile de l'époque Nasrid" 
