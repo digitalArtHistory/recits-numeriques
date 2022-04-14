@@ -18,14 +18,6 @@ Le seiðr est une pratique religieuse qui a pris fin à l’arrivée du christia
 
 ## Pendentif d'Aska
 
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
-
-```
-# Titre de niveau 1
-
-## Titre de niveau 2
-
-### Titre de niveau 3
 ```
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
@@ -34,13 +26,21 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 <param ve-graphic 
   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/24/Manniskor_med_kontakterweb_artikel.jpg?raw=true" 
   title="Pendentif d'Aska" />
+  
+  ### Pendentif D'Aska
 
-2e pendentif d'Aska. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Ce pendentif en argent a été retrouvé dans la tombe d’Aska. Cette dernière était une vǫlva, donc une prêtresse du *seiðr*. Ces voyantes étaient considérées comme des « sorcières » en raison du caractère magique de leur pratique. Le pendentif représente d’un corps féminin et représenterait la déesse Freyja. Ce personnage porte un collier à quatre rangées et un casque. Elle pose ses bras sous son ventre qui pourrait indiquer sa nature de déesse de la fertilité. Les objets insérés dans la tombe du défunt témoignent de la classe sociale de l’individu. L’argent était considéré comme un matériel « riche » ce qui traduit la notoriété d’Aska. 
 <param ve-graphic 
   url="https://historiska.se/wp-content/uploads/2015/09/hedniska_gudar_3_artikel_IMG0024web_artikel.jpg"
-       title="2e Pendentif d'Aska" />
-  
-Baton Klinta
+       title="Pendentif d'Aska" />
+       
+#### Piste de réflexion    
+
+Est-ce que la représentation de Freyja sur le pendentif pourrait signifier un désir d’envoyer le **corps** d’Aska à *Fólkvangr* (la salle de Freyja)? Le caractère prestigieux des artefacts retrouvés pourrait indiquer un désir de rendre la **vǫlva** digne de rejoindre sa **déesse, Freyja**. 
+       
+##### Bâton de Klinta  
+
+Ce bâton était attribué à la vǫlva Klinta. Le terme vǫlva retrouve sa signifiance dans « porteur de bâton ». Il s’agit d’un objet indispensable dans la pratique de ces prêtresses. Celui-ci mesure maintenant un mètre, mais était plus long à l’époque. La partie supérieure représente une petite maison où se tenaient auparavant quatre animaux qui regardaient le bâtiment. 
 <param ve-graphic 
   url="https://historiska.se/wp-content/uploads/2015/04/klintastaven_artikel_541355.jpg" 
   title="Baton Klinta" />
