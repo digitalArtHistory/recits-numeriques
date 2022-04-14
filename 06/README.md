@@ -16,13 +16,19 @@ La figure de l’animal, ultimement, devient un signifiant d’une pratique qui 
 [Aquamanile](https://www.metmuseum.org/art/collection/search/469949) est un récipient d’eau dont la fonction est de laver les mains, dans les pratiques liturgiques, dans les rituels d’ablution et/ou quotidiennes ou comme objet de luxe. Ses grandes dimensions, son visage expressif ainsi que sa queue de dragon en flamme qui sert de manche sont caractéristiques d’un style de aquamanile développé dans les alentours de 1400 à Nuremberg.  Le lion s’inscrit dans cette longue tradition de pratique d’alliage de cuivre. Le style héraldique des aquamaniles de Nuremberg se retrouve surtout dans l’espace domestique comme produit de décoration. Le motif animalier sert notamment à témoigner de l’expertise des artisans. 
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/Aquamanile_in_the_Form_of_a_Lion_MET_DP117252_(cropped).jpeg" />
 
+**Mots-clés:** aquamanile, Lion, métallurgie germanique, liturgie, ablution.
+
 ## *Eagle fibula*
 [La fibule](https://art.thewalters.org/detail/13833/eagle-fibula-2/) est un accessoire qui a souvent été porté au cou à travers le trou au pied de l’aigle représenté. Il ne serait pas incongru de croire que l’objet provient de la période de migration des wisigothes, compte tenu de sa petite taille, parfaite pour le voyage et son style romain dont cet empire s’est inspiré. L’image de l’aigle, ou la forme aquiliforme, représente l'armée romaine. Ce motif particulier de l’oiseau stylisé dont le bec pointe vers le haut avec les ailes aux deux côtés de son flanc est un motif de l’empire romain. 
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/l_ps1_54422_fnt_dd_t07-14.jpeg" />
 
+**Mots-clés:** aigle, fibule, pendentif, visigoth, ostrogoth.
+
 ## *Whale bone plaque*
 [La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. 
 <param ve-image url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" />
+
+**Mots-clés:** os, viking, cheval, tête, migration.
 
 Une petite vidéo bien relax pour casser toute la concentration de tout cela. Il faut parfois se reposer la tête, c'est nécessaire! Ceci est un texte:This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
 <param ve-video id="1JOS0GHFmBk" title="Vine" start="45" />
@@ -37,8 +43,19 @@ This object along with Walters 54.421 form a pair of superb eagle-shaped fibula 
 ## *Draughtsman with a Dog*
 Cette pièce de jeu de dames est gravée dans un os, représentant un chien stylisé. Le jeu de dames est un jeu qui a été joué fréquemment durant l’époque médiévale et il n’était pas incongru de voir des pièces décorées.
 
+**Mots-clés:** Chien, pion, os, jeu.
+
 ## *Tombeau de Louis de Male, Marguerite de Brabant et Marguerite de Male*
 La représentation des animaux aux pieds d’un défunt sur les tombeaux témoigne de l’identité de la personne impliquée. Il n’est pas rare de voir des chiens, symbole de loyauté, avec les femmes et le lion, symbole de bravoure, chez les hommes. Les figures animalières peuvent également avoir une fonction héraldique. 
+
+**Mots-clés:** architecture, tombeau, chien, lion, Louis de Male.
+
+**Bibliographie**
+[Walker-Meikle, K. (2012). Pets in Iconography. *Medieval Pets*, 75–89. Boydell & Brewer.](http://www.jstor.org/stable/10.7722/j.ctt1x738m.10)
+Les animaux sur les tombeaux funéraires, les médaillons, la représentation des portraits, etc
+[Millin, A. L. (1798). *Antiquités nationales, ou, Recueil de monumens: pour servir à l'histoire générale et particulière de l'empire françois, tels que tombeaux, inscriptions, statues, vitraux, fresques, etc. : tirés des abbayes, monastères, châteaux, et autres lieux devenus domaines nationaux*. À Paris: Chez M. Drouhin.](
+https://catalog.hathitrust.org/api/volumes/oclc/21363699.html) 
+
 
 
 
