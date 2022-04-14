@@ -22,7 +22,9 @@ Une source d’inspiration, la nature est un motif qui à travers le Moyen-âge 
     seq="13" />
     
 **Bibliographie**
-<param ve-video id="ZdxkgHkiFUs&ab_channel" title="Exposition: Art et Nature" start="04" />
+<param ve-video id="ZdxkgHkiFUs&ab_channel" 
+       title="Exposition: Art et Nature" 
+       start="04" />
 
 -Freer Gallery of Art. « Wine cup with ring handle, birds, animals and grape vines». 2022. [Telling the Sogdian Story: A Freer|Sackler Digitaal Exhibition Project](https://kimon.hosting.nyu.edu/sogdians/items/show/941)
 
