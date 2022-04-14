@@ -21,19 +21,24 @@ La figure de l’animal, ultimement, devient un signifiant d’une pratique qui 
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/l_ps1_54422_fnt_dd_t07-14.jpeg" />
 
 ## *Whale bone plaque*
-Une petite vidéo bien relax pour casser toute la concentration de tout cela. Il ffaut parfois se reposer la tête, c'est nécessaire! Ceci est un texte:This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
+[La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. 
+<param ve-image url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" />
+
+Une petite vidéo bien relax pour casser toute la concentration de tout cela. Il faut parfois se reposer la tête, c'est nécessaire! Ceci est un texte:This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
 <param ve-video id="1JOS0GHFmBk" title="Vine" start="45" />
 
 This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
 <param ve-image 
     manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k327545t/manifest.json" />
-   
-
-[La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. 
-<param ve-image url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" />
 
 This object along with Walters 54.421 form a pair of superb eagle-shaped fibula found at Tierra de Barros (Badajoz, southwest Spain) made of sheet gold over bronze inlaid with garnets, amythysts, and colored glass. Pendants once dangled from the loops at the bottom. The eagle, a popular symbol during the Migration period adopted from Roman imperial insignia, was favored by the Goths. Similar eagle-shaped fibulae have been excavated from Visigothic graves in Spain and Ostrogothic graves in northern Italy, but this pair is one of the finest. These fibula would have been worn at the same time to fasten a cloak at either shoulder.
 <param ve-image url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53197052n/f1/full/full/0/native.jpg" />
+
+## *Draughtsman with a Dog*
+Cette pièce de jeu de dames est gravée dans un os, représentant un chien stylisé. Le jeu de dames est un jeu qui a été joué fréquemment durant l’époque médiévale et il n’était pas incongru de voir des pièces décorées.
+
+## *Tombeau de Louis de Male, Marguerite de Brabant et Marguerite de Male*
+La représentation des animaux aux pieds d’un défunt sur les tombeaux témoigne de l’identité de la personne impliquée. Il n’est pas rare de voir des chiens, symbole de loyauté, avec les femmes et le lion, symbole de bravoure, chez les hommes. Les figures animalières peuvent également avoir une fonction héraldique. 
 
 
 
