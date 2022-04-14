@@ -41,7 +41,7 @@ Barnet, P. et Dandridge, P. (2006). Lions, Dragons, & Other Beasts: Aquamanilia 
 [Wittkower, R. (1939). Eagle and Serpent. A Study in the Migration of Symbols. *Journal of the Warburg Institute*, 2(4), 301-303.](https://doi.org/10.2307/750041)
 
 ## *Whale bone plaque*
-[La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. 
+[La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Les vikings n'accordaient pas beaucoup d'importance dans les objets décoratifs, mais leur talent artistique se manifestait dans les oebjst de tous les jours, des outils utilitaires facile à transporter pour leur mode de vie nomade. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. D'ailleurs, les Vikings ont une longue tradition de pratique artistique dans le motif animalier: le style se développe avec le temps entre le 9e et le 12 e siècle.
 <param ve-graphic url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" title="boob" />
 
 **Mots-clés:** os, viking, cheval, tête, migration.
