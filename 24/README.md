@@ -23,23 +23,29 @@ Aska fut une vǫlva, soit une prêtresse pratiquant la magie dans les religions 
   url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/24/Manniskor_med_kontakterweb_artikel.jpg?raw=true" 
   title="Pendentif d'Aska" />
   
-### Pendentif D'Aska
+### Piste de réflexion  
+Le pendentif d'Aska
+  
+## Pendentif D'Aska
 
 Ce pendentif en argent a été retrouvé dans la tombe d’Aska. Cette dernière était une vǫlva, donc une prêtresse du *seiðr*. Ces voyantes étaient considérées comme des « sorcières » en raison du caractère magique de leur pratique. Le pendentif représente d’un corps féminin et représenterait la déesse Freyja. Ce personnage porte un collier à quatre rangées et un casque. Elle pose ses bras sous son ventre qui pourrait indiquer sa nature de déesse de la fertilité. Les objets insérés dans la tombe du défunt témoignent de la classe sociale de l’individu. L’argent était considéré comme un matériel « riche » ce qui traduit la notoriété d’Aska. 
 <param ve-graphic 
   url="https://historiska.se/wp-content/uploads/2015/09/hedniska_gudar_3_artikel_IMG0024web_artikel.jpg"
        title="Pendentif d'Aska" />
        
-#### Piste de réflexion    
+### Piste de réflexion    
 
 Est-ce que la représentation de Freyja sur le pendentif pourrait signifier un désir d’envoyer le **corps** d’Aska à *Fólkvangr* (la salle de Freyja)? Le caractère prestigieux des artefacts retrouvés pourrait indiquer un désir de rendre la **vǫlva** digne de rejoindre sa **déesse**, Freyja. 
        
-##### Bâton de Klinta  
+## Bâton de Klinta  
 
 Ce bâton était attribué à la vǫlva Klinta. Le terme vǫlva retrouve sa signifiance dans « porteur de bâton ». Il s’agit d’un objet indispensable dans la pratique de ces prêtresses. Celui-ci mesure maintenant un mètre, mais était plus long à l’époque. La partie supérieure représente une petite maison où se tenaient auparavant quatre animaux qui regardaient le bâtiment. 
 <param ve-graphic 
   url="https://historiska.se/wp-content/uploads/2015/04/klintastaven_artikel_541355.jpg" 
   title="Baton Klinta" />
+
+### Piste de réflexion   
+Le bâton
 
 ## Statuette du Dieu Thor
 
@@ -48,10 +54,16 @@ Cette petite statuette de bronze a été retrouvée à la ferme Eyrarland en Isl
   url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Reykjavik_-_Thor-Figur_1.jpg/800px-Reykjavik_-_Thor-Figur_1.jpg" 
   title="Statuette du Dieu Thor" />
   
-  ## Pendentif d'Fyrkat
+### Piste de réflexion   
+La statuette
+  
+## Pendentif d'Fyrkat
   
   Cette petite chaise a été retrouvée dans la tombe de la prêtresse Fyrkat. Il s’agit d’un pendentif, car il y a l’anneau au dossier du siège qui indique que l’objet peut être porté avec une chaine. Ce siège rappelle la chaise sur lequel s’assoie celui ou celle qui ritualise le seior. 
   <param ve-graphic 
   url="https://en.natmus.dk/typo3temp/assets/images/csm_amulet_01_e3cabd11cb_1869d698ed.jpg " 
   title="Pendentif d'Fyrkat" />
+
+### Piste de réflexion   
+Le pendentif en forme de chaise 
 
