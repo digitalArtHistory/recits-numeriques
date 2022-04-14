@@ -94,7 +94,8 @@ Argent moulé avec dorure de mercure de dimension 6,4 cm (longueur) x 7,8 cm (la
 <param ve-image 
     url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" 
     label="Tasse à vin avec poignée d'anneau de contour feuillé" 
-    description="Ustensile de breuvage" />
+    description="Ustensile de breuvage" 
+    license="https://www.si.edu/termsofuse" />
     
 La  dynastie Tang gouverne la Chine entre le VIIe et Xe siècle soit une période où la route du commerce de la soie autorise d’une part une ouverture culturelle envers l’héritage byzantin, puis d’autre part un déplacement des techniques du travail métallurgique arabe. Ces échanges engendrent la fabrication des ustensiles à esthétique variée incluant une représentation de la nature plus passive. La Tasse à vin avec poignée d’anneau renvoie vers un dynamisme de viticulture doté d’une théâtralité issue par la composition enchevêtrée de la vignette avec les oiseaux et un lapin en motion. Ceux-ci, retracés par le doré du mercure, contrastent avec l’argent des vrilles de la plante du raisin afin d’assurer un éclat traduisant une image fantasmée. À cet égard, la confection de ferronnerie exotique avec l’imaginaire de rinceaux abrités légitime des traditions généralement à connotation religieuse pour les empires de l’Est, et parmi eux la colonnette-statut. À appréhender une réciprocité tolérée grâce à un vocabulaire optique stylistique. Ici, l’utilisation de motifs rudimentaires par les artisans du récipient souligne le caractère suprême de la nature, car celle-ci offre un langage universel. 
 <param ve-image 
