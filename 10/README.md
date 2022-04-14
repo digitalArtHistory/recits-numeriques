@@ -8,13 +8,14 @@
 # Le thème
 
 L’illustration des dragons est très commune au moyen-âge. Ils se trouvent un peu partout parmi les œuvres d’art, décorations, emblèmes, gourde, etc. Il est fréquent de voir la complexité de leur physique entier en dessin, par exemple celui de [Jacopo Bellini, Saint Georges combattant le dragon, XVe siècle](https://collections.louvre.fr/en/ark:/53355/cl020113220) . À cette époque, dans ce cas-ci on se focalise entre les années 300 et 1500, l’Église est celle qu’utilise l’image du dragon de manière très importante. Il symbolise l’antéchrist que le représentant du bien affronte (Darcheville : 1994 : 93). Il est le vilain récurant dans la Légende dorée, où de nombreux saints le combattent. Pour cette raison, on retrouve le dragon à plusieurs endroits dans les églises soit sur les portails d’entrée, sur les colonnes ou sur les murs. Le physique du dragon s’adapte selon la construction du bâtiment, on peut donc le confondre facilement avec un serpent ou à un animal mythique marin (Darcheville : 1994 : 98-99). 
-
-Il y a également des cas où l’Église se sert de l’image du dragon à leur avantage. Par exemple, le pape Grégoire XIII (1572-1585) dont son emblème était le dragon. Il est alors davantage associé au signe de férocité (Loskoutoff: 2018: 22).
-
-Dû à un important nombre d’images, on focalise le sujet autour de la représentation d’un dragon sculpté, où le corps de celui-ci est facilement identifiable. De plus, on s’intéresse particulièrement aux dragons sculptés qui racontent une histoire. En premier lieu, le moyen-âge hérite de l’antiquité, l’histoire victorieuse de Cadmos. C’est la seule œuvre de la collection à ne pas faire partie de la Légende dorée. En second lieu, la sculpture de Saint Théodore témoigne de l’émergence du christianisme durant la période médiévale arménienne. Ensuite, on retrouve les chasseurs de dragons les plus connus et représentés, qui sont Saint Michel et Saint George. Pour finir, dans ce monde de guerre et de violence, Sainte Marguerite est la guerrière parmi les guerriers.
 <param ve-image
        url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/IMG_5627.jpg?raw=true"
        Titre="Évolution physique de la représentation du dragon"/>
+       
+Il y a également des cas où l’Église se sert de l’image du dragon à leur avantage. Par exemple, le pape Grégoire XIII (1572-1585) dont son emblème était le dragon. Il est alors davantage associé au signe de férocité (Loskoutoff: 2018: 22).
+
+Dû à un important nombre d’images, on focalise le sujet autour de la représentation d’un dragon sculpté, où le corps de celui-ci est facilement identifiable. De plus, on s’intéresse particulièrement aux dragons sculptés qui racontent une histoire. En premier lieu, le moyen-âge hérite de l’antiquité, l’histoire victorieuse de Cadmos. C’est la seule œuvre de la collection à ne pas faire partie de la Légende dorée. En second lieu, la sculpture de Saint Théodore témoigne de l’émergence du christianisme durant la période médiévale arménienne. Ensuite, on retrouve les chasseurs de dragons les plus connus et représentés, qui sont Saint Michel et Saint George. Pour finir, dans ce monde de guerre et de violence, Sainte Marguerite est la guerrière parmi les guerriers.
+
 
 
 
