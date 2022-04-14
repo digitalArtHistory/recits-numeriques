@@ -154,7 +154,7 @@ La soierie andalouse est un type de tissu à esthétique géométrique qui compr
 L’échantillon examiné rend en trois registres des formes floraux, des merlons pyramidaux et des palmiers séparant deux oiseaux confrontés tout sur un fond rouge-brun où la manière méthodique pour d’éployer la végétation et l’animal apparaît plus tactique que l’entremêlé habituellement conçu chez les rinceaux habités. 
 Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il est possible de déceler dans le niveau supérieur une optique, bien qu’abstraite, faisant entrevoir une expérience formelle équivalente à celle de la mosaïque de Temanaa au niveau du Saint-Sépulcre.
 <param ve-graphic 
-  url="" 
+  url="https://user-images.githubusercontent.com/101302950/163447744-a5ac6495-7a43-4113-bcec-ef8306f67ed3.png" 
   title="Gargouilles" />
  
  
