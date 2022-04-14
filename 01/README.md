@@ -156,6 +156,7 @@ Quoique l’état morcelé range l’œuvre auprès des objets énigmatiques, il
 <param ve-graphic 
   url="https://journals.openedition.org/syria/docannexe/image/1647/img-12.jpg" 
   title=" Paons affrontés" />
+  
 ![image](https://github.com/digitalArtHistory/recits-numeriques/issues/16#issue-1204813436)
 <param ve-graphic 
   url="https://journals.openedition.org/syria/docannexe/image/1647/img-12.jpg" 
