@@ -21,8 +21,12 @@ La figure de l’animal, ultimement, devient un signifiant d’une pratique qui 
 [Joseph Salvatore A. (2019). Copper-Alloy Substrates in Precious Metal Treasury Objects: Concealed and Yet Excessive. Different Visions.](https://differentvisions.org/issue-four/2019/07/copper-alloy-substrates-in-precious-metal-treasury-objects-concealed-and-yet-excessive/)
 
 ## *Aquamanile in the form of a lion*
-[Aquamanile](https://www.metmuseum.org/art/collection/search/469949) est un récipient d’eau dont la fonction est de laver les mains, dans les pratiques liturgiques, dans les rituels d’ablution et/ou quotidiennes ou comme objet de luxe. Ses grandes dimensions, son visage expressif ainsi que sa queue de dragon en flamme qui sert de manche sont caractéristiques d’un style de aquamanile développé dans les alentours de 1400 à Nuremberg.  Le lion s’inscrit dans cette longue tradition de pratique d’alliage de cuivre. Le style héraldique des aquamaniles de Nuremberg se retrouve surtout dans l’espace domestique comme produit de décoration. Le motif animalier sert notamment à témoigner de l’expertise des artisans. 
+[Aquamanile](https://www.metmuseum.org/art/collection/search/469949) est un récipient d’eau dont la fonction est de laver les mains, dans les pratiques liturgiques, dans les rituels d’ablution et/ou quotidiennes ou comme objet de luxe. Ses grandes dimensions, son visage expressif ainsi que sa queue de dragon en flamme qui sert de manche sont caractéristiques d’un style de aquamanile développé dans les alentours de 1400 à Nuremberg. 
 <param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/Aquamanile_in_the_Form_of_a_Lion_MET_DP117252_(cropped).jpeg" />
+
+Le lion s’inscrit dans cette longue tradition de pratique d’alliage de cuivre. Le style héraldique des aquamaniles de Nuremberg se retrouve surtout dans l’espace domestique comme produit de décoration. Le motif animalier sert notamment à témoigner de l’expertise des artisans. 
+<param ve-video id="" title="https://www.youtube.com/watch?v=YX1SetbDglM" start="2" />
+
 
 **Mots-clés:** aquamanile, Lion, métallurgie germanique, liturgie, ablution.
 
