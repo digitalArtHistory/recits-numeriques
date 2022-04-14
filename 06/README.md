@@ -54,7 +54,7 @@ Cette pièce de jeu de dames est gravée dans un os, représentant un chien styl
 
 ## *Tombeau de Louis de Male, Marguerite de Brabant et Marguerite de Male*
 La représentation des animaux aux pieds d’un défunt sur les tombeaux témoigne de l’identité de la personne impliquée. Il n’est pas rare de voir des chiens, symbole de loyauté, avec les femmes et le lion, symbole de bravoure, chez les hommes. Les figures animalières peuvent également avoir une fonction héraldique. La construction a suivi la mort de Louis II de Male, le comte de Flandre, le 30 janvier 1384. Entre ses activités politiques et économiques, Louis II de Male était réputé pour inverstir son argent dans le divertissement. Ses conflits avec les autres nations a mené à sa mort, inscrivant sa tombe durant le Moyen Âge tardif.
-<param ve-image url="06/Tombeau_de_Louis_de_Male,_Marguerite_de_Brabant_et_Marguerite_de_Male_Lille.png" />
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/Tombeau_de_Louis_de_Male%2C_Marguerite_de_Brabant_et_Marguerite_de_Male_Lille.png" />
 
 **Mots-clés:** architecture, tombeau, chien, lion, Louis II de Male.
 
