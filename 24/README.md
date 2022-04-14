@@ -15,17 +15,6 @@ J’envisage de regrouper des artefacts et des objets issus de ces rituels seið
 
 Le seiðr est une pratique religieuse qui a pris fin à l’arrivée du christianisme en Scandinavie. Lors du cours sur l’Art médiéval, nous abordons plusieurs objets en lien avec des pratiques religieuses de l’époque, majoritairement catholique. Dans le cadre de cette exposition, je tente de mettre en lumière une religion qui n’a pas été abordée et qui a existé avant l’arrivée du christianisme. 
 
-
-## Pendentif d'Aska
-
-Aska fut une vǫlva, soit une prêtresse pratiquant la magie dans les religions nordiques. Des artefacts ont été retrouvés dans sa tombe, dont celui-ci. La valeur de ce pendentif renseigne sur le statut social élevé d’Aska. Il s’agit d’une minuscule tête masculine faite en argent. Les pendentifs de la religion préchrétienne nordique représentaient souvent des dieux. 
-<param ve-graphic 
-  url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/24/Manniskor_med_kontakterweb_artikel.jpg?raw=true" 
-  title="Pendentif d'Aska" />
-  
-### Piste de réflexion  
-Le pendentif d'Aska
-  
 ## Pendentif D'Aska
 
 Ce pendentif en argent a été retrouvé dans la tombe d’Aska. Cette dernière était une vǫlva, donc une prêtresse du *seiðr*. Ces voyantes étaient considérées comme des « sorcières » en raison du caractère magique de leur pratique. Le pendentif représente d’un corps féminin et représenterait la déesse Freyja. Ce personnage porte un collier à quatre rangées et un casque. Elle pose ses bras sous son ventre qui pourrait indiquer sa nature de déesse de la fertilité. Les objets insérés dans la tombe du défunt témoignent de la classe sociale de l’individu. L’argent était considéré comme un matériel « riche » ce qui traduit la notoriété d’Aska. 
@@ -36,6 +25,16 @@ Ce pendentif en argent a été retrouvé dans la tombe d’Aska. Cette dernière
 ### Piste de réflexion    
 
 Est-ce que la représentation de Freyja sur le pendentif pourrait signifier un désir d’envoyer le **corps** d’Aska à *Fólkvangr* (la salle de Freyja)? Le caractère prestigieux des artefacts retrouvés pourrait indiquer un désir de rendre la **vǫlva** digne de rejoindre sa **déesse**, Freyja. 
+
+## Pendentif d'Aska
+
+Un deuxième pendentif fut retrouvé dans la tombe d’Aska. Celui-ci représente une minuscule tête masculine. Les traits sont grossiers en raison de la petitesse de l’objet. Ce deuxième pendentif est lui aussi fait d’argent, ce qui prouve la notoriété de la vǫlva Aska. Les pendentifs de la **religion** *seiðr* nordique représentaient majoritairement des dieux. 
+<param ve-graphic 
+  url="https://github.com/digitalArtHistory/recits-numeriques/blob/main/24/Manniskor_med_kontakterweb_artikel.jpg?raw=true" 
+  title="Pendentif d'Aska" />
+  
+### Piste de réflexion  
+Pourrait-il s’agit de la représentation du Dieu Óðinn? Puisqu’un premier pendentif de Freyja a été retrouver, ces deux objets allaient-ils de pair en représentant les deux amants de la **mythologie nordique**?
        
 ## Bâton de Klinta  
 
