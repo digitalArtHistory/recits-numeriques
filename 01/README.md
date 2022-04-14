@@ -69,7 +69,8 @@ Ainsi, la cohabitation des formes rudimentaires avec la figuration intégrée à
   
 ## Colonnette Statue 
 ### Étiquette
-Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du XIIe siècle, provient du portail occidental de l’église abbatiale de Saint-Denis en France localisée à l’extrême droite de la façade, et présentement conservée au musée d’Orsay suite au dépôt du musée de Louvre en 1914. 
+Calcaire de dimension 149 cm (hauteur) x 13,5 cm (diamètre), deuxième quart du XIIe siècle, provient du portail occidental de l’église abbatiale de Saint-Denis en France localisée à l’extrême droite de la façade, et présentement conservée au musée d’Orsay suite au dépôt du musée de Louvre en 1914.
+
 La naissance du réseau de commanditaires est une réalité du chantier médiéval qui sous l’administration de Suger pour la construction de Saint-Denis à Paris s’inscrit à l’intérieur d’un courant sculptural gothique apparent d’abord à l’Île-de-France ainsi qu’à Beauce dès la moitié du XIIe siècle. Cela dit, les monuments de ces régions partagent une iconographie inspirée de prototypes religieux à fonction méditative certes, mais également une profusion de motifs liés à la nature. La colonnette de l’église abbatiale de Saint-Denis sculptée au deuxième quart du XIIe siècle accorde une démonstration d’entrelacs.  
 <param ve-graphic 
   url="https://sculpturesmedievales-cluny.fr/img/zoom/07-535500.jpg" 
@@ -96,10 +97,14 @@ Argent moulé avec dorure de mercure de dimension 6,4 cm (longueur) x 7,8 cm (la
     description="Ustensile de breuvage" />
     
 La  dynastie Tang gouverne la Chine entre le VIIe et Xe siècle soit une période où la route du commerce de la soie autorise d’une part une ouverture culturelle envers l’héritage byzantin, puis d’autre part un déplacement des techniques du travail métallurgique arabe. Ces échanges engendrent la fabrication des ustensiles à esthétique variée incluant une représentation de la nature plus passive.  
-<param ve-image url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" />
+
 
 La Tasse à vin avec poignée d’anneau renvoie vers un dynamisme de viticulture doté d’une théâtralité issue par la composition enchevêtrée de la vignette avec les oiseaux et un lapin en motion. Ceux-ci, retracés par le doré du mercure, contrastent avec l’argent des vrilles de la plante du raisin afin d’assurer un éclat traduisant une image fantasmée.
-
+<param ve-image 
+    url="https://ids.si.edu/ids/deliveryService?id=FS-F1930.51_001&max=500.jpg" 
+    label="Tasse à vin avec poignée d'anneau de contour feuillé" 
+    description="Ustensile de breuvage" />
+    
 À cet égard, la confection de ferronnerie exotique avec l’imaginaire de rinceaux abrités légitime des traditions généralement à connotation religieuse pour les empires de l’Est, et parmi eux la colonnette-statut. À appréhender une réciprocité tolérée grâce à un vocabulaire optique stylistique. Ici, l’utilisation de motifs rudimentaires par les artisans du récipient souligne le caractère suprême de la nature, car celle-ci offre un langage universel. 
 
 
