@@ -42,9 +42,13 @@ Barnet, P. et Dandridge, P. (2006). Lions, Dragons, & Other Beasts: Aquamanilia 
 
 ## *Whale bone plaque*
 [La plaque](https://art.thewalters.org/detail/11104/whale-bone-plaque/) d'ivoire et d'os d'animal représente deux animaux se faisant face, dans une position de combat. La fonction de ces planches est mystérieuse, mais ces plaques se trouvent souvent à l’intérieur des tombes des femmes viking. Les vikings n'accordaient pas beaucoup d'importance dans les objets décoratifs, mais leur talent artistique se manifestait dans les oebjst de tous les jours, des outils utilitaires facile à transporter pour leur mode de vie nomade. Le motif de deux animaux qui se font face émulent une bataille, un motif typique des représentations animalières chez les Vikings. D'ailleurs, les Vikings ont une longue tradition de pratique artistique dans le motif animalier: le style se développe avec le temps entre le 9e et le 12 e siècle.
-<param ve-graphic url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" title="boob" />
+<param ve-graphic url="https://art.thewalters.org/images/art/large/l_ps1_711169_fnt_dd_t07.jpg" title="Planche en os de baleine, Norvège, ca. 800" />
 
 **Mots-clés:** os, viking, cheval, tête, migration.
+
+**Bibliographie**
+
+[(2022). Viking Age. Wolves among Sheeps. *Obelisk Art History*.](https://arthistoryproject.com/timeline/middle-ages/viking-age/)
 
 ## *Draughtsman with a Dog*
 Cette pièce de jeu de dames est gravée dans un os, représentant un chien stylisé. Le jeu de dames est un jeu qui a été joué fréquemment durant l’époque médiévale et il n’était pas incongru de voir des pièces décorées.
