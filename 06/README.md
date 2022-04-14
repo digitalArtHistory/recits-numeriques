@@ -48,7 +48,7 @@ Barnet, P. et Dandridge, P. (2006). Lions, Dragons, & Other Beasts: Aquamanilia 
 
 ## *Draughtsman with a Dog*
 Cette pièce de jeu de dames est gravée dans un os, représentant un chien stylisé. Le jeu de dames est un jeu qui a été joué fréquemment durant l’époque médiévale et il n’était pas incongru de voir des pièces décorées.
-<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/l_ps1_54422_fnt_dd_t07-14.jpeg" />
+<param ve-image url="https://raw.githubusercontent.com/digitalArtHistory/recits-numeriques/main/06/WOA_IMAGE_1.jpg" />
 
 **Mots-clés:** chien, pion, os, jeu.
 
