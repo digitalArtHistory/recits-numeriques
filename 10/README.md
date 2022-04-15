@@ -67,4 +67,29 @@ C’est l’histoire d’un village qui vit sous l’oppression d’un dragon, q
 Une variété de représentation inimaginable de cette histoire existe dans l’histoire de l’art. Cette pièce particulière est la plus grande sculpture jamais réalisée. Il montre de façon extraordinaire la morphologie du dragon dans les détails. La sculpture a été demandée par le gouverneur de Suède Sten Sture après sa victoire contre les Danois. La bataille de Saint Georges contre le dragon symbolise une fierté nationale où le gouverneur suédois a libéré son territoire des oppresseurs danois (Khrom : 1998).
 <param ve-image
     manifest="https://wd-image-positions.toolforge.org/iiif/Q10661353/P18/manifest.json"/>
-ajouter le texte expliquant son contenu
+
+### Bibliographie
+
+Darcheville, Patrick, (1994). Du Dragon À La Licorne : [Symbolique Des Animaux Fabuleux]. Paris: G. Trédaniel.
+
+Didi-Huberman, Georges, et Lacarrière Jacques, (2000). Saint Georges Et Le Dragon : De La Légende Au Mythe. Édité par Laurent Busine. Bruxelles: La Lettre volée.
+
+Drewer, Lois, (1993). Margaret of Antioch the Demon-Slayer, East and West: The Iconography of the Predella of the Boston Mystic Marriage of St. Catherine, The International Center of Medieval Art. [En ligne], https://www.journals.uchicago.edu/doi/pdf/10.2307/767014. Consulté le 8 avril 2022.
+
+Erlande-Brandenburg, Alain, (1978). Un bas-relief roman de Nevers, Bulletin Monumental, tome 136, n°2. [En ligne], https://www.persee.fr/docAsPDF/bulmo_0007-473x_1978_num_136_2_5701.pdf. Consulté le 11 avril 2022.
+
+Jerphanion, Guillaume de, (1938). L'origine copte du type de saint Michel debout sur le dragon, Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres, 82e année, N. 5. [En ligne], https://doi.org/10.3406/crai.1938.77076. Consulté le 11 avril 2022.
+Krohm, Hartmut, (1998). Notke, Bernt, Neue Deutsche Biographie, n0 19, [En ligne], https://www.deutsche-biographie.de/pnd118588842.html. Consulté le 13 mars 2022.
+Kunsthistorisches Museum Wien, (a.d). Aschenkiste: Kampf des Kadmos mit dem Drachen. [En ligne], https://www.khm.at/objektdb/detail/50061/?offset=16&lv=list, consulté le 12 mars 2022.
+
+Loskoutoff, Yvan. 2018. Un Art De La Réforme Catholique. Vol. Tome 2, La Symbolique Du Pape Grégoire Xiii (1572-1585) Et Des Boncompagni /. Bibliothèque D'histoire Moderne Et Contemporaine, 61. Paris: Honoré Champion éditeur.
+
+Markale, Jean, (1987). Le Mont Saint-Michel Et L'enigme Du Dragon. Histoire De La France Secrete. Paris: Pygmalion/G. Watelet.
+
+Nersessian, Sirarpie der, (1965). Aght’Amar : Church of the Holy Cross. Harvard University Press, Cambridge, Massachusetts. [En ligne], https://archive.org/details/dernersessian1965aghtamar. Consulté le 12 mars 2022.
+
+Pancaroğlu, Oya, (2004). The Itinerant Dragon-Slayer: Forging Paths of Image and Identity in Medieval Anatolia, The University of Chicago Press on behalf of the International Center of Medieval Art, Vol. 43, No. 2. [En ligne] https://www.jstor.org/stable/25067102. Consulté le 12 avril 2022.
+
+Politano, Cristina, (2018). The Road to Antioch: Wace's Vie de Sainte Marguerite on Crusade, A Journal of Medieval and Renaissance Studies, Volume 49. [En ligne], https://doi.org/10.1353/cjm.2018.0002. Consulté le 8 avril 2022.
+
+Walter, Christopher, (1999). Theodore, archetype of the warrior saint. In: Revue des études byzantines, tome 57. [En ligne] https://doi.org/10.3406/rebyz.1999.1970. Consulté le 12 avril 2022.
