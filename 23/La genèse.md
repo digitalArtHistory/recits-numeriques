@@ -32,11 +32,14 @@ Ce manuscrit datant environ du troisième quart du 12ième siècle est une vulag
        seq="8" /
 
 
+       
 **Petrus Comestor, Historia scholastica**
 Ce manuscrit conservé par la Bibliothèque nationale de France date d'environ 1183-1183. Il est écrit en latin, il s'agit donc aussi d'une vulgate. Le texte à écrit écrit par Pierre le Mangeur, et la décoration est l'œuvre de Jean le Borgne (copiste et enlumineur à Corbie). La création du monde est aussi représenter dans des médaillons, format préviligier pour délimiter des unitées de temps.
 <param ve-image
   manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10543247v/manifest.json" 
   seq="12" /
+  
+  
   
 
 --------This grand initial I for In principio creavit Deus (In the beginning God created) not only opens the text of Genesis but also the Bible as a whole. Embedded within the letter is a sequence of medallions representing the events of Creation and, at the bottom, the Crucifixion. This uniquely Christian view of time links God's work in creating the world to Jesus' sacrifice on the cross. So pivotal is this theme to Christian theology that the illuminator has chosen it as the subject for the most elaborate initial in this multivolume book.
