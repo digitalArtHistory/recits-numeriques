@@ -10,12 +10,11 @@
 
 
 
-```
 # L'exposition
 
 ## Source biblique
 
-*Genèse 1, 1 à Genèse 2, 3**
+**Genèse 1, 1 à Genèse 2, 3**
 
 *La Bible (trad. Louis Segond 1910), éd. Société biblique britannique et étrangère, 1910, Genèse, p. 1, 1*
 
