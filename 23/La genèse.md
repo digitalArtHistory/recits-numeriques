@@ -31,6 +31,7 @@ Ce manuscrit datant environ du troisième quart du 12ième siècle est une vulag
   manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json" 
        seq="8" /
 
+
 **Petrus Comestor, Historia scholastica**
 Ce manuscrit conservé par la Bibliothèque nationale de France date d'environ 1183-1183. Il est écrit en latin, il s'agit donc aussi d'une vulgate. Le texte à écrit écrit par Pierre le Mangeur, et la décoration est l'œuvre de Jean le Borgne (copiste et enlumineur à Corbie). La création du monde est aussi représenter dans des médaillons, format préviligier pour délimiter des unitées de temps.
 <param ve-image
