@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="https://media.getty.edu/museum/images/web/download/00305401.jp" 
+       banner="https://media.getty.edu/museum/images/web/download/00305401.jpg" 
        layout="vertical">
 
 # Genèse: La création du monde dans l'art médièvale
