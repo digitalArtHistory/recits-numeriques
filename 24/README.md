@@ -18,7 +18,7 @@ J’envisage de regrouper des artefacts et des objets issus de ces rituels *sei�
 Le *seiðr* est une pratique religieuse qui a pris fin à l’arrivée du christianisme en Scandinavie. Lors du cours sur l’Art médiéval, nous abordons plusieurs objets en lien avec des pratiques religieuses de l’époque, majoritairement catholique. Dans le cadre de cette exposition, je tente de mettre en lumière une religion qui n’a pas été abordée et qui a existé avant l’arrivée du christianisme. 
 
 ```
-### Bibliographie
+Bibliographie
 
 Björnsson, Björn Th. « De l’histoire de l’art islandaise du passé. » Tímarit. 1962. P. 1-26. https://timarit.is/page/5389774#page/n1/mode/2up 
 
