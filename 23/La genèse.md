@@ -26,7 +26,7 @@ stylistiques et iconographiques qui les unit.
 ### Répertoire d'oeuvres
 
 **Le premier volume de la vulgate en deux parties, contenant le livre de la genèse et le livre de Job**
-Ce manuscrit datant environ du troisième quart du 12ième siècle est une vulagte latine enluminée. Il est surement originaire de la cathédrale Saint-Maurice à Angers en France. Il est maintenant conservé à la British Library de Londres.
+Ce manuscrit datant environ du troisième quart du 12ième siècle est une vulagte latine enluminée. Il est surement originaire de la cathédrale Saint-Maurice à Angers en France. Il est maintenant conservé à la British Library de Londres. La composition décorative représentant les six premiers jours de la genèse se trouve dans un bandaux vertical à côté de l'appelation *
 <param ve-image
   manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json" 
        seq="8" /
