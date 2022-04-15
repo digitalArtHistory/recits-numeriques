@@ -15,9 +15,7 @@
 ## Source biblique
 
 **Genèse 1, 1 à Genèse 2, 3**
-
 *La Bible (trad. Louis Segond 1910), éd. Société biblique britannique et étrangère, 1910, Genèse, p. 1, 1*
-
 >Au commencement, Dieu créa les cieux et la terre. La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux. Dieu dit: Que la lumière soit! Et la lumière fut. Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec les ténèbres. Faisons l'homme à notre image, à notre ressemblance ! Qu'il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, sur toute la terre et sur tous les reptiles qui rampent sur la terre. Dieu acheva au septième jour son œuvre, qu'il avait faite: et il se reposa au septième jour de toute son œuvre, qu'il avait faite.
 
 
