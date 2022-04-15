@@ -26,56 +26,13 @@ stylistiques et iconographiques qui les unit.
 ### Répertoire d'oeuvres
 
 **Le premier volume de la vulgate en deux parties, contenant le livre de la genèse et le livre de Job**
-Ce manuscrit datant environ du troisième quart du 12ième siècle est une vulagte latine enluminée. Il est surement originaire de la cathédrale Saint-Maurice à Angers en France. Il est maintenant conservé à la British Library de Londres. La composition décorative représentant les six premiers jours de la genèse se trouve dans un bandaux vertical à côté de l'appelation *
+Ce manuscrit datant environ du troisième quart du 12ième siècle est une vulagte latine enluminée. Il est surement originaire de la cathédrale Saint-Maurice à Angers en France. Il est maintenant conservé à la British Library de Londres. La composition décorative représentant les six premiers jours de la genèse se trouve dans un bandaux vertical à côté de l'appelation *Liber Genesis*. Chaques jours est représenter dans son propre cercle de façon minimaliste. La feuille d'or est utilisée pour démarquer les espaces négatifs et entoure le bandaux. Un dieu pantocrator surmonte la composition.
 <param ve-image
   manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json" 
        seq="8" /
 
-
------------Libellé:
-BnF. Département des Manuscrits. Latin 16943
-Description:
-Petrus Comestor, Historia scholastica.
-Numérisé par:
-Bibliothèque nationale de France
-Identifiant:
-https://manuscrits-france-angleterre.org/ark:/12148/btv1b10543247v
-Metadata Source:
-http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b10543247v
-Cote:
-Bibliothèque nationale de France. Département des Manuscrits. Latin 16943
-Titre:
-Petrus Comestor, Historia scholastica.
-Date:
-1183-1183
-Langue:
-latin
-Format:
-France (Corbie). - Minuscule caroline de la main de Jean le Borgne (cf. colophon). - La décoration est l'œuvre de Jean le Borgne, copiste et enlumineur à Corbie (cf. colophon). Initiales peintes historiées, colorées en rouge, jaune, vert et bleu : f. 2rb In (30 lignes), la Création du monde dans des médaillons ; f. 28rb Surrexit (12 lignes), Moïse et Aaron devant le Pharaon, le passage de la Mer rouge ; f. 62ra Factum (20 lignes), Josué dépêchant deux espions à Jéricho, évasion des deux espions avec l'aide de la courtisane Rahab ; f. 65rb Et (10 lignes), les Israélites consultant Iahvé, puis partant en guerre contre Canaan ; f. 72rb Fuit (26 lignes), Dieu apparaissant sous la forme d'un ange à Samuel couché, Samuel se rendant auprès d'Eli couché pour savoir si c'est lui qui l'a appelé ; f. 80va Factum (25 lignes), l'Amalécite annonçant à David la mort de Saul ; f. 87rb Volens (8 lignes), Salomon oint pour la seconde fois par le prêtre Sadocq en présence de David ; f. 113vb Et (6 lignes), Israélites venant supplier Jérémie d'intercéder auprès de Dieu ; f. 116ra Factum (23 lignes), Daniel expliquant à Nabuchodonosor ses songes ; f. 121va Sequitur (8 lignes), Suzanne et le jugement de Daniel ; f. 124rb Mortuo (8 lignes), Nabuchodonosor prenant le pouvoir à la mort de son père Nabupolassar, Nabuchodonosor lançant l'ordre du combat contre Arphaxad ; f. 142va Fuit (25 lignes), l'ange Gabriel annonçant à Zacharie que sa femme Elisabeth enfantera un fils ; f. 142va Mense (11 lignes), l'Annonciation ; f. 172rb Anno (10 lignes), l'Ascension.Initiales ornées à rinceaux entrelacés sur fond de couleur, parfois habitées par des personnages et des animaux : f. 2ra Reverendo (10 lignes) ; f. 28ra Historia (19 lignes) ; f. 43va Tertia (7 lignes) ; f. 43vb Vocavit (11 lignes) ; f. 58rb Quinta (8 lignes) ; f. 58va Quadragesimo (8 lignes), partiellement zoomorphe ; f. 65rb Liber (12 lignes) ; f. 72ra Liber (21 lignes), partiellement zoomorphe ; f. 115vb Prophetavit (16 lignes et une partie de la marge inférieure), partiellement zoomorphe ; f. 132va Erat (9 lignes).Petites initiales rouges, vertes et bleues, ornées de filets et rinceaux. - Parchemin. - 189 ff., numérotés de 2 à 190, précédés d’une garde en parchemin moderne et d’une garde en papier (f. 1) et suivis d’une garde en parchemin moderne. - 455 x 320 mm (justif. 345 x 220 mm). - 24 cahiers s’ouvrant sur le côté poil, tous quaternions sauf les cahiers 4 (f. 26-31, un ternion), 6 (f. 40-46, un quaternion manquant des deux derniers feuillets), 10 (f. 70-79, un quaternion précédé de deux feuillets isolés) et 24 (f. 184-190, un quaternion manquant du dernier feuillet). Signature des cahiers en chiffres romains au centre de la marge inférieure de la dernière page des cahiers 1, 5-17 et 19-23 (signés I, IIII, VI-XVII, XIX-XXIII). Foliotation moderne en chiffres arabes à l’encre noire sur la marge supérieure externe du recto. - Réglure à l’encre (Muzerelle 1-1-11/0/1-0/JJ) ; 45 lignes sur deux colonnes. - Reliure de conservation réalisée en 2017 sur ais de contre-plaqué marine couverts en veau teint à l’alun. Contre-gardes et gardes en parchemin moderne, plus une garde en papier de la reliure précédente (f. 1). Défets de la reliure précédente : ais de carton couverts en veau raciné, plats décorés par des poinçons en encadrement ; dos en maroquin rouge au chiffre de Charles X ; titre au dos en lettres dorés : « P. Manducatoris Breviarium vet. et n. testamenti XII s. ». Contre-gardes en papier marbré ; gardes en papier marbré et en papier. - Aux f. 2r, 142r et 190v, estampille de la « Bibliothèque impériale » avec mention « MSS. », proche du modèle Josserand-Bruno n° 36 (1852-1870)
-...
-Auteur:
-Pierre le Mangeur (1100?-1179?). Auteur du texte
-Notice du catalogue:
-Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc11365b
-Type:
-Manuscrit
-Mécénat:
-Programme réalisé grâce au mécénat de la Fondation Polonsky et en partenariat avec la British Library
-Origine:
-Lieu de copie : France (Corbie)
-Droits:
-Licence:
-https://manuscrits-france-angleterre.org/html/und/conditions-dutilisation-des-contenus-de-gallica
-Attribution:
-Bibliothèque nationale de France
-Logo:
-Liens:
-Ressources liées:
-https://manuscrits-france-angleterre.org/ark:/12148/btv1b10543247v
-Voir aussi:
-http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b10543247v
-Manifest IIIF:
-https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10543247v/manifest.json
+**Petrus Comestor, Historia scholastica**
+Ce manuscrit conservé par la Bibliothèque nationale de France date d'environ 1183-1183. Il est écrit en latin, il s'agit donc aussi d'une vulgate. Le texte à écrit écrit par Pierre le Mangeur, et la décoration est l'œuvre de Jean le Borgne (copiste et enlumineur à Corbie). La création du monde est aussi représenter dans des médaillons, format préviligier pour délimiter des unitées de temps.
 <param ve-image
   manifest="https://manuscrits-france-angleterre.org/iiif/ark:/12148/btv1b10543247v/manifest.json" 
   seq="12" /
