@@ -7,91 +7,26 @@
 
 # Genèse: La création du monde dans l'art médièvale
 
-
-
-
 # L'exposition
+Le thème de l’exposition va être la genèse, et plus spécifiquement la création du monde,
+sur différents supports/médiums dans l’art médiéval. Nous allons analyser qu’elles sont
+les différences de représentation liée à leur support, mais aussi les rapprochements
+stylistiques et iconographiques qui les unit.
 
 ## Source biblique
 
 **Genèse 1, 1 à Genèse 2, 3**
+
 *La Bible (trad. Louis Segond 1910), éd. Société biblique britannique et étrangère, 1910, Genèse, p. 1, 1*
+
 >Au commencement, Dieu créa les cieux et la terre. La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux. Dieu dit: Que la lumière soit! Et la lumière fut. Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec les ténèbres. Faisons l'homme à notre image, à notre ressemblance ! Qu'il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, sur toute la terre et sur tous les reptiles qui rampent sur la terre. Dieu acheva au septième jour son œuvre, qu'il avait faite: et il se reposa au septième jour de toute son œuvre, qu'il avait faite.
 
 
 
 ### Répertoire d'oeuvres
 
-
-
-Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
-
-*Salut*
-
-**Bon-apple-tea**
-
-Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui arcu, venenatis a porta non, malesuada eu eros. Vivamus arcu nisi, imperdiet sit amet fringilla ac, pretium nec ex. Proin vel bibendum massa, vitae lacinia magna. Nunc venenatis augue quis purus imperdiet, nec accumsan lectus elementum. Ut tellus massa, sodales vitae feugiat et, porta ut libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur ornare tempus vulputate. Donec tincidunt est ullamcorper mi interdum aliquam. Nunc id placerat velit. Duis et est nulla. 
-
-
-
-> Lorem ipsum
-
-
-Vous pouvez toujours utiliser l’interface graphique de GitHub mais il est souvent plus rapide et plus simple de directement tapper le texte...
-
-Voici quelques ressources sur Markdown
-- [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
-
-Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
-- créer des sections interactives (paragraphes)
-- insérer une image
-- insérer une image avec IIIF
-- insérer un lien Wikidata
-- intégrer une vidéo
-
-
-  
------------ibellé:
-British Library Harley MS 2833 The first volume of a Vulgate in two parts, containing the Book of Genesis to the Book of Job
-Description:
-
-This 12th-century manuscript contains the first volume of an illuminated Latin Vulgate in two parts. It contains the Book of Genesis to the Book of Job with prologues that are attributed to St Jerome (b. 347, d. 420) and tables of contents. The manuscript was preserved at a religious house, as it features markers for liturgical lections and a list of possessions of a church on f. 319v. It may originate from the Saint Maurice Cathedral of Angers as indicated on the Harleian binding and the Harleian catalogue.
-Page:f.2r ou 9
-...
-Source:
-Harley MS 2833
-Etablissement de conservation:
-The British Library
-Titre:
-The first volume of a Vulgate in two parts, containing the Book of Genesis to the Book of Job
-Origine:
-Angers, France
-Date:
-3rd quarter of the 12th century
-Langue:
-Latin
-Notice du catalogue:
-View the catalogue record
-Identifiant:
-British Library Harley MS 2833, <http://access.bl.uk/item/viewer/ark:/81055/vdc_100059311452.0x000001>
-Mécénat:
-The Polonsky Foundation
-Numérisé par:
-The British Library
-Droits:
-Licence:
-https://www.bl.uk/help/how-to-reuse-images-of-unpublished-manuscripts
-Attribution:
-Public Domain in most countries, other than the UK.
-Logo:
-Liens:
-Ressources liées:
-View at The British Library
-Manifest IIIF:
-https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json
+**Le premier volume de la vulgate en deux parties, contenant le livre de la genèse et le livre de Job**
+Ce manuscrit datant environ du troisième quart du 12ième siècle est une vulagte latine enluminée. Il est surement originaire de la cathédrale Saint-Maurice à Angers en France. Il est maintenant conservé à la British Library de Londres.
 <param ve-image
   manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059311452.0x000001/manifest.json" 
        seq="8" /
