@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="depart" 
-       banner="/images/ViennaDioscoridesFolio483vBirds.jpg" 
+       banner="https://media.getty.edu/museum/images/web/download/00305401.jp" 
        layout="vertical">
 
 # Genèse: La création du monde dans l'art médièvale
