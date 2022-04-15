@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Le dragon des légendes" 
-       banner="https://images.metmuseum.org/CRDImages/md/original/DP144443.jpg" 
+       banner="https://github.com/digitalArtHistory/recits-numeriques/blob/main/10/IMG_5627.jpg?raw=true" 
        layout="vertical">
 
 # Le thème
