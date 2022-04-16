@@ -22,13 +22,14 @@ source et lien
 source et lien 
 
 # Fragments de mosaïque rassemblés
+
 ## Fragment d'une mosaïque de sol avec une personnification de Ktisis 
 
-Ce fragment d'une mosaïque de sol (151.1 x 199.7 cm) faite de marbre et de verre provient des années 500-550 et représente bien le type de mosaïque créée dans le monde byzantin des années 500. La femme représentée, parée de bijoux et tenant l'outil de mesure du pied romain est identifiée, tel qu'annoncée par l'inscription grecque restaurée située à coté de sa tête, comme la déesse Ktisis. L'homme figuré derrière, tenant la corne d'abondance, faisait sans doute partie d'une paire, signalée par l'inscription grecque « bien » près de sa tête, probablement la moitié d'un texte disant « bons voeux ». Conservé aujourd'hui au Metropolitan Museum, le fragment aujourd'hui unifié provient d'une acquisition indépendante des deux personnages, restauré ensuite conformément à une photographie montrant la disposition d'origine avant la séparation. <param ve-graphic url="https://images.metmuseum.org/CRDImages/md/original/DT112.jpg" title="Fragment d"une mosaïque de sol avec une personnification de Ktisis" /> 
+Ce fragment d'une mosaïque de sol (151.1 x 199.7 cm) faite de marbre et de verre provient des années 500-550 et représente bien le type de mosaïque créée dans le monde byzantin des années 500. La femme représentée, parée de bijoux et tenant l'outil de mesure du pied romain est identifiée, tel qu'annoncée par l'inscription grecque restaurée située à coté de sa tête, comme la déesse Ktisis. L'homme figuré derrière, tenant la corne d'abondance, faisait sans doute partie d'une paire, signalée par l'inscription grecque « bien » près de sa tête, probablement la moitié d'un texte disant « bons voeux ». Conservé aujourd'hui au Metropolitan Museum, le fragment aujourd'hui unifié provient d'une acquisition indépendante des deux personnages, restauré ensuite conformément à une photographie montrant la disposition d'origine avant la séparation. <param ve-image url= "https://images.metmuseum.org/CRDImages/md/original/DT112.jpg" title="Fragment d"une mosaïque de sol avec une personnification de Ktisis" /> 
 
 Source:[The Metropolitan Museum](https://www.metmuseum.org/art/collection/search/469960). 
 
-mots-clés: art médiéval, mosaïque, fragment, marbre, verre, byzantin, Ktisis, portrait 
+Mots-clés: art médiéval, mosaïque, fragment, marbre, verre, byzantin, Ktisis, portrait 
 
 ## 2. Mosaïque de sol de Ktisis 
 texte explicatif
@@ -52,12 +53,9 @@ Ceci est un nouveau paragraphe...  Lorem ipsum dolor sit amet, consectetur adipi
 
 > Ceci est du texte cité.
 
-
 Voici quelques ressources sur Markdown
 - [Guide markdown (EN)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Débuter avec markdown (FR)](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
-
-## Premiers pas avec Juncture (travail dirigé)
 
 Afin de prendre en main la rédaction d’essais visuels avec [Juncture](https://juncture-digital.org/), nous allons introduire quelques fonctionnalités de base du logiciel que vous pourrez ensuite utiliser dans votre propre travail. Pour le moments, contentez-vous de nous suivre pas-à-pas. Au cours de cet exercice, nous allons successivement :
 <param ve-image url="https://gallica.bnf.fr/ark:/12148/btv1b53064889t/f1.thumbnail" />
