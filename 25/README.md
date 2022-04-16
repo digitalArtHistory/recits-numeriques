@@ -22,8 +22,8 @@ source et lien
 source et lien 
 
 # Fragments de mosaïque rassemblés
-## Fragment d'une mosaïque de sol avec une personnification de Ktisis
-<param ve-graphic url="https://images.metmuseum.org/CRDImages/md/original/DT112.jpg" title="Fragment d"une mosaïque de sol avec une personnification de Ktisis" /> 
+## Fragment d'une mosaïque de sol avec une personnification de Ktisis 
+
 Ce fragment d'une mosaïque de sol (151.1 x 199.7 cm) faite de marbre et de verre provient des années 500-550 et représente bien le type de mosaïque créée dans le monde byzantin des années 500. La femme représentée, parée de bijoux et tenant l'outil de mesure du pied romain est identifiée, tel qu'annoncée par l'inscription grecque restaurée située à coté de sa tête, comme la déesse Ktisis. L'homme figuré derrière, tenant la corne d'abondance, faisait sans doute partie d'une paire, signalée par l'inscription grecque « bien » près de sa tête, probablement la moitié d'un texte disant « bons voeux ». Conservé aujourd'hui au Metropolitan Museum, le fragment aujourd'hui unifié provient d'une acquisition indépendante des deux personnages, restauré ensuite conformément à une photographie montrant la disposition d'origine avant la séparation. <param ve-graphic url="https://images.metmuseum.org/CRDImages/md/original/DT112.jpg" title="Fragment d"une mosaïque de sol avec une personnification de Ktisis" /> 
 
 Source:[The Metropolitan Museum](https://www.metmuseum.org/art/collection/search/469960). 
