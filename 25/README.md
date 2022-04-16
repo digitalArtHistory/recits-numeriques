@@ -5,7 +5,7 @@
        banner="https://worcester.emuseum.com/internal/media/dispatcher/24300/resize%3Aformat%3Dfull" 
        layout="vertical">
 
-# Représentation de Ktisis dans la mosaïque byzantine médiévale
+# La déesse Ktisis dans la mosaïque byzantine médiévale
 
 Ajouter texte d'introduction
 
