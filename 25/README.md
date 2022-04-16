@@ -7,7 +7,9 @@
 
 # La déesse Ktisis dans la mosaïque byzantine médiévale
 
-Ajouter texte d'introduction
+Cette brève collection de cinq images a pour but de retracer l'iconographie de la déesse Ktisis à travers ses représentations dans la mosaïque byzantine médiévale. Par conséquent, les cinq images réunies proviennent de fragments de mosaïque de culture byzantine datant du 5ième et 6ième siècle et figurant la déesse Ktisis. 
+
+L'intérêt de ce sujet dans le cadre du cours sur le monde médiéval réside dans la multitude d'éléments et de paramètres entourant la composition et la production de ces objets pouvant être analysés en lien avec la culture artistique médiévale. Plus précisément, les fragments rassemblés permettent d'explorer la tradiction picturale et iconographique liée à la représentation de Ktisis à l'époque médiévale, en plus d'analyser la tradiction plus large de la mosaïque en tant que médium dans l'art byzantin. De plus, l'attrait personnel vers ce sujet provient de l'opportunité, avec ces images, de survoler ou de questionner certains enjeux ou problèmes liés à la représentation des femmes dans l'art médiéval ou l'art byzantin. 
 
 Voici quelques actions à réaliser pour commencer :
 - modifier l’image de l’en-tête de votre essai visuel
