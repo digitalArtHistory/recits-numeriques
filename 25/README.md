@@ -21,7 +21,7 @@ source et lien
 source et lien 
 source et lien 
 
-# Fragments de mosaïque sélectionnés 
+# Fragments de mosaïque rassemblés
 ## 1. Fragment d'une mosaïque de sol avec une personnification de Ktisis
 texte explicatif 
 mots clés
