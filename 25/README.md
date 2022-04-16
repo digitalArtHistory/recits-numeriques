@@ -11,10 +11,9 @@ Cette brève collection de cinq images a pour but de retracer l'iconographie de 
 
 L'intérêt de ce sujet dans le cadre du cours sur le monde médiéval réside dans la multitude d'éléments et de paramètres entourant la composition et la production de ces objets pouvant être analysés en lien avec la culture artistique médiévale. Plus précisément, les fragments rassemblés permettent d'explorer la tradiction picturale et iconographique liée à la représentation de Ktisis à l'époque médiévale, en plus d'analyser la tradiction plus large de la mosaïque en tant que médium dans l'art byzantin. De plus, l'attrait personnel vers ce sujet provient de l'opportunité, avec ces images, de survoler ou de questionner certains enjeux ou problèmes liés à la représentation des femmes dans l'art médiéval ou l'art byzantin. 
 
-Voici quelques actions à réaliser pour commencer :
-- modifier l’image de l’en-tête de votre essai visuel
-- enregistrer vos modifications avec une courte description de ce que vous avez fait (cf. « commit » en bas de cette page)
-- visualiser votre page en cliquant sur le bouton « mon essai visuel »
+Le rassemblement de ces fragments de mosaïque permet d'observer quelques exemples concrets de l'usage de la mosaïque comme médium artistique dans le monde byzantin médiéval, en plus de capter visuellement le type de technique, la taille des tesselles ainsi que les différents motifs et couleurs. Par ailleurs, la reprise d'un motif païen, la déesse païenne Ktisis, informe également sur la sacralisation des images, leur rôle et leur utilisation dans la cadre d'un système de croyance ou d'une religion. En outre, l'observation de différentes représentations du même thème, la figure de Ktisis, permet de noter les subtilités dans la tradition iconographique, entre autres les éléments récurrents ou les divergences. 
+
+Ces considérations et thématiques évoquées invitent à un approfondissement, d'où l'intérêt d'ajouter à cette introduction une bibliographie complémentaire. Ainsi, les textes suggérés et regroupés ci-dessous permettent de poursuivre et de creuser les enjeux et thématiques soulevés. 
 
 # Explorer Markdown
 
