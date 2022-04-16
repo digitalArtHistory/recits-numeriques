@@ -8,7 +8,7 @@
 # Genèse: La création du monde dans l'art médièvale
 
 # L'exposition
-Le thème de l’exposition est la genèse, et plus spécifiquement la création du monde, sur différents supports/médiums dans l’art médiéval. Nous allons analyser qu’elles sont les différences de représentation liée à leur support, mais aussi les rapprochements stylistiques et iconographiques qui les unit.
+Le thème de l’exposition est la genèse, et plus spécifiquement la création du monde. C’est un sujet théologique fondateur du christianisme, mais aussi très riche iconographiquement. La création du monde est divisée en sept jours distincts et chacun de ces jours une action différente est effectuée par le Dieu chrétien. Les artistes doivent représenter des concepts abstraits tels des unités de temps, mais aussi des actions métaphysiques telles la séparation de la lumière et de la noirceur au public de l’époque. Si des thèmes tels la naissance d’Adam et Éve reviennent souvent dans les œuvres liturgiques, celui de la création du monde est moins présent. C’est cette difficulté liée à l’abstraction qui rend les œuvres encore plus intéressantes. Elle oblige à une créativité plus à pousser. Il est aussi question du public auquel est adressé l’œuvre. Si les trois premières œuvres ici présentées sont des enluminures (donc s’adresse à un publique lettré), les deux dernières s’adressent à une audience plus large. Je m’intéresse aux différents choix iconographiques que vont effectuer les artistes médiévaux dépendant de leurs supports/médiums et public. Nous allons donc analyser qu’elles sont les différences de représentation liée à leur support, mais aussi les rapprochements stylistiques et iconographiques qui les unissent.
 
 ## Source biblique
 
@@ -17,6 +17,7 @@ Le thème de l’exposition est la genèse, et plus spécifiquement la création
 * La Bible (trad. Louis Segond 1910), éd. Société biblique britannique et étrangère, 1910, Genèse, p. 1, 1 *
 
 > Au commencement, Dieu créa les cieux et la terre. La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux. Dieu dit: Que la lumière soit! Et la lumière fut. Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec les ténèbres. Faisons l'homme à notre image, à notre ressemblance ! Qu'il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, sur toute la terre et sur tous les reptiles qui rampent sur la terre. Dieu acheva au septième jour son œuvre, qu'il avait faite: et il se reposa au septième jour de toute son œuvre, qu'il avait faite. [^1]: La Bible (trad. Louis Segond 1910), éd. Société biblique britannique et étrangère, 1910, Genèse, p. 1-3
+
 
 ### Répertoire d'oeuvres
 
