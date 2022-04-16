@@ -16,11 +16,31 @@ Le rassemblement de ces fragments de mosaïque permet d'observer quelques exempl
 Ces considérations et thématiques évoquées invitent à un approfondissement, d'où l'intérêt d'ajouter à cette introduction une bibliographie complémentaire. Ainsi, les textes suggérés et regroupés ci-dessous permettent de poursuivre et de creuser les enjeux et thématiques soulevés. 
 
 ## Bibliographie complémentaire 
+source et lien
+source et lien 
+source et lien 
+source et lien 
 
-## Titre de niveau 2
+# Fragments de mosaïque sélectionnés 
+## 1. Fragment d'une mosaïque de sol avec une personnification de Ktisis
+texte explicatif 
+mots clés
 
-### Titre de niveau 3
-```
+## 2. Mosaïque de sol de Ktisis 
+texte explicatif
+mots clés 
+
+## 3. Ktisis; création personnifiée; sol en mosaïque de la salle centrale des bains de la maison d'Eustolios 
+texte explicatif
+mots clés 
+
+## 4. La déesse Ktisis 
+texte explicatif
+mots clés 
+
+## 5. Mosaïque de Ktisis 
+texte explicatif
+mots clés 
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
 <param ve-graphic url="https://images.metmuseum.org/CRDImages/md/original/DT112.jpg" title="Fragment d"une mosaïque de sol avec une personnification de Ktisis" />
