@@ -20,7 +20,7 @@ Ces considérations et thématiques évoquées invitent à un approfondissement,
 Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
 
 ```
-# Titre de niveau 1
+# Bibliographie complémentaire 
 
 ## Titre de niveau 2
 
