@@ -15,12 +15,7 @@ Le rassemblement de ces fragments de mosaïque permet d'observer quelques exempl
 
 Ces considérations et thématiques évoquées invitent à un approfondissement, d'où l'intérêt d'ajouter à cette introduction une bibliographie complémentaire. Ainsi, les textes suggérés et regroupés ci-dessous permettent de poursuivre et de creuser les enjeux et thématiques soulevés. 
 
-# Explorer Markdown
-
-Markdown est une syntaxe très simple destinée à créer des contenus pour le web en HTML. Voici quelques exemples :
-
-```
-# Bibliographie complémentaire 
+## Bibliographie complémentaire 
 
 ## Titre de niveau 2
 
