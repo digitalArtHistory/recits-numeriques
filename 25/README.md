@@ -32,9 +32,13 @@ Source:[The Metropolitan Museum](https://www.metmuseum.org/art/collection/search
 
 Mots-clés: art médiéval, mosaïque, fragment, marbre, verre, byzantin, Ktisis, portrait 
 
-## 2. Mosaïque de sol de Ktisis 
-texte explicatif
-mots clés 
+## Mosaïque de sol de Ktisis 
+
+Ce second fragment de mosaïque (285.3 x 276.9 cm) laisse voir la personnification de Ktisis dans un médaillon se trouvant au centre d'un dessin géométrique rappelant les motifs typiques des tapisseries coptes et syriennes de la même époque. Ce fragment de mosaïque datant du 5ième siècle et conservé au Worcester Art Museum est composé de cubes de marbre et de calcaire noyés dans du mortier de chaux. La tête féminine est bordée de chaque côté par une partie de l'inscription « Kticic » signifiant la déesse Ktisis. Le fragment a été découvert lors des fouilles d'Antioche et des environs. 
+<param ve-graphic url= "https://worcester.emuseum.com/internal/media/dispatcher/10424/preview" title="Mosaïque de sol de Ktisis" /> 
+
+
+Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Ktisis, tapisseries, médaillon, motifs géométriques 
 
 ## 3. Ktisis; création personnifiée; sol en mosaïque de la salle centrale des bains de la maison d'Eustolios 
 texte explicatif
