@@ -52,7 +52,7 @@ Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Kti
 
 ## La déesse Ktisis 
 
-texte explicatif
+Ce quatrième fragment de mosaïque conservé au Qasr Libya Museum provient d'une collection regroupant 50 panneaux de mosaïque figurant principalement des animaux, des dieux et déesses, des nymphes et des monuments célèbres. Cette collection illustre la reprise de l'iconographie préchrétienne dans le cadre d'un système de croyances chrétiennes. On constate la persistance de traditions païennes ou anciennes parmi les images chrétiennes produites autour du bassin de la méditerranée. On observe sur le fragment une personnification de la déesse Ktisis, signalée en outre par l'inscription « Kticic » à gauche du personnage. Tenant une branche dans sa main droite et entourée de plantes, Ktisis, déesse de l'agriculture, est ici explicitement aussi personnification de la générosité et du don. 
 <param ve-graphic url= "https://www.temehu.com/pictures2/museums2/qasr-libya-mosaic-ktisis2.jpg" title="La déesse Ktisis" /> 
 
 Source: [Qasr Libya Museum](https://www.temehu.com/Cities_sites/museum-of-qasr-libya.htm). 
