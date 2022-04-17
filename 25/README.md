@@ -62,7 +62,7 @@ Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Kti
 ## Mosaïque de Ktisis 
 
 texte explicatif
-<param ve-graphic url= "https://www.temehu.com/pictures2/museums2/qasr-libya-mosaic-ktisis2.jpg" title="La déesse Ktisis" /> 
+<param ve-graphic url= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Antakya_Archaeology_Museum_Ktisis_mosaic_sept_2019_6218.jpg/1012px-Antakya_Archaeology_Museum_Ktisis_mosaic_sept_2019_6218.jpg?20200308114117" title="Mosaïque de Ktisis" /> 
 
 Source: [Antakya Archaeology Museum](https://commons.wikimedia.org/wiki/File:Antakya_Archaeology_Museum_Ktisis_mosaic_sept_2019_6218.jpg) 
 
