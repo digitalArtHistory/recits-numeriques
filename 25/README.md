@@ -50,13 +50,23 @@ Source: [Byzantine Art and Archaeology](https://cmc.byzart.eu/items/show/66385/)
 
 Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Ktisis, Eustolios
 
-## 4. La déesse Ktisis 
-texte explicatif
-mots clés 
+## La déesse Ktisis 
 
-## 5. Mosaïque de Ktisis 
 texte explicatif
-mots clés 
+<param ve-graphic url= "https://www.temehu.com/pictures2/museums2/qasr-libya-mosaic-ktisis2.jpg" title="La déesse Ktisis" /> 
+
+Source: [Qasr Libya Museum](https://www.temehu.com/Cities_sites/museum-of-qasr-libya.htm). 
+
+Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Ktisis 
+
+## Mosaïque de Ktisis 
+
+texte explicatif
+<param ve-graphic url= "https://www.temehu.com/pictures2/museums2/qasr-libya-mosaic-ktisis2.jpg" title="La déesse Ktisis" /> 
+
+Source: [Antakya Archaeology Museum](https://commons.wikimedia.org/wiki/File:Antakya_Archaeology_Museum_Ktisis_mosaic_sept_2019_6218.jpg) 
+
+Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Ktisis 
 
 Ceci est un paragraphe. Celui-ci contient du texte **en gras** mais aussi du texte *en italique*. Markdown permet également de créer des hyperliens. La cible du lien est indiquée entre crochets `[` et `]` et immédiatement suivi de l’URL entre parenthèses. Par exemple voici un lien vers le site de l’[Université de Montréal](http://www.umontreal.ca).
 
