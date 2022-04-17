@@ -41,9 +41,14 @@ Source:[Worcester Art Museum](https://worcester.emuseum.com/objects/33965/ktisis
 
 Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Ktisis, tapisseries, médaillon, motifs géométriques 
 
-## 3. Ktisis; création personnifiée; sol en mosaïque de la salle centrale des bains de la maison d'Eustolios 
+## Ktisis; création personnifiée; sol en mosaïque de la salle centrale des bains de la maison d'Eustolios 
+
 texte explicatif
-mots clés 
+<param ve-graphic url= "https://cmc.byzart.eu/files/original/ouc/ouc_bank_of_cyprus_cultural_foundation/006_018_066385_01.jpg" title="Ktisis; création personnifiée; sol en mosaïque de la salle centrale des bains de la maison d'Eustolios" /> 
+
+Source: [Byzantine Art and Archaeology](https://cmc.byzart.eu/items/show/66385/).
+
+Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Ktisis, Eustolios
 
 ## 4. La déesse Ktisis 
 texte explicatif
