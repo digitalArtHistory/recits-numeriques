@@ -43,7 +43,7 @@ Mots-clés: art médiéval, mosaïque, fragment, marbre, portrait, byzantin, Kti
 
 ## Ktisis; création personnifiée; sol en mosaïque de la salle centrale des bains de la maison d'Eustolios 
 
-texte explicatif
+Ce troisième fragment provient de la mosaïque de sol de la pièce centrale des bains de la maison d'Eustolios. On y voit une personnification de Ktisis au centre d'un médaillon délimité par des formes et motifs géométriques. L'inscription « Kticic » signifiant Ktisis apparaît au centre, divisée par la tête du personnage. Celle-ci tient entre ses mains l'outil de mesure du pied romain. Le fragment conservé au département des antiquités de la république de Chypre est composé principalement de marbre. 
 <param ve-graphic url= "https://cmc.byzart.eu/files/original/ouc/ouc_bank_of_cyprus_cultural_foundation/006_018_066385_01.jpg" title="Ktisis; création personnifiée; sol en mosaïque de la salle centrale des bains de la maison d'Eustolios" /> 
 
 Source: [Byzantine Art and Archaeology](https://cmc.byzart.eu/items/show/66385/).
