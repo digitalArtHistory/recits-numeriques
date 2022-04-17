@@ -19,6 +19,7 @@ Ces considérations et thématiques évoquées invitent à un approfondissement,
 Source:[Balty 1991](https://www.persee.fr/doc/remmm_0997-1327_1991_num_62_1_1519).
 Source:[Demus 1955](https://www.fulcrum.org/concern/monographs/7m01bm002/authentication?locale=en#/6/14%5Bxhtml00000007%5D!/4/4/1:0). 
 Source:[Evans 2001](https://www.metmuseum.org/art/metpublications/The_Arts_of_Byzantium_The_Metropolitan_Museum_of_Art_Bulletin_v_58_no_4_Spring_2001).
+Source:[Kalavrezou 2003](https://fr.scribd.com/document/458018772/BYZANTINE-WOMEN-AND-THEIR-WORLD-OCR-pdf).
 Source:[Sansterre 1999](https://books.openedition.org/irhis/1642?lang=fr).
 Source:[Wixom 1999](https://www.metmuseum.org/art/metpublications/Mirror_of_the_Medieval_World). 
 
