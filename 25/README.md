@@ -7,7 +7,7 @@
 
 # La déesse Ktisis dans la mosaïque byzantine médiévale
 
-Cette brève collection de cinq images a pour but de retracer l'iconographie de la déesse Ktisis à travers ses représentations dans la mosaïque byzantine médiévale. Par conséquent, les cinq images réunies proviennent de fragments de mosaïque de culture byzantine datant du 5ième et 6ième siècle et figurant la déesse Ktisis. 
+Cette brève collection de cinq images a pour but de retracer l'iconographie de la déesse Ktisis à travers ses représentations dans la mosaïque byzantine médiévale. Par conséquent, les cinq images réunies proviennent de fragments de mosaïque de culture byzantine datant du 5ième et 6ième siècle et figurant la déesse Ktisis. La déesse Ktisis est reconnue comme une figure personnifiant l'acte de donation, la générosité et la fondation ou encore parfois déesse de l'agriculture.  
 
 L'intérêt de ce sujet dans le cadre du cours sur le monde médiéval réside dans la multitude d'éléments et de paramètres entourant la composition et la production de ces objets pouvant être analysés en lien avec la culture artistique médiévale. Plus précisément, les fragments rassemblés permettent d'explorer la tradition picturale et iconographique liée à la représentation de Ktisis à l'époque médiévale, en plus d'analyser la tradiction plus large de la mosaïque en tant que médium dans l'art byzantin. De plus, l'attrait personnel vers ce sujet provient de l'opportunité, avec ces images, de survoler ou de questionner certains enjeux ou problèmes liés à la représentation des femmes dans l'art médiéval ou l'art byzantin. 
 
@@ -16,10 +16,11 @@ Le rassemblement de ces fragments de mosaïque permet d'observer quelques exempl
 Ces considérations et thématiques évoquées invitent à un approfondissement, d'où l'intérêt d'ajouter à cette introduction une bibliographie complémentaire. Ainsi, les textes suggérés et regroupés ci-dessous permettent de poursuivre et de creuser les enjeux et thématiques soulevés. 
 
 ## Bibliographie complémentaire 
-source et lien
-source et lien 
-source et lien 
-source et lien 
+Source:[Balty 1991](https://www.persee.fr/doc/remmm_0997-1327_1991_num_62_1_1519).
+Source:[Demus 1955](https://www.fulcrum.org/concern/monographs/7m01bm002/authentication?locale=en#/6/14%5Bxhtml00000007%5D!/4/4/1:0). 
+Source:[Evans 2001](https://www.metmuseum.org/art/metpublications/The_Arts_of_Byzantium_The_Metropolitan_Museum_of_Art_Bulletin_v_58_no_4_Spring_2001).
+Source:[Sansterre 1999](https://books.openedition.org/irhis/1642?lang=fr).
+Source:[Wixom 1999](https://www.metmuseum.org/art/metpublications/Mirror_of_the_Medieval_World). 
 
 # Fragments de mosaïque rassemblés
 
