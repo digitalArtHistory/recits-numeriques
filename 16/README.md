@@ -20,6 +20,8 @@ Autre œuvre probablement commandée par un riche amateur dont le nom reste inco
 <param ve-graphic
  url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/442761/1323327/main-image" />
 
+Nicolas Milovanovic, conservateur en chef du département de peinture au Louvre, professeur et auteur de plusieurs ouvrages sur le roi-soleil, explique l’importance du tableau intitulé La Famille Darius ainsi que le lien que l'œuvre avait avec le roi Louis XIV. Le roi aurait consacré unpeu de son temps presque chaque jour afin de voir Le Brun peindre ce tableau. Louis xiv aurait aussi eu une grande influence dans la composition de l'œuvre, ce qui n’est pas étonnant puisque le tableau était peint pour lui. Une fois fini, le tableau fut très apprécié par le public de l’époque et par sa majesté le roi. Malheureusement, cela n’a pas empêché qu’il n'ait pas été conservé de manière adéquate à travers le temps. Cet article montre à quel point ce tableau fut un moment tournant dans la carrière de Le Brun, et ça de façon très positive. Voici le lien vers l'article en question: [lien](https://www.persee.fr/doc/versa_1285-8412_2005_num_8_1_1123) 
+
 **TRAVAIL DE LE BRUN EN TANT QUE PREMIER PEINTRE**
 
 Le travail que lui avait confier louis XIV consistait à garder sa grande collection, qui donnaient au roi un grand prestige et qui servaient aussi d’ornementer le palais de Versailles. Le Brun reçut une généreuse récompense monétaire pour ce rôle, en plus des milliers de francs de plus verser en tant que premier peintre.
