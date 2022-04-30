@@ -7,8 +7,8 @@
        
 # Charles LeBrun
 
-<span ve-entity title="Black Lives Matter Movement" eid="Q271676">Charles LeBrun</span> est sans doute...
-voici un lien vers la page Wikipédia de l'artiste: [lien](https://fr.wikipedia.org/wiki/Charles_Le_Brun)
+<span ve-entity title="Black Lives Matter Movement" eid="Q271676">Charles LeBrun</span> est sans doute l'un des peintres les plus importants de l'histoire. Il est notamment connu pour avoir été le peintre officiel de Louis XIV. En effet, il fut l'un des créateurs de l'aadémie des beaux-arts qui à former plusieurs artistes très connu. Il est aussi connu pour avoir mise en place la hiérarchie entres les différents genres artistiques (par exemple ,la peinture d'histoire était la plus préstigieuse) ainsi que les caractéristiques d'art académiques. 
+Voici un lien vers un article de l'artiste: [lien](https://www.cairn.info/les-theoriciens-de-l-art--9782130789871-page-396.htm)
 
 Autre œuvre probablement commandée par un riche amateur dont le nom reste inconnu, Le Sacrifice de Polyxène (1647, New-York, The Metropolitan Museum of Art)145 illustre les connaissances historiques du peintre, qui intègre au fond de la scène une représentation du tombeau d'Achille, sous la forme d'un imposant sarcophage romain à strigiles et masques corniers.
 <param ve-graphic
