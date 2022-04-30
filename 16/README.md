@@ -14,13 +14,17 @@ Voici un lien vers un article de l'artiste: [lien](https://www.cairn.info/les-th
 
 Il eut une étroite relation entre Le Brun avec Poussin,qui était reconnu comme peintre philosophique (il fallait beaucoup de connaissances pour bien déchiffrer ses œuvres). Le Brun venait même à imiter sa technique au point que certains confondaient les tableaux du maître et de l’élève (comme avec la Horatius coclès et avec Le jeune Pyrrhus sauvé). 
 
-Voici quelques uns de ses oeuvres: 
+*Voici quelques uns de ses oeuvres:* 
 
 Autre œuvre probablement commandée par un riche amateur dont le nom reste inconnu, Le Sacrifice de Polyxène (1647, New-York, The Metropolitan Museum of Art)145 illustre les connaissances historiques du peintre, qui intègre au fond de la scène une représentation du tombeau d'Achille, sous la forme d'un imposant sarcophage romain à strigiles et masques corniers.
 <param ve-graphic
  url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/442761/1323327/main-image" />
 
 Nicolas Milovanovic, conservateur en chef du département de peinture au Louvre, professeur et auteur de plusieurs ouvrages sur le roi-soleil, explique l’importance du tableau intitulé La Famille Darius ainsi que le lien que l'œuvre avait avec le roi Louis XIV. Le roi aurait consacré unpeu de son temps presque chaque jour afin de voir Le Brun peindre ce tableau. Louis xiv aurait aussi eu une grande influence dans la composition de l'œuvre, ce qui n’est pas étonnant puisque le tableau était peint pour lui. Une fois fini, le tableau fut très apprécié par le public de l’époque et par sa majesté le roi. Malheureusement, cela n’a pas empêché qu’il n'ait pas été conservé de manière adéquate à travers le temps. Cet article montre à quel point ce tableau fut un moment tournant dans la carrière de Le Brun, et ça de façon très positive. Voici le lien vers l'article en question: [lien](https://www.persee.fr/doc/versa_1285-8412_2005_num_8_1_1123) 
+Voici un croquis de l'oeuvre, conservé par le musée du Louvre:
+<param ve-graphic
+ url="![image](https://user-images.githubusercontent.com/98130049/166121736-5519c890-ef81-45f9-ad8d-3f66ad88fa73.png)" />
+
 
 **TRAVAIL DE LE BRUN EN TANT QUE PREMIER PEINTRE**
 
@@ -35,7 +39,7 @@ Il faisait aussi de grande collection d’exquis qui étaient principalement foc
 <param ve-image
  manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b531282192/manifest.json" />
  
-Le tome II de ce même catalogue, offre des dessins plus axés sur le visage tout en abordant la théorie de l’expression des passions de Le Brun. Le catalogue montre une séries d’images de visage fait à la plume, à la pierre noir et à l’encre brune ayant des expressions faciales très distinctes les unes des autres: montrant ainsi sa théorie sur papier. Il y a aussi des visages dessinés à partir d’animaux, des dessins de textures de draps et de vêtements  ou encore des bâtiments. 
+Voici une vidéo offrant des dessins plus axés sur le visage. Le catalogue des croquis de Le Brun montre une séries d’images de visage fait à la plume, à la pierre noir et à l’encre brune ayant des expressions faciales très distinctes les unes des autres: montrant ainsi sa théorie sur papier. Il y a aussi des visages dessinés à partir d’animaux, des dessins de textures de draps et de vêtements  ou encore des bâtiments. 
 <param ve-video id="kXPblRgwG5Y" title="Charles Le Brun (1619-1690) , First Painter to the King Louis XIV" start="53" />
 
 
