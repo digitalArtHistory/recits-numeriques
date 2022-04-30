@@ -7,15 +7,29 @@
        
 # Charles LeBrun
 
-<span ve-entity title="Black Lives Matter Movement" eid="Q271676">Charles LeBrun</span> est sans doute l'un des peintres les plus importants de l'histoire. Il est notamment connu pour avoir été le peintre officiel de Louis XIV. En effet, il fut l'un des créateurs de l'aadémie des beaux-arts qui à former plusieurs artistes très connu. Il est aussi connu pour avoir mise en place la hiérarchie entres les différents genres artistiques (par exemple ,la peinture d'histoire était la plus préstigieuse) ainsi que les caractéristiques d'art académiques. 
+<span ve-entity title="Black Lives Matter Movement" eid="Q271676">Charles LeBrun</span> est sans doute l'un des peintres les plus importants de l'histoire. Il est notamment connu pour avoir été le peintre officiel de Louis XIV. Avec l'appuie de la royauté,il fût l'un des créateurs de l'Acaémie des beaux-arts qui à formé plusieurs artistes très connu. Il est aussi connu pour avoir mise en place la hiérarchie entres les différents genres artistiques (par exemple ,la peinture d'histoire était la plus préstigieuse) ainsi que les caractéristiques d'art académique. 
 Voici un lien vers un article de l'artiste: [lien](https://www.cairn.info/les-theoriciens-de-l-art--9782130789871-page-396.htm)
+
+**LE BRUN ET POUSSIN**
+
+Il eut une étroite relation entre Le Brun avec Poussin,qui était reconnu comme peintre philosophique (il fallait beaucoup de connaissances pour bien déchiffrer ses œuvres). Le Brun venait même à imiter sa technique au point que certains confondaient les tableaux du maître et de l’élève (comme avec la Horatius coclès et avec Le jeune Pyrrhus sauvé). 
+
+Voici quelques uns de ses oeuvres: 
 
 Autre œuvre probablement commandée par un riche amateur dont le nom reste inconnu, Le Sacrifice de Polyxène (1647, New-York, The Metropolitan Museum of Art)145 illustre les connaissances historiques du peintre, qui intègre au fond de la scène une représentation du tombeau d'Achille, sous la forme d'un imposant sarcophage romain à strigiles et masques corniers.
 <param ve-graphic
  url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/442761/1323327/main-image" />
 
+**TRAVAIL DE LE BRUN EN TANT QUE PREMIER PEINTRE**
+
 Le travail que lui avait confier louis XIV consistait à garder sa grande collection, qui donnaient au roi un grand prestige et qui servaient aussi d’ornementer le palais de Versailles. Le Brun reçut une généreuse récompense monétaire pour ce rôle, en plus des milliers de francs de plus verser en tant que premier peintre.
-La préface présente la façon dont Le Brun commençait ces dessins et comment il prenait soin d’analyser chaque personnage qu’il dessinait avec une grande munition. Quant à l’introduction; elle présente sa technique, son style, ce qu’il utilisait pour dessiner (comme avec l’utilisation de la pierre noir, de la sanguine,etc. ). Cette grande collection d’exquis est principalement focalisée sur le corps humain et celui animal, sans oublier les quelques dessins de bâtiments et de décor rappelant ainsi sont rôle de décorateur. 
+
+**LES DESSEINS DE LE BRUN**
+
+Dans ces croquis, l'artiste prenait soin d’analyser chaque personnage qu’il dessinait avec une grande munition. Il se servait de plume, de pierre noir et d’encre brune.  Il se servait de la théorie de l’expression pour dessiner les visages.
+Théorie de l’expression selon Le Brun: le visage est la porte de toutes les expressions , car c’est par lui que passe nos émotions. Les sourcils sont les éléments les plus importants de cette théorie , car ils sont les plus expressifs, ce que l’on peut voir dans plusieurs de ses exquises. L’article explique en détails comment Le Brun dessine les expressions, tel que le désir, la joie, la vénération, la haine, la tristesse, etc. Ceci aide beaucoup à la compréhension des œuvres de Le Brun, puisque c’est en connaissant bien chaque expression que l’on peut mieux déchiffrer les sentiments de l’Homme dans ses œuvres. 
+
+Il faisait aussi de grande collection d’exquis qui étaient principalement focalisée sur le corps humain et celui animal, sans oublier les quelques dessins de bâtiments et de décor rappelant ainsi sont rôle de décorateur. 
 <param ve-image
  manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b531282192/manifest.json" />
  
@@ -26,4 +40,4 @@ Le tome II de ce même catalogue, offre des dessins plus axés sur le visage tou
 <param ve-iframe 
     src="https://youtu.be/kXPblRgwG5Y?t=3" />
     
-fini
+
